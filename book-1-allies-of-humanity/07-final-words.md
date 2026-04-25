@@ -1,7 +1,21 @@
+---
+book: 1
+chapter: "07"
+title: "Final Words"
+type: final-words
+key_concepts:
+  - "Allies of Humanity"
+  - "Unseen Ones"
+  - "Greater Community"
+  - "Sacred Covenant"
+  - "Trust"
+---
+
+
 # Final Words
 
-Humanity is at a new beginning. It is faced with a grave situation. The need for a new education and understanding is paramount. We are here to serve this need at the request of the Unseen Ones. They are relying upon us to share our wisdom, for we live in the physical universe, as do you. We are not angelic beings. We are not perfect. We have not achieved great heights of spiritual awareness and accomplishment. And therefore our message to you about the Greater Community, we trust, will be more relevant and more easily received. The Unseen Ones know far more than we about life in the universe and about the levels of advancement and accomplishment that are available and that are practiced in many places. Yet they have asked us to speak regarding the reality of physical life because we are fully engaged there. And we have learned through our own trials and errors the importance and the meaning of what we are sharing with you.
+<a id="p1"></a>Humanity is at a new beginning. It is faced with a grave situation. The need for a new education and understanding is paramount. We are here to serve this need at the request of the Unseen Ones. They are relying upon us to share our wisdom, for we live in the physical universe, as do you. We are not angelic beings. We are not perfect. We have not achieved great heights of spiritual awareness and accomplishment. And therefore our message to you about the Greater Community, we trust, will be more relevant and more easily received. The Unseen Ones know far more than we about life in the universe and about the levels of advancement and accomplishment that are available and that are practiced in many places. Yet they have asked us to speak regarding the reality of physical life because we are fully engaged there. And we have learned through our own trials and errors the importance and the meaning of what we are sharing with you.
 
-Thus, we come as the Allies of Humanity, for such we are. Be thankful that you have allies that can help you and that can educate you and that can support your strength, your freedom and your accomplishment. For without this assistance, the prospect of your surviving the kind of alien infiltration that you are experiencing now would be very limited. Yes, there would be a few individuals who would come to realize the situation as it actually exists, but their numbers would not be great enough, and their voices would go unheard.
+<a id="p2"></a>Thus, we come as the Allies of Humanity, for such we are. Be thankful that you have allies that can help you and that can educate you and that can support your strength, your freedom and your accomplishment. For without this assistance, the prospect of your surviving the kind of alien infiltration that you are experiencing now would be very limited. Yes, there would be a few individuals who would come to realize the situation as it actually exists, but their numbers would not be great enough, and their voices would go unheard.
 
-In this, we can only ask for your trust. We hope that through the wisdom of our words and through the opportunities you have to learn their meaning and relevance, that we can gain this trust over time, for you have allies in the Greater Community. You have great friends beyond this world who have suffered the challenges that you are facing now and have achieved success. Because we were assisted, we must now assist others. That is our sacred covenant. It is to this that we are firmly committed.
+<a id="p3"></a>In this, we can only ask for your trust. We hope that through the wisdom of our words and through the opportunities you have to learn their meaning and relevance, that we can gain this trust over time, for you have allies in the Greater Community. You have great friends beyond this world who have suffered the challenges that you are facing now and have achieved success. Because we were assisted, we must now assist others. That is our sacred covenant. It is to this that we are firmly committed.
