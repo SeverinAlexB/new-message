@@ -32,7 +32,7 @@ key_concepts:
 
 <a id="p7"></a>A free nation will support individual creativity and contribution. A nation that is not free will direct each person according to the design that has been given to them. A free nation will support the discovery and the experience of Knowledge. A nation that is not free will never mention it, if it is aware of it at all.
 
-<a id="p8"></a>A free nation will seek to remain isolated in the universe and to support its selfsufficiency. A nation that is not free will seek whatever wealth and power it can gain from others and thus become intertwined with the intentions and the compromises wrought with other nations.
+<a id="p8"></a>A free nation will seek to remain isolated in the universe and to support its self-sufficiency. A nation that is not free will seek whatever wealth and power it can gain from others and thus become intertwined with the intentions and the compromises wrought with other nations.
 
 <a id="p9"></a>A free nation will not attempt to gain access to other worlds to exploit their resources and to gain control over their inhabitants. A nation that is not free will do this within the boundaries of what is allowed within their region of space.
 

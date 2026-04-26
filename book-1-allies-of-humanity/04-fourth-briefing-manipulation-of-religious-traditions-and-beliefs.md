@@ -56,7 +56,7 @@ key_concepts:
 
 <a id="p19"></a>Emissaries are sent to help those who are emerging into the Greater Community, emissaries such as ourselves. And there are spiritual emissaries as well—the power of the Unseen Ones, who can speak to those who are ready to receive and who show good heart and good promise. This is how God works in the universe.
 
-<a id="p20"></a>You are entering a difficult new environment. Your world is very valuable to others. You will need to protect it. You will need to preserve your resources so that you do not require or depend upon trade with other nations for the fundamental necessities of your life. If you do not preserve your resources, you will have to relinquish much of your freedom and selfsufficiency.
+<a id="p20"></a>You are entering a difficult new environment. Your world is very valuable to others. You will need to protect it. You will need to preserve your resources so that you do not require or depend upon trade with other nations for the fundamental necessities of your life. If you do not preserve your resources, you will have to relinquish much of your freedom and self-sufficiency.
 
 <a id="p21"></a>Your spirituality must be sound. It must be based upon real experience, for values and beliefs, rituals and traditions can be used and are being used by your visitors for their own purpose.
 

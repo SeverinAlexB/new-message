@@ -17,9 +17,9 @@ key_concepts:
 
 # Front Matter (Introduction, Who are the Allies of Humanity?)
 
-<a id="p1"></a>Introduction mysterious off-planet source whose stated purpose is to orient the human family to the realities of life in our local universe and to alert us to a dangerous Intervention now occurring here on Earth.
+<a id="p1"></a>The Allies of Humanity Book Three presents the third set of “Briefings” from a mysterious off-planet source whose stated purpose is to orient the human family to the realities of life in our local universe and to alert us to a dangerous Intervention now occurring here on Earth.
 
-<a id="p2"></a>represent the “free races” in our local region of space. The Allies distinguish themselves from those races who are intervening in the world today. They warn us against the presence of this Intervention, insisting that no foreign race should be visiting our world, either now or in the future, until humanity has gained the strength, unity and maturity necessary to engage successfully with a Greater Community of intelligent life in the universe.
+<a id="p2"></a>The Allies of Humanity Briefings are a genuine communication from a group claiming to represent the “free races” in our local region of space. The Allies distinguish themselves from those races who are intervening in the world today. They warn us against the presence of this Intervention, insisting that no foreign race should be visiting our world, either now or in the future, until humanity has gained the strength, unity and maturity necessary to engage successfully with a Greater Community of intelligent life in the universe.
 
 <a id="p3"></a>Whether humanity can ever attain this is uncertain, yet the Allies tell us that intervention in our world has already begun by several non-military races seeking to establish their influence and dominance in our world through deceptive and persuasive means. The Briefings reveal that we are in the unfortunate position of being the race who is being discovered. History has taught us the danger and the tragedy that native peoples faced when they encountered outside forces for the first time. Now we are all the natives of a new world, and the threat of Intervention is upon us. As a result, the Allies are calling for us to build enough human unity amongst the tribes, nations and religions of Earth so that we may protect our freedom in a non-human universe.
 
@@ -51,15 +51,15 @@ key_concepts:
 
 <a id="p17"></a>The free nations in this part of the universe seek to promote freedom wherever they can. They view your world as showing great promise because spirituality and religion have not been destroyed or forgotten here. They see that the power of Knowledge, the greater spiritual power, is still alive in individuals, despite humanity’s grave mistakes and foolish activities.
 
-<a id="p18"></a>prepare humanity for its engagement with the Greater Community. These Briefings present information that no one on Earth could create or know for themselves. They give a perspective that humanity does not presently have regarding the prospects for Contact and the consequences of Contact.
+<a id="p18"></a>The Allies of Humanity have sent a series of Briefings into the world to advise and to prepare humanity for its engagement with the Greater Community. These Briefings present information that no one on Earth could create or know for themselves. They give a perspective that humanity does not presently have regarding the prospects for Contact and the consequences of Contact.
 
-<a id="p19"></a>The Briefings correct many of humanity’s false assumptions and uninformed beliefs— assumptions and beliefs that make you vulnerable to foreign manipulation and persuasion. The Briefings themselves encourage humanity’s independence in the universe and the importance of not allowing foreign nations to establish their interests here and foster dependence upon their foreign technology.
+<a id="p19"></a>The Briefings correct many of humanity’s false assumptions and uninformed beliefs—assumptions and beliefs that make you vulnerable to foreign manipulation and persuasion. The Briefings themselves encourage humanity’s independence in the universe and the importance of not allowing foreign nations to establish their interests here and foster dependence upon their foreign technology.
 
 <a id="p20"></a>This is a great service to an unwary and unsuspecting humanity, who believes the universe is either a great empty place awaiting exploration or that it is filled with benign and ethical races of beings who would be eager to assist humanity in its quest for technological solutions and greater power.
 
 <a id="p21"></a>This naïve and foolish perspective, of course, means that you are uninformed and uneducated about the realities of life beyond your borders. You still think that technology can overcome the power of nature. The Allies of Humanity Briefings, along with God’s New Revelation for humanity—the New Message for humanity—will give you a much clearer and more correct understanding. You need this if you are to proceed with wisdom, caution and discernment.
 
-<a id="p22"></a>After the publication of the first set of Briefings from the Allies of Humanity, the Allies’ position in this solar system was discovered, and they were forced to flee. Now they have to report from a hidden location far beyond your solar system. In the third set of the Allies of Humanity Briefings, they speak about the realities of life—trade and commerce, interactions—that exist in your neighborhood of space and the requirements for freedom that humanity will have to foster and support if it is to remain self-sufficient and selfdetermined within a Greater Community of life.
+<a id="p22"></a>After the publication of the first set of Briefings from the Allies of Humanity, the Allies’ position in this solar system was discovered, and they were forced to flee. Now they have to report from a hidden location far beyond your solar system. In the third set of the Allies of Humanity Briefings, they speak about the realities of life—trade and commerce, interactions—that exist in your neighborhood of space and the requirements for freedom that humanity will have to foster and support if it is to remain self-sufficient and self-determined within a Greater Community of life.
 
 <a id="p23"></a>It is important for you to understand that the Creator of all life, through the Angelic Presence, has called upon these free races to provide this assistance to humanity. They are here guided by a Divine mission, the expedition itself. The governments of the free nations will claim no knowledge of this expedition, for they have very little knowledge of it. This is being guided by a greater force and set of powers in the universe—spiritual powers serving the Creator of all life, seeking to support freedom wherever it can be established.
 
@@ -93,7 +93,7 @@ key_concepts:
 
 <a id="p38"></a>This is a dangerous time for humanity, for you are vulnerable to persuasion and manipulation and deception, knowing little or nothing about the realities of life in the universe or how your freedom must be sustained and defended as you emerge into this larger arena of life.
 
-<a id="p39"></a>humanity is not ready for Contact. Humanity does not have the maturity, the unity or the discernment yet to tell friend from foe and to understand the complexities of life where thousands of races are interacting with each other.
+<a id="p39"></a>The Allies of Humanity seek no relations with humanity because they recognize that humanity is not ready for Contact. Humanity does not have the maturity, the unity or the discernment yet to tell friend from foe and to understand the complexities of life where thousands of races are interacting with each other.
 
 <a id="p40"></a>If you think of this for a moment and imagine how difficult it is to establish agreements or negotiations with races that think differently, look different and have different concepts, different histories, different priorities, it would make your human negotiations seem simple and obvious in comparison.
 
@@ -125,7 +125,7 @@ key_concepts:
 
 <a id="p54"></a>Let this be your understanding.
 
-<a id="p55"></a>To read more of the New Message Teachings visit http://www.newmessage.org …Over twenty years ago, a group of individuals from several different worlds gathered at a discreet location in our solar system near the Earth for the purpose of observing the alien Intervention that is occurring in our world. From their hidden vantage point, they were able to determine the identity, organization and intentions of those visiting our world and monitor the visitors’ activities.
+<a id="p55"></a>To read more of the New Message Teachings visit http://www.newmessage.org. Over twenty years ago, a group of individuals from several different worlds gathered at a discreet location in our solar system near the Earth for the purpose of observing the alien Intervention that is occurring in our world. From their hidden vantage point, they were able to determine the identity, organization and intentions of those visiting our world and monitor the visitors’ activities.
 
 <a id="p56"></a>This group of observers call themselves the Allies of Humanity.
 

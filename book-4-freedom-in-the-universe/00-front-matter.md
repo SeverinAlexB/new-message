@@ -20,7 +20,7 @@ key_concepts:
 
 <a id="p1"></a>It is a great pleasure for me to present to you the fourth set of Briefings from the Allies of Humanity. These Briefings are part of a greater communication from those races in our local universe who support humanity’s freedom and sovereignty as it emerges into a “Greater Community” of life. This is an authentic message from an extraterrestrial source, warning us of the dangers of Intervention from beyond and urging us to prepare for the challenges of life in the universe.
 
-<a id="p2"></a>eral different worlds who came to the vicinity of the Earth to observe the alien Intervention that is occurring in our world and to report on the activities of this Intervention and its implications for the human race.
+<a id="p2"></a>The Allies of Humanity are a group of individuals from several different worlds who came to the vicinity of the Earth to observe the alien Intervention that is occurring in our world and to report on the activities of this Intervention and its implications for the human race.
 
 <a id="p3"></a>Through their Briefings, the Allies are revealing the reality of Contact occurring in the world today—who the visitors are, why they are here and the larger agenda behind their activities. In doing so, the Briefings fill in many of the critical gaps in our understanding of the reality of extraterrestrial visitation and the UFO phenomenon, which have been the focus of research and inquiry for over seven decades.
 
@@ -56,7 +56,7 @@ key_concepts:
 
 <a id="p19"></a>Our need is pressing and it is now. There are things we must know about life in the universe around us and about the nature and purpose of those intervening in our world today, which the Allies of Humanity are revealing to us.
 
-<a id="p20"></a>tervention through education, through awareness building, and through a growing human alliance and the empowerment of those who are seeing the Intervention’s activities and who are being affected by them.
+<a id="p20"></a>We must offset the Intervention through education, through awareness building, and through a growing human alliance and the empowerment of those who are seeing the Intervention’s activities and who are being affected by them.
 
 <a id="p21"></a>To do this, the Allies emphasize that we must rely upon the power of our innate spiritual Intelligence within, which is called “Knowledge.” This greater Intelligence is humanity’s inherent ability to see and to know the truth beyond fear and preference, to see and know the Intervention for what it really is. To enable us to gain access to this Knowledge, a preparation has been given to us from the Creator of all life called the Steps to Knowledge. This is the pathway of discovering Knowledge and building your connection to it in the context of the Greater Community.
 
