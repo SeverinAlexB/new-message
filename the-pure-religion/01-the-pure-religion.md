@@ -1,0 +1,138 @@
+---
+volume: 1
+book: "The Pure Religion"
+chapter: "01"
+title: "The Pure Religion"
+type: chapter
+source_url: "https://www.newmessage.org/the-message/volume-1/pure-religion/the-pure-religion/"
+---
+
+# The Pure Religion
+
+<a id="p1"></a>- Listen
+- Info
+- Watch
+
+<a id="p2"></a>Hear the original spoken revelation:
+
+<a id="p3"></a>[Download](https://www.newmessage.org/av/the-pure-religion.mp3) (Right-click to download)
+
+<a id="p4"></a>As received
+
+<a id="p5"></a>on March 23, 2013
+
+<a id="p6"></a>in Boulder, Colorado
+
+<a id="p7"></a>It is a great misfortune that people have been so discouraged by the state of religion and the history of religion in this world—all of the violence that it has produced, corruption, misunderstanding and confusion. It is a demonstration of what people do with God’s Revelations when they are not guided by the power of Knowledge within themselves. Here religion becomes a tool of the state, a resource for ambitious people, another distinction that one tribe will use to overwhelm or overcome another.
+
+<a id="p8"></a>Of course, this has driven people away and has traumatized people, even in current times, to the point where God’s New Revelation must be given in a pure form, notwithstanding the great value, depth and wisdom of God’s earlier Revelations and their importance in building human civilization in the world.
+
+<a id="p9"></a>But God must speak again, for the Message must be clarified. The purpose of religion must be clarified. And the meaning and purpose of your life must be elevated and clarified. Otherwise, religion becomes a great problem in the world, whereas it was meant to be a great solution at the outset.
+
+<a id="p10"></a>If you look at this without condemnation, you will see the great need for Knowledge [the deeper spiritual Mind] within yourself. For without Knowledge, you will misuse everything. You will misuse nature; you will misuse your mind; you will misuse your body because you are operating from a position of confusion. Uncertain who you are, why you are here and what you are doing, you will be governed by foreign powers and outside influences. Such is the tragedy of living in [Separation](https://www.newmessage.org/the-message/volume-1/one-god/the-separation) [from your Source], a tragedy that exists throughout the universe.
+
+<a id="p11"></a>So a great clarification must be given for religion and every aspect of religion—a great clarification about God; a great clarification about redemption and what that means and how it is achieved; a great clarification that unites all the world’s religions, for they have a common Source.
+
+<a id="p12"></a>What is religion? Why is it necessary? Why is it impossible to extinguish it from the human heart and mind completely? Religion represents the expression of your deeper nature and the need of your deeper nature to have this expression in life, to give voice and form to this, which is so essential and elemental to who you are, where you have come from and what you will be returning to when you leave this world. It is fundamental to your deeper nature and to everything you really are—everything that can be seen and not seen, both the manifestation and the mystery of your life.
+
+<a id="p13"></a>Religion is not an ideology. Religion is not a building or an organization or a hierarchy of organizations. In essence, it is the movement of God within you and between you and others functioning in the world. For God serves the world, working through people from the inside out.
+
+<a id="p14"></a>God does not manage the weather or the geological forces of Earth. God has set all that in motion at the beginning of time. It is all operating on its own. Your challenge is to adapt to it and to utilize it meaningfully and beneficially, for yourself and for others. This, of course, would be impossible if Knowledge had not been given to you—the great endowment to guide you, protect you and prepare you for a greater life.
+
+<a id="p15"></a>The fact that Knowledge has been forgotten, or is unknown in this world to such a large extent, creates the dilemma for religion because without Knowledge, religion becomes rules and prescriptions, admonitions, and invariably turns into a form of great oppression for the people. Given at the outset perhaps to help them organize their thinking and their lives, it becomes a yoke to harness them, and the spiritual light goes out of their lives.
+
+<a id="p16"></a>This is not God’s intention. God’s intention is that people will discover the great endowment of Knowledge that the Lord of the universe, the Lord of countless religions and races in the universe, has bestowed upon this world. But when Knowledge is lost, fear and imagination take over. Confusion reigns. People are corralled to work and to live in servitude. Such has been the case throughout the history of the human family.
+
+<a id="p17"></a>So God has given now a pure Message and has provided the [Steps to Knowledge](https://www.newmessage.org/stk) as its foundation so this will not be merely another belief to compete with existing beliefs, another ideology that must be defended and debated and used to overwhelm or oppress others.
+
+<a id="p18"></a>For God has given the Steps to Knowledge not to one race or tribe or group, not to one region alone, but to all the peoples of the world, to be used in all the faith traditions of the world, to be recognized as the key Message of God to God’s Creation living in Separation in the physical reality.
+
+<a id="p19"></a>So what is religion as an institution or a body of teachings? In essence, its purpose is to create an environment and an encouragement for people to experience the Presence, the Power and the Grace of God within themselves, their lives, within each other and within the world.
+
+<a id="p20"></a>What does this mean? This means that the purpose of religion is to bring people to the great endowment, to the endowment of Knowledge, for this is how God will guide you and move you and restrain you—carrying you forward, holding you back, a greater force beyond words or expression. Beyond the realm and the reach of the intellect it is.
+
+<a id="p21"></a>This is the pure religion. It has been the religion of the saints, the great creators and humanitarians. Moved by a greater power and force in their lives, beyond the ordinary things that determine people’s lives and experiences, they have been moved by a greater force, like a spiritual gravity, moving them to do extraordinary things for the benefit of others, beyond mere kindness and doing favors or service for people, by setting an example and encouraging and igniting the power of Knowledge in others.
+
+<a id="p22"></a>You can forget the name of famous generals and leaders of nations, famous politicians, famous artists even, but the names of the great saints will prevail because their contribution has been the greatest and the most lasting and profound. They serve even today, their great gifts resonating continually through the human heart and mind, reminding people that who they are is greater than their minds and their bodies, reminding people that they are part of a Greater Reality, beyond what their senses can report.
+
+<a id="p23"></a>This is the pure religion at work, you see, because God redeems you through the power and presence of Knowledge working in your life. To the degree to which you can recognize it, yield to it and follow it intelligently, this is how God will redeem you.
+
+<a id="p24"></a>For Knowledge is not bound by your culture or your beliefs. Knowledge is not bound by tradition. It moves beyond these things. In this way, people can do things that are extraordinary and mysterious, creating value and benefit that is beyond human understanding. They become a demonstration of the great endowment.
+
+<a id="p25"></a>Ritual and ideology are valuable, however, in setting a precedent or a pathway. People need this to get started and to use it to help them balance their lives, to give them structure and orientation. It is like preparing to fly, preparing to fly the aircraft. You have to study first. You have to become oriented first. You have to learn about the physics, the environment, the winds and aviation before you can take the helm of the aircraft. This is what ritual and ideology are for, to orient you, to prepare you for flight.
+
+<a id="p26"></a>But the experience of flying is a different matter. Here you step beyond the boundaries of intellectual understanding and enter into the Mystery—the Mystery that is pure and uncontaminated by the world, the Mystery that is not governed by magic or romance and the search for power. This is the pure Mystery. This is the pure religion because here you are engaging with God directly in ways that are essential and elemental to you.
+
+<a id="p27"></a>You cannot use this power for yourself. It is not there for you to govern or to direct. Indeed, it is there to govern you and to direct you. But it requires your intelligence. It requires your self-awareness. It requires responsibility and restraint and true compassion for others, or it will not emerge.
+
+<a id="p28"></a>That is why the ambitious are never chosen. That is why the great Messengers throughout time have been reluctant, accepting reluctantly the great task set before them. While everyone else might want to use religion for power or benefit, the true Messengers are reluctant. They are honest. They are simple. They are prepared for great service.
+
+<a id="p29"></a>Beyond ideology and belief and arguing about these things, and the constant and endless debate over these things in the attempt to understand with your mind something that exists beyond the mind’s realm and reach, you must enter the pure religion. Whether you are a Christian, a Buddhist, a Jew, a Muslim or of any other tradition, or of no tradition at all, the pathway to God is open to you.
+
+<a id="p30"></a>God has spoken again now to give a clear pathway, to give clarity to people of all faiths and nations and to illustrate the central importance of the great endowment, the endowment of Knowledge. For you cannot come to God based upon belief alone. You cannot truly improve your life or the lives of others on belief alone, for not everyone will share these beliefs.
+
+<a id="p31"></a>God knows that not all people will follow one teaching or adhere to one teacher, no matter how great they are. God knows this, but people are confused.
+
+<a id="p32"></a>This is the antidote to all of the misuse of religion in the world. This is the antidote to human greed, confusion and oppression carried out in the name of religion. Here God is desecrated. God’s Will and Purpose are maligned. Here everything that is sacred and profound becomes lost and degraded.
+
+<a id="p33"></a>You who seek to know your greater purpose in life and the meaning for your being here must have a new experience of the Divine if you are suffering under these results and consequences.
+
+<a id="p34"></a>That is why God has spoken again, not to replace the world’s religions, but to elevate them and to prepare them for the great change that is coming to the world, and for humanity’s encounter with a universe of intelligent life. For none of God’s previous Revelations can do this, you see. It is part of a Greater Plan that will always be far beyond human understanding and comprehension.
+
+<a id="p35"></a>This is the Mystery. God lives in the Mystery. People live in the manifestation. They try to make the Mystery a manifestation. But the Mystery is always the Mystery.
+
+<a id="p36"></a>You must have strength and courage, then, to go beyond the manifestations of religion. You must be very honest. Your motives must be clear, or you will not be able to proceed. The pure religion requires a clarity and a purity of intention if you are to enter there.
+
+<a id="p37"></a>Do not demean religious traditions and ceremonies and teachings and practices, for they are for people at the outset. Though they may be misused and misunderstood, they are providing structure at the outset, which can be very helpful for many people. But unfortunately these things become religion itself.
+
+<a id="p38"></a>People teach that if you do not believe according to a certain prescription or a teaching from antiquity, you will not be received in Heaven. Yet God presides over a universe of countless races and religions, so clearly it is not belief or ideology that brings you across the threshold into the Divine Presence.
+
+<a id="p39"></a>God will not punish you for failing because God knows that without Knowledge, you could only be in confusion and make mistakes, even terrible mistakes.
+
+<a id="p40"></a>That is why taking the Steps to Knowledge is so fundamental to what religion really is and what it must be, for God redeems you here—not in your mind, not in your thoughts, not in your beliefs. For if you ever do return to your Ancient Home, which you will eventually, you will find people there with all kinds of beliefs, coming from beliefs that are totally different, coming from other worlds, coming throughout the universe. Can you imagine such a thing? You cannot. You cannot.
+
+<a id="p41"></a>But the Mystery is in your life. It is in your heart. You cannot divorce yourself from it entirely. People try. They are very busy all the time. They do not want to sit still for a moment. They do not want to really feel what they feel about their lives, or they will have a crisis. Because the Presence is always there, waiting, calling with a natural attraction.
+
+<a id="p42"></a>This is the pure religion. But to even consider this is possible or beneficial, you must have faith in the human heart. If you think people are fundamentally evil and prone to evil, then you will think of religion as a way to harness and corral them, to crack the whip over them and to threaten them with damnation and all manner of torture and misery if they do not follow what you tell them. People think this is how God is.
+
+<a id="p43"></a>An all-merciful God is all merciful. An all-knowing God is all knowing. God knows without the power and presence of Knowledge, you cannot lead your life truly. So God gives you the Steps to Knowledge. They were given before in ancient times, but forgotten or dismissed, for those who ruled over religion did not trust the human heart.
+
+<a id="p44"></a>But now humanity is literate. It is aware of the greater world it lives in to a certain extent. You are not isolated, primitive tribes anymore. Though your tendencies may still be primitive and self-destructive, you are aware of greater things.
+
+<a id="p45"></a>God must prepare you for the world and for life beyond the world and for the degree of unity that will have to happen naturally between people if humanity is to preserve this world as a livable place and preserve its freedom and self-determination in the universe, where freedom is very rare.
+
+<a id="p46"></a>It is your deepest needs and the need of the world itself that have brought God’s New Revelation to the world. It is the first Revelation of this kind in over 1400 years.
+
+<a id="p47"></a>You are living at a time of Revelation. But you must understand the different levels of religion. There is religion to take care of people and feed them. There is religion to organize culture and society basically. There is religious belief, which can help people, to a certain degree. But then there is the pure religion, which brings people into the engagement with Knowledge within themselves and the Greater Powers in the universe that the God of the universe directs for the welfare of all peoples and nations.
+
+<a id="p48"></a>When you enter the mystery of this, you have to leave behind your fixed beliefs, your ideology. You have to have the strength and faith and courage to do this, or you will be left outside the inner sanctum of the temple. For belief will not bring you to the God of all life. It will take a greater engagement, a more profound engagement, and a life guided by the great endowment, which lives within you at this moment.
+
+<a id="p49"></a>People will argue against this. They say, “Humans cannot be trusted. They are evil. They are corrupted. They have fallen from grace.” This is ridiculous. Separation was created because part of Heaven wanted to experience it, and so here you are. It is too great and profound to ever comprehend.
+
+<a id="p50"></a>You have left God, but God has not left you. You are lost in your thoughts, your fears, your desires and your preoccupations, but the Presence goes with you. For there is a part of you that has never left God, and this is the part of you that is called Knowledge.
+
+<a id="p51"></a>That is why God will redeem you in the end, and everyone else, because you cannot separate yourself from your Source. You can live in Separation. You can live in fantasy. You can live a life of degradation and crime and poverty and self-abuse, but you cannot break the connection.
+
+<a id="p52"></a>Someday, eventually, you will turn to the power within—exhausted, frustrated, overwhelmed. You will turn to this power, and it will begin a long process of redemption, putting you in service to others in the simplest and most humble ways so that your value and dignity and self-respect can be restored. For you cannot return to your Ancient Home a miserable, defiled creature. And you are not sent into the world merely to have your life be lost and wasted here.
+
+<a id="p53"></a>The mind is an important tool, but it is not the platform for ultimate truth. Belief and ideology can be helpful at the beginning, but a hindrance towards the end. You must step beyond the pavement into the wilderness because God is there. You must learn to be still. You must learn to listen within yourself. You must restrain your passions and your grievances and your admonitions to give yourself this chance.
+
+<a id="p54"></a>It is a different way of being in the world. It is a blessed way of being in the world. And though you are confused and do not know what you are doing and things are changing, you have turned a corner. You are beginning the return.
+
+<a id="p55"></a>God knows the way to God. People never know the way to God. But you do not need to know the way to God because God knows the way. You need only ask and pray with great determination that the engagement can begin for you, and to take the Steps to Knowledge that God has provided, and to teach you how to listen to the deeper voice within you—not the voice of your culture, your family, your greed or your fear, or the greed or the fear of the world or any force in the world that is unholy, but the true voice. It will be the most natural thing for you to do this.
+
+<a id="p56"></a>This is the pure religion. It can be practiced within the mosque, the temple, or the church, or anywhere. It is waiting for you to respond. It is waiting for you to realize your great need for this, for only God can fulfill and direct you in the world. Whether you are religious or not, whether you practice a religion or not, whether you believe in a religion or not, God’s Plan will save you if you can respond.
+
+<a id="p57"></a>Here there are no religious wars. Here there is no religious oppression. Here all faiths coexist because they are all means to the same end. They are all feeding the deeper yearning of the heart if they are true and authentic.
+
+<a id="p58"></a>We bring you now to the pure religion so that you may embrace it and see how important it is and how central to your life and your destiny, your fulfillment and your true self-expression it really is. This is a gift of Heaven for you, a gift that comes from a greater Source—given now in terms you can understand and that can be translated into different languages effectively; given now with the Will and the Intention of Heaven.
+
+<a id="p59"></a>You suffer because you do not know why you are sent and who sent you and what you have to do next to begin to reclaim this experience and understanding of your life. Rich or poor, this confusion will haunt you until you seek for true resolution.
+
+<a id="p60"></a>This begins the sacred engagement. This begins the sacred return. Here God does not take you away from the world, but brings you into the world in an entirely new way. Here you see the need for Knowledge everywhere around you, and you do not condemn people for their failures and mistakes. Here you become an expression of Heaven as you seek to strengthen Knowledge in others and to serve people in the most fundamental ways, wherever it is necessary for you to do so.
+
+<a id="p61"></a>If you have been abused by religion or confused by it, understand these words. See this great opening and opportunity for you. For your relationship with God is the most pivotal relationship in life, and the degree to which you can accept it and experience it and be part of it determines how far you can go in relationship with anyone. If you cannot be intimate with the power that resides within, how can you be really intimate with anyone? How can you be trusting if you cannot trust what is within you? How can you be open and allow your true affection to emerge if you do not have the guidance and power of Knowledge within yourself?
+
+<a id="p62"></a>This restores your true relationship with yourself, which fundamentally is your relationship with Knowledge. From this, you begin to have the basis and the foundation for the great relationships you are meant to have in life, which will come to you as you are prepared, as you are freed enough from the past to receive them and to understand their meaning.
+
+<a id="p63"></a>Here you begin to live the pure religion in what you say and what you do and even what you think. This is a Power greater than the world and everything in the world—greater than nature, greater than the physical forces that move the world. For now you are finding that part of you that is timeless and changeless, which will give you freedom from death and a sense of your great permanence, even through your journey here on Earth.

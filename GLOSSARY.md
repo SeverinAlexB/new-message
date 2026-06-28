@@ -10,6 +10,11 @@ A group of observers from a community of free, ethically-mature races in nearby 
 *Source*: B1/08, B2/10, B3/08, B4/07
 *Variations*: **B1** stresses their hidden vantage point in our solar system and their reporting/advisory mission. **B2** describes them in past tense ("were hidden"), implying the observation phase has concluded. **B3** frames them as a community of free races calling humanity to build sovereignty, unity and freedom.
 
+### Ancient Home
+In *Greater Community Spirituality*, the spiritual reality from which a person has come into the world and to which they are ultimately related beyond physical life. It is associated with Knowledge, one's Spiritual Family, the memory of a deeper origin, and the gifts or purpose one has brought into the world. The text distinguishes this from both Earth and the physical Greater Community: the Ancient Home is not a place to escape to during life, but the source from which contribution enters the world.
+
+*Source*: GCS/01, GCS/05, GCS/09, GCS/12, GCS/16, GCS/17, GCS/19
+
 ### Collectives
 Large, hierarchical alliances made up of several alien races bound together by a shared allegiance and common command structure. More than one Collective is currently active on Earth, and these competing groups are pursuing overlapping but rival agendas. They are non-military commercial-style organizations seeking biological and material resources from our world, and they do not value human freedom.
 
@@ -58,6 +63,21 @@ A broader umbrella for the various traditions taught in many Greater Community w
 *Source*: B1/08 (as "The Ways of Insight" / "Greater Community Way of Knowledge"), B2/10 (as "The Way of Knowledge"), B3/08 (as "The Way of Knowledge")
 *Variations*: **B1** uses the older label "The Ways of Insight" for the cross-world traditions and "The Greater Community Way of Knowledge" for the Earth-bound teaching. **B2** and **B3** consolidate both under "The Way of Knowledge."
 
+### Grace
+In *Greater Community Spirituality*, the presence and movement of the Divine through Knowledge, relationship and meaningful contribution. Grace is not treated as sentiment or miraculous rescue, but as practical assistance, recognition and renewal that can move through a person into the world.
+
+*Source*: GCS/25; see also GCS/06
+
+### Greater Mind / Greater Self
+Terms used in *Greater Community Spirituality* for the deeper reality within the individual that is beyond the personal mind. This deeper Self is closely identified with Knowledge: it guides, protects and prepares a person for service, but it cannot be possessed or manipulated by the personal mind.
+
+*Source*: GCS/04, GCS/13, GCS/22
+
+### Harim
+In *Greater Community Spirituality*, highly developed servants of Knowledge in the Greater Community who support the reclamation of Knowledge wherever intelligent life exists. They are described as intermediaries between the invisible world and the visible world, working across many worlds without seeking recognition or control.
+
+*Source*: GCS/15
+
 ### Hidden Establishments
 The other concealed footholds the Intervention is creating on Earth — bases or installations from which it projects influence into the Mental Environment and pursues the Pacification Program. One of the four declared arenas of intervention activity.
 
@@ -89,6 +109,11 @@ The deeper spiritual intelligence that lives within every person — the source 
 *Source*: B1/08, B2/10, B3/08, B4/07
 *Variations*: **B1** and **B2** include the formula that Knowledge is God in you and God is all Knowledge in the Universe. **B3** drops the explicit God-formulation but keeps the rest.
 
+### Life Force
+In *Greater Community Spirituality*, a real power operating in the mental environment that can influence thought and activity, but which is not the same as Knowledge. The chapter on Life Force warns that power without Knowledge can mislead, making discernment and preparation essential.
+
+*Source*: GCS/03
+
 ### Marshall Vian Summers (MV Summers)
 The recipient and messenger of both the Allies Briefings and the wider Greater Community / New Message teachings. Founder of The Society for the Greater Community Way of Knowledge (later The Society for the New Message), he is presented across the four books as the human channel through which this material has entered the world.
 
@@ -110,6 +135,11 @@ The Visitors' coordinated program of mental persuasion and influence aimed at nu
 
 *Source*: B1/08, B2/10, B3/08, B4/07
 
+### Revelation
+In *Greater Community Spirituality*, both an event and a gradual process by which a person becomes aware of Knowledge, Divine assistance and the deeper purpose of their life. The text warns against seeking spectacle, angelic contact or escape from the world; authentic revelation is governed by readiness, purpose and service.
+
+*Source*: GCS/17; see also GCS/26, GCS/27
+
 ### Rules of Engagement
 The boundaries, protocols and conditions that any free native race must establish for itself to govern Contact with outside powers — who may approach, when, on what terms, and for what purposes. Humanity is urged to set its own Rules of Engagement before any further visitation is permitted; the Intervention has bypassed this normal developmental step.
 
@@ -119,6 +149,11 @@ The boundaries, protocols and conditions that any free native race must establis
 The non-profit religious organization founded by Marshall Vian Summers to receive, present and disseminate the Greater Community / New Message teachings worldwide. Renamed The Society for the New Message in later books.
 
 *Source*: B1/08, B2/10 (as Society for the Greater Community Way of Knowledge); B3/08, B4/07 (as Society for the New Message)
+
+### Spiritual Family
+In *Greater Community Spirituality*, the deeper network of relationship beyond the world with which a person is intrinsically connected. One's Spiritual Family is associated with the Ancient Home, Knowledge and the reason for coming into the world. Contact with this reality is described as powerful and potentially distracting if it comes before sufficient readiness for service.
+
+*Source*: GCS/05, GCS/09, GCS/12, GCS/17, GCS/18, GCS/22
 
 ### Steps to Knowledge
 The book of practice in the Greater Community Way of Knowledge — a 365-step preparation guide for experiencing and applying Knowledge directly. Functions as the foundational practice manual referenced repeatedly across all four books and won the Year 2000 Book of the Year Award for Spirituality.

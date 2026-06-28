@@ -1,0 +1,102 @@
+---
+volume: 0
+book: "Other Teachings"
+chapter: "05"
+title: "Discerning False Messengers"
+type: chapter
+source_url: "https://www.newmessage.org/the-message/volume-0/book-0/discerning-false-messengers/"
+---
+
+# Discerning False Messengers
+
+<a id="p1"></a>- Listen
+- Info
+- Watch
+
+<a id="p2"></a>As received
+
+<a id="p3"></a>on March 21, 2000
+
+<a id="p4"></a>in Boulder, Colorado
+
+<a id="p5"></a>Many people today are very ambitious regarding spirituality and spiritual direction. They think really that they are messengers for God and that their beliefs and associations and ideals are really something bigger than they are. They insist upon this position, not understanding that God’s Messages are rarely given. They have assigned themselves to be God’s representatives, but they are not, not really, not in this way.
+
+<a id="p6"></a>It is their ambition and their ideology that drives them on, that makes them make these assumptions and that makes them think and believe, even fervently, that they are so endowed with the Divine. They claim that their messages are profound and come from a greater source. But this is not true because God’s Messages are rare, as We have said. They are not given frequently. They are never given to the ambitious. They are never given to those who would assign themselves splendid roles.
+
+<a id="p7"></a>Indeed, those chosen to be the true Messengers are reluctant, even to the point of self-denial. They do not really want the job. But they will accept it because of who asks it of them. They do not really want to shine in the world as an Emissary or as a Messenger. This is almost painful to them. They are more retiring, more private, more discreet. And yet these are the ones who are chosen to be the real Messengers, and there are not many of them. Everyone else is chosen or appointed to support the Message.
+
+<a id="p8"></a>It is not necessary for God to communicate profound Messages to humanity very often. This is a very serious thing. It does not happen that often. Yet the ambitious will assign themselves the role and the privilege of delivering messages from a higher source.
+
+<a id="p9"></a>Unfortunately, these people often become representatives of the Intervention and proponents of the whole Pacification Program. They have very strong views about what is spiritual, and then they appeal to higher powers to substantiate what they believe and to anoint them as the representatives of a greater truth. How perfect this is for the Intervention.
+
+<a id="p10"></a>People who assign themselves these roles and responsibilities are not the Emissaries of the Creator. At best, they are the emissaries of their own ambition and their own failed ideologies. At worst, they fall into service to powers that they cannot even recognize and begin to endorse, represent and propose things, the source of which is unknown to them. They have claimed they are not the authors of their own demonstration. And because they do not want to even think that they are the authors of their own demonstration, they will naturally appeal to any other source that to them represents a kind of spiritual power. It is this kind of self-deception, it is this kind of self-glorification that would make one extremely vulnerable to manipulation from beyond.
+
+<a id="p11"></a>These are the ones who will renounce the true Messengers when they arrive, for they are affronted by the true Messengers. They are not impressed by the true Messengers because they think true Messengers must be dynamic, magnificent and very self-assertive, like they are, or like they think they should be. Yet the Messengers are rarely like this.
+
+<a id="p12"></a>And so these people, those who are self-appointed, become the harshest critics of the true Messengers when they arrive, for their own position is threatened. Their ideology is endangered. Their appointment by a divine power is thrown into question. They will say, “Well, we are all messengers for the divine.” And they will try to spread the whole idea of self-appointment to so many other people, some of whom will respond eagerly, seeing this as a means to offset their low self-esteem and to give them a sense of identity and direction that they are lacking.
+
+<a id="p13"></a>None of this, of course, comes from Knowledge. It is all a creation of the personal mind for self-glorification and for self-acknowledgement. They look at the greater spiritual powers in the world as a stamp of approval, and they will grant themselves this approval. The voices that they hear that they select and that they even want will only be those voices that substantiate their views, their beliefs and their ideas about themselves.
+
+<a id="p14"></a>There are many of these people right now, in all faith traditions. Every faith tradition has people like this, who believe that they are messengers, that they have a greater truth to present and to demonstrate. They are the ones who can become zealous and destructive, who take matters into their own hands and who decide, believing that they are divinely guided, of course, that they can determine what is just and unjust, what is spiritually correct and spiritually incorrect.
+
+<a id="p15"></a>All students of Knowledge must be aware of these individuals. All students of Knowledge must ask themselves, “Am I trying to fulfill myself here?” If you come to serve, then you must have great humility. If you come to be a real student, then you must follow a greater way and not invent the journey for yourself. If you sincerely seek the truth of Knowledge and the reality of Knowledge in your life, then you must come with humility, without assumptions about yourself. And you must not base your approach upon an ideology that may in fact not be based upon Knowledge at all.
+
+<a id="p16"></a>Humility, patience, perseverance, honesty, discretion, discernment—all essential qualities for true accomplishment. And yet you do not see these qualities demonstrated by many people, especially by many people who claim to be spiritual authorities.
+
+<a id="p17"></a>People who claim to be psychic, to be clairvoyant, to have unique and special powers—these people are especially vulnerable to manipulation from beyond. Because they give themselves such high rank in the spiritual hierarchy, because they consider themselves to be so unique among human beings, and because they seek recognition and approval for their ideas, these people will be very, very good candidates for manipulation and can well fall in with the Intervention, in all of its manifestations. Willing now to serve a greater power and believing that they are endowed to do so, they assign themselves the role of emissaries.
+
+<a id="p18"></a>Be very careful with these people. Remain silent around them. But see clearly. The true Messengers are never adamant about themselves. They never claim special gifts and powers for themselves. Even their own genuine appointment, if they have to talk about it, they will do so rather reluctantly. They are not dynamic and strong. They do not project their personality in this way. They are not indiscreet. They are not loud and brash.
+
+<a id="p19"></a>There are so many people claiming to be spiritual emissaries that when the real one appears, they go unnoticed because they are quiet, because they are not loud and brash and indiscreet. They may not gain much attention, for the attention is all being gathered by those who beat their own drum and who proclaim themselves proudly, with great conviction.
+
+<a id="p20"></a>Who can tell who is the real Emissary? And how can you tell? We have already begun to answer this question. You can tell because of the content of their message. You can tell because of the humility of their approach. And you can tell if this is a false humility or if it is really genuine. For as We have said, those who are selected are rather reluctant. They do not want to proclaim themselves really. And if they do so, it is because they are asked to do so, not because they want it for themselves.
+
+<a id="p21"></a>This is a very serious matter here. The true Emissaries bring something unique and remarkable into the world. They do not simply restate the popular ideas. They do not claim their own spiritual or intuitive powers. They do not call upon their uniqueness. Look at the content of their message. Is it about them and their abilities? Or is it about something really greater than them? Does their message emphasize their uniqueness, or does it speak about greater things? Is their message really new and revolutionary, or is it simply a restatement of what so many others have claimed? Again We must say, those who proclaim themselves are not the true Emissaries because they are not chosen. And they are not chosen because of these tendencies that We are describing.
+
+<a id="p22"></a>So you look for that which is true and for that which is unique. If they are real Messengers, they are presenting something really new. Ask yourself, “Are these emissaries really presenting something new, or are they just presenting themselves and using what seems popular or conventional or even radical in the moment, yet well documented from before? Is there real substance and merit to their presentation?” Some people say, “Well, there is teaching at all levels. All spiritual teaching is valid.” But this is really just an excuse, just an excuse.
+
+<a id="p23"></a>There are very few true emissaries. There are many people who are called to serve and many people who can serve in a real way. And there are many people who do serve in a real way. But to be an Emissary, to be a representative, to be a Messenger, well, that is really something else. That is reserved for a very few people.
+
+<a id="p24"></a>And one of the reasons that this role is not chosen by those who are selected is because the role itself is quite difficult. You are asked to express something new and challenging. You are asked to go beyond your whole idea of self to take a position in life, presenting something that even you yourself can barely understand. You put yourself in a position to take condemnation and ridicule, to put yourself in the middle of a great struggle for the conscience of humanity. You lose your friends, your family, your position in life, and you embark on a new journey, the outcome of which is uncertain and unknown.
+
+<a id="p25"></a>These are not the tribulations of the person who serves in a genuine way. These are the tribulations of the person who is the real Emissary. Is this something people really would want for themselves? Is this the goal of the ambitious, the self-seeking and the self-serving—to travel this difficult journey, to carry such a great burden with so little seeming recognition and support?
+
+<a id="p26"></a>This is why those who are ambitious are never chosen. They are never chosen because of their tendencies, but they are also never chosen because they would not yield themselves to this greater responsibility. They seek recognition and self-glorification, but that is not what the role of a real Messenger and Emissary provides.
+
+<a id="p27"></a>Consider the story of Jesus. Yes, he gained great attention, but who were his true allies? Who remained true to him throughout his career? Who put themselves at risk to be his representatives and his witnesses? The ambitious? The self-seeking? Those who were immersed in their spiritual pride, who claimed unique and special powers and gifts for themselves? No, they were nowhere to be found. But they arose after Jesus’s death to claim that they were his representatives.
+
+<a id="p28"></a>In all faith traditions, this occurs and is occurring. It is really a very sad tendency, but it is inherent in the condition of humanity today. Some people will never wait to be chosen, so they choose themselves because they need something to believe in, to give themselves to. They need a sense of identity and purpose and meaning. And though they are not really chosen by the Divine, they choose themselves in the name of the Divine and claim to be the representatives and emissaries of the Divine. But their message has no substance and no originality. Their emphasis is upon themselves rather than upon the teaching. Whenever the teacher becomes more important than the teaching, or when the teacher is the teaching itself, watch out. Be careful.
+
+<a id="p29"></a>When these emissaries pass away, what is left? What is their legacy? Now that they are no longer there to proclaim themselves, is there anything left behind of real substance and value? Or were they only a billboard for themselves and their professed powers and abilities?
+
+<a id="p30"></a>For the student of Knowledge, real discernment must prevail here. We have chosen the Emissary for this Teaching. There are no others who can claim the role as the Messenger for The [Greater Community](https://www.newmessage.org/aboutgc) Way. Even after Marshall leaves this world, there will not be an emissary. There will only be those who are appointed to carry on what he has begun. And they will be chosen not because of their aggressiveness or their charm or their ambitions. The ones who will be chosen will be simple and humble and self-effacing. For these ones will be reliable and will not corrupt the Message for their own advantage.
+
+<a id="p31"></a>But every student of Knowledge must recognize the falsity of those who proclaim themselves in the name of the Creator or in the name of the spiritual agents. Use discernment. Use the criteria that we have given. Pay special attention to those who claim that all they want is to become servants of God. Because before you know it, if it has not happened already, they are servants and now they are delivering messages. And they think that they are really high and advanced and very endowed. Look at these people and look at their communication. Knowledge will only respond to Knowledge. So if Knowledge in you does not respond, you had better move on.
+
+<a id="p32"></a>Already, there have been those who have proclaimed themselves to Marshall as his partners in the Revelation, saying that they have part of the Message and that he has another part. And he has had to deny them. For they were all mistaken.
+
+<a id="p33"></a>You will hear these individuals and they will arise in your midst, proclaiming even that they are emissaries for The Greater Community Way, saying that one person is not enough, that there must be many messengers. But we have made it very clear that this is not how the Revelation is brought into the world. This is not how true initiation takes place.
+
+<a id="p34"></a>Some people will say, “Well, this is all about Marshall. He is claiming that he is the one and denying anyone else who claims that they have spiritual gifts as well.” But this is not true. For Marshall has been chosen. He did not choose himself. He has only denied those who claimed to share this authority with him because he was required to do this. We know everyone wants to be special, and some people want to be spiritually special to the point even where they believe that they are spiritually special and that their “specialness” has been confirmed and anointed by greater spiritual powers. They will look at Marshall and they will say, “Yes, yes, he is one of us, one of many, many emissaries.” And they may even say to those who follow them, “Oh, yes, you can be an emissary too. Just open yourself up and give yourself over.”
+
+<a id="p35"></a>This is not about Marshall. Though he has been given a special task, and a unique one at that, it is not about him. For when Marshall passes away, what he leaves will be great and deep and long lasting. That is a true sign that he is a real Emissary and a true Messenger, for the Message is not about him and is greater than he is. He may be the best authority in the world regarding the Message. He may be the teacher of the Message. But the Message is bigger. It is not about him.
+
+<a id="p36"></a>Marshall has special powers, but he will not proclaim them. No one will ever know really who and what he is except those who are very close to him and those few and rare people who can recognize this through the Sacred Writings.
+
+<a id="p37"></a>Be careful then about anyone coming to claim that they too are emissaries of The Greater Community Way. For they are self-deceived, and in some cases, they may be deceived by those who lead them.
+
+<a id="p38"></a>It only takes one person to deliver a [New Message from God](https://www.newmessage.org/aboutnmg), and this person will carry a great burden and face grave difficulties in life and will make many sacrifices. They will not be ambitious. They will not be self-proclaiming. For those who are chosen never have these qualities.
+
+<a id="p39"></a>It takes one person to bring the Message. It takes many to implement the Message, to substantiate the Message, to demonstrate the Message. This is for everyone else. They have in many ways an easier task, a happier task, though this task has its great challenges as well.
+
+<a id="p40"></a>One must use great discernment and discretion in finding one’s true path in life, for there are many options presented. There are many allurements. Some self-appointed spiritual teachers claim that they can make you a spiritual teacher, that they can make anyone a spiritual teacher, as if they have the power to appoint and anoint an emissary for God. They will say, “Yes, you too have a message from God. Everyone has a message from God. Come to my seminar, and I will teach you how.” They think that they can provide this direction and bestow upon their followers these special gifts. They will say, “Yes, everyone has a unique gift from God.” Which is actually true, everyone does. But it is not to be an emissary.
+
+<a id="p41"></a>Be very careful then. The true teacher and the true student can often go unnoticed because there is so much noise being made by those who are proclaiming themselves only. And because of the nature of the Intervention and the Pacification Program, you must take special care regarding these matters. For the proponents of the Intervention will more than likely be those who are self-serving and seek substantiation for themselves.
+
+<a id="p42"></a>They all make the way harder for the true Emissary because now there is disappointment and suspicion. People have recognized falsehood in many teachers and now they suspect all teachers, and so when the true emissary comes, well, he will bear the brunt of this. He will be doubted and maligned and blamed for the failures of so many others who really could not substantiate themselves.
+
+<a id="p43"></a>It is necessary that We give this perspective because people do not understand the nature of spiritual appointment. They do not understand that you are chosen and that you cannot choose yourself. They do not understand who is chosen and why they are chosen and what being an Emissary really means and requires.
+
+<a id="p44"></a>There are many things that can be taught at many levels, and you can teach things as long as you do not appoint yourself special powers or gifts. Do not call yourself an emissary or a messenger from God. For whenever you think you are an emissary or a messenger, you can be sure that you are appointing yourself and have not been appointed.
+
+<a id="p45"></a>The Creator is extremely careful about who is selected. And they [those selected] will be very reluctant to make a proclamation of who and what they really are. They will go unnoticed amidst all of the noise, all of the wild statements that people make about themselves and their teachings and their messages. And the real student will have to be very, very patient in finding the real teacher because the real teachers are rare. They are in the recesses of the world and are not out there proclaiming themselves and their special gifts and dispensations.

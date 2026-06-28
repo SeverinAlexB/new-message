@@ -1,10 +1,10 @@
 # The Allies of Humanity — Corpus
 
-Full text of the four-book *Allies of Humanity* Briefings by Marshall Vian Summers (1996–2016), organized for fast lookup by humans and AI tools alike.
+Full text of the four-book *Allies of Humanity* Briefings plus related Greater Community teachings by Marshall Vian Summers, organized for fast lookup by humans and AI tools alike.
 
 ## What is this?
 
-A series of "Briefings" framed as transmissions from a covert multi-racial extraterrestrial expedition (the Allies) sent to warn humanity about an ongoing alien Intervention seeking Earth's resources and allegiance through persuasion rather than force. The Briefings introduce a self-contained vocabulary — Greater Community, Knowledge, Mental Environment, Pacification Program, Collectives, Unseen Ones, Networks of the Wise — used consistently across the four books.
+A corpus centered on the *Allies of Humanity* Briefings, framed as transmissions from a covert multi-racial extraterrestrial expedition sent to warn humanity about an ongoing alien Intervention seeking Earth's resources and allegiance through persuasion rather than force. The related Greater Community texts expand the same vocabulary — Greater Community, Knowledge, Mental Environment, Pacification Program, Collectives, Unseen Ones, Networks of the Wise, Spiritual Family — across spiritual teaching and practice.
 
 ## Books
 
@@ -14,8 +14,10 @@ A series of "Briefings" framed as transmissions from a covert multi-racial extra
 | **B2** | Book Two — Human Unity & Freedom | 2005 | 11 | [`book-2-human-unity-and-freedom/`](book-2-human-unity-and-freedom/index.md) |
 | **B3** | Book Three — A Message to Earth | 2008 | 9 | [`book-3-a-message-to-earth/`](book-3-a-message-to-earth/index.md) |
 | **B4** | Book Four — Freedom in the Universe | 2016 | 8 | [`book-4-freedom-in-the-universe/`](book-4-freedom-in-the-universe/index.md) |
+| **GCS** | Greater Community Spirituality: A New Revelation | 1994 | 29 | [`greater-community-spirituality-a-new-relevation/`](greater-community-spirituality-a-new-relevation/index.md) |
+| **WFGC1** | Wisdom From the Greater Community, Volume I | 1993 | 36 | [`wisdom-from-the-greater-community-volume-1/`](wisdom-from-the-greater-community-volume-1/index.md) |
 
-Each book is one directory; each chapter is one markdown file (`00-front-matter.md`, `01-first-briefing-…`, …, back-matter).
+Each book is one directory; each chapter is one markdown file (`00-front-matter.md`, `01-first-briefing-…`, …, back-matter or numbered chapters).
 
 ## Where to start
 
@@ -28,7 +30,7 @@ Each book is one directory; each chapter is one markdown file (`00-front-matter.
 
 ## Citation format
 
-- Books: **B1**, **B2**, **B3**, **B4**.
+- Books: **B1**, **B2**, **B3**, **B4**, **GCS**, **WFGC1**.
 - Chapters: two-digit prefix (e.g. **B2/03** = Book 2's `03-third-briefing-…md`).
 - Paragraphs: appended `#pN` (e.g. **B2/03#p17**) — anchored via `<a id="pN"></a>` at each paragraph start.
 

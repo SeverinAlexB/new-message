@@ -1,0 +1,166 @@
+---
+volume: 1
+book: "The Greater Community"
+chapter: "04"
+title: "Entering the Greater Community"
+type: chapter
+source_url: "https://www.newmessage.org/the-message/volume-1/greater-community/human-unity/"
+---
+
+# Entering the Greater Community
+
+<a id="p1"></a>- Listen
+- Info
+- Watch
+
+<a id="p2"></a>Hear the original spoken revelation:
+
+<a id="p3"></a>[Download](https://www.newmessage.org/av/entering-the-greater-community.mp3) (Right-click to download)
+
+<a id="p4"></a>As received
+
+<a id="p5"></a>on May 27, 2011
+
+<a id="p6"></a>in Boulder, Colorado
+
+<a id="p7"></a>[God’s New Revelation](https://www.newmessage.org/aboutnmg) opens the doors to a universe of intelligent life, providing perspective, insight and understanding never available before.
+
+<a id="p8"></a>The human family does not realize its vulnerability to this [Greater Community](https://www.newmessage.org/aboutgc) nor its relationship with this Greater Community.
+
+<a id="p9"></a>Living in isolation for so very long, your whole notion of yourself, your notion of Creation and the Divine, are very much associated with this one world alone. And yet so many people in the world today have roots in the Greater Community, for much of their previous experience [occurred] there before coming into this world, in this life.
+
+<a id="p10"></a>It is like you are an isolated tribe never discovered by the outer world, not knowing the greater powers that exist around you and completely unprepared for the day that your existence would be discovered from the outside.
+
+<a id="p11"></a>But of course, humanity has been broadcasting out into space, quite foolishly of course, and so your presence is well known to your neighbors and to other groups who are watching the world with great interest.
+
+<a id="p12"></a>For some, you have been studied for a very long time. While they might find your deeper nature incomprehensible, your outer behavior can be easily discerned and is quite predictable.
+
+<a id="p13"></a>You are standing at the threshold of an entirely different reality, a non-human universe—a universe where human values and aspirations are not universally shared, a universe where your existence and where your importance are of little or no consequence, except to those races who either seek to support human freedom in the world or those races who seek to take it from you.
+
+<a id="p14"></a>The Greater Community will alter how you see yourself, how nations here interact with one another and the whole priority of humanity. Its impact can be extremely beneficial if you can understand it correctly.
+
+<a id="p15"></a>For it is the Greater Community that will finally persuade your nations to cooperate, to unite for the preservation of the world and the protection of the human family.
+
+<a id="p16"></a>It is the Greater Community that will show you that you cannot afford your ceaseless conflicts here on Earth, that your resources here are precious and your self-sufficiency is of the greatest importance.
+
+<a id="p17"></a>With this awareness, you would not continue to squander the world at the terrible pace that you are doing so now. You would not foolishly think the universe is there for the taking once you exhaust the wealth of this world. You would understand that this world is all that you have.
+
+<a id="p18"></a>This world, this solar system, is all that you have. Beyond this, you are entering regions owned or controlled by others, and you cannot take this from them.
+
+<a id="p19"></a>You do not know the rules of engagement in the universe or the relations between nations or what is allowed and what is not allowed in this Greater Community of life. You are like the child entering the metropolis—innocent, assuming, unaware.
+
+<a id="p20"></a>People want many things from visitors here. They expect many things. People feel they are very important in the universe and that others would naturally come here to help you and to give you what you wanted and needed. People think contact is kind of a thrilling adventure, a holiday from the mundanity of human life. They want to think that this contact would be very positive and beneficial because they do not have the strength, the courage or the preparation to consider it in any other way.
+
+<a id="p21"></a>God’s Revelation is providing you a window into this Greater Community of life, a window that only God could provide. For there is nothing in the universe that God is not aware of.
+
+<a id="p22"></a>No race can certainly make such a claim. No race has the comprehension of even this one galaxy. No race has a comprehension of the deeper nature of humanity. Even those few races in this region of space who are free and self-determined, even they cannot fully understand what human nature really means.
+
+<a id="p23"></a>But everyone in the universe is seeking resources, and the more technologically advanced nations are very dependent upon this. You do not reach a place where this need ceases to exist because as you advance technologically, the need escalates in response to it.
+
+<a id="p24"></a>Humanity does not know it is at a great threshold, a great turning point, a turning point that will create a future unlike the past. Living in a declining world, a world of declining resources and shrinking opportunities, you do not see your great vulnerability to space.
+
+<a id="p25"></a>Your borders are unguarded. Your people are unaware. Your governments are subsumed in their internal difficulties and problems with one another.
+
+<a id="p26"></a>This world, such a beautiful place, so rich biologically, with so many important resources that are difficult to find in a universe of barren worlds.
+
+<a id="p27"></a>The Revelation from God must awaken you to the realities, the difficulties and the opportunities of emerging into a Greater Community of life. None of God’s previous Revelations were required to do this because the need was not there. Humanity had not progressed that far.
+
+<a id="p28"></a>But you now have a global civilization—diffracted, conflicted, destructive, heedless and irresponsible, but it is a world community nonetheless. You have global communication. You have a global commerce, and for many people, a growing global awareness. It is at this point that intervention will be attempted. It is at this point that humanity becomes a prize to be claimed.
+
+<a id="p29"></a>For those who will come here and who are here already cannot live in the biologically complex world that you inhabit and to which you are adapted. They need human assistance. They need human allegiance. They need human participation in order to gain sovereignty and control here. And they will take advantage of your expectations, your desires, your fantasies and your grievances to establish this position for themselves.
+
+<a id="p30"></a>Look at the history of intervention in your world. Look how easily native peoples succumbed to the presence of foreign intervention. This must not be your fate.
+
+<a id="p31"></a>If you begin to think within this larger arena of life, you will begin to see things you could not see before, and you will see that human unity and cooperation are not simply a desirable future goal or a preferred option, but instead a necessity to assure the freedom and the future of the human family.
+
+<a id="p32"></a>The Intervention seeks not to destroy you, but to use you, to use you for their own purposes. This is a reality you cannot escape, and the deception that will be cast upon the human family and the pacification that it will cast upon the human family to submit, to acquiesce, are very strong and compelling.
+
+<a id="p33"></a>Having lost faith in human leadership and institutions, people will look to other powers in the universe to guide them, believing fervently that a beneficial force will come here to restore and to save humanity from itself. It is this expectation, this desire, however unconscious it might be, that the Intervention will utilize for its own purposes.
+
+<a id="p34"></a>Your freedom is precious, to whatever extent it has been established in the world. It has been gained through great effort and human sacrifice. It must be protected with great vigilance.
+
+<a id="p35"></a>You are concerned only with each other in this regard. But now you have greater concerns, and with those concerns, a greater need to become educated about life in the universe and prepared for the meaning of this difficult and hazardous engagement.
+
+<a id="p36"></a>Those who are allied to humanity, the free races, they will not intervene here, for intervention to them is [a] violation. They realize that even if they could gain your confidence and trust, they would have to maintain a controlling presence here in order to guide you into the Greater Community. This, they cannot do. They realize that humanity will have to struggle and suffer even to come to a point of recognition and responsibility regarding its future and destiny here.
+
+<a id="p37"></a>They can only advise. They will send their Briefings, the Briefings from the [Allies of Humanity](https://www.newmessage.org/the-allies-of-humanity/). This they have done as part of God’s New Revelation, for the Creator knows that you must realize that you are not totally alone in the universe and that freedom and self-determination exist and have been achieved by others. But this is not an easy achievement, and it has basic requirements.
+
+<a id="p38"></a>People are shocked by these things, not because they are untrue or even that they seem sensational, but because they have never been thinking about it, and they do not even really want to think about it, it is so big and complex and challenging.
+
+<a id="p39"></a>But this is your world. This is why you have come. You did not come to sleep on a beautiful planet, but to help preserve it and protect the human family from decline and from subjugation.
+
+<a id="p40"></a>Human conflict is wasting you away. Ignorant, foolish and unaware of what exists at your borders, human conflict is wasting you away.
+
+<a id="p41"></a>It is time for humanity to mature, to grow up, to realize you are living in a Greater Community of life—a Greater Community you cannot control, a Greater Community that is beyond your efforts, your technology and even your comprehension.
+
+<a id="p42"></a>That is why the Creator of all life is bringing the Revelation about the Greater Community into the world. It is time now—as humanity stands at the brink of a declining world, a world of declining resources and growing economic and political upheaval and instability; a time when the religions of the world have become partisans in an ongoing conflict and competition for human acceptance and leadership; a time when the poorer nations are running out of resources and the rich nations are falling into great indebtedness.
+
+<a id="p43"></a>It is the perfect time for intervention. It is the necessary time for a greater human awareness to emerge and with it a greater responsibility to the world—not just to one’s nation or one’s group or one’s religious affiliation, but to all of humanity. For if nations fail, the whole world could fail. If intervention is successful in one part of the world, it threatens the future of everyone here.
+
+<a id="p44"></a>People are full of grievance. They are full of needs. They are full of, in some cases, desperate needs—poverty and oppression. The leaders of the world are either blind or cannot communicate what they have been told, what they see and know. So the peoples of the nations remain ignorant about the greatest event in human history, the greatest challenge to human freedom and sovereignty and the greatest opportunity for human unity and cooperation.
+
+<a id="p45"></a>For you will not be able to engage with a Greater Community of life as a warring and conflicted set of tribes and nations. You will have no strength and efficacy there, and your vulnerability will be so apparent to others.
+
+<a id="p46"></a>Humanity is destroying the wealth of the world, and that too has prompted intervention.
+
+<a id="p47"></a>There is so much for you to learn. It cannot be communicated in a few words, but in a great series of teachings, which are part of God’s Revelation.
+
+<a id="p48"></a>Here a Christian must become a Christian with a Greater Community awareness. A Muslim becomes a Muslim with a Greater Community awareness. A Buddhist and a Jew gain a greater panorama of life to which their religious teachings must become relevant. If religion in the world is to educate and to enlighten, it must have this greater capacity and awareness.
+
+<a id="p49"></a>You cannot be fooling around in the face of the Greater Community or in the face of the [Great Waves of change](https://www.newmessage.org/aboutgwc) that are already occurring in the world. It is time to grow up.
+
+<a id="p50"></a>Humanity has great strengths. You have not lost your connection to the deeper Knowledge that exists within each person. You have not become a regimented, secular, technological society, which are so common in the universe. You have not lost your freedom or your greater sensibilities entirely, though that is being threatened with each passing day.
+
+<a id="p51"></a>The needs of life are fundamental everywhere. Advanced technology does not relieve you of these needs entirely and in fact can escalate them tremendously. Do you think that great technological societies in the universe are not desperate for resources, resources that they now cannot create themselves but must trade for and negotiate for, from far, far away? They have lost their self-determination. They are controlled now by the very networks of trade upon which they depend.
+
+<a id="p52"></a>To be free in the universe you must be self-sufficient, you must be united, and you must be very discreet. Those are the requirements that every nation, every world, every race must establish in a Greater Community of life.
+
+<a id="p53"></a>Here you can see the danger and the seduction of humanity receiving technology and resources from beyond the world. What a great attraction that would be. What a great seduction that is.
+
+<a id="p54"></a>Once you lose your self-sufficiency, everything is lost that you value. For you will not be able to establish the terms of engagement to gain access to those things upon which you have now become dependent. Other nations will determine your behavior and your participation. It is a fact of life.
+
+<a id="p55"></a>You cannot take your local universe by conquest because you will be opposed by everyone. This is a very different picture [from] your movies and your science fiction and your fantasies, your hopes and your unspoken expectations.
+
+<a id="p56"></a>This casts a very different picture on the importance of human unity and cooperation here on Earth, the importance of securing and building human freedom and the power and presence of Knowledge that God has placed within each person.
+
+<a id="p57"></a>Here freedom is not simply to become indulgent and unaccountable to anyone or anything else. It becomes an essential element of your participation in life. Here your greater gifts can be called forth, for you realize you are here to serve the great and imperiled needs of humanity. Here everything within you that is true and genuine becomes activated and called for.
+
+<a id="p58"></a>Here nations will cease their endless conflicts and try to create stability for themselves and their neighbors to assure their future well-being and to protect themselves against intervention from the outside.
+
+<a id="p59"></a>The world will not be taken by force, for that is not allowed in this part of the universe. It will be taken through seduction and persuasion, through capitalizing upon human weakness and conflict, human superstition and unfulfilled human needs.
+
+<a id="p60"></a>Brute force is rarely used in this part of the universe. Greater, more subtle means are employed to protect the resources of the world and to gain ascendancy through persuasion, deception and secrecy. Humanity is still a clumsy, violent race in this regard, but even that is changing here on Earth.
+
+<a id="p61"></a>We give you these perspectives because this represents the Love of the Creator. Though it might be overwhelming or frightening at first, it is a reality to which you must become aware and accustomed. You must think now not only for yourself or for your community or for your nation, but for the whole world because that will determine your fate and destiny, and the well-being of your children and the children of the world. It is a great shift in consciousness, a great and necessary shift now.
+
+<a id="p62"></a>People will resist this, of course. They will take refuge in their religion. They will take refuge in their political ideology. They will take refuge in human rationality.
+
+<a id="p63"></a>But life in the universe is not dependent upon these things. Life is happening whether you are aware of it or not, whether you are prepared for it or not. It is not a matter of perspective. It is not a matter of ideological orientation. It is really about paying attention, being observant and objective and honest with yourself.
+
+<a id="p64"></a>This is a great challenge, but a necessary challenge, and a redeeming challenge if it can be met honestly and sincerely. You have the eyes to see and the ears to hear, but you are not looking and you are not listening.
+
+<a id="p65"></a>Everyone around you seems to be obsessed, preoccupied or oppressed. Who will speak to them? Who will teach them? They may not hear Our words. Who will speak to them?
+
+<a id="p66"></a>You need only point to the Revelation, for you yourself cannot explain life in the universe. You yourself cannot explain the Great Waves of change that are coming to the world. You yourself cannot explain what human spirituality means at the level of Knowledge. You yourself cannot explain Wisdom and Knowledge from the universe. You yourself cannot explain humanity’s greater destiny and what must be done to achieve it.
+
+<a id="p67"></a>For this you must turn to the Revelation, for the Revelation is greater than what any one person can understand. Point to the Revelation, for that alone holds the preparation for humanity’s future and destiny in an emerging world.
+
+<a id="p68"></a>God is giving humanity what it cannot give itself. God is alerting humanity to the perils and opportunities as it stands at the threshold of space. God is alerting humanity to the dangers and the opportunities and necessities of living in a declining world. God is bringing into the world a clarification of the nature and purpose of human spirituality, a nature and purpose that have been so lost and obscured in God’s previous Revelations.
+
+<a id="p69"></a>The Revelation is vast. It speaks of so many things. You cannot exhaust it, and you must use it and apply it and share its reality with others. It is only then that you will see what it really means and why it is necessary and why it holds the great promise for the future and the freedom of the people of this world.
+
+<a id="p70"></a>For success is not assured. Many peoples in the universe have fallen under persuasion and subjugation. It has happened countless times. It is the inevitable outcome for people not being alerted and prepared to engage with a larger arena of intelligent life.
+
+<a id="p71"></a>Beware of your own fantasies and expectations. Question them. Consider them in light of the realities of nature and of human history.
+
+<a id="p72"></a>If you are honest with yourself, you must come to see that you do not know what is beyond the borders of this world, and that hopeful expectations can be extremely blinding. You must be prepared for anything and everything, just as you must be prepared for anything and everything functioning in this world in human relationships and through the activities of life itself.
+
+<a id="p73"></a>To be free, you must be strong. To be strong, your mind must be clear. You must see clearly. You must hear the truth. You must be objective about your life and circumstances. You must look upon the world not with grievance or avoidance, but with compassion, patience and determination. If you are to forge the groundwork for a new future here, to play your small but important part here, then you must have this approach.
+
+<a id="p74"></a>Accept this gift of love and Revelation. It brings with it great responsibility, but also great strength and great promise.
+
+<a id="p75"></a>You are not living yet the life you were meant to live because your life is not engaged with the greater reality that lives within you and all around you. For humanity, this is a great turning point. And for you, it is a great turning point.
+
+<a id="p76"></a>People of the world must awaken to the Greater Community and to the condition of the world you live in. You must learn of your greater strength and greater wisdom that God has placed within you to guide you, to prepare you and to protect you.
+
+<a id="p77"></a>God has spoken again. It is for the greatest purpose to meet the greatest set of needs.

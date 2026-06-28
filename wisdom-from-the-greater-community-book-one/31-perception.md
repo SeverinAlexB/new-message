@@ -1,0 +1,122 @@
+---
+volume: 6
+book: "Wisdom from the Greater Community Book One"
+chapter: "31"
+title: "Perception"
+type: chapter
+source_url: "https://www.newmessage.org/the-message/volume-6/wisdom-greater-community-book-1/preception-interpretation-reality/"
+---
+
+# Perception
+
+<a id="p1"></a>- Listen
+- Info
+- Watch
+
+<a id="p2"></a>As received
+
+<a id="p3"></a>on September 12, 1988
+
+<a id="p4"></a>in Seattle, Washington
+
+<a id="p5"></a>In [The Way of Knowledge](https://www.newmessage.org/the-message/volume-3/living-way-knowledge), We take people through many stages of development. There are other Teachers who are disseminating information at various levels to help people on their way, but Our role is different. We actually present a curriculum for training in Knowledge according to the ancient schools in the [Greater Community](https://www.newmessage.org/aboutgc).
+
+<a id="p6"></a>Now We will speak about perception, reality and Knowledge. First of all, We would like to say a few things about Knowledge so that you will know what We are speaking about. At the very surface of Knowledge is the experience of profound intuition, the experience of profound insight and knowing. That is at the surface of Knowledge.
+
+<a id="p7"></a>Beyond the surface is the total experience of life in this world and beyond this world for you to have while you are still here. That is what reassociates you with life beyond and enables you to fully be a contributor while you are in the world. In all practical aspects, this is complete fulfillment while you are here.
+
+<a id="p8"></a>We do not speak of enlightenment because enlightenment is entirely relative to various stages of development. When you reach a state of enlightenment, you will find you are a beginner in the next stage. So when people talk about total enlightenment, they are talking about reaching the climax of the stage that they are in. There are great turning points within physical life that very few people achieve. These are generally regarded to be enlightenment.
+
+<a id="p9"></a>A great deal of public teaching is going on now. It is important to note that those instructors who are most popular are disseminating information to the largest numbers of people. Disseminating information is a very different role from being an initiator. It is a different function to fulfill. Disseminating information alone requires a great deal of verbal skill and a facility in working with people individually and collectively. This in itself is a complete role.
+
+<a id="p10"></a>Beyond this, there are instructors who actually carry on the initiation process, but rarely take a public stance. They have very few students because there are very few who are actually prepared to take the journey in its advanced stages.
+
+<a id="p11"></a>Those teachers that disseminate information prepare those who eventually will begin the actual reclamation of Knowledge. They prepare the way. Therefore, much of what is said by the teachers who are disseminating information is only preparatory. In other words, it is to orient you in a correct direction. What is given are not statements of ultimate truth.
+
+<a id="p12"></a>It is merely a beginning, like preparing the soil for planting great seeds. When you are preparing the soil, you realize that that is the stage you are in, and you do not confuse it with later stages of development. Therefore, disseminating information is preparing the mental soil, preparing minds to receive Knowledge.
+
+<a id="p13"></a>When We speak of perception, We speak of your interpretation of the reality that you can experience. What you experience is interpretive. It is very rare that people have a direct experience of anything.
+
+<a id="p14"></a>Direct experience means that you are experiencing a reality that is beyond your interpretation. A very rare and great experience this is. It could be the common denominator of your experience, but in fact it is quite rare and phenomenal because 99.9% of your experience is interpretation of the reality that you can experience.
+
+<a id="p15"></a>When We say “the reality that you can experience,” We mean that you can only experience a little bit of reality because of your limited capacity and range of perception. So it is not merely the interpretation of reality at large; it is interpretation of the reality that you can experience.
+
+<a id="p16"></a>That is why people live in their minds and not in life. This is the source of all of your difficulties. You are more engaged with your ideas than you are with life.
+
+<a id="p17"></a>Being engaged with life means that you are directly involved and are having a direct experience. Now obviously you can sit and be totally involved with your own mind and be totally uninvolved with everything around you, unaware of forces that are influencing you—forces that are helpful for you and forces that are not helpful for you. This is a profound disadvantage. This is why people are having problems.
+
+<a id="p18"></a>There is not a problem with reality, but there is a great problem with interpretation and self-absorption. At the very beginning of true learning, each person must become aware of their self-absorption—how much they are involved with their own mind and how little they are involved in life.
+
+<a id="p19"></a>Often it can seem very upsetting or disappointing and even insulting when you find out that you are actually experiencing very little of life and thinking a great deal. Because We value true experience, that is what We wish to orient you towards.
+
+<a id="p20"></a>The problem then is that people are involved with their thoughts and not with life. This creates a very great gulf in your experience. So when people say, “You create your own reality,” what does this mean? It is only meaningful in the realm of your own thoughts. It assumes, if you think about it, that there is no reality beyond your own thoughts.
+
+<a id="p21"></a>In the beginning, the very beginning, people are told: “You create your own reality. You must change your thoughts to have a different reality.” Perhaps you have heard this? Yet this is only a first step. This requires that you look at your thoughts to see how fully involved with them you really are.
+
+<a id="p22"></a>There is reality beyond your thoughts. In fact, beyond your thoughts is the only reality because your thoughts can only interpret. There is a greater reality within you that actually creates, but it is entirely beyond your mind.
+
+<a id="p23"></a>If your mind is open and has become balanced and whole, then the reality that creates can create through you. This is the greatest experience of satisfaction and fulfillment in the world.
+
+<a id="p24"></a>In contrast to this greater reality, your personal problems are very small, just requiring certain adjustments here and there. Like maneuvering a car down the street, it requires that you steer a little here and push a button there and make adjustments along the way.
+
+<a id="p25"></a>Even with the great responsibility of driving a car down the street and all the terrible things that could happen to you, you do not think about it much. You just do it. You learn how and you do it.
+
+<a id="p26"></a>It is because Knowledge is so much greater than personal problems that personal problems become easier to solve. In fact, all personal problems are very easy to solve. The problem is that people want the problem and not the solution.
+
+<a id="p27"></a>The frustrating thing about teaching is always the ambivalence about learning. That is why the initiation process takes a long time. It is not an easy path. It is not a difficult path, either.
+
+<a id="p28"></a>Therefore, when you say, “I create my reality,” what you are saying is that you are creating an interpretation of what you can experience. If you can only experience this much of life, and it is all your interpretation, then you see your range of perception is very limited.
+
+<a id="p29"></a>But your Knowledge, which you carry within yourself, is capable of opening up your perception completely. Without so much incessant thinking, wondering, asking, pondering, manipulating, planning and scheming and so forth, the greater part of your mind, your Knowledge, can begin to show you things.
+
+<a id="p30"></a>It is not difficult to have direct experience. You simply must not be doing anything else. Having direct experience means you are not doing anything else. So then true preparation requires that you learn to be still, to become observant, to disassociate yourself to a certain degree from your own judgment of things, to become open to the presence of intimacy and love, to accept true relationship, and to begin to accept at least the idea that there is something greater than your own thoughts.
+
+<a id="p31"></a>The fact is you only create interpretations of reality. A better interpretation may be more pleasant temporarily, but you are still disassociated from yourself and life. It is this disassociation that must be bridged.
+
+<a id="p32"></a>Life is happening all around you, an incredible panorama. But you cannot experience it. Your Inner Teachers are with you, helping you in amazing ways, but you do not know that they are there. There are genuine relationships waiting for you in life, waiting for you to be ready and desirous of them, but you must have the capability and the desire.
+
+<a id="p33"></a>There is a Greater Reality that creates beyond the interpretation that you create. You do not need to create reality. It is created for you. You can enjoy its creation. Therefore, it is very important to become a happy recipient of reality. Then you will see that you have brought something from beyond the world to give to the world.
+
+<a id="p34"></a>It is not good to come to the world and say, “Give me reality, world! Give me what I had from beyond! Give me intrinsic relationships! Give me peace of mind! Give me equanimity! Give me meaning! Give me purpose! Give me direction!”
+
+<a id="p35"></a>The world cannot do any of these things. These are things that you bring to the world. It is like being a parent and asking the child to take care of you. You are the parent.
+
+<a id="p36"></a>The world is where you have come to contribute. It cannot give much because it is only a child. In this, you find your responsibility. You begin to accept your true worth and the resources that you have brought with you.
+
+<a id="p37"></a>Why is the world such a difficult place for human beings? Because they have come from beyond. It is not so difficult for plants and animals, but it is difficult for people because they come from beyond. They have come from a much more pure reality. This makes it very difficult, then, to adjust to being here.
+
+<a id="p38"></a>You do not need to change the world. But you do need to find out who you are, why you have come and what you have brought with you. You are only here for a brief time, after all. Before you know it, you are back Home, like nothing changed. It is always the same there.
+
+<a id="p39"></a>What people are seeking for in life is purpose, meaning and direction. They have brought these with them. The world is waiting to receive them, but people are looking for them in the world. Do you see the contradiction here? It is like the parent saying to the child, “Take care of me, baby! Be my daddy and mommy.”
+
+<a id="p40"></a>Becoming a true contributor in life—guided by your own Knowledge and unfettered by your own interpretation of reality—is the greatest achievement possible and one that will make you a great resource for everyone you come in contact with and for people whom you will never see. Your mind, being open, will provide an opening for other minds.
+
+<a id="p41"></a>This is entirely natural and is actually more an unlearning than a learning process. All the books, all the lectures, all the ideas and all the processes—you must leave them all at the temple gate, the outer gate, to enter in. You simply enter and your Inner Teachers are there to take you in. They have successfully completed the development of Knowledge in physical life. Therefore, they are prepared to enable you to do so as well. That is the great promise.
+
+<a id="p42"></a>Not all the seeds that are thrown onto the ground from the tree will sprout, but some will. You will always find that the most direct way does not attract great crowds because people find the requirement is too great. “I just wanted some information. I don’t want to have to do anything!”
+
+<a id="p43"></a>Ideas are simple. They require very little of you. They also give very little to you. But relationships require a great deal and provide a great deal. Having a meaningful marriage and raising children require a great deal and provide a great deal.
+
+<a id="p44"></a>The emphasis here is Knowledge. It is not your personal Knowledge because there is no personal Knowledge. In Knowledge, there is only individual expression. There is no individual reality.
+
+<a id="p45"></a>Drawing from a Greater Reality means that you have passed beyond your own interpretations sufficiently that you can now have a direct experience of life. You can see in a new way, hear in a new way, speak in a new way and experience life in a new way.
+
+<a id="p46"></a>Therefore, when you hear others talking about “creating their own reality,” see this only as a sign pointing in the right direction. What this means for you is that you must take responsibility for the content of your mind.
+
+<a id="p47"></a>What are you thinking at this moment? What you are thinking is relevant to what you are experiencing. This is accurate. But beyond this is reality, and that is the great gift.
+
+<a id="p48"></a>Achieving this, then, is more a settling down than a building up. It is the result of becoming still and observant so that you can penetrate your own interpretation. A still mind is a mind that is collecting its own power. It can direct its full resources in any direction, and that is the definition of power in the world.
+
+<a id="p49"></a>Concentration is power. A more concentrated mind will have a great effect on less concentrated minds. If that mind is concentrated on evil or destruction, it will still have a great effect on less concentrated minds. That is why great wars are perpetrated only by individuals who are dedicated to those wars. Their influence on less concentrated minds is quite apparent.
+
+<a id="p50"></a>Yet a mind that is concentrated on good is even more powerful. That is why the Wise are hidden and do not make a show of themselves. They do not want to have too great an impact. They do not want to attract too much attention from the wrong people. They save themselves for certain individuals whom they realize are actually prepared for their gifts.
+
+<a id="p51"></a>You see, We are painting a bigger picture here. Do not be satisfied with ideas or little truths. Knowledge is still within you. It is sleeping like a giant. Until it becomes manifest in your life, your life is still interpretive. You are not in direct relationship with life yet.
+
+<a id="p52"></a>Life is relationship. That is all life really is. If you are feeling lonely, you are not experiencing this relationship. The only thing that you can experience apart from life is your own ideas.
+
+<a id="p53"></a>After all, life is everything. It is very hard not to experience it. To do that you must create your own internal reality that is interpretive, and you must be in relationship with it.
+
+<a id="p54"></a>The Teacher of Knowledge brings you out of relationship with ideas and into relationship with life. That is the process. Each step of the way renders great rewards. It leaves you freer and more lighthearted.
+
+<a id="p55"></a>In Knowledge, everything is very simple. In fact, your life is so simple that you can devote yourself to other lives, helping and caring for others because your life is so simple. You are free then to participate beyond your own self. This is the great happiness, and this enables you to be in meaningful relationships.

@@ -1,0 +1,160 @@
+---
+volume: 1
+book: "God Has Spoken Again"
+chapter: "09"
+title: "Living at a Time of Revelation"
+type: chapter
+source_url: "https://www.newmessage.org/the-message/volume-1/god-spoken-again/living-at-a-time-of-revelation/"
+---
+
+# Living at a Time of Revelation
+
+<a id="p1"></a>- Listen
+- Info
+- Watch
+
+<a id="p2"></a>Hear the original spoken revelation:
+
+<a id="p3"></a>[Download](https://www.newmessage.org/av/living-at-a-time-of-revelation.mp3) (Right-click to download)
+
+<a id="p4"></a>As received
+
+<a id="p5"></a>on September 27, 2011
+
+<a id="p6"></a>in Leadville, Colorado
+
+<a id="p7"></a>For the first time in the history of this world, you are able to witness the process of Revelation. Aided with modern technology, the whole process is being recorded so there can be no mistake in future interpretations, as has been so often the case in the past.
+
+<a id="p8"></a>It is not merely the Revelation itself that is significant. It is the process of Revelation itself—to be able to hear the Voice, so similar to that which spoke to the Jesus, the Buddha and the Muhammad and many other great teachers, both known and unrecognized in the history of this world.
+
+<a id="p9"></a>This is a unique opportunity and a profound education that can clarify many errors in religious thinking and cast all of God’s previous Revelations in a new and much clearer light.
+
+<a id="p10"></a>For in the history of this world and all worlds, the process of Revelation is the same. An individual is selected and sent into the world. When they reach a certain stage in their development and maturity, they are called out of normal circumstances, called to a great rendezvous, a great encounter with the Angelic Presence that oversees that particular world. Then they are called into a greater service and prepared for a greater service, prepared to bring something new and revolutionary into the world.
+
+<a id="p11"></a>This is not merely a refinement of past understandings or past beliefs. It is something really new and revolutionary. It is not merely an improvement or an enhancement or a new perspective on something that has already been provided and is well established. It is a new threshold.
+
+<a id="p12"></a>You have the opportunity to witness the Revelation and the process of Revelation and the clarification of the Revelation and the meaning of the Revelation for your life and for the whole world.
+
+<a id="p13"></a>For it is a Message for the whole world, not just for one tribe or one people or one nation or one region. It is not a revision of what has been given before. It is not a reaction to what has been given before. It is not adjunct to any teaching or theology that exists in the world. It is something new and revolutionary. It represents a great threshold and a great challenge for the human family.
+
+<a id="p14"></a>Wherever you are living, whatever nation you are in, whatever your circumstances, you are living at a time of Revelation, as great as any time of Revelation in the past.
+
+<a id="p15"></a>Your ability to respond to the Revelation will determine your readiness, your openness, your honesty and your sincerity. For everything that is false, everything that is disingenuous, everything that is corrupt or mistaken is revealed in the Light of the Revelation.
+
+<a id="p16"></a>Who can receive a new Messenger from God? Who will reject him? How will people respond? Will they respond at all?
+
+<a id="p17"></a>All is revealed at the time of Revelation—the value of one’s religious understanding, the purity of one’s religious faith, the clarity and honesty of one’s approach, the openness of one’s heart and mind. All of these are revealed at the time of Revelation. And you are now living at a time of Revelation.
+
+<a id="p18"></a>One man has been prepared and sent into the world. There can be no others who can make such a claim, for Heaven knows who is chosen and who is not. Those who choose themselves and elect themselves, they cannot bring [a New Revelation](https://www.newmessage.org/aboutnmg) into the world. They do not have the power or the clarity, and most importantly, they do not have the Revelation itself.
+
+<a id="p19"></a>Everything is revealed at a time of Revelation.
+
+<a id="p20"></a>The process of Revelation is so very different from the stories and the fantasies and the miracles that people ascribe to such events, such seminal events in human history that have been glorified and escalated way out of the ordinary to try to give greater prominence and significance to the teachings that emerged from such great events.
+
+<a id="p21"></a>But these great events all have humble beginnings. They are not grand and sensational. They are not filled with miracles and extraordinary events where everyone stands in awe. That is the difference between reality and human invention.
+
+<a id="p22"></a>But the Revelation is extraordinary. It is rare. For God only sends a New Message into the world perhaps once in a millennium, at a time of great threshold, challenge and difficulty for the human family; at a time of great opportunity and great need, where a New Revelation must be given, not simply further commentary on what has been provided before.
+
+<a id="p23"></a>It is this then that must reach beyond the ideas and beliefs of the listener into a deeper part of them, a deeper intelligence within them, a part of them that is still connected to God, the part of them that We call Knowledge.
+
+<a id="p24"></a>You cannot fool Knowledge. There is no error in perception at this level. But alas so few people have gained this state of mind, this deeper connection, sufficiently that they can see clearly and follow Knowledge, which represents the direction of God’s Will and Purpose in the world.
+
+<a id="p25"></a>The Revelation before you is the greatest and largest Revelation ever given to humanity, for it speaks to a literate world, a world of global communications, a world of greater sophistication and a world of escalating and profound need, confusion and misery.
+
+<a id="p26"></a>It is the first great Revelation to be given to a world community, to a literate population. And that is why it must speak now with greater clarity, greater emphasis, greater sophistication and complexity.
+
+<a id="p27"></a>For you cannot be a child and face what you will be facing in the world and beyond. You cannot be simply a blind follower and prepare yourself for the [Great Waves of change](https://www.newmessage.org/aboutgwc) that are coming to the world or for humanity’s encounter with intelligent life in the universe—the greatest and most consequential event in history.
+
+<a id="p28"></a>You cannot worship God and think that you are fulfilling your destiny here, for each of you has been sent into the world for a greater purpose that is connected to the evolution of the world and to the reality of human need around you.
+
+<a id="p29"></a>Only Knowledge within you knows what this means specifically and what must be done to prepare you for it and what must be achieved through you and through others whom you will naturally associate with in light of a greater purpose.
+
+<a id="p30"></a>The Revelation is not here to create a pantheon of gods or fantastic stories that seem incredulous and difficult to believe. It is not here to make you into servants of God as much as it is to encourage you to represent the Divine Will and Purpose, which only Knowledge within you can enable you to do.
+
+<a id="p31"></a>It is a great Revelation for a future that will be unlike the past—for a world in decline; a world of declining resources; a world of environmental destruction; a world where it will be more difficult to take care of people, to provide food, water, medicine and energy around the world; a world of greater danger and contention; and beyond this a world that is facing intervention from races in the universe who are here to take advantage of human weakness and expectations.
+
+<a id="p32"></a>Therefore, the Message is very powerful, but it must be very clarifying. And the Messenger must proclaim this and also be able to teach what it means. This is something that has required decades of preparation. It has taken the Messenger decades to even receive the New Message from God, it is so vast and inclusive.
+
+<a id="p33"></a>The Messenger must be a man without position in the world, but he must be well educated and very compassionate. He must be simple and humble. He must speak clearly but in terms that everyone can understand. He must demonstrate through his life the value of his Message and the significance of living and learning a New Revelation.
+
+<a id="p34"></a>He is not perfect, but none of the Messengers have ever been perfect. He is not going to produce miracles for the masses because none of the Messengers have ever really done that. He is here to open the door to a deeper experience of the Divine Presence and Power in the lives of people everywhere—rich and poor, north and south, east and west, in all nations, in all religions. He is not here to replace the world’s religions, but to provide a greater clarity and relevance to them.
+
+<a id="p35"></a>For humanity must prepare for the Great Waves of change that are coming to the world if human civilization is to survive and to be stable and to be a foundation for humanity’s greatest accomplishments in the future.
+
+<a id="p36"></a>Humanity also must be prepared and educated about life in the universe, to the extent that you will need to understand in order to determine how you will respond to the presence of an intervention in your own world.
+
+<a id="p37"></a>None of the world’s religions can prepare you for these things, for they were born of an earlier epoch, and though they are immensely important for humanity, it will take a New Revelation from God to save human civilization, to bring greater unity between the world’s religions, to bring an end to war and conflict so that humanity may prepare itself for the great challenges to come.
+
+<a id="p38"></a>You cannot be anchored in the past and understand the Revelation of the future. You cannot be adamant about your religious views and comprehend how God will speak again and why God has spoken again and what it will mean for you and for others. Your heart cannot be closed, or you will not hear and you will not see.
+
+<a id="p39"></a>You must love humanity enough to value such a Revelation and to learn to live according to what it teaches, to receive the power that it provides, the grace and the compassion that it emphasizes.
+
+<a id="p40"></a>The Messenger is facing a very hazardous journey ahead, for there will be much resistance to the New Revelation, as there has always been great resistance in the past to God’s Revelations in the world, whenever and wherever they were given.
+
+<a id="p41"></a>He will not be speaking in every town. He will not be present at every event. He will only speak here and there. But his Message will be broadcast to the world, and the Revelation will be presented to the world with its own commentary, its own directives, its own clarification. It is not something that will be left up to future scholars and individuals to interpret, to comment upon, for that has proven to be hazardous and unfortunate in the past.
+
+<a id="p42"></a>That is why the Revelation is so explicit and so repetitive. That is why it is so clarifying, to minimize the possibility of human error, misperception and misunderstanding.
+
+<a id="p43"></a>It restores to the individual the power of Knowledge, which was only the privilege of the elite and the elect before. It speaks of the deeper conscience of humanity, the conscience that was established before you even came here, to be your guide and counsel in all things important.
+
+<a id="p44"></a>The Messenger must not be worshipped. He is not a god. None of the Messengers were gods. They were Messengers—half human, half holy—representing both realities, the reality of the world and the reality of the Ancient Home from which you have all come and to which you will all return eventually.
+
+<a id="p45"></a>His presence will clarify what must be clarified. His voice will speak to the minds and the hearts of those who can hear. He will speak to the needs of the world and the needs of the heart and the soul. He brings not only the answers, but the answer itself. For God has placed a greater intelligence and mind within each person, but this is not known of to any great extent in the world, save but by a few.
+
+<a id="p46"></a>It will not simply be human technology and human ingenuity that will be able to prepare you adequately for the future, for the [Greater Community](https://www.newmessage.org/aboutgc) itself. It will have to be something much more profound and essential to your nature and your Being. The Messenger will speak of these things.
+
+<a id="p47"></a>This is all part of the Revelation, you see. God does not give you an answer for the day or an answer for tomorrow, but an answer for all days and all situations.
+
+<a id="p48"></a>God does not have to direct your life, for the Lord of all the universes is not engaged with you in this way. God is more intelligent. God has put Knowledge within you, a perfect guiding intelligence to be discerned from all the other voices and impulses, desires and fears in your mind.
+
+<a id="p49"></a>The Revelation has provided the [Steps to Knowledge](https://www.newmessage.org/stk), the pathway for gaining access to that which is the greatest endowment that God could ever give to humanity or to any emerging or advanced race in the universe.
+
+<a id="p50"></a>Your understanding of the Divine now must be taken into a greater panorama of life. Your understanding cannot be anchored in the past, but must be flexible and be able to adapt to the future, as greater and greater change occurs within you and around you. Your Lord now must be the Lord of the universes, a Lord of a billion, billion, billion races and many more.
+
+<a id="p51"></a>This is part of the Revelation for humanity, so very different and more expansive than any Revelation that has ever been given. With this, you will value all of the Revelations and gain wisdom from them all.
+
+<a id="p52"></a>If you are a devout Christian, your Christianity will now grow and become more expansive. If you are a devout Muslim, your faith and practice will now grow and become more expansive. If you are a practicing Buddhist or of the Jewish faith or any religious pathway, it will all become enlarged by the New Revelation. The Messenger will speak of these things. The Revelation speaks of these things.
+
+<a id="p53"></a>And for the first time, you will hear the Voice of Revelation. It was never possible to record this previously for obvious reasons, but now you will be able to hear the Voice of Revelation. It is a wondrous thing, but it is also a challenge for you, for if you cannot hear this, if you cannot recognize this, then you must face your own impediments. You might criticize, deny and avoid this, but that only shows your weakness and your limitations.
+
+<a id="p54"></a>What more does God have to do for you? If you cannot receive the Revelation, what can God do for you? God has given an answer to the whole world and to you individually—to your faith, to your tradition, to your religion, to your culture and to your nation. Do you want favors? Do you want dispensations? Do you want to be relieved of the difficulties of life? Do you want to be pampered? Do you want miracles at every turn? Do you want to be on some kind of welfare to Heaven, as if you were helpless and impotent in the world?
+
+<a id="p55"></a>God gives you strength through Knowledge and calls upon Knowledge through the New Revelation.
+
+<a id="p56"></a>It is not God who will save the world, but it is the people who were sent here to save the world that will do it. And they will play their small but significant role, and it will be greater than they understand. And it will be different from their personal goals and ambitions. And it will redeem them and revive them, returning to them the strength and Power of Heaven, which is embodied in Knowledge within them, deep beneath the surface of the mind.
+
+<a id="p57"></a>You have the opportunity to understand the process of Revelation. And if you can understand this, you will see what a miracle it really is. And you will not turn the Messenger into a god, but accord him the respect and deference that he deserves. And you will be honest in your approach—not to dismiss or to disdain the Revelation, but to hear it, to experience it and to apply it to your life sufficiently so that you may comprehend its greater purpose and meaning for you.
+
+<a id="p58"></a>People want God to do many things for them—save them from calamity, give them opportunities, heal the sick, overturn corrupt and oppressive governments, make them rich, make them happy, make them content or be at peace.
+
+<a id="p59"></a>But what people want and what God wills are not the same, not at first. For the real needs of your heart resonate with the Will of the Creator, but the real needs of your heart and soul may be something that is not within your awareness yet. A deeper honesty will take you there.
+
+<a id="p60"></a>God has provided the power of Knowledge and with it the pathway and the engagement with life that will redeem the individual. This serves everyone, even the wicked, even the poorest of the poor.
+
+<a id="p61"></a>Here there are no heroes and masters. There are only those who are stronger with Knowledge who can demonstrate its grace and power in the world.
+
+<a id="p62"></a>How very different this is from what people are taught to think and to believe. But thoughts and beliefs are at the surface of the mind. Beneath the surface is the great opening to your true nature and to the power of Knowledge.
+
+<a id="p63"></a>You do not yet realize how important and central this is to your life. That is why the Revelation must provide clarification of what religion really is and means, what spirituality really is and means, and how all true spiritual practices are in essence steps to Knowledge.
+
+<a id="p64"></a>But it is difficult to find this in the religions of the world, so overlaid they have become with ritual, tradition, commentary and misinterpretation. For many, they have become rigid beliefs; for others, a consolation only. Their true power can only be found within them with a great teacher and a wise guide.
+
+<a id="p65"></a>Humanity does not have time for this now, for the hour is late. This is not merely for certain individuals to take a greater journey in life. It is for the whole human family to prepare in the most practical and essential ways for the great change that is coming to the world, and that is already beginning to strike the shores and to overwhelm the cities, to cast nations in conflict with one another, to darken your skies, to pollute your rivers, to threaten the very resources you depend upon every day.
+
+<a id="p66"></a>The Revelation is not here to frighten you, but to empower you; to give you strength, courage and determination; to give you compassion and tolerance; to give you the power of Knowledge, which is the source of your real strength and integrity.
+
+<a id="p67"></a>The world is changed, but people have not changed with it. The Great Waves are coming, but people do not know. Intervention is occurring in the world, but people are unaware or perhaps think it is a wonderful thing.
+
+<a id="p68"></a>It will take a Revelation from the Creator of all life to prepare humanity, to awaken humanity and to strengthen and unite humanity so that it may have a greater future and survive the great challenge to its freedom and its destiny.
+
+<a id="p69"></a>There is so much to learn. There are so many things to be set aside, so many things to be questioned, so many things to be reconsidered. A Revelation from God brings all of this. It is a great challenge to the recipient and to the people who are so blessed to receive it.
+
+<a id="p70"></a>And while the Messenger is in the world, you have this great opportunity to hear him, to consider his words and the meaning of his presence in the world at this time.
+
+<a id="p71"></a>It will be a great shock to many. It will be resisted by many. It will be received by many.
+
+<a id="p72"></a>But it will take a great shock to awaken humanity to the reality of its situation and to the circumstances for which it must prepare. It will take the shock of Revelation. It will take the shock of the future. It will take the reality of this present moment and the realization that one is not living the life they were sent here to live and the recognition that your ideas alone cannot prepare you for greater things, that you must have the power of Knowledge, which is the strength of Heaven that has been given to you.
+
+<a id="p73"></a>This is the meaning of Revelation. It is not merely a Revelation of ideas. It is a Revelation of experience. It is a Revelation of one’s true nature, origin and destiny.
+
+<a id="p74"></a>May your eyes be open for this. May your heart be receptive. May your ideas be flexible enough to be reconsidered. And may you realize that you are here to serve a greater purpose, which you yourself cannot invent or direct. May the Revelation be yours, and through you given to others. May the Messenger be recognized and honored in his remaining time on Earth. And may this be a time of great blessing, clarification and encouragement for you who are seeking to find the greater purpose and direction of your life.

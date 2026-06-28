@@ -1,0 +1,192 @@
+---
+volume: 1
+book: "The New Messenger"
+chapter: "05"
+title: "The Requirements of the Messenger"
+type: chapter
+source_url: "https://www.newmessage.org/the-message/volume-1/new-messenger/the-requirements-of-the-messenger/"
+---
+
+# The Requirements of the Messenger
+
+<a id="p1"></a>- Listen
+- Info
+- Watch
+
+<a id="p2"></a>Hear the original spoken revelation:
+
+<a id="p3"></a>[Download](https://www.newmessage.org/av/the-requirements-of-the-messenger.mp3) (Right-click to download)
+
+<a id="p4"></a>As received
+
+<a id="p5"></a>on March 12, 2013
+
+<a id="p6"></a>in Boulder, Colorado
+
+<a id="p7"></a>Surely, one who is called and prepared to bring a [New Message from God](https://www.newmessage.org/aboutnmg) into the world must have a long and very challenging preparation. It is the preparation an individual could not initiate for themselves.
+
+<a id="p8"></a>It must be a calling from Heaven itself. It must be administered by Heaven itself. It must take the one chosen from their former life and state of mind into a new life and a far greater state of mind over a period of time.
+
+<a id="p9"></a>It is a preparation with many challenges and many tests. It is not a journey any individual could invent for themselves, for their own edification or self-proclamation, though many have tried, and certainly others in the future will try as well.
+
+<a id="p10"></a>God’s Messenger is no ordinary person. God’s Messenger is not simply someone who was called out of the crowd and given an important task in life, or [asked] to carry an important message, like a postman. It is someone who must come from the Angelic Presence itself, and be initiated into the world, and be given time to develop as a human being facing the pleasures and the hazards and the disappointments of living in [Separation](https://www.newmessage.org/the-message/volume-1/one-god/the-separation).
+
+<a id="p11"></a>It must be one of the [Angelic Assembly](https://www.newmessage.org/the-message/volume-1/god-spoken-again/the-assembly) who can do such a task. So never think that God’s Messenger is simply some witless person who was chosen and burdened with a great and important mission. No, indeed. This individual would have to have unique qualities and a greater association to be able to assume such a pivotal and important role in life.
+
+<a id="p12"></a>For here failure is incredibly damaging, not only to the one chosen but to all of humanity. For if the Message cannot be received correctly and interpreted and communicated correctly, then it will have been corrupted. It would be incomplete.
+
+<a id="p13"></a>For, you see, the Message requires the Messenger, and the Messenger has to have the qualities necessary to carry out such a great and demanding task. If the individual does not have such qualities, then they cannot emanate the Presence. They cannot carry the burden. They will never be selfless enough to sacrifice their own needs and pleasures along the way. Invariably, if they were not chosen for such a task, they would not be able to complete such a mission.
+
+<a id="p14"></a>Certainly, those who follow the Messenger, now and in the future, may be prone to misinterpret and misapply God’s New Revelation for humanity. And sadly that will occur because people do not yet have the clarity and integrity and understanding yet to be able to carry such a Message forth beyond the time of the Messenger.
+
+<a id="p15"></a>That is why certain people are chosen and selected to do this at the very center of the Messenger’s life. They too must prepare and meet requirements. They too must follow an inexplicable journey not of their own making. They too must face great uncertainty and opposition in the world. They too must hold the vision and the Fire of Knowledge despite the chaos they see around them and the tragic nature of the human pursuit for happiness and fulfillment.
+
+<a id="p16"></a>The requirements of the Messenger are very unique. And We give them to you now so that you may understand this person, that you might recognize what is required and recognize that only one is given the responsibility to receive and to initiate the proclamation of God’s New Revelation. Once you understand the requirements, perhaps, you will be able to accept this yourself.
+
+<a id="p17"></a>First, the Messenger, before he even knows he is the Messenger or has any idea of this, must be held back from giving his life away to people, places and things. He will need to be educated fundamentally, but he cannot commit himself to family and career until his moment of initiation occurs, which would be later in his life, beyond his early youth. Therefore, he must be restrained, and he must restrain himself. He must honor the feeling within himself to be restrained.
+
+<a id="p18"></a>He must not become politically engaged. He must not become seriously socially engaged. He must not have radical views. He must be very healthy. He must grow up in a healthy family, but be able to move beyond that family and its obligations and expectations. He must not have any religious training, or be religiously oriented particularly, so that his ideas do not become preconceived and formulated early in life. He must respect religion, but not become closely tied to it in any form.
+
+<a id="p19"></a>He will have to be willing to wait a very long time for his true partner and mate to arrive. And he must feel this and know this within himself sufficiently so as not to pursue romance or commitment in relationship before it is appropriate for him to do so.
+
+<a id="p20"></a>He must not become an ardent spiritual practitioner, for this will set in train preconceived notions that would only have to be undone later. So it is better that he restrain himself and be restrained even from this.
+
+<a id="p21"></a>His youth will be ordinary, but exceptional in some ways. He will not understand himself or his motivations, for that could not be understood at this early stage. He will have to trust a feeling that will only be there intermittently.
+
+<a id="p22"></a>He will have to want things but not have them, without knowing why. While everyone around him is giving themselves over to people, places and things, he cannot do this.
+
+<a id="p23"></a>He must learn about relationships, human passion and the follies of romance. He must see people committing all manner of errors and mistakes, without condemnation.
+
+<a id="p24"></a>He must wait. That is so very important here to understand. For who can wait? Can you wait, really wait, for the time, for the moment?
+
+<a id="p25"></a>When the Rays of Initiation would be shone upon him so powerfully, it would obliterate his former life and sever his connections, just enough so that he could be free to embark on a greater journey—a journey not of his own making, a journey that no one around him could understand, except perhaps the very wise.
+
+<a id="p26"></a>He would have to study and train for this Initiation. He would have to begin to teach the inexplicable Teaching in [The Way of Knowledge](https://www.newmessage.org/the-message/volume-3/living-way-knowledge) and begin to learn its fundamental and primary lessons.
+
+<a id="p27"></a>He would have to be intelligent but yielding, capable but ready for something greater without knowing what it is, what it is for or where it would take him.
+
+<a id="p28"></a>At his moment of great Initiation, he would have to be able to maintain his internal composure and to follow the directives that would certainly arise from such a monumental encounter, an encounter that few people in the world have ever had at this level of intensity.
+
+<a id="p29"></a>Only the Jesus, the Buddha and the Muhammad have been struck in this manner. For they too have come from the Angelic Assembly, as has the Messenger for this time and for this world.
+
+<a id="p30"></a>People can claim any title they want. They can assume anything. They can believe anything. They can imagine anything. But only Heaven knows who is to receive a preparation of this nature, and for what purpose, and for what ultimate end.
+
+<a id="p31"></a>The Messenger then would have to begin to unravel his former life, to leave his relationships and to embark on a period of wandering. For nine months, he wandered, not knowing what he was doing, not knowing where he was going, with just enough money to support him during this period.
+
+<a id="p32"></a>He would have to go where he was meant to go. He would have to not engage himself seriously in any relationship. He [would have to not] run away, and try to be safe anywhere or secure or loved or protected. With a greater destiny, he cannot give himself to these things.
+
+<a id="p33"></a>At the end of nine months, We came upon him again and told him to begin to prepare to record, which he did. And that began, very early, the transmission of God’s New Revelation. Yet it would be a long time before he would know what it was for, why it was even occurring, for there was no assurance at the beginning.
+
+<a id="p34"></a>He was not given his role at the beginning, for he would have to prove himself now, again and again. For seven years, he would have to prove himself and prepare to receive the Angelic Presence, which he could only do for moments at a time at the outset.
+
+<a id="p35"></a>He would have to record. He would have to provide Our testimony to certain people.
+
+<a id="p36"></a>He would have to move his family around repeatedly to certain places that were important for him to experience, to learn of the [Greater Community](https://www.newmessage.org/aboutgc) and of the more hidden powers working in the world today, both for and against humanity.
+
+<a id="p37"></a>His partner would arrive, and his son soon after. He would be a father and a husband and have to be responsible in all ways here, but still being guided by a mysterious Light, without a certain outcome or destiny. For these things would not be revealed to him until much, much later.
+
+<a id="p38"></a>He would have to be strong emotionally. He would have to be stable. He would have to be dependable and reliable, day in and day out, and build his strength in this way, as well as his deeper connection to those who sent him here.
+
+<a id="p39"></a>He would receive entire teachings. He would begin to lay the foundation, brick by brick, of the greatest Revelation ever given to humanity—beginning with people’s personal realms, beginning the teaching on how to receive a Revelation and to learn over time how to live it and to share it with others.
+
+<a id="p40"></a>After seven years, he would receive [Steps to Knowledge](https://www.newmessage.org/stk), the book of preparation in God’s New Revelation. He would have to be able to receive the Assembly for long periods of time, for days on end, to receive this important teaching and preparation for humanity.
+
+<a id="p41"></a>He would have to relocate to do this and leave his former home entirely, never to return, and take his family with him, along with others to assist him in this great endeavor.
+
+<a id="p42"></a>From here, he would have to search for a future home for the Revelation. He would have to travel across the country again and again to find this place, for it cannot be merely told to him where to go. It must be experienced once he arrived. For he would have to take complete responsibility for his actions, even though he was being guided from above.
+
+<a id="p43"></a>He could not claim the Angels of God were directing him, for he was not allowed to do this. He had to be responsible for everything, and take responsibility for the consequences, and be accountable for his actions. For only certain people would be allowed to know the real secret of his life.
+
+<a id="p44"></a>He would have to go through the difficult process of establishing a home in an entirely new place—where he knew no one, had no associations and no family and no history—and there to begin to receive the great books of the Revelation, and to begin to call people to assist him.
+
+<a id="p45"></a>But he was not yet ready to be a world teacher. He did not yet have these strengths or this comprehension. And he would have to wait many years for the Revelation to be given to him, step by step, and build itself into a world Teaching and ultimately a New Message from God. It would only be later that the true purpose and meaning of his long journey would be revealed to him.
+
+<a id="p46"></a>He had to undergo illness and incapacity for long periods of time from the great strain of undertaking this journey.
+
+<a id="p47"></a>He would have to call certain people to assist him. He would have to raise his son, who would become an important person in the Revelation, and in the future of the Revelation in this world.
+
+<a id="p48"></a>Everyone around him would have to develop significantly, and not everyone would be able to do this. Certain people would fall away, yet others would stay with him faithfully. He would have great difficulties at this time of maintaining the beginning organization that would be responsible for transmitting and teaching God’s New Revelation for the world.
+
+<a id="p49"></a>He would have to build the qualities of discernment, restraint and discretion, stability, faith, confidence and the ability to deal with small problems at every turn, and the needs of others that were genuine. He would have to be a pillar of strength. Even at this time of great uncertainty for him, he would have to be a pillar of strength for others.
+
+<a id="p50"></a>And all the while, his connection to the Assembly is growing, slowly, carefully, so as not to disable him from being able to be functional in the world, but to be a bridge between this world and the [spiritual] world beyond—strengthening his connection to each of these worlds and to the Beings that exist in each of these worlds.
+
+<a id="p51"></a>Here he could not surrender himself to God and give up all worldly activities, for he would be building the seeds and the foundation for great world activities and a great participation in the world.
+
+<a id="p52"></a>Here he would not become an ascetic and withdraw from life. He would be a husband and a father and a leader of an organization, all the while cultivating the great mystery of his life and purpose.
+
+<a id="p53"></a>He would have to be responsible for everything he did and not reveal to others the Source of his guidance or the nature of the mystery of his life. Only his wife and son and a few others would know of these things.
+
+<a id="p54"></a>He would have to develop his skills as a teacher, not just for individuals but for groups of people, for his destiny would be to speak to a whole world in the future.
+
+<a id="p55"></a>He would have to be compassionate, wise and competent, careful and discerning, patient, oh so very patient, with himself and others.
+
+<a id="p56"></a>He would have to develop inner listening so that he could hear and feel the power of Knowledge speaking as he was serving the needs of others.
+
+<a id="p57"></a>He would have to let people come and go, for not everyone has the strength to undertake the preparation provided by God’s New Revelation.
+
+<a id="p58"></a>He would have to hold fast to his purpose and his direction through times of great emptiness when he would not hear from the Angelic Assembly. He would have to build his own strength based upon Knowledge within himself. For he would have to become the strong vehicle for something so great and profound that the world can barely understand it.
+
+<a id="p59"></a>Through more periods of difficulty with his health, he would begin the proclamation and to receive the teachings of the proclamation, even the teachings about himself, as the New Message began to become fulfilled and complete through him.
+
+<a id="p60"></a>He would have to be humble, knowing that this was beyond him and greater than him. And yet he would have to be confident that he could take the next step and not seek an escape, as so many people do.
+
+<a id="p61"></a>His strength would have to be quiet. He would not declare himself. Only as the Revelation became complete would he begin to state its reality and have to admit that he really was the Messenger.
+
+<a id="p62"></a>He would have to overcome his own reluctance, for only the reluctant are chosen. For the task is too great, too demanding, too uncertain and even too dangerous for people to choose wisely with real understanding.
+
+<a id="p63"></a>He would have to cultivate the necessary abilities and refinements that Heaven would require. And this would take years and years and years, as it has taken for all the great Messengers. For no one, even if they are chosen, is ready at the outset.
+
+<a id="p64"></a>It has taken the Messenger 30 years to do this, and even longer given his early preparation. No one who is ambitious or self-determined could do this, could follow such an inexplicable journey and exercise such great forbearance, patience and stability. They would fall apart easily, for they do not have the inner strength or the greater connections with life to undertake such a greater task.
+
+<a id="p65"></a>He would have to be prepared to deal with the great difficulties of bringing the preparation to a world of great dissonance, fear, anger and distrust—where people are caught up in their beliefs and their admonitions, their failures and their pursuits of wealth and power.
+
+<a id="p66"></a>Who amongst them can hear God speaking again, through this individual? They may study their religions. They may even become religious teachers or scholars or advocates, but who can hear when God will speak again? Who has the humility to reconsider their ideas and beliefs? Who can listen to the stirrings of their heart and not merely be fixated in their beliefs and convictions and all that they have invested in, building up their position in the world?
+
+<a id="p67"></a>They would not receive the Messenger, who is the answer to their prayers. They would dispute him, condemn him and dismiss him, for they are not yet ready to receive him.
+
+<a id="p68"></a>The discouragement, the disappointment, the projections of evil and blame upon the Messenger will be heaped upon him as he proceeds. Even now he stands at the threshold of an unwelcoming world, seeking those individuals who can respond, who are ready to be amongst the first to receive the reality that God has spoken again.
+
+<a id="p69"></a>They will come from every country, every nation, every culture, one by one, not in great groups. Hordes of people will not rush to the Revelation. It will begin with a calling, a great calling that not only exists in the outer world, but that exists in the inner world as well. And they will have to have the courage and the trust and the wisdom to respond.
+
+<a id="p70"></a>If they do not respond and cannot respond and meet the requirements of their own calling, which is far less difficult and demanding than the Messenger’s, then the New Message may not build a hold or a footing in the world and be able to serve the world at this time as it is meant to do.
+
+<a id="p71"></a>For humanity is at the verge of failure—destroying the world it lives in, falling into despair, falling into chaos, falling into endless war and conflict over who will have access to the remaining resources of the world.
+
+<a id="p72"></a>So this is not a Revelation for some distant need, but for the immediate needs of people everywhere. For to live without the power of Knowledge is to live in great fear and uncertainty. It is to suffer.
+
+<a id="p73"></a>The Messenger is here to relieve that suffering, to give people strength and power, and to reveal to them the Will of Heaven and the real nature of their spirituality and greater calling in the world, and what the world will really need from them, beyond what they themselves may want to give for their own happiness.
+
+<a id="p74"></a>He is at this threshold now of calling out individuals around the world, for this is a Teaching for the whole world and not merely for one tribe, one nation, one region or one group. And timing is critically important because the Message is given for the world now. It is not something to be merely studied in a casual manner, or considered over time, or disputed and debated in the halls of academia, where Knowledge is so very rare.
+
+<a id="p75"></a>This is an urgent Message for humanity. The time is now. The need is overarching and growing with each passing day. Humanity cannot see or know what it must do. Not enough people have the conviction of heart to do what is really necessary. They must be reached by the Revelation. They can remain as Christians and Buddhists and Muslims, but they must be reached by the Revelation—enough people in the world.
+
+<a id="p76"></a>So the Messenger is under tremendous pressure to do this with very limited resources and support. He is always dealing with uncertainty, you see, and a great challenge. He cannot live a life of repose. He cannot lose himself in meditation for long periods of time. For he is called to a great service in the world, whose needs are profound and growing every day. And he is the one who has God’s answer.
+
+<a id="p77"></a>This is where his strength, his patience and his determination really are needed and required, or he would break down and fall apart. He would give himself to some wild and inappropriate avenue to seek, or be seduced by others who would want to use him and his Revelation for their own self-importance and ideas.
+
+<a id="p78"></a>No one understands the life of the Messenger. But We give these things to you so that you may begin to have an appreciation for who this individual is and what they have had to do and the long journey they have had to take. You who are impatient for everything cannot imagine the patience this has required and the forbearance it has required and the strength and responsibility it has required.
+
+<a id="p79"></a>God wants you to understand the process of Revelation. God wants you to understand the life of the Messenger, if you can. God wants you to feel this with your heart and not merely discern it with your ideas.
+
+<a id="p80"></a>God wants you to know the importance of the Revelation and what it has taken to bring it into the world, for the Messenger and for those who have abided with him and journeyed with him for so very long, during the long periods where he would have to remain in obscurity—preparing, building, studying.
+
+<a id="p81"></a>These are the saints of the Revelation, not because they were so glowingly magnificent, but because of what they were able to do, and the fidelity that they demonstrated, and the courage and commitment that moved their lives.
+
+<a id="p82"></a>See this in contrast to everyone and everything around you, and you will begin to see the power and the meaning of this for your life. For you too have a greater destiny and purpose and can learn from the life of the Messenger. But you are not called to do what he is called to do. You were not sent into the world to do what he was sent into the world to do, but to assist him and others in simple and humble ways but with a great spirit, the great strength and patience that the Messenger has demonstrated so far.
+
+<a id="p83"></a>Heaven looks upon him with great appreciation, but also with great need. Heaven looks upon his wife and his son as key to his success. Heaven looks upon those called to the Revelation with great intention, for they are important now, more important than they even know or realize.
+
+<a id="p84"></a>It is the Will of Heaven that God’s Message be given to the world in a timely manner, to prepare enough people to face the great change that is coming to the world and humanity’s encounter with life in the universe, a reality that no one in the world understands today.
+
+<a id="p85"></a>That is why God has revealed as part of the Revelation the reality and spirituality of life in the universe. God has revealed the [Great Waves of change](https://www.newmessage.org/aboutgwc) that are coming to the world so that people may be alerted and informed and given this greater perspective, which will bring greater clarity, purpose and meaning to their lives and activities.
+
+<a id="p86"></a>God does not prepare you for Heaven alone. God prepares you to deal with the real world and the New World that is coming that very few people in the world can yet see.
+
+<a id="p87"></a>You too must have the humility to receive the Revelation. You must have the strength and perseverance to take the Steps to Knowledge. You must have the courage to live with questions that cannot yet be answered. You too must live the calling that extends far beyond your intellect and your understanding. You too must build the [Four Pillars](https://www.newmessage.org/the-message/volume-3/living-way-knowledge/the-four-pillars-of-life) of your life—the Pillar of Relationships, the Pillar of Work and Providership, the Pillar of Health and the Pillar of Spiritual Development—all the things the Messenger has had to do and has been doing for so long.
+
+<a id="p88"></a>You will understand his life more completely as you take the journey yourself and see how really challenging it is, and how immensely rewarding it is, and how confounding it may be to your understanding and to your ideas of yourself. For its purpose is to take you beyond these things into a greater life, a greater service and a greater purpose in the world.
+
+<a id="p89"></a>The Messenger is in the world now. He is an older man. It would be a great honor and blessing for you to meet him during his life and to learn of him and to hold in your heart his demonstration and to receive his gift of Revelation, which will give you the life you have always sought in other things.
+
+<a id="p90"></a>Heaven blesses him and blesses all who can receive of him. He is a humble man. But in Heaven he is known, and he stands with those great Messengers who have blessed and guided humanity in the past.

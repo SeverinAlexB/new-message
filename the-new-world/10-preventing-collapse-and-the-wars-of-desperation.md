@@ -1,0 +1,162 @@
+---
+volume: 1
+book: "The New World"
+chapter: "10"
+title: "Preventing Collapse and the Wars of Desperation"
+type: chapter
+source_url: "https://www.newmessage.org/the-message/volume-1/new-world/preventing-collapse-wars-of-desperation/"
+---
+
+# Preventing Collapse and the Wars of Desperation
+
+<a id="p1"></a>- Listen
+- Info
+- Watch
+
+<a id="p2"></a>Hear the original spoken revelation:
+
+<a id="p3"></a>[Download](https://www.newmessage.org/av/preventing-collapse-and-the-wars-of-desperation.mp3) (Right-click to download)
+
+<a id="p4"></a>As received
+
+<a id="p5"></a>on January 2, 2009
+
+<a id="p6"></a>in Boulder, Colorado
+
+<a id="p7"></a>With the world’s resources diminishing and ever-growing numbers of people drinking from a slowly shrinking well, the risk of competition, conflict and war is increasing. Groups and nations that are already in contention with one another will find it difficult to resist the temptation to claim those resources that they need for their own peoples.
+
+<a id="p8"></a>As resources diminish, nations will become more protective of what they have. And there will be less available for nations around the world to purchase these resources—resources here, not merely industrial materials, but food, the availability of water, medicines, things that are fundamental to the well-being of people everywhere.
+
+<a id="p9"></a>But while the risk of war is growing and the conditions of war are increasing, that does not mean that war is inevitable. It does not mean that you cannot stop it or mitigate it.
+
+<a id="p10"></a>The changing conditions of the world are providing humanity with a fundamental requirement. And that is to conserve its resources, to protect its resources and to not overuse its resources. Yet that will require a great change from how people view these things today.
+
+<a id="p11"></a>Today humanity is like the locust in the field, devouring everything in sight, assuming there will always be new fields. Some people even assume there will be new worlds to explore once the Earth has been depleted, but that approach is self-destructive and has no future.
+
+<a id="p12"></a>You cannot go out in the universe to claim what you have destroyed here on Earth, for those resources are owned by others. And in most cases they are far more powerful than you. Besides, you will need to establish a greater wealth and stability to ever be able to leave this planet and to explore your surrounding environments.
+
+<a id="p13"></a>The emphasis in the world is still on growth, on expansion. Whole economic systems are based upon growth and access to ever-greater amounts of resources. This cannot continue. That is why the change at hand is so monumental, so fundamental and far-reaching.
+
+<a id="p14"></a>Humanity will have to enter a different kind of paradigm, a different kind of emphasis overall that will have to be on stability and security, for you have reached the limits of what growth can produce.
+
+<a id="p15"></a>While there may be certain new industries that grow and expand, humanity’s overall use of the world cannot grow. It will have to find new resources, of course. But the whole emphasis will have to change.
+
+<a id="p16"></a>You will have to adapt to a changing world and to the [Great Waves of change](https://www.newmessage.org/aboutgwc) that are coming to the world—great changes in your environments and your climates, violent weather, the diminishing production of food, economic and political instability and crises.
+
+<a id="p17"></a>This will require tremendous courage and change. But this change cannot be accomplished through war, for war destroys resources for everyone. And in that sense, war is ultimately self-destructive.
+
+<a id="p18"></a>While this price could be postponed or could be offset in the past because you always had a world requiring greater exploration and new resources, you have now come to the threshold where the world cannot provide much more for its growing human population. And that is why the emphasis overall will have to change.
+
+<a id="p19"></a>If humanity continues on its current trajectory, it will deplete the world beyond restoration in forty years. And in the time in between, you will face such calamitous instability, and even the collapse of nations.
+
+<a id="p20"></a>Do not think that technology alone will resolve these problems. There must be a change of heart, a change in the way people live, particularly amongst the wealthy nations—an emphasis on simplicity, an emphasis on self-sufficiency.
+
+<a id="p21"></a>As energy resources decline or become more unavailable, people will have to become more regional and local in their emphasis, which means their resources will have to come from sources that are closer at hand. This is a complete change in emphasis for many nations in the world today. This will be driven not by ethics or morality as much as by absolute necessity.
+
+<a id="p22"></a>Here war becomes unthinkable because it garners no real advantage. War was always a fool’s pursuit except in rare cases where one had to defend one’s nation against invading armies. But war for conquest of resources now will produce consequences that are far more costly than any benefits that can be achieved for any group or nation. This is a practical matter now as well as a moral and ethical issue.
+
+<a id="p23"></a>People will have to use less and become more self-reliant. Overconsumption here is the engine of war, requiring your nation now to seek resources beyond its own lands, resources that it must acquire at any cost—generating intervention and deception and manipulation of other peoples and nations.
+
+<a id="p24"></a>Yet this emphasis will not be given up easily. Perhaps humanity will have to face a series of tragic calamities in order to persuade it that it must change its approach and establish a different system and emphasis. Intelligent races change based upon recognition, and races that are exercising less intelligence learn based on tragic consequences.
+
+<a id="p25"></a>Therefore, people must have greater vision here. They must look beyond tomorrow. They must look out into the future on the horizon of life to see what is really coming. They must have the courage and the determination to face times of change and great uncertainty. Continuing to emphasize growth and the wonders of technology will be self-defeating, as they are even today self-defeating.
+
+<a id="p26"></a>Soils around the world will have to be rejuvenated, not by technology but by biological rejuvenation, or they will fail humanity’s needs in the future.
+
+<a id="p27"></a>Rivers will have to be cleaned up. Lakes will have to be cleaned up. Water is precious. It is precious in many places in the world and will become ever increasingly so all around the world as water resources become scarce in highly populated regions.
+
+<a id="p28"></a>Food production will be interrupted and even destroyed in large regions due to violent and unpredictable weather. This is occurring already in many places, affecting the lives of people all around the world.
+
+<a id="p29"></a>The great challenge for humanity here on Earth is how it will feed and care for its peoples. It will not be who can become rich and make money by doing nothing. That is a fool’s paradise. And it is actually to your benefit that you are coming to the end of this great and foolish endeavor.
+
+<a id="p30"></a>In essence now, besides the moral and ethical problems regarding human conflict, which are real and substantial, you simply cannot afford war. It will cost you too much. It will cost everyone too much. It has always cost everyone too much. Now you cannot afford it.
+
+<a id="p31"></a>But that does not mean it cannot happen and will not happen if great effort is not exercised to prevent the conditions that will make war inevitable. If people are hungry, they will not be reasonable or rational or accommodating. If people are losing their forms of self-sufficiency, you cannot expect them to behave in an orderly, sensible or productive manner.
+
+<a id="p32"></a>This is the great risk. This is the risk of war beyond the assertions of power by one nation over another, or by historical or religious differences or longstanding grievances between nations and groups. That will be a war of utter desperation, a war of terrible consequences, a war that would be very difficult to extinguish.
+
+<a id="p33"></a>It is in this new world you are entering, a world in decline, that wars of desperation will become increasingly possible and can only be thwarted and prevented by the wise and ethical maintenance of resources and distribution of resources.
+
+<a id="p34"></a>Eventually, humanity will have to find humane and ethical ways to limit its population. But you are not there yet. Eventually, humanity will have to change its entire relationship with the world. But you are not there yet. The emphasis here is practical, as well as moral and ethical.
+
+<a id="p35"></a>The wealthy nations will have to encourage simplicity and self-sufficiency in an ever-increasing manner. Those who are wealthy will have to use their wealth to help other people in very direct and significant ways. Many luxuries will have to be set aside because the resources will be much more important to be used in other ways.
+
+<a id="p36"></a>Instead of buying the new car or the beautiful jewelry, you support a village halfway around the world. Instead of the endless acquisitions of things you do not really need, you make sure that food is reaching the people who have the greatest need for it. Instead of this endless indulgence in one’s personal beauty and health, your emphasis becomes helping people, feeding people, serving people who have the greatest needs.
+
+<a id="p37"></a>In the future, there will have to be great emphasis on caring for the elderly, who will be much more vulnerable than they are today. The requirements for selfless activity, service to humanity, will be so overwhelming that this should consume the thoughts and the goals of the wealthy, particularly, but also [be] the emphasis for people everywhere.
+
+<a id="p38"></a>You will have to earn enough money now to take care of other people, perhaps people you do not even know—those who are vulnerable in your community, children without parents, elderly people, people with disabilities. The government will not be able to take care of all these people.
+
+<a id="p39"></a>Take your vital energy and direct it here. Learn to grow food in your backyard, in empty lots, everywhere you can, for food will be precious in the future, more precious than it is today, more difficult to acquire.
+
+<a id="p40"></a>This has many positive benefits, bringing people together in supporting people’s constructive behavior as an antidote to personal obsession and addiction. This can generate much greater humanity and recognition between peoples. Here people’s needs are all the same. And they are authentic needs, not the indulgences of the rich or the compulsive. These are essential needs. This brings people together.
+
+<a id="p41"></a>Governments will have to face the emphasis of taking care of their own people instead of trying to exert influence or dominance over other peoples and nations. If the needs of the people are simple, governments can do this. But if the needs of the people are overarching and complex, then the governments will have to try to acquire resources by any means.
+
+<a id="p42"></a>Here you must recognize there is a real difference between the cessation of war and the establishment of peace. A peaceful society requires peaceful minds. If minds are not at peace, if they are at war—full of conflict and enmity and condemnation—all you can hope for then is the cessation of war, the restraint of war.
+
+<a id="p43"></a>Not everyone is going to be peaceful. And in times of great change and uncertainty, people will be less peaceful, less accommodating and in many cases less wise and compassionate. You cannot ask people to change and also ask them to be at peace. For change is difficult and upsetting. It involves risk. It exposes one’s weakness and condemnation of others, one’s prejudices and one’s limitations.
+
+<a id="p44"></a>That is why stability and security must become the emphasis. People can only become so insecure or so unstable before societies begin to break down, and social disorder begins to erupt, and groups turn against one another, and nations are pulled into greater and greater conflict—wars of desperation.
+
+<a id="p45"></a>You are entering dangerous times now—uncertain times, a difficult time of adjustment for people everywhere, a time that will require greater human unity and cooperation. Here you, yourself, must become more accountable and responsible for how you live and for what you consume and what you do, what you give and what you take. You cannot simply defer to authority leaders or to government agencies. Everything you do must follow what you know to be right. That includes your role as a consumer.
+
+<a id="p46"></a>Many people have high ideals and values, but they want to buy the cheapest things, always. They always want the bargain item, not realizing or wanting to recognize that these things come from the worst working conditions in the world. So while they espouse peace and harmony and well-being for people, they are supporting the most degrading industries, the worst human working conditions, the greatest human exploitation.
+
+<a id="p47"></a>Everything you do now needs to be part of an ethical foundation. Everything you buy, everything you consume, everything that you use must be done with greater conscience and greater awareness.
+
+<a id="p48"></a>It is true today that there are many nations that are not self-sufficient in the production of food, in the availability of water and in the manufacture of essential goods. So trade between nations and interdependence between nations is a reality and cannot be undone.
+
+<a id="p49"></a>But the emphasis of governments must change from trying to become dominant, from trying to threaten their neighbors, towards taking care of the essential needs of their peoples. While this seems obvious, it is not the case today.
+
+<a id="p50"></a>Governments want to protect themselves more than their peoples. They want to assert power and influence. They want to support military actions in other nations. They want to support revolutions or terrorist organizations or uprisings and so forth. Some nations want to destroy other nations’ economic fabric by importing cheap goods, thereby destroying the productivity of the people they are selling things to. The examples here are many. And this is leading to greater instability, greater uncertainty and greater tensions between peoples and nations. Instead of importing so many goods, people should be establishing these industries for themselves.
+
+<a id="p51"></a>The problem with all nations becoming so interdependent is that when one falls, the others fall with them. Human civilization becomes more fragile and less resilient. So the balancing point here must be established from the reality of the world and the real condition of peoples around the world.
+
+<a id="p52"></a>It is not enough for wealthy nations to simply give charity to nations that are in crisis, or where starvation is occurring. The wealthy nations will have to change their behavior, shift their values, become more responsible and accountable for how they live and for how they use the world.
+
+<a id="p53"></a>Here there must be a revolution in thinking more than a revolution of arms—a greater sensitivity, a greater awareness, a greater responsibility for people. This is redeeming and this is necessary.
+
+<a id="p54"></a>As the world is changing, you must change to adapt to it. As resources are declining, you must change to adapt to this. Here you must use everything carefully. There cannot be the amount of waste that exists today, profligate waste.
+
+<a id="p55"></a>This is a sign of humanity’s decadence and ignorance. It is a sign that humanity is not paying attention to the condition of the world and is not aware of its own vulnerability in this regard.
+
+<a id="p56"></a>People think the world will just continue to provide endlessly for their ever-escalating set of needs and desires, like it is a cornucopia of wealth that just requires investment and expenditure. That is an old paradigm of thinking, an old way of looking at the world.
+
+<a id="p57"></a>In a certain way, it was appropriate in history. But now humanity is becoming dangerously close to overusing the world to such an extent that you are changing the condition of the world itself. The world will not accommodate human habitation if this change is continued.
+
+<a id="p58"></a>War is a failure. War is always a failure in human communication and human recognition. But wars of desperation are a failure at a much greater level, a kind of failure that cannot really be undone.
+
+<a id="p59"></a>For once you are driven to desperation, then your options are few. You have already passed the point at which mitigation can take place. You have already driven yourself to the point of desperation. And it is in this environment that humanity’s greatest weaknesses and greatest liabilities come into play.
+
+<a id="p60"></a>It is important that governments everywhere in the world begin to educate their peoples about the changing condition of the world and about the Great Waves of change that are coming to the world, and how humanity must adapt to these changes before the real limitations are placed upon the people. People can adapt to change if they are aware of it and can prepare for it and have time to prepare for it. But they need this time. They need this preparation. To not inform peoples of what is coming, that is irresponsible and unconscionable.
+
+<a id="p61"></a>This is a Message for all of humanity. It comes from the Creator of all life. It is a gift of profound love and respect. But it also contains a warning and a revelation of what is coming over the horizon.
+
+<a id="p62"></a>Humanity is borrowing from its future now. It is spending its future resources. It is spending its natural endowment at such a rate that it is heading towards depletion and collapse.
+
+<a id="p63"></a>If you cannot see this, then you are not looking. If you think that technology alone will resolve all of these problems, then you are not seeing the limits of technology and the dangers of deprivation. If you cannot see that the world is a shrinking well, then you will not recognize the consequences of your actions or the future that you are heading into—a future that you will not be able to avoid, a future that will affect everyone.
+
+<a id="p64"></a>Stability and security cannot be used by tyrants to oppress the peoples. There cannot be an excuse to destroy freedom and self-expression. But it is a fundamental reality that you must face as part of the natural world and as a citizen of human civilization. This recognition is fundamental.
+
+<a id="p65"></a>Many people cannot see this because they are so jaded in their political viewpoint. They are so distrustful of other people. They are so condemning of human leaders and institutions that they are blinded to the very natural circumstances that give them life, that promise them life for the future. Here humanity is depending upon a set of assumptions that are no longer valid and that cannot be sustained.
+
+<a id="p66"></a>God has given each person a deeper Intelligence, the greater power of Knowledge, an Intelligence that is not filled with enmity and judgment or false assumptions; an Intelligence that is here to protect you, to guide you and to lead you to a greater life in service to the world.
+
+<a id="p67"></a>It is at this deeper level that you will find your humanity, your compassion and your strength. It is at this deeper level that you will come to recognize that these words that We speak are true and cannot be denied without putting yourself and your community and nation at grave risk.
+
+<a id="p68"></a>This is not a message of fear. This is a message of love and respect and concern. Do not misinterpret this, or you will not recognize the gift of wisdom that this really is and how it will strengthen you and renew your life.
+
+<a id="p69"></a>Great change in the world will require great change in human awareness, in human thinking, in human beliefs and assumptions. Do not pray to God thinking God will give you ever-greater abundance, for God has given you this world and one another. If you cannot find the splendor there, if you cannot use these resources and this wealth responsibly, in such a way that your children and their children will have a future, then do not ask God for anything else. If you use up your natural inheritance, then do not think that God or some race from another world will come to save you.
+
+<a id="p70"></a>You are entering the era of human responsibility and cooperation. You must be able to respond. That is response-ability, human responsibility and cooperation, rather than the individual quest for wealth and dominance.
+
+<a id="p71"></a>The world is changing, and you must change with it. You must adapt to it and hope that it does not adapt to you beyond what can sustain humanity in the future. It is this recognition and this power of Knowledge that will give you the clarity and the certainty and the understanding that you will need to proceed and to navigate the difficult times ahead.
+
+<a id="p72"></a>Here you will find the strength to reconsider your life in a deep evaluation. Here you will see how you can be of service to others, and how you can be part of the great and necessary change that must occur, particularly amongst the wealthy nations where people have the freedom to redirect their lives and to change their circumstances.
+
+<a id="p73"></a>You will find your strength in Knowledge. You will find your direction at the level of Knowledge. You will find your humanity and the humanity of others at the level of Knowledge. You will want others to succeed so that you can succeed. You will want others to be stable so that you can be stable. You will want others to have their needs met so you do not have to struggle with them and fight with them over who will survive and who will not survive. Here you will see that you and others must not become desperate. That is the great danger, and that is a great hazard.
+
+<a id="p74"></a>The power for you to see this and know this and to bring this awareness into the world is with you now. Perhaps it is not reflected in your thoughts, beliefs and attitudes, but it is fundamental to the deeper Knowledge that God has given you, which has not been changed and corrupted by the world.
+
+<a id="p75"></a>It is this power that you must now have to find your way and to find the courage, the strength and the determination you will need as an individual to enter a new world and to find success and fulfillment there.

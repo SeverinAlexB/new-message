@@ -1,0 +1,18 @@
+---
+volume: 3
+book: "Steps To Knowledge"
+chapter: "013"
+title: "Step 12: My individuality is to express life itself."
+type: chapter
+source_url: "https://s3.us-east-1.wasabisys.com/nmfg-pdf/books/StepstoKnowledge_v1.5.pdf"
+source_pdf: "../sources/pdf/steps-to-knowledge.pdf"
+---
+
+# Step 12: My individuality is to express life itself.
+
+<a id="p1"></a>Here your uniqueness is a great asset and a source of joy, not a source of painful alienation and not a source of painful judgment against yourself or others. This distinction does not elevate you above or place you below anyone else.
+It merely pinpoints the real purpose behind your individuality and its great promise for the future. You are here to express something. That is the real meaning given to your individuality because you do not want to be separate anymore.
+
+<a id="p2"></a>On two occasions today, practice two periods of silence exercising the practice that We have illustrated thus far.
+
+<a id="p3"></a>Practice 12: Two 15-minute practice periods.

@@ -1,0 +1,120 @@
+---
+volume: 1
+book: "The Power of Knowledge"
+chapter: "14"
+title: "The Remembrance"
+type: chapter
+source_url: "https://www.newmessage.org/the-message/volume-1/power-of-knowledge/remembrance-eternal-life/"
+---
+
+# The Remembrance
+
+<a id="p1"></a>- Listen
+- Info
+- Watch
+
+<a id="p2"></a>Hear the original spoken revelation:
+
+<a id="p3"></a>[Download](https://www.newmessage.org/av/the-remembrance.mp3) (Right-click to download)
+
+<a id="p4"></a>As received
+
+<a id="p5"></a>on March 12, 2016
+
+<a id="p6"></a>in Boulder, Colorado
+
+<a id="p7"></a>Today We shall speak on “The Remembrance.”
+
+<a id="p8"></a>You carry within you the memory of your Ancient Home, deep beneath the surface of your mind, deep beneath the surface of that part of your mind that has been conditioned by the world and is fixated upon the world. But deeper within you, there is a greater remembrance, there is a greater Presence, there is a greater connection with your Spiritual Family beyond this world, who have sent you here, on a mission, with a purpose to fulfill.
+
+<a id="p9"></a>You have not lost your connection to Heaven. In fact, you are tethered to Heaven even while you wander in the universe, living in [Separation](https://www.newmessage.org/the-message/volume-1/one-god/the-separation), living in Separation from all that truly is that is permanent and timeless and forever. But what is timeless and forever is not what your eyes see, or your ears hear, or what your hands can touch.
+
+<a id="p10"></a>For you are living in a different kind of reality now, a temporary reality—temporary on a long time scale. It has a beginning, a middle and an end. And at this moment, you are somewhere in the middle, for the end is far ahead of you, and the beginning is far behind you.
+
+<a id="p11"></a>You are like the iceberg, you see. Part of it is above the water line, but much of it is beneath, out of sight, hidden, but still completely part of the structure of who you are. And, in fact, it is the ballast to who you are. It is the foundation of who you are. It is who you are, in timeless reality.
+
+<a id="p12"></a>But here in this world, at this time, you are a person. You are a singular identity—part of a culture, part of a nation, part of the events of this world at this time, conditioned by this world, fixated upon this world, dominated by this world.
+
+<a id="p13"></a>But deep beneath the water line, deep beneath the surface of your mind, there is the power of Knowledge, the deeper Mind within you. And this Knowledge holds the remembrance of your Ancient Home.
+
+<a id="p14"></a>At some point, perhaps in a moment of despair or great sobriety about your life, or a moment of great prescience and clarity of mind, you will feel this remembrance. It is not something that you will recall in images. It is more a deeper feeling of connection, what it felt like to be there, and how different that is from where you are now—a completely different reality, most assuredly. And perhaps in these moments of greater clarity, where you are not obsessed with the world or yourself, you will feel these things, for they live within you at every moment. You cannot lose them, really. Even though you are wandering in time and space, they are with you always.
+
+<a id="p15"></a>And when you leave this life, you will return to the remembrance and to those who sent you into the world, with great clarity of what you were sent here to do and great certainty of whether you did it or not. There is no punishment here, you see. There is no damnation, for that is a human creation. There is only the remembrance. “Ah, yes, I was in that world, in that place.”
+
+<a id="p16"></a>But here, at this moment, the remembrance is so important because it begins to restore to you—consciously—your connection to Heaven, and with this connection, you have a lifeline feeding you strength and purpose, strength and courage.
+
+<a id="p17"></a>Before this, you are a product of your culture as if you were remade within this culture—dominated by others, your family, your friends, society’s expectations, dominated even by the physical forces in your body.
+
+<a id="p18"></a>But now the other great portion of your life begins to emerge in your awareness. You are no longer just the tip of the iceberg above the water line. You are becoming something deeper, stronger and greater—more substantial in the world than this frail creature that you are today, more independent, less affected by the turbulent and tragic world around you, less drawn by desire and less discouraged by catastrophe.
+
+<a id="p19"></a>God has sent the New Revelation into the world for this time and for the times to come. It brings to you the gateway to remembrance through taking the [Steps to Knowledge](https://www.newmessage.org/stk), engaging your worldly mind with the deeper Mind, the immortal Mind, within you. And with this comes, in little increments perhaps, here and there, the remembrance of your Ancient Home, in feeling.
+
+<a id="p20"></a>You do not remember what it looks like because what it looks like is not how this reality is portrayed. But you remember being with certain individuals and presences with the immediate and clear understanding of what you are doing and why you are coming into the world. This is all part of the remembrance.
+
+<a id="p21"></a>Beyond this is Creation itself, timeless, inconceivable from where you stand today. Anything that is immortal is inconceivable to a mind that has been created in time and space. That is why you cannot conceive of Heaven. Or if you try, as many people do, it becomes kind of an extension of your life in the world, only much better of course, but ultimately extremely boring and uneventful. For if life is good all the time, it ceases to be a pleasant experience.
+
+<a id="p22"></a>But your Ancient Home is entirely different from this, you see, and that is why you cannot imagine it. But you can feel the power and presence of Knowledge within you: a Mind born of Heaven, a part of you that has never left God, your lifeline to Heaven and in this world, in this life, the foundation of your strength, your integrity and the keeper of the greater purpose that has brought you here, and with it the remembrance and the recognition of those who in life will play a necessary role in the expression of this purpose.
+
+<a id="p23"></a>What greater strength could God give to you than the remembrance? For with it comes the strength of your immortality, which begins to unravel the countless layers of fear, apprehension, resentment and unforgiveness that are so much a part of your experience living in Separation.
+
+<a id="p24"></a>What greater gift could God give you than the remembrance of who you are, why you came, who sent you and what it means to be in the world, living with a greater purpose and mission for being here?
+
+<a id="p25"></a>As you take the Steps to Knowledge, as you begin to allow Knowledge to reshape your life and the remembrance to give you its strength, courage and integrity, you will look at others as if they are living in chains—bound to their ideas, lost in their fears and their fantasies, believing in their delusions, trying to be happy, trying to be comfortable, trying to be secure but always feeling insecure, always feeling uncomfortable, always driven by anxiety.
+
+<a id="p26"></a>Their plight, which was your plight before, now becomes ever clearer, and you will look upon them with compassion, for you will see their dilemma more clearly. You will see more clearly the reality of living in Separation, apart from your Ancient Home and all that existed there. But now you have begun the remembrance slowly, surely, as your life begins to become simple and clear, as your mind begins to open from its long and troubled dream of Separation.
+
+<a id="p27"></a>It is the remembrance. It is the feeling that you are not alone. There is the recognition that you are not really lost, lost as you were before. There is something more solid and permanent within you now that transcends belief and ideology.
+
+<a id="p28"></a>You can feel it, and as you feel it, it becomes stronger and more prevalent in your life, providing contrast and giving you freedom from constant anxiety and self-repudiation. Your values change. Your priorities change, naturally, because you are beginning to remember.
+
+<a id="p29"></a>As you remember, you feel Heaven smiling upon you, and your old fear of God, your old fear of punishment, your old fear of sin, your old fear of being exposed to the Presence begins to melt away. Like ice upon the pond, in the warmth of Heaven, it begins to melt away.
+
+<a id="p30"></a>Now you have an anchor for being in the world that is not of the world but that must be in the world. For you are not of the world, but now you must be in the world. But you need this anchor, you see, or you will be adrift—adrift on the turbulent seas of the world, lost, drifting, unknown to yourself and others.
+
+<a id="p31"></a>But now you have sails and you have direction. Now your life can begin to move as it was meant to move, as it was designed to move, as it was intended to move. Slowly, moments here and there, you feel it.
+
+<a id="p32"></a>But the moments increase as you take the Steps to Knowledge. As you allow your mind to settle down; as you learn how to live without constant fear and uncertainty; as you find freedom each day from self-repudiation and self-doubt; as you are freed from unhealthy engagements with others, unhealthy habits within your own thinking and behavior, the moments of remembrance increase, become more pervasive, become more like the background of your real life. Instead of only a fleeting moment here and there, it becomes the ground underneath your feet, the ballast for your ship so that it can withstand the winds of the world and sail the turbulent seas with assurance.
+
+<a id="p33"></a>What could God give you that would be greater than this? Wealth? Romance? To deepen your engagement with Separation, to deepen your attachment to things that have no meaning or value?
+
+<a id="p34"></a>How could God give you peace of mind if you had no idea of who you are? Or why you are here? Or what you must do? Or where you must go? What reassurance could God really give you beyond the power of Knowledge and the remembrance?
+
+<a id="p35"></a>As you climb this mountain, your fear of Heaven will disappear. Your fear of death will begin to fade away. Now, as you proceed, it is your direction that is important, and you do not want that to be threatened or destroyed.
+
+<a id="p36"></a>Your future in Heaven is assured. There will be no Hell and damnation. But your success in this life is dependent upon the recognition and the fulfillment of your mission, and discovering those individuals who will play a significant and necessary role here.
+
+<a id="p37"></a>This will become your focus. The fear that lives within you, then, is the fear that you may not be able to fulfill this mission, or that you may become distracted as you were before, or that your life may break down, or your health may collapse.
+
+<a id="p38"></a>Your emphasis here is entirely different. Now your emphasis is on following the direction with growing understanding of what it is and what it is not, where it must go and where it must not go, who it involves and who it does not involve. You see, it is not just a definition. It is clearing away that which does not belong, that which is not you, that which attached itself to you or that you attached to yourself in your previous life.
+
+<a id="p39"></a>As these things fall away, and as you come into the clear, then your direction becomes more evident, more certain, more substantial. It is not just the end point that is important. It is the discovery, for this is what undoes Separation within you—finally liberating you from the chains of Separation, finally giving you the eyes to see and the ears to hear, finally giving you true relationship. For with the remembrance comes the experience of true relationship.
+
+<a id="p40"></a>Even if you are entirely alone and have not found your true companions in the world, you will feel that you are known and supported, that your life is valued, for reasons that you cannot invent but which live intrinsically within you. You will know this with the remembrance, and the remembrance will grow as you proceed in receiving God’s great Revelation for the world.
+
+<a id="p41"></a>For while all the previous Revelations brought the remembrance, they were changed by man, overlaid with customs and traditions that had nothing to do with the original intent of Revelation. They became the culture. They became the state. They became everyone’s ideas. And the remembrance was lost, except by those who could see beyond all of these things and hold to the true Revelations as they were given in previous times.
+
+<a id="p42"></a>But now you are hearing the Revelation uncontaminated, unchanged by man, unadulterated, without culture and politics, and human will and greed and corruption to muddy the stream. For here the waters are clear and pure, and the Will of Heaven is evident within them. This gives you the greatest opportunity to find your way and to escape your troubled past and to begin to experience the remembrance.
+
+<a id="p43"></a>For how can you not remember where you have lived [eternally]? How can you not remember what that felt like? How can you not remember those who sent you into the world, who represent your working group, your Spiritual Family? Your current existence is like a grain of sand, and your true existence is like the beach that stretches as far as the eye can see. How can you not remember such a great thing?
+
+<a id="p44"></a>The truth is you can, and you will. But you must have the correct preparation. You must have the right approach. You must have the right instruction. And you must have relationships in life here that can support this and reflect this for you.
+
+<a id="p45"></a>So the Messenger calls those to gather with him at certain times so that he can impart the Presence and the Remembrance and so that you, who feel so called, can recognize you are not alone and that relationships of true meaning are there, not just in one person only, but all around you, as you gather in the Circle of the Messenger. This is all part of the Remembrance, you see.
+
+<a id="p46"></a>For the power and persuasions of the world are very strong, very dominating, so dominating they can overshadow the remembrance, as they have for everyone here until they begin to awaken.
+
+<a id="p47"></a>So God must give the pathway. God must give the [Messenger]. God must remind you repeatedly, over and over again, of what lives deep within you, beyond the surface of your mind: the remembrance of that, and with that the remembrance that you have come from a Greater Reality, to which you will return at some point, when your work here is done, when your service to those who remain behind is fulfilled sufficiently.
+
+<a id="p48"></a>And you will carry this beyond this world to join those who watch over the world. For you do not simply die and go to Heaven. You join those who support everyone who remains behind—your Spiritual Family, your working group. They are like streams that join with other streams in time, which join with rivers, which become great rivers, which lead to the great ocean of God’s Love and Power and Presence.
+
+<a id="p49"></a>You are blessed because the Revelation is known to you. You are blessed because Knowledge lives within you, and it remains uncontaminated by the world, and is unafraid of the world, and is not confused about anything that confuses you today. And you are blessed because the memory of your Ancient Home and of those who sent you into the world are with you, always.
+
+<a id="p50"></a>Take then now the steps towards remembrance. Take then now the Steps to Knowledge. Receive in humility and in gratitude the Revelation for this time and the times to come.
+
+<a id="p51"></a>Let your heart and your deeper sense enable you to respond. Allow your mind to be confused, for it is confused already. Allow things to be undefined until Knowledge can make life clear to you over time. Allow your journey to open before you, step by step, rather than constructing some belief about what it is and what it will mean.
+
+<a id="p52"></a>You control yourself in taking the journey. You will need to control your mind and emotions and involvements with others, and bring greater clarity and discernment to these things.
+
+<a id="p53"></a>But the journey itself is being given to you from beyond you. For you do not know your way to return. Nor can you construct it for yourself.
+
+<a id="p54"></a>It is mysterious, just like the remembrance, just like Knowledge within you, just like the greater reality of you that lives beneath the water line, beneath the surface of the mind.

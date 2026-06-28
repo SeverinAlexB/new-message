@@ -1,0 +1,32 @@
+---
+volume: 6
+book: "Wisdom from the Greater Community Book One"
+chapter: "01"
+title: "Introduction"
+type: chapter
+source_url: "https://www.newmessage.org/book-intro/wisdom-from-the-greater-community-book-one-introduction/"
+---
+
+# Introduction
+
+<a id="p1"></a>We welcome you to the Books of Wisdom, Wisdom from the [Greater Community](https://www.newmessage.org/aboutgc). Within these pages you will find a new beginning, a great opportunity and a confirmation of your purpose for coming into the world, particularly at this time in the world’s evolution.
+
+<a id="p2"></a>Here we present to you a new threshold, a new way, and with this a greater perspective and experience of the magnitude of life and the meaning of the world’s emergence into the Greater Community of Worlds. For it is true, as many people have felt, that humanity is at a new beginning. But very few people understand what this new beginning means. They think that the new beginning is simply a continuation of the past and will fulfill the past and continue the past for them. But the new threshold that humanity is facing and approaching now is indeed a new beginning. It is a departure from the past and an entry into a larger arena of life, which we call the Greater Community.
+
+<a id="p3"></a>Here humanity will face the reality that it is not alone in the universe or even within its own world. Here humanity will face the real prospect of encountering other forms of intelligent life, for this is the destiny of humanity, and this destiny is upon you now. For this, you will need a greater Knowledge and a greater Wisdom, a Knowledge and Wisdom that human philosophy and human religion alone cannot provide. It is for this reason that the Creator has given you an opportunity now to prepare for the Greater Community and to realize within the larger context of life the meaning and the purpose of your being in the world at this time.
+
+<a id="p4"></a>This is not simply another teaching amongst many teachings. It is indeed nothing less than a new testament, for the Creator would not leave humanity alone at the threshold of its emergence into the Greater Community, and that is why [The Greater Community Way of Knowledge](https://www.newmessage.org/the-message/volume-4/greater-community-spirituality/what-is-the-greater-community-way-of-knowledge) is being presented. It is being presented in such a way that it will call upon what is most deeply felt and deeply known within you. And it will speak to your deepest needs and your deepest inclinations in words that are simple and unencumbered by religious symbols to as great an extent as is possible.
+
+<a id="p5"></a>The Greater Community Way of Knowledge represents a translatable spirituality, a greater spirituality that humanity must learn to embrace if it is to realize its purpose and its destiny in the Greater Community and if it is to find its strength, its cohesion and its integrity as a race. This will enable you to emerge into the Greater Community and to survive within this larger environment.
+
+<a id="p6"></a>In [The Way of Knowledge](https://www.newmessage.org/the-message/volume-3/living-way-knowledge), you will learn many new things as well as confirm what has already been realized within human history. Here what is most essential in human religion will be emphasized, which is the discovery and the expression of Knowledge, the Greater Mind that the Creator has given to you, your great endowment from the Creator. Here you will learn a new Wisdom, a greater Wisdom, a Wisdom that will enable you to face life, to experience life and to learn to communicate with life in a far greater way than was ever required before.
+
+<a id="p7"></a>You may well ask, “Is it possible to learn such things? Is it really necessary? Can I learn something like this?” These three questions go together, and the answer to all of them is a resounding “Yes.” But to learn and to live Greater Community Knowledge and Wisdom, you must open your mind as much as you can. You must have a new beginning, and you must find a way to come into the clear where you are not encumbered by your past thoughts or by the conditioning of the world. This is possible now because you have the opportunity to learn a Greater Community Way of Knowledge. Learning The Way of Knowledge will take you beyond the limits and boundaries of human reason, human perception and human understanding. It will liberate you from the constraints and the prejudices of human religions, human values and the limitations of human culture. This does not deny your humanity but instead gives it a greater context and environment and a greater opportunity for expression.
+
+<a id="p8"></a>Humanity is endowed with a great spirituality, and this has been kept alive through the centuries by the presence of the Unseen Ones, the Angels of the Creator, and by the revelation, the expression and the contribution of many inspired individuals. Here human religion has played a fundamental role despite its many errors. It has paved the way for [a new revelation](https://www.newmessage.org/aboutnmg), a new testament, a new expression of human divinity and a new application and meaning for human wisdom.
+
+<a id="p9"></a>It is time now to learn [Wisdom from the Greater Community](https://www.newmessage.org/the-message/volume-6/wisdom-greater-community-book-1). Real Wisdom must be learned. Knowledge, the Knowing Mind, is already within you. Knowledge only requires that you open yourself to it so that it can express itself and reveal itself to you. Then Knowledge can contribute through you to the world around you. But Wisdom must be learned. Here the application of Knowledge, the meaning of your existence, the development of discernment and discretion, the cultivation of forbearance, compassion, insight and a greater generosity are born of the overflowing nature of your Spirit and the expression of your true spirituality.
+
+<a id="p10"></a>Let us now begin to learn a new way and to experience together the new revelation of the Creator. We have come to the world for this purpose. We represent spirituality in the Greater Community. We have selected one individual to be our speaker for this great purpose and mission. Together with him, we are able to introduce to you a Greater Community Way of Knowledge and to express to you in many ways and in many areas of application the meaning and the necessity of learning greater Wisdom, Wisdom from the Greater Community.
+
+<a id="p11"></a>The Unseen Ones

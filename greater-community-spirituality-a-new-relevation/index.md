@@ -27,7 +27,7 @@ See also: [../index.md](../index.md) for the Allies of Humanity master index.
   - Key concepts: Knowledge, inner guidance, spiritual intelligence, purpose, Greater Community, God, spirituality, human purpose
 
 - **`05-what-is-human-purpose.md`** — Chapter 5: What is Human Purpose?
-  - Summary: Frames human purpose as contribution discovered through Knowledge and relationship. Purpose is presented as something lived and revealed through service rather than invented by the personal mind.
+  - Summary: Frames human purpose as contribution discovered through Knowledge and relationship. Purpose is presented as something lived and revealed through service rather than invented by the personal mind, and introduces the idea of bringing gifts from one's Ancient home into the world before returning to one's Spiritual Family.
   - Key concepts: human purpose, contribution, relationship, service, Greater Community, Knowledge, God, spirituality
 
 - **`06-what-is-the-greater-community.md`** — Chapter 6: What is the Greater Community?
@@ -55,7 +55,7 @@ See also: [../index.md](../index.md) for the Allies of Humanity master index.
   - Key concepts: preparation, purpose, service, Greater Community, Knowledge, God, spirituality, human purpose
 
 - **`12-whom-will-you-meet.md`** — Chapter 12: Whom will you meet?
-  - Summary: Discusses the people and relationships one may encounter in preparation. It emphasizes recognition, companionship, and the importance of true teachers and allies.
+  - Summary: Discusses the people and relationships one may encounter in preparation. It emphasizes recognition, companionship, true teachers and allies, and the deeper relationships with one's Spiritual Family that stand behind one's life in the world.
   - Key concepts: relationship, companions, teachers, recognition, Greater Community, Knowledge, God, spirituality, human purpose
 
 - **`13-what-must-be-unlearned.md`** — Chapter 13: What must be unlearned?
@@ -67,7 +67,7 @@ See also: [../index.md](../index.md) for the Allies of Humanity master index.
   - Key concepts: avoidance, discernment, error, spiritual practice, Greater Community, Knowledge, God, spirituality, human purpose
 
 - **`15-who-serves-humanity.md`** — Chapter 15: Who serves humanity?
-  - Summary: Explains who truly serves humanity from within and beyond the world. This chapter connects Greater Community Spirituality to the Allies of Humanity, the Unseen Ones, and hidden sources of assistance.
+  - Summary: Explains who truly serves humanity from within and beyond the world. This chapter connects Greater Community Spirituality to the Allies of Humanity, the Unseen Ones, the Harim, the Wise, and hidden networks of assistance that preserve Knowledge across worlds.
   - Key concepts: Allies of Humanity, service, Unseen Ones, Greater Community, Knowledge, God, spirituality, human purpose
 
 - **`16-who-are-the-unseen-ones.md`** — Chapter 16: Who are the Unseen Ones?
@@ -75,7 +75,7 @@ See also: [../index.md](../index.md) for the Allies of Humanity master index.
   - Key concepts: Unseen Ones, Angelic Presence, guidance, service, Greater Community, Knowledge, God, spirituality, human purpose
 
 - **`17-how-does-revelation-occur-in-human-life.md`** — Chapter 17: How does revelation occur in human life?
-  - Summary: Explores revelation as an event and process in human life. It distinguishes authentic revelation from personal fantasy or social belief and links it to Knowledge and spiritual authority.
+  - Summary: Explores revelation as an event and process in human life. It distinguishes authentic revelation from personal fantasy or social belief, links it to Knowledge and spiritual authority, and warns that premature contact with one's Spiritual Family or Ancient home can distract from service in the world.
   - Key concepts: revelation, Knowledge, Messenger, spiritual authority, Greater Community, God, spirituality, human purpose
 
 - **`18-what-is-human-destiny.md`** — Chapter 18: What is human destiny?
@@ -83,7 +83,7 @@ See also: [../index.md](../index.md) for the Allies of Humanity master index.
   - Key concepts: human destiny, Greater Community, evolution, purpose, Knowledge, God, spirituality, human purpose
 
 - **`19-what-is-religion.md`** — Chapter 19: What is religion?
-  - Summary: Defines religion as a vehicle for spiritual experience rather than an end in itself. It distinguishes living Knowledge from institutional identity and inherited belief.
+  - Summary: Defines religion as a vehicle for spiritual experience rather than an end in itself. It distinguishes living Knowledge from institutional identity and inherited belief, and states that the world and one's Ancient home are different realities whose relationship must be mediated through contribution.
   - Key concepts: religion, spirituality, Knowledge, tradition, Greater Community, God, human purpose
 
 - **`20-what-is-religious-education-and-who-is-it-for.md`** — Chapter 20: What is religious education and who is it for?
@@ -122,72 +122,47 @@ See also: [../index.md](../index.md) for the Allies of Humanity master index.
   - Summary: Collects biographical and organizational back matter about Marshall Vian Summers, the Society for the New Message, and the invitation to continue preparation.
   - Key concepts: Marshall Vian Summers, Society for the New Message, New Message, Steps to Knowledge, preparation
 
-## Concept index
+## Concept index (Greater Community Spirituality)
 
 - **Allies of Humanity** — `15-who-serves-humanity.md`
-- **Angelic Presence** — `16-who-are-the-unseen-ones.md`
-- **assumptions** — `13-what-must-be-unlearned.md`
-- **avoidance** — `14-what-must-be-avoided.md`
-- **belief** — `13-what-must-be-unlearned.md`
-- **communication** — `23-how-is-knowledge-translated-in-the-greater-community.md`
-- **companions** — `12-whom-will-you-meet.md`
-- **contribution** — `05-what-is-human-purpose.md`
-- **discernment** — `03-what-is-life-force.md`, `07-how-is-wisdom-achieved-in-life.md`, `14-what-must-be-avoided.md`
-- **discipline** — `10-how-do-you-prepare.md`
-- **discovery** — `22-where-can-knowledge-be-found.md`
-- **Divine** — `25-what-is-grace.md`
-- **Divine participation** — `09-how-does-god-participate-in-the-world.md`
-- **environment** — `02-what-is-the-world.md`
-- **error** — `14-what-must-be-avoided.md`
-- **evolution** — `18-what-is-human-destiny.md`, `27-what-is-the-evolution-of-religion-in-the-world.md`
-- **experience** — `07-how-is-wisdom-achieved-in-life.md`
-- **freedom** — `13-what-must-be-unlearned.md`
-- **God** — `01-what-is-god.md`, `02-what-is-the-world.md`, `03-what-is-life-force.md`, `04-what-is-knowledge.md`, `05-what-is-human-purpose.md`, `06-what-is-the-greater-community.md`, `07-how-is-wisdom-achieved-in-life.md`, `08-who-is-wisdom-meant-for.md`, `09-how-does-god-participate-in-the-world.md`, `10-how-do-you-prepare.md`, `11-what-is-your-preparation-for.md`, `12-whom-will-you-meet.md`, `13-what-must-be-unlearned.md`, `14-what-must-be-avoided.md`, `15-who-serves-humanity.md`, `16-who-are-the-unseen-ones.md`, `17-how-does-revelation-occur-in-human-life.md`, `18-what-is-human-destiny.md`, `19-what-is-religion.md`, `20-what-is-religious-education-and-who-is-it-for.md`, `21-what-is-the-greater-community-way-of-knowledge.md`, `22-where-can-knowledge-be-found.md`, `23-how-is-knowledge-translated-in-the-greater-community.md`, `24-what-is-steps-to-knowledge.md`, `25-what-is-grace.md`, `26-who-is-jesus.md`, `27-what-is-the-evolution-of-religion-in-the-world.md`
-- **Grace** — `25-what-is-grace.md`
-- **Greater Community** — `01-what-is-god.md`, `02-what-is-the-world.md`, `03-what-is-life-force.md`, `04-what-is-knowledge.md`, `05-what-is-human-purpose.md`, `06-what-is-the-greater-community.md`, `07-how-is-wisdom-achieved-in-life.md`, `08-who-is-wisdom-meant-for.md`, `09-how-does-god-participate-in-the-world.md`, `10-how-do-you-prepare.md`, `11-what-is-your-preparation-for.md`, `12-whom-will-you-meet.md`, `13-what-must-be-unlearned.md`, `14-what-must-be-avoided.md`, `15-who-serves-humanity.md`, `16-who-are-the-unseen-ones.md`, `17-how-does-revelation-occur-in-human-life.md`, `18-what-is-human-destiny.md`, `19-what-is-religion.md`, `20-what-is-religious-education-and-who-is-it-for.md`, `21-what-is-the-greater-community-way-of-knowledge.md`, `22-where-can-knowledge-be-found.md`, `23-how-is-knowledge-translated-in-the-greater-community.md`, `24-what-is-steps-to-knowledge.md`, `25-what-is-grace.md`, `26-who-is-jesus.md`, `27-what-is-the-evolution-of-religion-in-the-world.md`
-- **Greater Community Spirituality** — `00-front-matter.md`
-- **Greater Community Way of Knowledge** — `21-what-is-the-greater-community-way-of-knowledge.md`
-- **guidance** — `16-who-are-the-unseen-ones.md`
-- **human destiny** — `18-what-is-human-destiny.md`
-- **human emergence** — `06-what-is-the-greater-community.md`
-- **human purpose** — `01-what-is-god.md`, `02-what-is-the-world.md`, `03-what-is-life-force.md`, `04-what-is-knowledge.md`, `05-what-is-human-purpose.md`, `06-what-is-the-greater-community.md`, `07-how-is-wisdom-achieved-in-life.md`, `08-who-is-wisdom-meant-for.md`, `09-how-does-god-participate-in-the-world.md`, `10-how-do-you-prepare.md`, `11-what-is-your-preparation-for.md`, `12-whom-will-you-meet.md`, `13-what-must-be-unlearned.md`, `14-what-must-be-avoided.md`, `15-who-serves-humanity.md`, `16-who-are-the-unseen-ones.md`, `17-how-does-revelation-occur-in-human-life.md`, `18-what-is-human-destiny.md`, `19-what-is-religion.md`, `20-what-is-religious-education-and-who-is-it-for.md`, `21-what-is-the-greater-community-way-of-knowledge.md`, `22-where-can-knowledge-be-found.md`, `23-how-is-knowledge-translated-in-the-greater-community.md`, `24-what-is-steps-to-knowledge.md`, `25-what-is-grace.md`, `26-who-is-jesus.md`, `27-what-is-the-evolution-of-religion-in-the-world.md`
-- **inner guidance** — `04-what-is-knowledge.md`
-- **inner life** — `22-where-can-knowledge-be-found.md`
-- **intelligent life** — `06-what-is-the-greater-community.md`
-- **Introduction** — `00-front-matter.md`
-- **Jesus** — `26-who-is-jesus.md`
-- **Knowledge** — `00-front-matter.md`, `01-what-is-god.md`, `02-what-is-the-world.md`, `03-what-is-life-force.md`, `04-what-is-knowledge.md`, `05-what-is-human-purpose.md`, `06-what-is-the-greater-community.md`, `07-how-is-wisdom-achieved-in-life.md`, `08-who-is-wisdom-meant-for.md`, `09-how-does-god-participate-in-the-world.md`, `10-how-do-you-prepare.md`, `11-what-is-your-preparation-for.md`, `12-whom-will-you-meet.md`, `13-what-must-be-unlearned.md`, `14-what-must-be-avoided.md`, `15-who-serves-humanity.md`, `16-who-are-the-unseen-ones.md`, `17-how-does-revelation-occur-in-human-life.md`, `18-what-is-human-destiny.md`, `19-what-is-religion.md`, `20-what-is-religious-education-and-who-is-it-for.md`, `21-what-is-the-greater-community-way-of-knowledge.md`, `22-where-can-knowledge-be-found.md`, `23-how-is-knowledge-translated-in-the-greater-community.md`, `24-what-is-steps-to-knowledge.md`, `25-what-is-grace.md`, `26-who-is-jesus.md`, `27-what-is-the-evolution-of-religion-in-the-world.md`
-- **learning** — `02-what-is-the-world.md`
+- **Ancient home** — `01-what-is-god.md`, `02-what-is-the-world.md`, `05-what-is-human-purpose.md`, `06-what-is-the-greater-community.md`, `07-how-is-wisdom-achieved-in-life.md`, `09-how-does-god-participate-in-the-world.md`, `12-whom-will-you-meet.md`, `13-what-must-be-unlearned.md`, `16-who-are-the-unseen-ones.md`, `17-how-does-revelation-occur-in-human-life.md`, `19-what-is-religion.md`, `20-what-is-religious-education-and-who-is-it-for.md`, `23-how-is-knowledge-translated-in-the-greater-community.md`, `25-what-is-grace.md`
+- **Angelic Presence / Teachers / Unseen Ones** — `09-how-does-god-participate-in-the-world.md`, `15-who-serves-humanity.md`, `16-who-are-the-unseen-ones.md`, `17-how-does-revelation-occur-in-human-life.md`
+- **assumptions / inherited beliefs** — `01-what-is-god.md`, `10-how-do-you-prepare.md`, `13-what-must-be-unlearned.md`, `14-what-must-be-avoided.md`, `20-what-is-religious-education-and-who-is-it-for.md`
+- **calling** — `01-what-is-god.md`, `05-what-is-human-purpose.md`, `06-what-is-the-greater-community.md`, `09-how-does-god-participate-in-the-world.md`, `11-what-is-your-preparation-for.md`, `17-how-does-revelation-occur-in-human-life.md`, `24-what-is-steps-to-knowledge.md`
+- **companions / true allies** — `05-what-is-human-purpose.md`, `08-who-is-wisdom-meant-for.md`, `10-how-do-you-prepare.md`, `12-whom-will-you-meet.md`, `22-where-can-knowledge-be-found.md`
+- **contribution / secret cargo** — `02-what-is-the-world.md`, `05-what-is-human-purpose.md`, `06-what-is-the-greater-community.md`, `09-how-does-god-participate-in-the-world.md`, `11-what-is-your-preparation-for.md`, `22-where-can-knowledge-be-found.md`
+- **discernment** — `03-what-is-life-force.md`, `07-how-is-wisdom-achieved-in-life.md`, `10-how-do-you-prepare.md`, `14-what-must-be-avoided.md`, `15-who-serves-humanity.md`, `17-how-does-revelation-occur-in-human-life.md`
+- **Divine participation / God's work in the world** — `01-what-is-god.md`, `05-what-is-human-purpose.md`, `09-how-does-god-participate-in-the-world.md`, `15-who-serves-humanity.md`, `23-how-is-knowledge-translated-in-the-greater-community.md`, `25-what-is-grace.md`
+- **Grace** — `06-what-is-the-greater-community.md`, `25-what-is-grace.md`
+- **Greater Community** — `01-what-is-god.md`, `06-what-is-the-greater-community.md`, `15-who-serves-humanity.md`, `18-what-is-human-destiny.md`, `23-how-is-knowledge-translated-in-the-greater-community.md`, `27-what-is-the-evolution-of-religion-in-the-world.md`
+- **Greater Community Spirituality** — `00-front-matter.md`, `01-what-is-god.md`, `06-what-is-the-greater-community.md`, `21-what-is-the-greater-community-way-of-knowledge.md`, `22-where-can-knowledge-be-found.md`, `27-what-is-the-evolution-of-religion-in-the-world.md`
+- **Greater Community Way of Knowledge** — `10-how-do-you-prepare.md`, `11-what-is-your-preparation-for.md`, `15-who-serves-humanity.md`, `21-what-is-the-greater-community-way-of-knowledge.md`, `22-where-can-knowledge-be-found.md`, `24-what-is-steps-to-knowledge.md`
+- **Greater Mind / Greater Self** — `04-what-is-knowledge.md`, `09-how-does-god-participate-in-the-world.md`, `13-what-must-be-unlearned.md`, `22-where-can-knowledge-be-found.md`
+- **Harim** — `15-who-serves-humanity.md`
+- **Heaven / ultimate reality** — `07-how-is-wisdom-achieved-in-life.md`, `17-how-does-revelation-occur-in-human-life.md`, `19-what-is-religion.md`
+- **human destiny / emergence** — `06-what-is-the-greater-community.md`, `11-what-is-your-preparation-for.md`, `15-who-serves-humanity.md`, `18-what-is-human-destiny.md`, `27-what-is-the-evolution-of-religion-in-the-world.md`
+- **human purpose** — `02-what-is-the-world.md`, `04-what-is-knowledge.md`, `05-what-is-human-purpose.md`, `06-what-is-the-greater-community.md`, `09-how-does-god-participate-in-the-world.md`, `11-what-is-your-preparation-for.md`, `18-what-is-human-destiny.md`
+- **Jesus / Messenger** — `17-how-does-revelation-occur-in-human-life.md`, `26-who-is-jesus.md`
+- **Knowledge as God / total relationship** — `01-what-is-god.md`, `04-what-is-knowledge.md`, `09-how-does-god-participate-in-the-world.md`, `15-who-serves-humanity.md`
+- **Knowledge and belief** — `01-what-is-god.md`, `04-what-is-knowledge.md`, `13-what-must-be-unlearned.md`, `19-what-is-religion.md`, `22-where-can-knowledge-be-found.md`
+- **Knowledge and protection** — `03-what-is-life-force.md`, `14-what-must-be-avoided.md`, `15-who-serves-humanity.md`
+- **Knowledge and relationship** — `01-what-is-god.md`, `05-what-is-human-purpose.md`, `09-how-does-god-participate-in-the-world.md`, `12-whom-will-you-meet.md`, `22-where-can-knowledge-be-found.md`, `25-what-is-grace.md`
 - **Life Force** — `03-what-is-life-force.md`
-- **Marshall Vian Summers** — `28-back-matter.md`
-- **Mental Environment** — `03-what-is-life-force.md`
-- **Messenger** — `17-how-does-revelation-occur-in-human-life.md`, `26-who-is-jesus.md`
-- **New Message** — `00-front-matter.md`, `28-back-matter.md`
-- **New Revelation** — `27-what-is-the-evolution-of-religion-in-the-world.md`
-- **power** — `03-what-is-life-force.md`
-- **practice** — `10-how-do-you-prepare.md`, `21-what-is-the-greater-community-way-of-knowledge.md`, `22-where-can-knowledge-be-found.md`, `24-what-is-steps-to-knowledge.md`
-- **Preface** — `00-front-matter.md`
-- **preparation** — `06-what-is-the-greater-community.md`, `07-how-is-wisdom-achieved-in-life.md`, `10-how-do-you-prepare.md`, `11-what-is-your-preparation-for.md`, `20-what-is-religious-education-and-who-is-it-for.md`, `21-what-is-the-greater-community-way-of-knowledge.md`, `24-what-is-steps-to-knowledge.md`, `28-back-matter.md`
-- **purpose** — `04-what-is-knowledge.md`, `11-what-is-your-preparation-for.md`, `18-what-is-human-destiny.md`
-- **readiness** — `08-who-is-wisdom-meant-for.md`
-- **recognition** — `12-whom-will-you-meet.md`
-- **relationship** — `01-what-is-god.md`, `05-what-is-human-purpose.md`, `12-whom-will-you-meet.md`, `25-what-is-grace.md`
-- **religion** — `19-what-is-religion.md`, `26-who-is-jesus.md`, `27-what-is-the-evolution-of-religion-in-the-world.md`
-- **religious education** — `20-what-is-religious-education-and-who-is-it-for.md`
-- **revelation** — `17-how-does-revelation-occur-in-human-life.md`
-- **service** — `05-what-is-human-purpose.md`, `08-who-is-wisdom-meant-for.md`, `11-what-is-your-preparation-for.md`, `15-who-serves-humanity.md`, `16-who-are-the-unseen-ones.md`
-- **Society for the New Message** — `28-back-matter.md`
-- **spiritual authority** — `17-how-does-revelation-occur-in-human-life.md`
-- **spiritual intelligence** — `04-what-is-knowledge.md`
-- **spiritual practice** — `14-what-must-be-avoided.md`
-- **spirituality** — `01-what-is-god.md`, `02-what-is-the-world.md`, `03-what-is-life-force.md`, `04-what-is-knowledge.md`, `05-what-is-human-purpose.md`, `06-what-is-the-greater-community.md`, `07-how-is-wisdom-achieved-in-life.md`, `08-who-is-wisdom-meant-for.md`, `09-how-does-god-participate-in-the-world.md`, `10-how-do-you-prepare.md`, `11-what-is-your-preparation-for.md`, `12-whom-will-you-meet.md`, `13-what-must-be-unlearned.md`, `14-what-must-be-avoided.md`, `15-who-serves-humanity.md`, `16-who-are-the-unseen-ones.md`, `17-how-does-revelation-occur-in-human-life.md`, `18-what-is-human-destiny.md`, `19-what-is-religion.md`, `20-what-is-religious-education-and-who-is-it-for.md`, `21-what-is-the-greater-community-way-of-knowledge.md`, `22-where-can-knowledge-be-found.md`, `23-how-is-knowledge-translated-in-the-greater-community.md`, `24-what-is-steps-to-knowledge.md`, `25-what-is-grace.md`, `26-who-is-jesus.md`, `27-what-is-the-evolution-of-religion-in-the-world.md`
-- **Steps to Knowledge** — `24-what-is-steps-to-knowledge.md`, `28-back-matter.md`
-- **studentship** — `08-who-is-wisdom-meant-for.md`, `20-what-is-religious-education-and-who-is-it-for.md`, `24-what-is-steps-to-knowledge.md`
-- **teachers** — `12-whom-will-you-meet.md`
-- **teaching** — `20-what-is-religious-education-and-who-is-it-for.md`
-- **tradition** — `19-what-is-religion.md`
-- **translation** — `23-how-is-knowledge-translated-in-the-greater-community.md`
-- **unlearning** — `13-what-must-be-unlearned.md`
-- **Unseen Ones** — `09-how-does-god-participate-in-the-world.md`, `15-who-serves-humanity.md`, `16-who-are-the-unseen-ones.md`
-- **Wisdom** — `07-how-is-wisdom-achieved-in-life.md`, `08-who-is-wisdom-meant-for.md`
-- **world** — `02-what-is-the-world.md`
+- **Mental Environment** — `03-what-is-life-force.md`, `14-what-must-be-avoided.md`, `15-who-serves-humanity.md`
+- **New Message / New Revelation** — `00-front-matter.md`, `17-how-does-revelation-occur-in-human-life.md`, `27-what-is-the-evolution-of-religion-in-the-world.md`, `28-back-matter.md`
+- **preparation / practice** — `07-how-is-wisdom-achieved-in-life.md`, `08-who-is-wisdom-meant-for.md`, `10-how-do-you-prepare.md`, `11-what-is-your-preparation-for.md`, `20-what-is-religious-education-and-who-is-it-for.md`, `21-what-is-the-greater-community-way-of-knowledge.md`, `22-where-can-knowledge-be-found.md`, `24-what-is-steps-to-knowledge.md`
+- **readiness / studentship** — `08-who-is-wisdom-meant-for.md`, `10-how-do-you-prepare.md`, `17-how-does-revelation-occur-in-human-life.md`, `20-what-is-religious-education-and-who-is-it-for.md`, `22-where-can-knowledge-be-found.md`, `24-what-is-steps-to-knowledge.md`
+- **reclamation of Knowledge** — `04-what-is-knowledge.md`, `05-what-is-human-purpose.md`, `09-how-does-god-participate-in-the-world.md`, `16-who-are-the-unseen-ones.md`, `22-where-can-knowledge-be-found.md`, `25-what-is-grace.md`
+- **recognition / homecoming** — `09-how-does-god-participate-in-the-world.md`, `12-whom-will-you-meet.md`, `17-how-does-revelation-occur-in-human-life.md`, `25-what-is-grace.md`
+- **religion as vehicle** — `01-what-is-god.md`, `19-what-is-religion.md`, `20-what-is-religious-education-and-who-is-it-for.md`, `26-who-is-jesus.md`, `27-what-is-the-evolution-of-religion-in-the-world.md`
+- **revelation** — `17-how-does-revelation-occur-in-human-life.md`, `26-who-is-jesus.md`, `27-what-is-the-evolution-of-religion-in-the-world.md`
+- **service** — `05-what-is-human-purpose.md`, `08-who-is-wisdom-meant-for.md`, `11-what-is-your-preparation-for.md`, `15-who-serves-humanity.md`, `16-who-are-the-unseen-ones.md`, `17-how-does-revelation-occur-in-human-life.md`
+- **Separation / return to relationship** — `05-what-is-human-purpose.md`, `12-whom-will-you-meet.md`, `19-what-is-religion.md`, `22-where-can-knowledge-be-found.md`
+- **Spiritual Family** — `05-what-is-human-purpose.md`, `09-how-does-god-participate-in-the-world.md`, `12-whom-will-you-meet.md`, `17-how-does-revelation-occur-in-human-life.md`, `18-what-is-human-destiny.md`, `22-where-can-knowledge-be-found.md`
+- **spiritual intelligence** — `04-what-is-knowledge.md`, `06-what-is-the-greater-community.md`, `15-who-serves-humanity.md`
+- **Steps to Knowledge** — `09-how-does-god-participate-in-the-world.md`, `21-what-is-the-greater-community-way-of-knowledge.md`, `24-what-is-steps-to-knowledge.md`, `28-back-matter.md`
+- **teachers / instruction** — `08-who-is-wisdom-meant-for.md`, `10-how-do-you-prepare.md`, `12-whom-will-you-meet.md`, `16-who-are-the-unseen-ones.md`, `20-what-is-religious-education-and-who-is-it-for.md`, `22-where-can-knowledge-be-found.md`
+- **translation of Knowledge** — `01-what-is-god.md`, `15-who-serves-humanity.md`, `21-what-is-the-greater-community-way-of-knowledge.md`, `23-how-is-knowledge-translated-in-the-greater-community.md`
+- **unlearning / avoidance** — `13-what-must-be-unlearned.md`, `14-what-must-be-avoided.md`, `20-what-is-religious-education-and-who-is-it-for.md`
+- **Wisdom** — `06-what-is-the-greater-community.md`, `07-how-is-wisdom-achieved-in-life.md`, `08-who-is-wisdom-meant-for.md`, `15-who-serves-humanity.md`, `23-how-is-knowledge-translated-in-the-greater-community.md`
+- **world as temporary reality / place of service** — `02-what-is-the-world.md`, `05-what-is-human-purpose.md`, `06-what-is-the-greater-community.md`, `09-how-does-god-participate-in-the-world.md`, `17-how-does-revelation-occur-in-human-life.md`, `19-what-is-religion.md`

@@ -1,0 +1,186 @@
+---
+volume: 3
+book: "Deepening Your Spiritual Practice"
+chapter: "01"
+title: "Deepening Your Spiritual Practice"
+type: chapter
+source_url: "https://www.newmessage.org/the-message/volume-3/deepening-your-spiritual-practice/deepening-your-spiritual-practice/"
+---
+
+# Deepening Your Spiritual Practice
+
+<a id="p1"></a>- Listen
+- Info
+- Watch
+
+<a id="p2"></a>Hear the original spoken revelation:
+
+<a id="p3"></a>[Download](https://www.newmessage.org/av/deepening-your-spiritual-practice.mp3) (Right-click to download)
+
+<a id="p4"></a>As received
+
+<a id="p5"></a>on November 1, 2008
+
+<a id="p6"></a>in Boulder, Colorado
+
+<a id="p7"></a>At some point, it is necessary to begin a spiritual practice because you have to learn to redirect your mind and to open yourself to a deeper experience, to the deeper current of your life. At some point, you need to find out what your deeper nature is really like and the wisdom of Knowledge that God has placed within you—to guide you, to protect you and to lead you to a greater fulfillment in the world and a greater service to humanity.
+
+<a id="p8"></a>This requires preparation, for it requires a refocusing of the mind and a reordering of one’s life and priorities, and fundamentally a deep evaluation of one’s motives, activities and associations with others.
+
+<a id="p9"></a>Here you naturally reach a threshold where you realize that you must carry on this deep evaluation, for you are feeling a deeper need of the soul. The deeper need of the soul is for you to find and fulfill the greater purpose that has brought you into the world and to reunite, through your deeper experience, with those who have sent you into the world and with the Creator of all life.
+
+<a id="p10"></a>God has assured this possibility by placing Knowledge within you, a deeper intelligence, an intelligence that functions beyond the realm and the sphere of the intellect. This deeper intelligence lives within you. It is providing guidance and counsel continuously, but you do not yet hear it or feel it because you are too preoccupied with your outer life, and your mind is too caught up in its own dilemmas and conflicts.
+
+<a id="p11"></a>Fundamentally, spiritual practice is about bringing your surface mind, your social personal mind—the mind that has been formed and created by your social conditioning, by your family and by your experiences in the world—to bring this mind into contact with the power and the presence of Knowledge within yourself.
+
+<a id="p12"></a>For, in truth, your intellect is meant to serve this greater power. This represents a shift in authority within yourself, a shift from the authority of your beliefs and assumptions and ideas, which are all weak, fallible and incomplete, to a deeper power within you—a power that God has placed within you, a power that is meant to direct your life, to resolve your dilemmas, to free you from addiction and from fantasy, to bring your life into a greater harmony and balance so that you will be able to provide something unique and important for the world.
+
+<a id="p13"></a>To undergo this shift from your beliefs to the power and presence of Knowledge is a tremendous journey that you take. It is like a revolution within yourself, but a revolution that happens slowly and incrementally. And the power that brings this about is entirely natural. It represents a deeper and more profound education and is an essential part of your evolution and development as an individual in the world.
+
+<a id="p14"></a>For you were sent here for a greater purpose, and that purpose is kept by Knowledge within yourself, awaiting the time when you would have the maturity and the seriousness about your life to sincerely inquire and to prepare for the emergence of this Knowledge.
+
+<a id="p15"></a>This is not a casual pursuit. This is not something you do periodically when you are disenchanted with the world and you want answers.
+
+<a id="p16"></a>Here the answer is not merely an idea, or an image, or even a vision. The answer is a door that opens, through which you must pass, a journey to take now—not a journey that is governed by your intellect and your assumptions or the traditional beliefs of society, but a journey that is guided by Knowledge. For only Knowledge knows how to bring you to Knowledge, and only Knowledge knows how to bring you to the Power and Presence of God in your life.
+
+<a id="p17"></a>Whether you have religious affiliations or not, whether you are part of [a] religious tradition or not, this greater journey awaits you. This requires practice and preparation. It does not happen just like that. It requires a set of skills and a deep evaluation of one’s life, beliefs and assumptions. It requires a reconsideration of your past, a resolution of your conflicts, a true forgiveness of your errors and the errors of others. It represents a whole new life.
+
+<a id="p18"></a>It is not something you learn in a weekend, or in a month or even a year, for this mountain is a great mountain to climb. And it is in climbing it that you gain the wisdom, the perspective and the skills that you will need.
+
+<a id="p19"></a>Like climbing a mountain, it is a series of steps, and actually a series of thresholds as well, where you have to choose again to keep going—thresholds where you lose heart, or you try to compromise yourself, thinking that what you have is good enough, that you will be satisfied with where you are. But Knowledge will keep you moving up this mountain, for you must climb this mountain to have a clear view of the panorama of your life and of the world, a life and a world you cannot see in the valleys and lowlands below.
+
+<a id="p20"></a>There is no way around this. There is no pill that you take, or magic incantation that you make, or secret deal that you make that can bypass this fundamental journey. And you must take it consciously because it will require real self-determination on your part. It will require that you assume command of your ship—command of your life, thoughts and feelings to a very great degree.
+
+<a id="p21"></a>You do not get up a mountain by stumbling around blindly. It takes a real determination and a discovery and application of your greater strength, and a willingness to forgo those attractions and those seductions that have captured your mind and your life before.
+
+<a id="p22"></a>The Creator of all life has given humanity the teaching in [Steps to Knowledge](https://www.newmessage.org/stk) as a pure pathway to follow. It is not the only pathway in the world, certainly, but it is pure and uncontaminated, and it is extremely powerful. But it requires a daily practice, for whatever you practice on a daily basis, you become very good at. You acquire the skills, the abilities and the strength to do something—even something that requires great ability—with tremendous ease and determination.
+
+<a id="p23"></a>This daily practice is essential, for every day you are reinforcing your beliefs, your habits and your inclinations. What are those beliefs, those habits and those inclinations? Are you aware of them? Do you see how you are reinforcing your weaknesses, your distractions, your vulnerability to persuasion by others? Do you see, on a daily basis, how you keep your mind preoccupied, rarely ever aware of where you are or what is going on around you, and unaware of the guidance and the power of Knowledge within yourself?
+
+<a id="p24"></a>People make mistakes primarily because they are not looking and they are not listening. They are not getting their cues from Knowledge within themselves, and they are not understanding their environment.
+
+<a id="p25"></a>It is like driving an automobile while talking on a telephone. People do this, you know, but the truth is they are not really present driving that automobile, and they are not really present speaking on their telephone. They are doing both things at once, but they are living in a hazardous manner. And they are not really conscious of where they are or what they are doing.
+
+<a id="p26"></a>People commit themselves to relationships, to activities, to careers, to disastrous and calamitous activities with this kind of half awareness. They are there, but not really there. They are hearing, but not really hearing. They are looking, but not really seeing. And so they walk into dangerous situations; they make disastrous decisions; they give their lives away to people, places and things. And perhaps they feel the discomfort of this. Perhaps they feel restraint within themselves, but they cannot follow it or understand it. They are only half awake, attracted by reality and by their dreams, all at the same time.
+
+<a id="p27"></a>Here your practice is not simply the repetition of a meditation practice, or recitations. Here practice must be a real focus on improving your skills and on refining your intentions. If you just show up every day to do a meditation experience, well, it will have little or no quality if you do not bring your full attention to it.
+
+<a id="p28"></a>In learning how to still the mind, you must have a focus, you must be in a quiet place, you must be sitting comfortably, and you must have a passive attitude. Four things are required here. Your passive attitude means you are not aggressively trying to make something happen, or to solve problems, or to engage in other kinds of mental activities. You are just there, in a relaxed manner.
+
+<a id="p29"></a>So to sit in meditation and experience nothing but agitation or frustration, clearly means you are not meeting the requirements of the situation. You have to be relaxed; you cannot be aggressive. You breathe deeply. Let your breath take you deeper. You have to have a focus for the mind: an image, a thought, an incantation, something that does not stimulate a lot of intellectual activity, something that the mind can anchor itself upon so you can slip beneath its surface into a well of silence. Within this well of silence, deep within it, is the power and the presence of Knowledge.
+
+<a id="p30"></a>Here you learn how to slip beneath the mind. And if the mind is too agitated or too caught up, then you use the mind to contemplate, to think about part of the great Teaching in [The Way of Knowledge](https://www.newmessage.org/the-message/volume-3/living-way-knowledge). If the mind will not allow you to go beneath it, then you should use the mind for contemplation—not to problem solve on the outside, but to consider what your teaching is giving you in relationship to specific things in your life, or to consider what Knowledge has been telling you or indicating regarding a decision that you must make.
+
+<a id="p31"></a>Here your time is always used beneficially, with great intention. You do not simply close your eyes and hope for the best. You are bringing your intention to bear. You are using your situation beneficially. You are not wasting this opportunity.
+
+<a id="p32"></a>The value of learning to go beneath the mind is that at any moment in life when you need to see something, to know something and to comprehend something, you can switch off your mind. You have that much control over it. Instead of dominating you and oppressing you, your mind here becomes the great tool of communication that it really is.
+
+<a id="p33"></a>Over time in your practice, you will realize that your mind serves two primary functions: It is either contemplating and problem-solving with the power of Knowledge, or it is still. Experiencing peace is a still mind. And to reach this state, you must be able to go beneath the surface of the mind into the well of silence. You must acquaint yourself with this deeper environment within yourself. Here you cannot be trying to make something happen. You cannot be trying to control the experience. You just have to set your course and maintain that course.
+
+<a id="p34"></a>The well of silence is extremely refreshing. Here you are able to hear and to feel and experience the power and presence of Knowledge and what it is indicating for you.
+
+<a id="p35"></a>Your spiritual practice, however, goes beyond a formal meditation or contemplation practice. It goes with you into your life. Whenever you are extremely upset about something, ask yourself: Is there something I need here? Is there something I need to know here? Is there something I need to do here? Three questions.
+
+<a id="p36"></a>Here instead of being a victim of your mind, you are using it again for a greater purpose. You are trying to discern your own experience from a place of greater objectivity. Perhaps there is something you need. Perhaps there is something you need to know. Perhaps there is something you need to do. If any of these questions have an answer, you want to put yourself in a position to experience this.
+
+<a id="p37"></a>Your mind is like the ocean. At the surface, it is constantly being whipped up by the winds of the world. It is chaotic, without a clear direction. One day calm, the next day turbulent, and all the storms of the world impact it. But deeper down, your mind is quiet, and there are deeper currents moving your life—currents that have a certain direction, currents that are influenced by greater celestial powers.
+
+<a id="p38"></a>In the ocean, the waters of the world are being moved in a determined manner, all over the planet, but you cannot see these forces from the surface. And you cannot see the great abundance of life within the ocean looking only from the surface. Likewise, looking at your mind from the surface where you live every day, you cannot see its depths, or the greater currents that are moving your life, or the greater purpose for which you have come and to which Knowledge will take you, if you can follow it.
+
+<a id="p39"></a>When you are out in the world, listen within yourself. Watch the world and listen within yourself. This is a practice you can do almost anywhere. It is this attention, both within and without, that allows you to discern the signs of the world and the messages that Knowledge within you is sending you. Instead of being caught up in your ideas, your imagination, your problems, your grievances, your regrets, your desires, your fantasies, your expectations, you are really paying attention.
+
+<a id="p40"></a>People are missing just about everything because they are not paying attention. They are not even enjoying the marvelous reality of life in the moment because they are not paying attention, because their minds are somewhere else.
+
+<a id="p41"></a>When you are waiting for anything is a great time to practice inner listening. When you get on board a bus or a conveyance or around other people, do not judge and evaluate them. Just watch and listen. Ask yourself: What am I looking at here? And listen more deeply than the immediate response of your intellect.
+
+<a id="p42"></a>There is so much time to practice here, it is amazing. So much wasted time through the course of your day when you could be learning to experience your deeper nature while you are out in the world.
+
+<a id="p43"></a>It is this inner listening and this watching that enable you to see things other people cannot see, hear things that other people cannot hear, and know things that other people cannot know. But this takes great skill, and it takes a compassionate approach, for you are here learning how to serve the world and to understand the world. Instead of judging the world just to reinforce your ideas and your own sense of importance, you are learning how to listen to the world, like a real student, like someone who is not basing their experience on their assumptions.
+
+<a id="p44"></a>Here you are able to experience marvelous things in life—the enjoyment of the moment, the magnificence of the natural world. Here you are able to experience the complexity of human beings and their dual nature—their animal nature and their spiritual nature. You are able to see things in the moment that everyone else is missing. They are all dreaming. They are all caught up in their thoughts and imagination. They are missing life. And they are not seeing things that are important to see.
+
+<a id="p45"></a>When you are thinking about the future, do not simply think about what you are going to get for yourself, or your fear of losing what you have, or your fear of what may happen to you and to the world. Instead, look over the horizon of life to see what you can see. Within your mind, look over the horizon of life to see what you can see. Ask yourself: What is coming for the world? And what must I do to prepare? This is considering the future from a place of clarity and observation.
+
+<a id="p46"></a>Refrain from judging or condemning other people, for this is blind, and this prevents you from watching, learning and listening.
+
+<a id="p47"></a>In conversation with others, listen for what they are really saying. To do this, you have to still your mind and just be quiet, listening. Much of what you hear will be irrelevant, insignificant or even untrue, but you are listening for what is really happening within them. Since people are rarely aware of their own real experience in the moment, you will be able to hear things in them and serve them and speak perhaps more directly to what you are hearing and seeing. This shifts your conversation from being superficial and insignificant into a deeper arena where a true engagement may be possible.
+
+<a id="p48"></a>Find places where you can be quiet, where there is very little external noise, and learn to experience the luxury of stillness. At first, it will seem frightening, and you will perhaps feel insecure within it—afraid of what you might feel, afraid of what you might see, afraid of what you might know, afraid of yourself. But really, stillness is a luxury. It is an environment for peace and recognition. It is also an environment for true consideration of your most fundamental decisions.
+
+<a id="p49"></a>If your life is busy and noisy all the time, you will never cultivate this awareness of your deeper experience. You will constantly be reacting to your environment, constantly driven, constantly caught up in the superficial conversations and involvements with others, never feeling the deeper current of your life, caught up and unable to hear and to respond to the power and presence of Knowledge within yourself.
+
+<a id="p50"></a>Here you are living life, but only at ten percent. You are missing everything else. Running around, busy, caught up, you are missing ninety percent. You are missing the good parts, the best parts. So you want to slow down and have times when you can be quiet in a quiet environment. Even living in the busy big city, you can find these places of sanctuary.
+
+<a id="p51"></a>You will find, as you begin to respond to the deeper need of your soul—the need to know who you are, and why you are here, and what you are really here to do—you will find that your values will change. Your priorities will change. Instead of stimulation, you seek quiet. Instead of superficial conversations with others, you seek to make a deeper connection wherever that is possible. Instead of constant busyness, you want to slow down so you can experience life around you and the reality of life within yourself. You want to get at the other ninety percent that you have been missing. And you will want to be around other people who feel the same, who have the same deeper motivation.
+
+<a id="p52"></a>When listening to others talk to you, if they are presenting something important, ask yourself: What do I really know about this? Here you are constantly distinguishing the natural experience of Knowledge from your own ideas and beliefs.
+
+<a id="p53"></a>Here you begin to realize increasingly that who you are is not your mind, and that your mind is either a window or a wall. Either it enables you to look onto the world, or it prevents you from seeing altogether. And you want to keep this window clean and clear. You do not want it to become clouded and dirty because you want to use it to look out into the world. It is your little command center for being in the world. You want to use it and learn how to use it effectively. You want to use it to discern the real meaning of people and places and events, and the real meaning of your own experience.
+
+<a id="p54"></a>Managing the mind and using the mind are a major part of your spiritual practice. In the study of Steps to Knowledge and other spiritual teachings, you learn how to train the mind to think along certain lines so that it can resonate with this deeper intelligence within you and be a vehicle for its expression.
+
+<a id="p55"></a>You have spent years and decades having your mind conditioned by your culture, by your family, by your friends and by the world at large. You have been daily practicing and reinforcing all of these influences and the conclusions that you have made from them.
+
+<a id="p56"></a>Now you must exert real effort to redirect your mind, to refocus your mind and to realize who you are is not the mind. You want to keep that window clean and clear. You want to learn to use the mind as the beautiful vehicle of communication that it really is and that it is meant to be. It is a perfect servant. It should never be the master. And it makes a very poor god.
+
+<a id="p57"></a>You want to use the mind instead of being used by it. That is so very important. That shifts the authority from your ideas to a deeper power within yourself. But it is not easy to do. It is not easy to undo and to go against years and decades of social conditioning, and to learn how to re-evaluate your past experiences in such a way that you can get the maximum value from them.
+
+<a id="p58"></a>You carry unforgiveness within yourself because you feel wounded by people and by circumstances. And you have not forgiven these people and these circumstances because you have not gained the real value from them—what they taught you about the need for Knowledge and the consequences of living without Knowledge, what they have taught you about what real wisdom is and the consequences of living without wisdom.
+
+<a id="p59"></a>When you gain sufficient value from a previous encounter with a person or with a painful event, then you begin to see it very differently. It was still unpleasant, of course. Perhaps it could have been avoided. But it is also giving you something, and you are using it. And this is tempering your discontent and your resentment.
+
+<a id="p60"></a>This is all part of your spiritual practice, you see. Everywhere you go, everything that you do, every person that you are with is an environment for spiritual practice. This will seem like a lot of effort at the outset, but really what it is asking you to do is to be present and mindful of where you are and what you are doing, to listen to the power and the presence of Knowledge within yourself, and to know that not everything that you experience is coming from your five senses, that you are seeing beyond the limits of the body.
+
+<a id="p61"></a>One of the difficulties that people have is they try to use spiritual practice to reinforce their preferred ideas and beliefs. They want to use life as a resource to reaffirm their ideas and their beliefs. This is still self-deceptive because really you want to use your ideas and beliefs to reaffirm life. You want life to teach you what is true, not to try to use life to reinforce what you think is true. Here again people constantly confuse reality with their own thoughts. They confuse the intellect with the power of Knowledge within themselves.
+
+<a id="p62"></a>So this is an ongoing problem, and it requires an ongoing attention. You do not undo decades of social conditioning in a weekend or a month or a year. It is ongoing, you see, but it is moving in the right direction. Your progress may seem slow, but you are moving in the right direction, at last. Instead of digging a deeper hole for yourself, living in a greater experience of darkness, confusion and isolation, you are moving out. You have turned the great corner, and now you are moving in a positive direction.
+
+<a id="p63"></a>Your intellect will be impatient. It wants answers. It wants conclusions. It wants what it wants right now. It does not want to wait. It is impatient because it is insecure, and it is insecure because it is not grounded in your true reality. The mind is nervous. It is afraid. It is constantly searching. It is aggravated. It is living in its own kind of Hell, the Hell of [Separation](https://www.newmessage.org/the-message/volume-1/one-god/the-separation).
+
+<a id="p64"></a>The world teaches you that your mind is your god, and that you should appeal to other minds that are stronger than your mind for guidance and counsel. The world teaches you that who you are is your mind and your body, both of which are fallible and can easily be damaged and destroyed.
+
+<a id="p65"></a>So in the mind, you live in a constant state of fear and apprehension. And the only way you can escape this is through fantasy and through acquisition—the pursuit of people, places and things. And you become obsessed here because without this, you feel the profound insecurity and anxiety of the mind.
+
+<a id="p66"></a>Once your mind begins to serve a greater power within yourself, however, you begin to undo the foundation of its insecurity. It is insecure because it is separate, because it does not have a greater power to serve. It was designed to serve. But if it has nothing to serve but itself, then it falls into disarray, and its true capabilities are not realized.
+
+<a id="p67"></a>That is why Knowledge within you gives direction to the mind, gives restraint to the mind, begins to direct the mind—naturally, appropriately, for this is the true nature of your existence. In the true hierarchy of your Being, your body serves your mind and your mind serves Knowledge, or Spirit, and your Spirit serves God.
+
+<a id="p68"></a>When people begin their spiritual practice, this hierarchy of being is all upside down. People’s minds are serving their body, and they are trying to use Spirit as a kind of resource to serve their mind. The whole approach is off. It is incorrect.
+
+<a id="p69"></a>So this all has to be unlearned. Your life has to be brought into its true balance and function. And this takes time and learning and re-evaluation.
+
+<a id="p70"></a>It is difficult to live in your natural state if you have been living in an unnatural life previously, governed by habit and convention and the expectations of others. To live without Knowledge is to live an unnatural life—a life of constant aggravation, anxiety and the need for escape.
+
+<a id="p71"></a>Here even relationships represent a release, a need for escape. And that is the creation of romance and the whole fantasy of romance, which actually has very little to do with whether you can actually be in relationship with another person successfully or not.
+
+<a id="p72"></a>This need to escape your own anxiety, your own discomfort, leads to endless pursuits, endless distractions, none of which can resolve your fundamental problem. And your fundamental problem is your mind is not connected to Knowledge within yourself, so the mind and the Spirit are disconnected.
+
+<a id="p73"></a>The mind is in disarray, caught up in the world—lost, frustrated, desperate. It either becomes a miserable servant of others or a cruel tyrant. There are many roles the mind can assume for itself here, but fundamentally it is out of accord and out of relationship with your deeper nature.
+
+<a id="p74"></a>It is your spiritual practice that will bring your mind and your body into real relationship with your deeper nature. This will give you a sense of integrity. This will allow you to feel right about your life. This will give you the criteria to bring your life into balance and harmony, to withdraw from relationships and involvements that have no purpose and no future and no chance of success, to refocus your life, to reorient your life to where Knowledge wants to take you, to where your heart wants to go.
+
+<a id="p75"></a>You still have all the problems of living in the physical reality: the problems of providing for yourself, the problems of establishing stability, the problems of learning how to communicate effectively with other people. But you are now being guided by a real power within yourself. And this will allow you to feel that your life is meaningful and has a real purpose and a real destiny, even if you cannot define these things for yourself.
+
+<a id="p76"></a>Everything you do, everyone you are with, every activity, is an opportunity to deepen this connection as a conscious act—to cultivate your awareness of Knowledge and to learn how to discern Knowledge from all the other voices in your mind, all of the forms of deception within yourself and in the world around you.
+
+<a id="p77"></a>This is the great journey in life, more important than success, wealth, beauty, charm, acquisition and the approval of others.
+
+<a id="p78"></a>This is why you were sent into the world. Here instead of just being a human being who has some spiritual nature somewhere, you are really a spiritual being working through your humanity, working through the limits of the mind and the body, and the limits placed upon you by the world around you.
+
+<a id="p79"></a>Because you were sent here for a greater purpose, you are like an angel in the world, trying to function within the confinements of living within a body and trying to use the mind effectively to communicate with others and to discern correctly the world around you.
+
+<a id="p80"></a>Over time, you will identify more and more with Knowledge because it is reliable, it is deep, and it is powerful. It is everything your intellect is not. And you will feel that your life has a greater foundation—a foundation beyond this world—and this will give you the experience of being in the world but not of the world, providing you with a sense of security and continuity and strength that nothing in the world could ever provide for you. This will give you the strength to weather and to endure and to learn from life’s tragedies and disappointments, from the disappointment in other people and their tragic decisions for themselves. This will give you the strength to endure personal loss and times of great confusion and frustration.
+
+<a id="p81"></a>Here your current runs deep and is not destroyed by your outer experiences. Here your purpose remains, regardless of what happens on the outside. What happens on the outside just changes how you will try to communicate the meaning that you are experiencing within yourself.
+
+<a id="p82"></a>The outer world will require constant adaptation and problem solving—constant problems, obstacles and difficulties along the way. But you are anchored in a deeper reality now. It is not a reality that is based upon ideas or ideology. It is the power and presence of Knowledge, which is beyond estimation and definition.
+
+<a id="p83"></a>Here your greater gifts will emerge, and your life will be an inspiration and a great service to others, according to your original design and intent. This fulfills the need of the soul, which is your deepest and most profound need.
+
+<a id="p84"></a>If you were able to satisfy all other needs, this would remain for you as the most fundamental and important need. Beyond meeting the basic requirements of taking care of your body and your mind, this is your greatest need.
+
+<a id="p85"></a>Satisfy this and you will have a satisfaction and a sense of permanence that nothing in the world can destroy. And you will be a light unto the world. And your service to the world will be profound and in many cases inexplicable.
+
+<a id="p86"></a>It is your spiritual practice that will take you there. And in time you will realize that everything you do is a practice and a reinforcement, [that] everything you think is a practice and a reinforcement, that you are practicing and reinforcing all the time, whether you are aware of it or not. So here you choose to practice what really needs to be practiced, to utilize the gifts of Knowledge and the great Revelations that have been given throughout time and the great Revelation that is now being given to humanity through a [New Message from God](https://www.newmessage.org/aboutnmg).
+
+<a id="p87"></a>May the power and presence of Knowledge guide you and bless you and teach you what is good from what only looks good, and show you the real current of your life and the pathway to connect with others. Only Knowledge knows these things, and it is these things that you most desperately need. May this power guide you, correct you, restrain you and prepare you for a greater life and a greater service to the world.

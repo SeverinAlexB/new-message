@@ -1,0 +1,148 @@
+---
+volume: 1
+book: "God Has Spoken Again"
+chapter: "10"
+title: "The Assembly"
+type: chapter
+source_url: "https://www.newmessage.org/the-message/volume-1/god-spoken-again/the-assembly/"
+---
+
+# The Assembly
+
+<a id="p1"></a>- Listen
+- Info
+- Watch
+
+<a id="p2"></a>Hear the original spoken revelation:
+
+<a id="p3"></a>[Download](https://www.newmessage.org/av/the-assembly.mp3) (Right-click to download)
+
+<a id="p4"></a>As received
+
+<a id="p5"></a>on February 16, 2013
+
+<a id="p6"></a>in Boulder, Colorado
+
+<a id="p7"></a>There is a great Assembly, the Angelic Presence that watches over this world and has watched over this world for a very long time.
+
+<a id="p8"></a>How different this is, however, from people’s notions and beliefs, the way that such great Beings have been portrayed in the past in your books on religion and in the testimony of certain people.
+
+<a id="p9"></a>God is not managing the world. God is not running the climate. God is not moving the blood through your veins or pouring the waters over the cliffs or germinating the seeds in the ground—for that was all set into motion at the beginning of time.
+
+<a id="p10"></a>But God has assigned a Presence to watch over the world through all of its chaotic and tragic encounters and episodes in history—watching for those individuals who show greater promise; bringing things into the world at key turning points in humanity’s evolution; and sending one of their own into the world to bring a new Teaching and a new understanding to change the awareness of humanity and to alter, if possible, the course of humanity in a positive way.
+
+<a id="p11"></a>Those who you honor as the great Messengers, the great Saints, the great Teachers—such as the Jesus, the Buddha and the Muhammad—come from this Assembly, you see. But when they are in the world, they are human beings. What distinguishes them is that they are here on a greater mission with a greater set of responsibilities and a greater accountability to those who sent them. Their lives are trials. Their lives are demanding. It is not a journey for the faint of heart or for those seeking pleasure and repose here on Earth.
+
+<a id="p12"></a>The Assembly watches over the world—listening, waiting for those requests that are truly authentic and represent an honest appeal, particularly if they mark a turning point in a person’s life, particularly if they show a greater demonstration of a desire for contact—not borne of ambition, not borne of foolishness or experimentation.
+
+<a id="p13"></a>It is the signal that someone is ready to begin to awaken. Only Heaven knows what this signal is, what it sounds like, what it means and how it should be regarded.
+
+<a id="p14"></a>For you here on Earth, the Assembly is like Heaven—a bridge between this world and your Ancient Home, from which you have come and to which you will return eventually.
+
+<a id="p15"></a>Everyone in the world, everyone in the universe living in [Separation](https://www.newmessage.org/the-message/volume-1/one-god/the-separation) in the physical reality, will return to their Ancient Home eventually.
+
+<a id="p16"></a>But while they are here, they are prisoners to their own intentions. They are prisoners to their cultures and their nations, in a universe where freedom is so very rare. Yet each has been sent here for a greater purpose—a potential, a seed of wisdom, a possibility that, given the right circumstances and given their own honesty and awareness, a greater life can be initiated.
+
+<a id="p17"></a>Every world where sentient beings have evolved or have migrated and colonized in the universe, there will be an Assembly there—a great Assembly or a small Assembly, depending on the number of individuals and the nature and conditions of that culture and nation in the universe.
+
+<a id="p18"></a>It is a Plan on a scale you cannot even imagine. Your religions cannot account for it. Your theology is far too limited in scope to encompass something of this magnitude. Try as you may to interpret the signs and the symbols of life on Earth, you cannot interpret this. Your intellect was not created to interpret something on this scale.
+
+<a id="p19"></a>But within you is the power of Knowledge that God has placed there—a deeper intelligence, a deeper mind. It is this mind that the Assembly is waiting for. For if this deeper mind within you can emerge within the context of your life and circumstances and be accepted and followed and received, you will begin now a new journey in life. Only in this regard can it be said that you would be born again in the world. Only in this regard would that be true and meaningful and efficacious.
+
+<a id="p20"></a>Members of the Assembly will attend to certain individuals who are making a greater contribution to the world, but only if the deeper Knowledge within those individuals is sending the message—the message the Assembly is waiting for and looking for amongst those who live in Separation.
+
+<a id="p21"></a>God allows you to be in Separation. God allows you to suffer. God allows you to make mistakes because that is why you have chosen Separation—to have this freedom.
+
+<a id="p22"></a>But since there is no real alternative to Creation, your existence here is only partially real. It is still connected to Creation, but is a changing, evolving environment—an environment where your life is temporary and greatly challenged and greatly endangered by many things, where error and failure will be the consequence of living without this Knowledge to guide you.
+
+<a id="p23"></a>God allows this to happen because you were made to be free. You are even free to try to not be who you really are. You are even that free.
+
+<a id="p24"></a>But you can never succeed in Separation because Knowledge lives within you. It is the part of you that has never left God and still responds to the Power and Presence of the Lord of Creation and of Creation itself.
+
+<a id="p25"></a>Think of your religious teachings in the world—the stories, the teachings, the vast array of ideas associated with these—and consider them in light of what We are saying to you here today. For We are giving you the big picture of your life. See the contrast and you will begin to see that you must embark on a new journey.
+
+<a id="p26"></a>Your old ideas of religion and spirituality can only serve you to a certain degree. Beyond that, they must be set aside, for only God knows the way to return. Only God knows the meaning of your true existence and the specific purpose that has brought you into the world at this time, under these circumstances.
+
+<a id="p27"></a>The intellect must bow down eventually. It can only follow when attending a greater reality. This requires humility. This requires surrendering, over time, to the power and the presence that lives within you, that can only respond to your Source.
+
+<a id="p28"></a>The Assembly allows everything to happen on Earth. Unless their Presence is required and requested with the greatest sincerity, they will not interfere. Only at a great turning point, when a New Message is meant to be given to the world, will they provide humanity a new understanding, a greater awareness. And this will occur in response to great and potentially devastating change in the world. That is why the great Revelations are only given at certain critical turning points in the evolution of human civilization. They cannot be fabricated. They cannot be invented. They cannot even be imagined, though many people have tried, of course.
+
+<a id="p29"></a>It is upon these that the great traditions have been built. But it is also upon these that the great traditions have not been able to follow the spirit of the Revelation that initiated their existence in the beginning. God knows that without Knowledge, people would be in error regarding these things and would make many mistakes along the way. It is the condition of living in Separation.
+
+<a id="p30"></a>But once you begin to discover the power and presence of Knowledge within yourself, you begin to end the Separation within yourself—between your worldly mind and idea of yourself and the greater intelligence that lives within you, an intelligence you had before you came into the world and which you will rediscover once you leave.
+
+<a id="p31"></a>This requires a great resonance with life and not merely a complex theology or philosophy. The [Angelic Assembly](https://www.newmessage.org/the-message/volume-1/god-spoken-again/the-assembly) does not respond to those things.
+
+<a id="p32"></a>But at a great turning point, such as is occurring in the world today, one of their own will come into the world. One of their own will be sent to face the tribulation of being the Messenger—the great difficulty, the great mystery, the great uncertainty, the great Presence that will abide with them as they go through the process of becoming an adult human being, with yet little awareness of their greater destiny and purpose until their calling has been initiated.
+
+<a id="p33"></a>No one understands the life of the Messenger, but everyone can receive the gifts of the Messenger, which are gifts that are greater than any person could ever give to the world—gifts far more long lasting, pervasive, powerful and inspiring than any person could ever create or invent. People may have compelling ideas, but nothing that can transform the life of a person in the most natural and beautiful way.
+
+<a id="p34"></a>That must come from Heaven. It must come through the Assembly that interprets the Will of God. For God of the universe is far too great to be preoccupied with this world—the God of countless galaxies, dimensions and Creation beyond the physical manifestation, which is even greater, so great that there is no possibility that you could comprehend its scope and its great inclusion in life.
+
+<a id="p35"></a>The Lord of a billion, billion, billion races and more is certainly beyond any theological principle that has ever been created in this world. But it is part of God’s New Revelation, you see, because humanity is emerging into a [Greater Community](https://www.newmessage.org/aboutgc) of life in the universe and must now begin to think of God in a greater panorama.
+
+<a id="p36"></a>For to understand what God is doing in this world, you must understand what God is doing in the universe. And for the first time, the Revelation concerning this is being given to a humanity that stands at the threshold of space, to a humanity that stands at the threshold of destroying the environment of the world and driving itself into ruin and catastrophe. It is the greatest threshold humanity has ever faced, and the most consequential.
+
+<a id="p37"></a>Everything will change and is changing even at this moment. Because of this great turning point, God has sent, through the Angelic Presence and Assembly, [a New Revelation](https://www.newmessage.org/aboutnmg) for the world—a Revelation about life in the universe and the work of God everywhere, not based upon a tribe or a region or upon a natural phenomenon or upon the limited history of a group or a nation, but upon the reality of life everywhere.
+
+<a id="p38"></a>This greater panorama gives you the greatest opportunity to recognize the power and the presence that lives within you and encourages you to use your intellect to support this realization, for this is what it was created to do, and this is its highest service to you.
+
+<a id="p39"></a>You will not know the names of those in the Assembly though they might provide a name at some point for some person to help them to respond. Their names are meaningless, for they are both individuals and they are one—a phenomenon you cannot comprehend with the intellect, which can only think of things of this world.
+
+<a id="p40"></a>At the time of great Revelation, the Assembly speaks as one Voice. It speaks through one of its members, but they are all speaking at once, a phenomenon that you cannot really consider. It is too marvelous. It is too phenomenal. It speaks beyond your notions of reality entirely. You can only imagine individuals in the universe, but the Assembly is one and many and one, because they are so close to Heaven, you see, where the many are one, and the one are many.
+
+<a id="p41"></a>Your focus in life is not to become enamored with the Assembly or to concentrate on the Assembly, for their purpose is to engage you in the reclamation of Knowledge that lives within you.
+
+<a id="p42"></a>For you must be the one who chooses. You must be the one who faces the consequences and the difficulties and the blessings of your decisions. You are the one who must choose to receive or to decline the great offering. You are the one who must be responsible for everything that you do.
+
+<a id="p43"></a>So do not go around telling people that God is guiding you to do this or that, for that is irresponsible. You must say, “I am doing this because I feel it is the thing that must be done.” Claim no other authority, for you do not know for sure.
+
+<a id="p44"></a>You cannot know the Assembly or the power of the presence that lives within you unless Knowledge has been activated within you and is beginning to emerge powerfully in your life. Do not create a romance about your angelic experience, whatever it may be, whether it be real or fabricated, because it is all about the emergence of Knowledge within you, you see.
+
+<a id="p45"></a>The Assembly is only concerned with this, for until this happens, you are not reliable. You are not responsible. You are not courageous. You are not authentic. You are still subject to the persuasions of the world and to your own fears and preferences. You are too weak.
+
+<a id="p46"></a>That is why you must be elevated within yourself through a process of great transformation that can only be initiated by the Assembly. You cannot initiate yourself. You can meditate for twenty years and not know of the power and the presence of Knowledge.
+
+<a id="p47"></a>It is your prayer given now with the greatest strength, urgency and authenticity that calls the Assembly to you. You pray not for advantages or merely protection from harm. You pray to be redeemed, not knowing what this means, not trying to understand the redemption, not thinking you know how to purify yourself. For only the Assembly knows this.
+
+<a id="p48"></a>It is a marvelous thing, you see. It is the greatest miracle of all. It is the miracle that creates every other miracle.
+
+<a id="p49"></a>God has now sent a New Message into the world to prepare humanity to face a new world experience and environment, and to meet the great challenge of preserving and uniting human civilization.
+
+<a id="p50"></a>God has sent the great Revelation into the world to prepare humanity for its encounter with life in the universe—the greatest event in human history and the one that poses the greatest challenges, difficulties and opportunities for the human family.
+
+<a id="p51"></a>A Messenger is in the world. He has been in preparation for a very long time to receive the Revelation, for it is the largest Revelation ever given to humanity—given now to an educated world, a literate world, a world of global communication, a world of global awareness, to a certain degree.
+
+<a id="p52"></a>It is the first time in history that a Message has been given to the whole world all at once. For it must reach the world in a short period of time to prepare humanity for the great change that is coming to the world and for the meaning of its encounter with intelligent life in the universe, which is occurring in the world already.
+
+<a id="p53"></a>None of God’s previous Revelations can prepare you for these things, for that was not their purpose or their design. They were given to build human awareness, human civilization and human conscience and the ethics that could possibly guide humanity to a greater unity and a greater power in the world.
+
+<a id="p54"></a>Human civilization has been created, and though it is very imperfect—full of corruption and division and error—it nonetheless has great promise. If you knew the conditions of life in the universe around you, you would see this great promise. But you cannot see this yet. You do not have this vantage point. But the Assembly sees this, of course, and that is why great emphasis is being given to this world, to prepare for this great threshold. So much is being given now, through the process of Revelation.
+
+<a id="p55"></a>But the Messenger faces great difficulties, the same difficulties all the previous Messengers faced—disbelief, antagonism, rejection, ridicule.
+
+<a id="p56"></a>People cannot see that the greatest event in the world is occurring in their midst. They think it is a violation of their ideas, a challenge to their beliefs. They think it will undermine their wealth, their power and their prestige in the world when in fact it offers the greatest promise of redemption they could ever receive and the greatest preparation for a future that will be unlike the past in so many ways.
+
+<a id="p57"></a>The Assembly watches and guides the Messenger, for his importance in the world cannot be underestimated. His importance in the world cannot be overestimated. The Assembly will speak through him to bring the Revelation into the world. And they will speak as one because the Message is everything.
+
+<a id="p58"></a>If this can be recognized by enough people, heeded and followed by enough people, humanity will have the power to turn away from disintegration and endless conflict and war to build a new foundation for the future.
+
+<a id="p59"></a>The Revelation has given the vision for this greater world for humanity, but it will be a very different world. It will require great power, courage and honesty to create it and to sustain it in a universe where there are powerful forces and where freedom is rare. Only God knows how this can be done. Only the Assembly understands these things.
+
+<a id="p60"></a>Your task now is to learn to receive and to take the [Steps to Knowledge](https://www.newmessage.org/stk) so that you may find your true foundation in life, to challenge your ideas, to resolve dilemmas from the past, to forgive yourself and others, and to look upon the world without rejection and condemnation. For it is this world that will call forth from you, in time, your greater gifts and your greater role.
+
+<a id="p61"></a>There is so much to unlearn here, so much to reconsider. You have to be humble enough to do this. If you think you know the truth, if you think you know God’s Will, if you think you know what the universe is, your chances of discovering the truth will be very small.
+
+<a id="p62"></a>The Assembly watches over the world. Call to the Assembly—not casually, for they will not hear you. Not to fulfill your ambitions, your dreams or your fantasies, for they will not hear you. You must pray with your heart and your soul. Only then can your voice reach them, for they only know what is true, honest and pure.
+
+<a id="p63"></a>They cannot be manipulated. They cannot be corrupted. They cannot be influenced. You cannot make a deal with them. For you must have the strength to receive their counsel in time and carry it forth without compromise, without corruption. That is how strong you will have to be, to be part of a greater force for good in the world.
+
+<a id="p64"></a>People will think, “Oh, this is too much for me to consider. The challenge is too great!” But We say no. It is appropriate for who you are and why you are in the world and who sent you here. You think of yourself in such a demeaning way. You have degraded to a pathetic state when you think like this. You do not know your strength, your power or your purpose, which only Knowledge within you can provide.
+
+<a id="p65"></a>The Assembly watches and waits for those who can respond to the Message that God is sending into the world at this moment. For the Messenger is now coming forth to speak, to proclaim and to teach the Revelation. He has been withheld for a long time until the Message was complete. Now it is complete, and the world is in great need of it, greater than you can realize at this moment.
+
+<a id="p66"></a>The Messenger represents the Assembly though he is a human being and though he is imperfect, for all human beings are imperfect. He has made mistakes, but all the great Messengers have made mistakes.
+
+<a id="p67"></a>It is the Power of Heaven within him that is his strength, that is his banner, that is his shield. You can destroy his body, but you cannot destroy his Message. And you cannot destroy what he is bringing into the world and the Power and the Presence that has sent him here—the Power and the Presence that waits for you to respond.
+
+<a id="p68"></a>For the gift is now before you, and Heaven watches and waits to see who can receive, who can recognize, who can take the Steps to Knowledge and receive the gift of a greater life in a world that grows darker and more uncertain with each passing day.
