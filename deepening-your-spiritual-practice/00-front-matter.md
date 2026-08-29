@@ -2,21 +2,26 @@
 volume: 3
 book: "Deepening Your Spiritual Practice"
 chapter: "00"
-title: "Front Matter"
-type: front-matter
-source_url: "https://www.newmessage.org/the-message/volume-3/deepening-your-spiritual-practice/"
+title: "Overview"
+type: overview
+source_url: "https://newmessage.org/the-message/volume-3/deepening-your-spiritual-practice/"
 ---
 
-# Front Matter
+# Overview
 
-<a id="p1"></a>Source: [Deepening Your Spiritual Practice](https://www.newmessage.org/the-message/volume-3/deepening-your-spiritual-practice/)
+<a id="p1"></a>Deepening Your Spiritual Practice is an upcoming new book of the New Message to be published by New Knowledge Library. Prior to publication, the following chapters are being made available online.
+
+<a id="p2"></a>Receive an email announcement when the new book will be available (as well as free online) by joining our email list here.
+
+<a id="p3"></a>Deepening Your Spiritual Practice is a book in Volume 3 of The New Message.
 
 ## Contents
-- 01. [Deepening Your Spiritual Practice](https://www.newmessage.org/the-message/volume-3/deepening-your-spiritual-practice/deepening-your-spiritual-practice/)
-- 02. [Going Beneath the Surface of the Mind](https://www.newmessage.org/the-message/volume-3/deepening-your-spiritual-practice/going-beneath-the-surface-of-the-mind/)
-- 03. [Inner Guidance](https://www.newmessage.org/the-message/volume-3/deepening-your-spiritual-practice/inner-guidance/)
-- 04. [Spiritual Retreat](https://www.newmessage.org/the-message/volume-3/deepening-your-spiritual-practice/spiritual-retreat/)
-- 05. [Taking the Steps to Knowledge](https://www.newmessage.org/the-message/volume-3/deepening-your-spiritual-practice/taking-the-steps-to-knowledge/)
-- 06. [The Inner Voice](https://www.newmessage.org/the-message/volume-3/deepening-your-spiritual-practice/the-inner-voice/)
-- 07. [The Still Mind](https://www.newmessage.org/the-message/volume-3/deepening-your-spiritual-practice/the-still-mind/)
-- 08. [Your Deeper Spiritual Nature](https://www.newmessage.org/the-message/volume-3/deepening-your-spiritual-practice/your-deeper-spiritual-nature/)
+- [Deepening Your Spiritual Practice](https://newmessage.org/the-message/volume-3/deepening-your-spiritual-practice/deepening-your-spiritual-practice/)
+- [Going Beneath the Surface of the Mind](https://newmessage.org/the-message/volume-3/deepening-your-spiritual-practice/going-beneath-the-surface-of-the-mind/)
+- [Inner Guidance](https://newmessage.org/the-message/volume-3/deepening-your-spiritual-practice/inner-guidance/)
+- [Prayer and Power in the Mental Environment](https://newmessage.org/the-message/volume-3/deepening-your-spiritual-practice/prayer-and-power-in-the-mental-environment/)
+- [Spiritual Retreat](https://newmessage.org/the-message/volume-3/deepening-your-spiritual-practice/spiritual-retreat/)
+- [Taking the Steps to Knowledge](https://newmessage.org/the-message/volume-3/deepening-your-spiritual-practice/taking-the-steps-to-knowledge/)
+- [The Inner Voice](https://newmessage.org/the-message/volume-3/deepening-your-spiritual-practice/the-inner-voice/)
+- [The Still Mind](https://newmessage.org/the-message/volume-3/deepening-your-spiritual-practice/the-still-mind/)
+- [Your Deeper Spiritual Nature](https://newmessage.org/the-message/volume-3/deepening-your-spiritual-practice/your-deeper-spiritual-nature/)

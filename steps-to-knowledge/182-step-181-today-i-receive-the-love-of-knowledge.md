@@ -1,20 +1,14 @@
 ---
 volume: 3
-book: "Steps To Knowledge"
-chapter: "182"
-title: "Step 181: Today I receive the love of Knowledge."
+book: "Steps to Knowledge"
+chapter: "181"
+title: "Today I receive the love of Knowledge."
 type: chapter
-source_url: "https://s3.us-east-1.wasabisys.com/nmfg-pdf/books/StepstoKnowledge_v1.5.pdf"
-source_pdf: "../sources/pdf/steps-to-knowledge.pdf"
+source_url: "https://newmessage.org/the-message/volume-3/steps-knowledge/step-181-today-i-receive-the-love-of-knowledge/"
 ---
 
-# Step 181: Today I receive the love of Knowledge.
+# Today I receive the love of Knowledge.
 
-<a id="p1"></a>Knowledge possesses the true seed of love, not love that is a mere sentiment, not love that is a form of intoxication surrounding an urgent desire born of fear.
-Knowledge is the seed of true love, not the love that seeks to conquer, to possess and to dominate, but the love that seeks to serve, to empower and to free another. Become the recipient of this love today so that it may flow through you to the world, for without your denial it will most surely do this.
+<a id="p1"></a>Knowledge possesses the true seed of love, not love that is a mere sentiment, not love that is a form of intoxication surrounding an urgent desire born of fear. Knowledge is the seed of true love, not the love that seeks to conquer, to possess and to dominate, but the love that seeks to serve, to empower and to free another. Become the recipient of this love today so that it may flow through you to the world, for without your denial it will most surely do this.
 
-<a id="p2"></a>Upon the hour, repeat this statement and feel its full impact, regardless of the circumstance that you find yourself in. Allow each circumstance to support your practice, and you will find that your practice will have an increasingly potent effect on your external life. In your two deeper practices today, enter into the presence of Knowledge and receive its love.
-Affirm your worthiness and your receptivity. Relinquish your presumptions about yourself and the world, and allow yourself to have an experience that will demonstrate the truth beyond any assumption. This is your practice today. This is your gift to yourself, to your world and to your Creator so that you may receive the gift of love.
-
-<a id="p3"></a>Practice 181: Two 30-minute practice periods.
-Hourly practice.
+<a id="p2"></a>Upon the hour, repeat this statement and feel its full impact, regardless of the circumstance that you find yourself in. Allow each circumstance to support your practice, and you will find that your practice will have an increasingly potent effect on your external life. In your two deeper practices today, enter into the presence of Knowledge and receive its love. Affirm your worthiness and your receptivity. Relinquish your presumptions about yourself and the world, and allow yourself to have an experience that will demonstrate the truth beyond any assumption. This is your practice today. This is your gift to yourself, to your world and to your Creator so that you may receive the gift of love.

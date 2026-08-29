@@ -2,11 +2,11 @@
 
 Volume 2
 
-Source: [Preparing for the Great Waves of Change](https://www.newmessage.org/the-message/volume-2/preparing-for-the-great-waves-of-change/)
+Source: [Preparing for the Great Waves of Change](https://newmessage.org/the-message/volume-2/preparing-for-the-great-waves-of-change/)
 
-## Chapters
+## Contents
 
-- **`00-front-matter.md`** — Front Matter
+- **`00-front-matter.md`** — Overview
 - **`01-introduction.md`** — Introduction
 - **`02-navigating-the-difficult-times-ahead.md`** — Navigating the Difficult Times Ahead
 - **`03-facing-a-world-in-decline.md`** — Facing a World in Decline

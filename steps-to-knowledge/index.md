@@ -1,375 +1,376 @@
-# Steps To Knowledge — Index
+# Steps to Knowledge — Index
 
 Volume 3
 
-Source PDF: [steps-to-knowledge.pdf](../sources/pdf/steps-to-knowledge.pdf)
+Source: [Steps to Knowledge](https://newmessage.org/the-message/volume-3/steps-knowledge/)
 
-## Chapters
+## Contents
 
-- **`00-front-matter.md`** — Front Matter
-- **`001-front-matter-and-introduction.md`** — Front Matter and Introduction
-- **`002-step-1-i-am-without-knowledge-now.md`** — Step 1: I am without Knowledge now.
-- **`003-step-2-knowledge-is-with-me-where-am-i.md`** — Step 2: Knowledge is with me. Where am I?
-- **`004-step-3-what-do-i-really-know.md`** — Step 3: What do I really know?
-- **`005-step-4-i-want-what-i-think-i-know.md`** — Step 4: I want what I think I know.
-- **`006-step-5-i-believe-what-i-want-to-believe.md`** — Step 5: I believe what I want to believe.
-- **`007-step-6-i-have-a-true-foundation-in-the-world.md`** — Step 6: I have a true foundation in the world.
-- **`008-step-7-review.md`** — Step 7: Review
-- **`009-step-8-today-i-will-be-still.md`** — Step 8: Today I will be still.
-- **`010-step-9-in-stillness-all-things-can-be-known.md`** — Step 9: In stillness all things can be known.
-- **`011-step-10-what-is-knowledge.md`** — Step 10: What is Knowledge?
-- **`012-step-11-i-am-not-apart-from-life.md`** — Step 11: I am not apart from life.
-- **`013-step-12-my-individuality-is-to-express-life-itself.md`** — Step 12: My individuality is to express life itself.
-- **`014-step-13-i-want-to-be-separate-to-be-unique.md`** — Step 13: I want to be separate to be unique.
-- **`015-step-14-review.md`** — Step 14: Review
-- **`016-step-15-i-shall-listen-to-my-experience-today.md`** — Step 15: I shall listen to my experience today.
-- **`017-step-16-beyond-my-mind-is-knowledge.md`** — Step 16: Beyond my mind is Knowledge.
-- **`018-step-17-today-i-want-to-hear-the-truth.md`** — Step 17: Today I want to hear the truth.
-- **`019-step-18-today-i-feel-the-truth-arising-within-myself.md`** — Step 18: Today I feel the truth arising within myself.
-- **`020-step-19-today-i-wish-to-see.md`** — Step 19: Today I wish to see.
-- **`021-step-20-i-will-not-let-doubt-and-confusion-slow-my-progress.md`** — Step 20: I will not let doubt and confusion slow my progress.
-- **`022-step-21-review.md`** — Step 21: Review
-- **`023-step-22-i-am-surrounded-by-the-teachers-of-god.md`** — Step 22: I am surrounded by the Teachers of God.
-- **`024-step-23-i-am-loved-surrounded-and-supported-by-the-teachers-of-god.md`** — Step 23: I am loved, surrounded and supported by the Teachers of God.
-- **`025-step-24-i-am-worthy-of-god-s-love.md`** — Step 24: I am worthy of God’s love.
-- **`026-step-25-i-am-at-one-with-the-greatest-truth-of-life.md`** — Step 25: I am at one with the greatest truth of life.
-- **`027-step-26-my-errors-give-birth-to-my-knowledge.md`** — Step 26: My errors give birth to my Knowledge.
-- **`028-step-27-i-have-a-wisdom-that-i-wish-to-discover.md`** — Step 27: I have a Wisdom that I wish to discover.
-- **`029-step-28-review.md`** — Step 28: Review
-- **`030-step-29-i-will-observe-myself-today-to-learn-of-knowledge.md`** — Step 29: I will observe myself today to learn of Knowledge.
-- **`031-step-30-today-i-will-observe-my-world.md`** — Step 30: Today I will observe my world.
-- **`032-step-31-i-wish-to-see-a-world-i-have-never-seen-before.md`** — Step 31: I wish to see a world I have never seen before.
-- **`033-step-32-the-truth-is-with-me-i-can-feel-it.md`** — Step 32: The truth is with me. I can feel it.
-- **`034-step-33-i-have-a-mission-in-my-life-to-fulfill.md`** — Step 33: I have a mission in my life to fulfill.
-- **`035-step-34-i-am-a-beginning-student-of-knowledge.md`** — Step 34: I am a beginning student of Knowledge.
-- **`036-step-35-review.md`** — Step 35: Review
-- **`037-step-36-my-life-is-a-mystery-to-explore.md`** — Step 36: My life is a mystery to explore.
-- **`038-step-37-there-is-a-way-to-knowledge.md`** — Step 37: There is a way to Knowledge.
-- **`039-step-38-god-knows-the-way-to-knowledge.md`** — Step 38: God knows the way to Knowledge.
-- **`040-step-39-the-power-of-god-is-with-me.md`** — Step 39: The power of God is with me.
-- **`041-step-40-today-i-will-feel-the-power-of-god.md`** — Step 40: Today I will feel the power of God.
-- **`042-step-41-i-am-not-afraid-of-the-power-of-god.md`** — Step 41: I am not afraid of the power of God.
-- **`043-step-42-review.md`** — Step 42: Review
-- **`044-step-43-my-will-is-to-know-god.md`** — Step 43: My will is to know God.
-- **`045-step-44-i-wish-to-know-my-own-strength.md`** — Step 44: I wish to know my own strength.
-- **`046-step-45-alone-i-can-do-nothing.md`** — Step 45: Alone I can do nothing.
-- **`047-step-46-i-must-be-small-to-be-great.md`** — Step 46: I must be small to be great.
-- **`048-step-47-why-do-i-need-teachers.md`** — Step 47: Why do I need Teachers?
-- **`049-step-48-true-instruction-is-available-to-me.md`** — Step 48: True instruction is available to me.
-- **`050-step-49-review.md`** — Step 49: Review
-- **`051-step-50-today-i-will-be-with-knowledge.md`** — Step 50: Today I will be with Knowledge.
-- **`052-step-51-let-me-recognize-my-fears-so-that-i-may-see-the-truth-beyond-them.md`** — Step 51: Let me recognize my fears so that I may see the truth beyond them.
-- **`053-step-52-i-am-free-to-find-the-source-of-my-knowledge.md`** — Step 52: I am free to find the source of my Knowledge.
-- **`054-step-53-my-gifts-are-for-others.md`** — Step 53: My gifts are for others.
-- **`055-step-54-i-will-not-live-in-idealism.md`** — Step 54: I will not live in idealism.
-- **`056-step-55-i-will-accept-the-world-as-it-is.md`** — Step 55: I will accept the world as it is.
-- **`057-step-56-review.md`** — Step 56: Review
-- **`058-step-57-freedom-is-with-me.md`** — Step 57: Freedom is with me.
-- **`059-step-58-knowledge-is-with-me.md`** — Step 58: Knowledge is with me.
-- **`060-step-59-today-i-will-learn-patience.md`** — Step 59: Today I will learn patience.
-- **`061-step-60-i-will-not-judge-the-world-today.md`** — Step 60: I will not judge the world today.
-- **`062-step-61-love-gives-of-itself-through-me.md`** — Step 61: Love gives of itself through me.
-- **`063-step-62-today-i-will-learn-to-listen-to-life.md`** — Step 62: Today I will learn to listen to life.
-- **`064-step-63-review.md`** — Step 63: Review
-- **`065-step-64-today-i-will-listen-to-another.md`** — Step 64: Today I will listen to another.
-- **`066-step-65-i-have-come-to-work-in-the-world.md`** — Step 65: I have come to work in the world.
-- **`067-step-66-i-will-stop-complaining-about-the-world.md`** — Step 66: I will stop complaining about the world.
-- **`068-step-67-i-do-not-know-what-i-want-for-the-world.md`** — Step 67: I do not know what I want for the world.
-- **`069-step-68-i-will-not-lose-faith-in-myself-today.md`** — Step 68: I will not lose faith in myself today.
-- **`070-step-69-today-i-will-practice-stillness.md`** — Step 69: Today I will practice stillness.
-- **`071-step-70-review.md`** — Step 70: Review
-- **`072-step-71-i-am-here-to-serve-a-greater-purpose.md`** — Step 71: I am here to serve a greater purpose.
-- **`073-step-72-i-will-trust-my-deepest-inclinations-today.md`** — Step 72: I will trust my deepest inclinations today.
-- **`074-step-73-i-will-allow-my-errors-to-teach-me.md`** — Step 73: I will allow my errors to teach me.
-- **`075-step-74-peace-abides-with-me-today.md`** — Step 74: Peace abides with me today.
-- **`076-step-75-today-i-will-listen-to-my-self.md`** — Step 75: Today I will listen to my Self.
-- **`077-step-76-today-i-will-not-judge-another.md`** — Step 76: Today I will not judge another.
-- **`078-step-77-review.md`** — Step 77: Review
-- **`079-step-78-i-can-do-nothing-alone.md`** — Step 78: I can do nothing alone.
-- **`080-step-79-i-will-allow-uncertainty-to-exist-today.md`** — Step 79: I will allow uncertainty to exist today.
-- **`081-step-80-i-can-only-practice.md`** — Step 80: I can only practice.
-- **`082-step-81-i-will-not-deceive-myself-today.md`** — Step 81: I will not deceive myself today.
-- **`083-step-82-i-will-not-judge-another-today.md`** — Step 82: I will not judge another today.
-- **`084-step-83-i-value-knowledge-beyond-all-things.md`** — Step 83: I value Knowledge beyond all things.
-- **`085-step-84-review.md`** — Step 84: Review
-- **`086-step-85-i-find-happiness-in-small-things-today.md`** — Step 85: I find happiness in small things today.
-- **`087-step-86-i-honor-those-who-have-given-to-me.md`** — Step 86: I honor those who have given to me.
-- **`088-step-87-i-will-not-be-afraid-of-what-i-know.md`** — Step 87: I will not be afraid of what I know.
-- **`089-step-88-my-higher-self-is-not-an-individual.md`** — Step 88: My Higher Self is not an individual.
-- **`090-step-89-my-emotions-cannot-dissuade-my-knowledge.md`** — Step 89: My emotions cannot dissuade my Knowledge.
-- **`091-step-90-today-i-will-make-no-assumptions.md`** — Step 90: Today I will make no assumptions.
-- **`092-step-91-review.md`** — Step 91: Review
-- **`093-step-92-there-is-a-role-for-me-to-play-in-the-world.md`** — Step 92: There is a role for me to play in the world.
-- **`094-step-93-i-am-sent-here-for-a-purpose.md`** — Step 93: I am sent here for a purpose.
-- **`095-step-94-my-freedom-is-to-find-my-purpose.md`** — Step 94: My freedom is to find my purpose.
-- **`096-step-95-how-can-i-possibly-fulfill-myself.md`** — Step 95: How can I possibly fulfill myself?
-- **`097-step-96-god-s-will-is-for-me-to-be-unburdened.md`** — Step 96: God’s Will is for me to be unburdened.
-- **`098-step-97-i-do-not-know-what-fulfillment-is.md`** — Step 97: I do not know what fulfillment is.
-- **`099-step-98-review.md`** — Step 98: Review
-- **`100-step-99-i-will-not-blame-the-world-today.md`** — Step 99: I will not blame the world today.
-- **`101-step-100-today-i-am-a-beginning-student-of-knowledge.md`** — Step 100: Today I am a beginning student of Knowledge.
-- **`102-step-101-the-world-needs-me-but-i-will-wait.md`** — Step 101: The world needs me, but I will wait.
-- **`103-step-102-there-is-much-i-must-unlearn.md`** — Step 102: There is much I must unlearn.
-- **`104-step-103-i-am-honored-by-god.md`** — Step 103: I am honored by God.
-- **`105-step-104-god-knows-more-about-me-than-i-do.md`** — Step 104: God knows more about me than I do.
-- **`106-step-105-review.md`** — Step 105: Review
-- **`107-step-106-there-are-no-masters-living-in-the-world.md`** — Step 106: There are no Masters living in the world.
-- **`108-step-107-today-i-will-learn-to-be-happy.md`** — Step 107: Today I will learn to be happy.
-- **`109-step-108-happiness-is-something-i-must-learn-again.md`** — Step 108: Happiness is something I must learn again.
-- **`110-step-109-i-will-not-be-in-a-hurry-today.md`** — Step 109: I will not be in a hurry today.
-- **`111-step-110-i-will-be-honest-with-myself-today.md`** — Step 110: I will be honest with myself today.
-- **`112-step-111-today-i-will-be-at-ease.md`** — Step 111: Today I will be at ease.
-- **`113-step-112-review.md`** — Step 112: Review
-- **`114-step-113-i-will-not-be-persuaded-by-others.md`** — Step 113: I will not be persuaded by others.
-- **`115-step-114-my-true-friends-are-with-me-i-am-not-alone.md`** — Step 114: My true friends are with me. I am not alone.
-- **`116-step-115-today-i-will-listen-to-the-power-of-knowledge.md`** — Step 115: Today I will listen to the power of Knowledge.
-- **`117-step-116-today-i-shall-be-patient-with-knowledge.md`** — Step 116: Today I shall be patient with Knowledge.
-- **`118-step-117-it-is-better-to-be-simple-than-to-be-poor.md`** — Step 117: It is better to be simple than to be poor.
-- **`119-step-118-i-will-not-avoid-the-world-today.md`** — Step 118: I will not avoid the world today.
-- **`120-step-119-review.md`** — Step 119: Review
-- **`121-step-120-i-will-remember-my-knowledge-today.md`** — Step 120: I will remember my Knowledge today.
-- **`122-step-121-today-i-am-free-to-give.md`** — Step 121: Today I am free to give.
+- **`00-front-matter.md`** — Overview
+- **`001-introduction.md`** — Introduction
+- **`002-step-1-i-am-without-knowledge-now.md`** — I am without Knowledge now.
+- **`003-step-2-knowledge-is-with-me-where-am-i.md`** — Knowledge is with me. Where am I?
+- **`004-step-3-what-do-i-really-know.md`** — What do I really know?
+- **`005-step-4-i-want-what-i-think-i-know.md`** — I want what I think I know.
+- **`006-step-5-i-believe-what-i-want-to-believe.md`** — I believe what I want to believe.
+- **`007-step-6-i-have-a-true-foundation-in-the-world.md`** — I have a true foundation in the world.
+- **`008-step-7-review.md`** — REVIEW
+- **`009-step-8-today-i-will-be-still.md`** — Today I will be still.
+- **`010-step-9-in-stillness-all-things-can-be-known.md`** — In stillness all things can be known.
+- **`010a-why-am-i-doing-this-anyway.md`** — Why am I doing this anyway?
+- **`011-step-10-what-is-knowledge.md`** — What is Knowledge?
+- **`012-step-11-i-am-not-apart-from-life.md`** — I am not apart from life.
+- **`013-step-12-my-individuality-is-to-express-life-itself.md`** — My individuality is to express life itself.
+- **`014-step-13-i-want-to-be-separate-to-be-unique.md`** — I want to be separate to be unique.
+- **`015-step-14-review.md`** — REVIEW
+- **`016-step-15-i-shall-listen-to-my-experience-today.md`** — I shall listen to my experience today.
+- **`017-step-16-beyond-my-mind-is-knowledge.md`** — Beyond my mind is Knowledge.
+- **`018-step-17-today-i-want-to-hear-the-truth.md`** — Today I want to hear the truth.
+- **`019-step-18-today-i-feel-the-truth-arising-within-myself.md`** — Today I feel the truth arising within myself.
+- **`020-step-19-today-i-wish-to-see.md`** — Today I wish to see.
+- **`021-step-20-i-will-not-let-doubt-and-confusion-slow-my-progress.md`** — I will not let doubt and confusion slow my progress.
+- **`022-step-21-review.md`** — REVIEW
+- **`023-step-22-i-am-surrounded-by-the-teachers-of-god.md`** — I am surrounded by the Teachers of God.
+- **`024-step-23-i-am-loved-surrounded-and-supported-by-the-teachers-of-god.md`** — I am loved, surrounded and supported by the Teachers of God.
+- **`025-step-24-i-am-worthy-of-gods-love.md`** — I am worthy of God’s love.
+- **`026-step-25-i-am-at-one-with-the-greatest-truth-of-life.md`** — I am at one with the greatest truth of life.
+- **`027-step-26-my-errors-give-birth-to-my-knowledge.md`** — My errors give birth to my Knowledge.
+- **`028-step-27-i-have-a-wisdom-that-i-wish-to-discover.md`** — I have a Wisdom that I wish to discover.
+- **`029-step-28-review.md`** — REVIEW
+- **`030-step-29-i-will-observe-myself-today-to-learn-of-knowledge.md`** — I will observe myself today to learn of Knowledge.
+- **`031-step-30-today-i-will-observe-my-world.md`** — Today I will observe my world.
+- **`032-step-31-i-wish-to-see-a-world-i-have-never-seen-before.md`** — I wish to see a world I have never seen before.
+- **`033-step-32-the-truth-is-with-me-i-can-feel-it.md`** — The truth is with me. I can feel it.
+- **`034-step-33-i-have-a-mission-in-my-life-to-fulfill.md`** — I have a mission in my life to fulfill.
+- **`035-step-34-i-am-a-beginning-student-of-knowledge.md`** — I am a beginning student of Knowledge.
+- **`036-step-35-review.md`** — REVIEW
+- **`037-step-36-my-life-is-a-mystery-to-explore.md`** — My life is a mystery to explore.
+- **`038-step-37-there-is-a-way-to-knowledge.md`** — There is a way to Knowledge.
+- **`039-step-38-god-knows-the-way-to-knowledge.md`** — God knows the way to Knowledge.
+- **`040-step-39-the-power-of-god-is-with-me.md`** — The power of God is with me.
+- **`041-step-40-today-i-will-feel-the-power-of-god.md`** — Today I will feel the power of God.
+- **`042-step-41-i-am-not-afraid-of-the-power-of-god.md`** — I am not afraid of the power of God.
+- **`043-step-42-review.md`** — REVIEW
+- **`044-step-43-my-will-is-to-know-god.md`** — My will is to know God.
+- **`045-step-44-i-wish-to-know-my-own-strength.md`** — I wish to know my own strength.
+- **`046-step-45-alone-i-can-do-nothing.md`** — Alone I can do nothing.
+- **`047-step-46-i-must-be-small-to-be-great.md`** — I must be small to be great.
+- **`048-step-47-why-do-i-need-teachers.md`** — Why do I need Teachers?
+- **`049-step-48-true-instruction-is-available-to-me.md`** — True instruction is available to me.
+- **`050-step-49-review.md`** — REVIEW
+- **`051-step-50-today-i-will-be-with-knowledge.md`** — Today I will be with Knowledge.
+- **`052-step-51-let-me-recognize-my-fears-so-that-i-may-see-the-truth-beyond-them.md`** — Let me recognize my fears so that I may see the truth beyond them.
+- **`053-step-52-i-am-free-to-find-the-source-of-my-knowledge.md`** — I am free to find the source of my Knowledge.
+- **`054-step-53-my-gifts-are-for-others.md`** — My gifts are for others.
+- **`055-step-54-i-will-not-live-in-idealism.md`** — I will not live in idealism.
+- **`056-step-55-i-will-accept-the-world-as-it-is.md`** — I will accept the world as it is.
+- **`057-step-56-review.md`** — REVIEW
+- **`058-step-57-freedom-is-with-me.md`** — Freedom is with me.
+- **`059-step-58-knowledge-is-with-me.md`** — Knowledge is with me.
+- **`060-step-59-today-i-will-learn-patience.md`** — Today I will learn patience.
+- **`061-step-60-i-will-not-judge-the-world-today.md`** — I will not judge the world today.
+- **`062-step-61-love-gives-of-itself-through-me.md`** — Love gives of itself through me.
+- **`063-step-62-today-i-will-learn-to-listen-to-life.md`** — Today I will learn to listen to life.
+- **`064-step-63-review.md`** — REVIEW
+- **`065-step-64-today-i-will-listen-to-another.md`** — Today I will listen to another.
+- **`066-step-65-i-have-come-to-work-in-the-world.md`** — I have come to work in the world.
+- **`067-step-66-i-will-stop-complaining-about-the-world.md`** — I will stop complaining about the world.
+- **`068-step-67-i-do-not-know-what-i-want-for-the-world.md`** — I do not know what I want for the world.
+- **`069-step-68-i-will-not-lose-faith-in-myself-today.md`** — I will not lose faith in myself today.
+- **`070-step-69-today-i-will-practice-stillness.md`** — Today I will practice stillness.
+- **`071-step-70-review.md`** — REVIEW
+- **`072-step-71-i-am-here-to-serve-a-greater-purpose.md`** — I am here to serve a greater purpose.
+- **`073-step-72-i-will-trust-my-deepest-inclinations-today.md`** — I will trust my deepest inclinations today.
+- **`074-step-73-i-will-allow-my-errors-to-teach-me.md`** — I will allow my errors to teach me.
+- **`075-step-74-peace-abides-with-me-today.md`** — Peace abides with me today.
+- **`076-step-75-today-i-will-listen-to-my-self.md`** — Today I will listen to my Self.
+- **`077-step-76-today-i-will-not-judge-another.md`** — Today I will not judge another.
+- **`078-step-77-review.md`** — REVIEW
+- **`079-step-78-i-can-do-nothing-alone.md`** — I can do nothing alone.
+- **`080-step-79-i-will-allow-uncertainty-to-exist-today.md`** — I will allow uncertainty to exist today.
+- **`081-step-80-i-can-only-practice.md`** — I can only practice.
+- **`082-step-81-i-will-not-deceive-myself-today.md`** — I will not deceive myself today.
+- **`083-step-82-i-will-not-judge-another-today.md`** — I will not judge another today.
+- **`084-step-83-i-value-knowledge-beyond-all-things.md`** — I value Knowledge beyond all things.
+- **`085-step-84-review.md`** — REVIEW
+- **`086-step-85-i-find-happiness-in-small-things-today.md`** — I find happiness in small things today.
+- **`087-step-86-i-honor-those-who-have-given-to-me.md`** — I honor those who have given to me.
+- **`088-step-87-i-will-not-be-afraid-of-what-i-know.md`** — I will not be afraid of what I know.
+- **`089-step-88-my-higher-self-is-not-an-individual.md`** — My Higher Self is not an individual.
+- **`090-step-89-my-emotions-cannot-dissuade-my-knowledge.md`** — My emotions cannot dissuade my Knowledge.
+- **`091-step-90-today-i-will-make-no-assumptions.md`** — Today I will make no assumptions.
+- **`092-step-91-review.md`** — REVIEW
+- **`093-step-92-there-is-a-role-for-me-to-play-in-the-world.md`** — There is a role for me to play in the world.
+- **`094-step-93-i-am-sent-here-for-a-purpose.md`** — I am sent here for a purpose.
+- **`095-step-94-my-freedom-is-to-find-my-purpose.md`** — My freedom is to find my purpose.
+- **`096-step-95-how-can-i-possibly-fulfill-myself.md`** — How can I possibly fulfill myself?
+- **`097-step-96-gods-will-is-for-me-to-be-unburdened.md`** — God’s Will is for me to be unburdened.
+- **`098-step-97-i-do-not-know-what-fulfillment-is.md`** — I do not know what fulfillment is.
+- **`099-step-98-review.md`** — REVIEW
+- **`100-step-99-i-will-not-blame-the-world-today.md`** — I will not blame the world today.
+- **`101-step-100-today-i-am-a-beginning-student-of-knowledge.md`** — Today I am a beginning student of Knowledge.
+- **`102-step-101-the-world-needs-me-but-i-will-wait.md`** — The world needs me, but I will wait.
+- **`103-step-102-there-is-much-i-must-unlearn.md`** — There is much I must unlearn.
+- **`104-step-103-i-am-honored-by-god.md`** — I am honored by God.
+- **`105-step-104-god-knows-more-about-me-than-i-do.md`** — God knows more about me than I do.
+- **`106-step-105-review.md`** — REVIEW
+- **`107-step-106-there-are-no-masters-living-in-the-world.md`** — There are no Masters living in the world.
+- **`108-step-107-today-i-will-learn-to-be-happy.md`** — Today I will learn to be happy.
+- **`109-step-108-happiness-is-something-i-must-learn-again.md`** — Happiness is something I must learn again.
+- **`110-step-109-i-will-not-be-in-a-hurry-today.md`** — I will not be in a hurry today.
+- **`111-step-110-i-will-be-honest-with-myself-today.md`** — I will be honest with myself today.
+- **`112-step-111-today-i-will-be-at-ease.md`** — Today I will be at ease.
+- **`113-step-112-review.md`** — REVIEW
+- **`114-step-113-i-will-not-be-persuaded-by-others.md`** — I will not be persuaded by others.
+- **`115-step-114-my-true-friends-are-with-me-i-am-not-alone.md`** — My true friends are with me. I am not alone.
+- **`116-step-115-today-i-will-listen-to-the-power-of-knowledge.md`** — Today I will listen to the power of Knowledge.
+- **`117-step-116-today-i-shall-be-patient-with-knowledge.md`** — Today I shall be patient with Knowledge.
+- **`118-step-117-it-is-better-to-be-simple-than-to-be-poor.md`** — It is better to be simple than to be poor.
+- **`119-step-118-i-will-not-avoid-the-world-today.md`** — I will not avoid the world today.
+- **`120-step-119-review.md`** — REVIEW
+- **`121-step-120-i-will-remember-my-knowledge-today.md`** — I will remember my Knowledge today.
+- **`122-step-121-today-i-am-free-to-give.md`** — Today I am free to give.
 - **`123-step-122-i-give-without-loss-today.md`** — Step 122: I give without loss today.
-- **`124-step-123-i-will-not-pity-myself-today.md`** — Step 123: I will not pity myself today.
-- **`125-step-124-today-i-will-not-pretend-i-am-happy.md`** — Step 124: Today I will not pretend I am happy.
-- **`126-step-125-i-do-not-need-to-be-someone-today.md`** — Step 125: I do not need to be someone today.
-- **`127-step-126-review.md`** — Step 126: Review
-- **`128-step-127-today-i-will-not-try-to-get-even-with-god.md`** — Step 127: Today I will not try to get even with God.
-- **`129-step-128-my-teachers-are-with-me-i-need-not-fear.md`** — Step 128: My Teachers are with me. I need not fear.
-- **`130-step-129-my-teachers-are-with-me-i-will-be-with-them.md`** — Step 129: My Teachers are with me. I will be with them.
-- **`131-step-130-relationships-will-come-to-me-when-i-am-prepared.md`** — Step 130: Relationships will come to me when I am prepared.
-- **`132-step-131-today-i-will-seek-the-experience-of-true-purpose-in-life.md`** — Step 131: Today I will seek the experience of true purpose in life.
-- **`133-step-132-let-me-learn-to-be-free-so-that-i-may-join.md`** — Step 132: Let me learn to be free so that I may join.
-- **`134-step-133-review.md`** — Step 133: Review
-- **`135-step-134-i-will-not-define-my-purpose-for-myself.md`** — Step 134: I will not define my purpose for myself.
-- **`136-step-135-i-will-not-define-my-destiny-today.md`** — Step 135: I will not define my destiny today.
-- **`137-step-136-my-purpose-is-to-reclaim-my-knowledge-and-to-allow-it-to-express-itself-in-the-world.md`** — Step 136: My purpose is to reclaim my Knowledge and to allow it to express itself in the world.
-- **`138-step-137-i-will-accept-the-mystery-of-my-life.md`** — Step 137: I will accept the mystery of my life.
-- **`139-step-138-i-need-only-follow-the-steps-as-they-are-given.md`** — Step 138: I need only follow the steps as they are given.
-- **`140-step-139-i-have-come-to-the-world-to-serve.md`** — Step 139: I have come to the world to serve.
-- **`141-step-140-review.md`** — Step 140: Review
-- **`142-step-141-i-will-be-confident-this-day.md`** — Step 141: I will be confident this day.
-- **`143-step-142-i-will-be-consistent-today.md`** — Step 142: I will be consistent today.
-- **`144-step-143-today-i-will-be-still.md`** — Step 143: Today I will be still.
-- **`145-step-144-i-will-honor-myself-today.md`** — Step 144: I will honor myself today.
-- **`146-step-145-i-will-honor-the-world-today.md`** — Step 145: I will honor the world today.
-- **`147-step-146-i-will-honor-my-teachers-today.md`** — Step 146: I will honor my Teachers today.
-- **`148-step-147-review.md`** — Step 147: Review
-- **`149-step-148-my-practice-is-my-gift-to-god.md`** — Step 148: My practice is my gift to God.
-- **`150-step-149-my-practice-is-my-gift-to-the-world.md`** — Step 149: My practice is my gift to the world.
-- **`151-step-150-today-i-will-learn-to-learn.md`** — Step 150: Today I will learn to learn.
-- **`152-step-151-i-will-not-use-fear-to-support-my-judgments.md`** — Step 151: I will not use fear to support my judgments.
-- **`153-step-152-i-will-not-follow-fear-within-the-world.md`** — Step 152: I will not follow fear within the world.
-- **`154-step-153-my-source-wishes-to-express-itself-through-me.md`** — Step 153: My Source wishes to express itself through me.
-- **`155-step-154-review.md`** — Step 154: Review
-- **`156-step-155-the-world-blesses-me-as-i-receive.md`** — Step 155: The world blesses me as I receive.
-- **`157-step-156-i-will-not-be-concerned-about-myself-today.md`** — Step 156: I will not be concerned about myself today.
-- **`158-step-157-i-am-not-alone-in-the-universe.md`** — Step 157: I am not alone in the universe.
-- **`159-step-158-i-am-rich-so-i-can-give.md`** — Step 158: I am rich so I can give.
-- **`160-step-159-the-poor-cannot-give-i-am-not-poor.md`** — Step 159: The poor cannot give. I am not poor.
-- **`161-step-160-the-world-is-poor-but-i-am-not.md`** — Step 160: The world is poor, but I am not.
-- **`162-step-161-review.md`** — Step 161: Review
-- **`163-step-162-i-will-not-be-afraid-today.md`** — Step 162: I will not be afraid today.
-- **`164-step-163-i-will-feel-knowledge-today.md`** — Step 163: I will feel Knowledge today.
-- **`165-step-164-today-i-will-honor-what-i-know.md`** — Step 164: Today I will honor what I know.
-- **`166-step-165-my-duties-are-small-my-mission-is-great.md`** — Step 165: My duties are small. My mission is great.
-- **`167-step-166-my-mission-is-great-therefore-i-am-free-to-do-small-things.md`** — Step 166: My mission is great. Therefore, I am free to do small things.
-- **`168-step-167-with-knowledge-i-am-free-in-the-world.md`** — Step 167: With Knowledge I am free in the world.
-- **`169-step-168-review.md`** — Step 168: Review
-- **`170-step-169-the-world-is-within-me-this-i-know.md`** — Step 169: The world is within me. This I know.
-- **`171-step-170-i-am-following-the-ancient-rite-of-preparation-today.md`** — Step 170: I am following the Ancient Rite of preparation today.
-- **`172-step-171-my-giving-is-an-affirmation-of-my-wealth.md`** — Step 171: My giving is an affirmation of my wealth.
-- **`173-step-172-i-must-reclaim-my-knowledge.md`** — Step 172: I must reclaim my Knowledge.
-- **`174-step-173-today-i-will-do-what-is-necessary.md`** — Step 173: Today I will do what is necessary.
-- **`175-step-174-my-life-is-necessary.md`** — Step 174: My life is necessary.
-- **`176-step-175-review.md`** — Step 175: Review
-- **`177-step-176-i-will-follow-knowledge-today.md`** — Step 176: I will follow Knowledge today.
-- **`178-step-177-i-will-learn-to-be-honest-today.md`** — Step 177: I will learn to be honest today.
-- **`179-step-178-i-will-remember-those-who-have-given-to-me-today.md`** — Step 178: I will remember those who have given to me today.
-- **`180-step-179-today-i-will-thank-the-world-for-teaching-me-what-is-true.md`** — Step 179: Today I will thank the world for teaching me what is true.
-- **`181-step-180-i-complain-because-i-am-lacking-knowledge.md`** — Step 180: I complain because I am lacking Knowledge.
-- **`182-step-181-today-i-receive-the-love-of-knowledge.md`** — Step 181: Today I receive the love of Knowledge.
-- **`183-step-182-review.md`** — Step 182: Review
-- **`184-step-183-i-seek-experience-not-answers.md`** — Step 183: I seek experience not answers.
-- **`185-step-184-my-questions-are-greater-than-i-had-realized-before.md`** — Step 184: My questions are greater than I had realized before.
-- **`186-step-185-i-have-come-into-the-world-for-a-purpose.md`** — Step 185: I have come into the world for a purpose.
-- **`187-step-186-i-am-born-of-an-ancient-heritage.md`** — Step 186: I am born of an Ancient Heritage.
-- **`188-step-187-i-am-a-citizen-of-the-greater-community-of-worlds.md`** — Step 187: I am a citizen of the Greater Community of worlds.
-- **`189-step-188-my-life-in-this-world-is-more-important-than-i-had-realized-before.md`** — Step 188: My life in this world is more important than I had realized before.
-- **`190-step-189-my-spiritual-family-exists-in-all-places.md`** — Step 189: My Spiritual Family exists in all places.
-- **`191-step-190-the-world-is-emerging-into-the-greater-community-of-worlds-and-that-is-why-i-have-come.md`** — Step 190: The world is emerging into the Greater Community of worlds and that is why I have come.
-- **`192-step-191-my-knowledge-is-greater-than-my-humanity.md`** — Step 191: My Knowledge is greater than my humanity.
-- **`193-step-192-i-will-not-neglect-small-things-today.md`** — Step 192: I will not neglect small things today.
-- **`194-step-193-i-shall-listen-to-others-without-judgment-today.md`** — Step 193: I shall listen to others without judgment today.
-- **`195-step-194-i-will-go-where-i-am-needed-today.md`** — Step 194: I will go where I am needed today.
-- **`196-step-195-knowledge-is-more-powerful-than-i-realize.md`** — Step 195: Knowledge is more powerful than I realize.
-- **`197-step-196-review.md`** — Step 196: Review
-- **`198-step-197-knowledge-must-be-experienced-to-be-realized.md`** — Step 197: Knowledge must be experienced to be realized.
-- **`199-step-198-today-i-will-be-strong.md`** — Step 198: Today I will be strong.
-- **`200-step-199-the-world-i-see-is-emerging-into-the-greater-community-of-worlds.md`** — Step 199: The world I see is emerging into the Greater Community of worlds.
-- **`201-step-200-my-thoughts-are-too-small-to-contain-knowledge.md`** — Step 200: My thoughts are too small to contain Knowledge.
-- **`202-step-201-my-mind-was-made-to-serve-knowledge.md`** — Step 201: My mind was made to serve Knowledge.
-- **`203-step-202-i-behold-the-greater-community-today.md`** — Step 202: I behold the Greater Community today.
-- **`204-step-203-the-greater-community-is-influencing-the-world-i-see.md`** — Step 203: The Greater Community is influencing the world I see.
-- **`205-step-204-i-will-be-at-peace-today.md`** — Step 204: I will be at peace today.
-- **`206-step-205-i-will-not-judge-the-world-today.md`** — Step 205: I will not judge the world today.
-- **`207-step-206-love-is-flowing-from-me-now.md`** — Step 206: Love is flowing from me now.
-- **`208-step-207-i-forgive-those-whom-i-think-have-hurt-me.md`** — Step 207: I forgive those whom I think have hurt me.
-- **`209-step-208-all-things-i-truly-value-will-be-expressed-from-knowledge.md`** — Step 208: All things I truly value will be expressed from Knowledge.
-- **`210-step-209-i-will-not-be-cruel-with-myself-today.md`** — Step 209: I will not be cruel with myself today.
-- **`211-step-210-review.md`** — Step 210: Review
-- **`212-step-211-i-have-great-friends-beyond-this-world.md`** — Step 211: I have great friends beyond this world.
-- **`213-step-212-i-gain-strength-from-all-who-practice-with-me.md`** — Step 212: I gain strength from all who practice with me.
-- **`214-step-213-i-do-not-understand-the-world.md`** — Step 213: I do not understand the world.
-- **`215-step-214-i-do-not-understand-myself.md`** — Step 214: I do not understand myself.
-- **`216-step-215-my-teachers-are-with-me-i-am-not-alone.md`** — Step 215: My Teachers are with me. I am not alone.
-- **`217-step-216-there-is-a-spiritual-presence-in-my-life.md`** — Step 216: There is a Spiritual Presence in my life.
-- **`218-step-217-i-give-myself-to-knowledge-today.md`** — Step 217: I give myself to Knowledge today.
-- **`219-step-218-i-will-hold-knowledge-within-myself-today.md`** — Step 218: I will hold Knowledge within myself today.
-- **`220-step-219-i-will-not-let-ambition-deceive-me-today.md`** — Step 219: I will not let ambition deceive me today.
-- **`221-step-220-i-will-use-restraint-today-so-that-greatness-may-grow-within-me.md`** — Step 220: I will use restraint today so that greatness may grow within me.
-- **`222-step-221-i-am-free-to-be-confused-today.md`** — Step 221: I am free to be confused today.
-- **`223-step-222-the-world-is-confused-i-will-judge-it-not.md`** — Step 222: The world is confused. I will judge it not.
-- **`224-step-223-i-will-receive-knowledge-this-day.md`** — Step 223: I will receive Knowledge this day.
-- **`225-step-224-review.md`** — Step 224: Review
-- **`226-step-225-today-i-will-be-serious-and-lighthearted-all-at-once.md`** — Step 225: Today I will be serious and lighthearted all at once.
-- **`227-step-226-knowledge-is-with-me-i-will-not-be-afraid.md`** — Step 226: Knowledge is with me. I will not be afraid.
-- **`228-step-227-i-will-not-think-that-i-know-today.md`** — Step 227: I will not think that I know today.
-- **`229-step-228-i-will-not-be-poor-today.md`** — Step 228: I will not be poor today.
-- **`230-step-229-i-will-not-blame-another-for-my-pain.md`** — Step 229: I will not blame another for my pain.
-- **`231-step-230-my-suffering-is-born-of-confusion.md`** — Step 230: My suffering is born of confusion.
-- **`232-step-231-i-have-a-calling-in-this-world.md`** — Step 231: I have a calling in this world.
-- **`233-step-232-my-calling-in-life-requires-the-development-of-others.md`** — Step 232: My calling in life requires the development of others.
-- **`234-step-233-i-am-part-of-a-greater-force-for-good-in-the-world.md`** — Step 233: I am part of a Greater Force for good in the world.
-- **`235-step-234-knowledge-serves-humanity-in-all-ways.md`** — Step 234: Knowledge serves humanity in all ways.
-- **`236-step-235-the-power-of-knowledge-is-becoming-evident-to-me.md`** — Step 235: The power of Knowledge is becoming evident to me.
-- **`237-step-236-with-knowledge-i-will-know-what-to-do.md`** — Step 236: With Knowledge I will know what to do.
-- **`238-step-237-i-am-only-beginning-to-comprehend-the-meaning-of-my-life.md`** — Step 237: I am only beginning to comprehend the meaning of my life.
-- **`239-step-238-review.md`** — Step 238: Review
-- **`240-step-239-freedom-is-mine-today.md`** — Step 239: Freedom is mine today.
-- **`241-step-240-small-ideas-cannot-fulfill-my-need-for-knowledge.md`** — Step 240: Small ideas cannot fulfill my need for Knowledge.
-- **`242-step-241-my-anger-is-unjustified.md`** — Step 241: My anger is unjustified.
-- **`243-step-242-my-greatest-gift-to-the-world-is-my-knowledge.md`** — Step 242: My greatest gift to the world is my Knowledge.
-- **`244-step-243-i-do-not-need-to-be-special-to-give.md`** — Step 243: I do not need to be special to give.
-- **`245-step-244-i-am-honored-when-others-are-strong.md`** — Step 244: I am honored when others are strong.
-- **`246-step-245-when-others-fail-i-am-reminded-of-the-need-for-knowledge.md`** — Step 245: When others fail, I am reminded of the need for Knowledge.
-- **`247-step-246-there-is-no-justification-for-failing-to-reclaim-knowledge.md`** — Step 246: There is no justification for failing to reclaim Knowledge.
-- **`248-step-247-i-will-listen-to-my-inner-teachers-today.md`** — Step 247: I will listen to my Inner Teachers today.
-- **`249-step-248-i-will-rely-upon-the-wisdom-of-the-universe-to-instruct-me.md`** — Step 248: I will rely upon the Wisdom of the universe to instruct me.
-- **`250-step-249-alone-i-can-do-nothing.md`** — Step 249: Alone I can do nothing.
-- **`251-step-250-i-will-not-hold-myself-apart-today.md`** — Step 250: I will not hold myself apart today.
-- **`252-step-251-if-i-abide-with-knowledge-there-will-be-no-confusion-in-my-relationships.md`** — Step 251: If I abide with Knowledge, there will be no confusion in my relationships.
-- **`253-step-252-review.md`** — Step 252: Review
-- **`254-step-253-all-things-i-truly-need-will-be-provided-for-me.md`** — Step 253: All things I truly need will be provided for me.
-- **`255-step-254-i-trust-my-teachers-who-abide-with-me.md`** — Step 254: I trust my Teachers who abide with me.
-- **`256-step-255-the-errors-of-this-world-will-not-dissuade-me.md`** — Step 255: The errors of this world will not dissuade me.
-- **`257-step-256-the-world-is-emerging-into-the-greater-community-of-worlds.md`** — Step 256: The world is emerging into the Greater Community of worlds.
-- **`258-step-257-life-is-greater-than-i-had-ever-realized.md`** — Step 257: Life is greater than I had ever realized.
-- **`259-step-258-who-are-my-friends-today.md`** — Step 258: Who are my friends today?
-- **`260-step-259-i-have-come-to-teach-in-the-world.md`** — Step 259: I have come to teach in the world.
-- **`261-step-260-i-am-a-friend-of-the-world-today.md`** — Step 260: I am a friend of the world today.
-- **`262-step-261-i-must-learn-to-give-with-discernment.md`** — Step 261: I must learn to give with discernment.
-- **`263-step-262-how-can-i-judge-myself-when-i-do-not-know-who-i-am.md`** — Step 262: How can I judge myself when I do not know who I am?
-- **`264-step-263-with-knowledge-all-things-become-clear.md`** — Step 263: With Knowledge all things become clear.
-- **`265-step-264-i-will-learn-of-freedom-this-day.md`** — Step 264: I will learn of freedom this day.
-- **`266-step-265-there-is-a-greater-freedom-awaiting-me.md`** — Step 265: There is a greater freedom awaiting me.
-- **`267-step-266-review.md`** — Step 266: Review
-- **`268-step-267-there-is-a-simple-solution-to-all-problems-that-face-me-today.md`** — Step 267: There is a simple solution to all problems that face me today.
-- **`269-step-268-i-will-not-be-deceived-by-complexity-today.md`** — Step 268: I will not be deceived by complexity today.
-- **`270-step-269-the-power-of-knowledge-will-extend-itself-from-me.md`** — Step 269: The power of Knowledge will extend itself from me.
-- **`271-step-270-with-power-comes-responsibility.md`** — Step 270: With power comes responsibility.
-- **`272-step-271-i-will-accept-responsibility-today.md`** — Step 271: I will accept responsibility today.
-- **`273-step-272-my-teachers-will-guide-me-as-i-proceed.md`** — Step 272: My Teachers will guide me as I proceed.
-- **`274-step-273-my-teachers-hold-the-memory-of-my-ancient-home-for-me.md`** — Step 273: My Teachers hold the memory of my Ancient Home for me.
-- **`275-step-274-i-seek-freedom-from-ambivalence-today.md`** — Step 274: I seek freedom from ambivalence today.
-- **`276-step-275-today-i-seek-freedom-from-uncertainty.md`** — Step 275: Today I seek freedom from uncertainty.
-- **`277-step-276-knowledge-is-my-salvation.md`** — Step 276: Knowledge is my salvation.
-- **`278-step-277-my-ideas-are-small-but-knowledge-is-great.md`** — Step 277: My ideas are small, but Knowledge is great.
-- **`279-step-278-what-is-changeless-will-express-itself-through-me.md`** — Step 278: What is changeless will express itself through me.
-- **`280-step-279-i-must-experience-my-freedom-to-realize-it.md`** — Step 279: I must experience my freedom to realize it.
-- **`281-step-280-review.md`** — Step 280: Review
-- **`282-step-281-above-all-else-i-seek-knowledge.md`** — Step 281: Above all else I seek Knowledge.
-- **`283-step-282-i-will-learn-to-accept-the-responsibility-of-carrying-knowledge-in-the-world.md`** — Step 282: I will learn to accept the responsibility of carrying Knowledge in the world.
-- **`284-step-283-the-world-is-ambivalent-but-i-am-not.md`** — Step 283: The world is ambivalent, but I am not.
-- **`285-step-284-stillness-is-my-gift-to-the-world.md`** — Step 284: Stillness is my gift to the world.
-- **`286-step-285-in-stillness-all-things-can-be-known.md`** — Step 285: In stillness all things can be known.
-- **`287-step-286-i-carry-stillness-into-the-world-with-me-today.md`** — Step 286: I carry stillness into the world with me today.
-- **`288-step-287-with-knowledge-i-cannot-be-at-war.md`** — Step 287: With Knowledge I cannot be at war.
-- **`289-step-288-enemies-are-only-friends-who-have-not-learned-to-join.md`** — Step 288: Enemies are only friends who have not learned to join.
-- **`290-step-289-today-i-am-a-student-of-knowledge.md`** — Step 289: Today I am a student of Knowledge.
-- **`291-step-290-i-can-only-be-a-student-therefore-i-will-be-a-student-of-knowledge.md`** — Step 290: I can only be a student. Therefore, I will be a student of Knowledge.
-- **`292-step-291-i-am-grateful-to-my-brothers-and-my-sisters-who-err-against-me.md`** — Step 291: I am grateful to my brothers and my sisters who err against me.
-- **`293-step-292-how-can-i-be-angry-with-the-world-when-it-only-serves-me.md`** — Step 292: How can I be angry with the world when it only serves me?
-- **`294-step-293-i-do-not-wish-to-suffer-today.md`** — Step 293: I do not wish to suffer today.
-- **`295-step-294-review.md`** — Step 294: Review
-- **`296-step-295-i-am-now-penetrating-the-mystery-of-my-life.md`** — Step 295: I am now penetrating the mystery of my life.
-- **`297-step-296-nasi-novare-coram.md`** — Step 296: Nasi Novare Coram
-- **`298-step-297-novre-novre-comey-na-vera-te-novre.md`** — Step 297: Novre Novre Comey Na Vera Te Novre
-- **`299-step-298-mavran-mavran-conay-mavran.md`** — Step 298: Mavran Mavran Conay Mavran
-- **`300-step-299-nome-nome-cono-na-vera-te-nome.md`** — Step 299: Nome Nome Cono Na Vera Te Nome
-- **`301-step-300-i-receive-all-those-who-are-my-spiritual-family-today.md`** — Step 300: I receive all those who are my Spiritual Family today.
-- **`302-step-301-i-will-not-lose-myself-in-anxiety-today.md`** — Step 301: I will not lose myself in anxiety today.
-- **`303-step-302-i-will-not-resist-the-world-today.md`** — Step 302: I will not resist the world today.
-- **`304-step-303-i-will-step-back-from-the-world-s-persuasions-today.md`** — Step 303: I will step back from the world’s persuasions today.
-- **`305-step-304-i-will-not-be-a-student-of-fear-today.md`** — Step 304: I will not be a student of fear today.
-- **`306-step-305-i-feel-the-power-of-love-today.md`** — Step 305: I feel the power of love today.
-- **`307-step-306-i-will-rest-in-knowledge-today.md`** — Step 306: I will rest in Knowledge today.
-- **`308-step-307-knowledge-is-living-within-me-now.md`** — Step 307: Knowledge is living within me now.
-- **`309-step-308-review.md`** — Step 308: Review
-- **`310-step-309-the-world-i-see-is-attempting-to-become-one-community.md`** — Step 309: The world I see is attempting to become one community.
-- **`311-step-310-i-am-free-because-i-desire-to-give.md`** — Step 310: I am free because I desire to give.
-- **`312-step-311-the-world-is-calling-me-i-must-prepare-to-serve-it.md`** — Step 311: The world is calling me. I must prepare to serve it.
-- **`313-step-312-there-are-greater-problems-for-me-to-solve-in-the-world.md`** — Step 312: There are greater problems for me to solve in the world.
-- **`314-step-313-let-me-recognize-that-what-is-complex-is-simple.md`** — Step 313: Let me recognize that what is complex is simple.
-- **`315-step-314-i-will-not-be-afraid-to-follow-today.md`** — Step 314: I will not be afraid to follow today.
-- **`316-step-315-today-i-will-not-be-alone.md`** — Step 315: Today I will not be alone.
-- **`317-step-316-i-will-trust-my-deepest-inclinations-today.md`** — Step 316: I will trust my deepest inclinations today.
-- **`318-step-317-i-need-but-relinquish-my-ambivalence-to-know-the-truth.md`** — Step 317: I need but relinquish my ambivalence to know the truth.
-- **`319-step-318-there-is-a-greater-power-at-work-in-the-world.md`** — Step 318: There is a Greater Power at work in the world.
-- **`320-step-319-why-should-i-be-afraid-when-a-greater-power-is-in-the-world.md`** — Step 319: Why should I be afraid when a Greater Power is in the world?
-- **`321-step-320-i-am-free-to-work-within-the-world.md`** — Step 320: I am free to work within the world.
-- **`322-step-321-the-world-is-awaiting-my-contribution.md`** — Step 321: The world is awaiting my contribution.
-- **`323-step-322-review.md`** — Step 322: Review
-- **`324-step-323-my-role-in-the-world-is-too-important-to-neglect.md`** — Step 323: My role in the world is too important to neglect.
-- **`325-step-324-i-will-not-judge-another-today.md`** — Step 324: I will not judge another today.
-- **`326-step-325-the-world-is-emerging-into-the-greater-community-of-worlds-therefore-i-must-be-attentive.md`** — Step 325: The world is emerging into the Greater Community of worlds. Therefore, I must be attentive.
-- **`327-step-326-the-greater-community-is-something-i-can-feel-but-cannot-understand.md`** — Step 326: The Greater Community is something I can feel but cannot understand.
-- **`328-step-327-i-will-be-at-peace-today.md`** — Step 327: I will be at peace today.
-- **`329-step-328-today-i-will-honor-those-who-have-given-to-me.md`** — Step 328: Today I will honor those who have given to me.
-- **`330-step-329-i-am-free-to-love-the-world-today.md`** — Step 329: I am free to love the world today.
-- **`331-step-330-i-will-not-neglect-the-small-things-in-my-life.md`** — Step 330: I will not neglect the small things in my life.
-- **`332-step-331-what-is-small-expresses-that-which-is-great.md`** — Step 331: What is small expresses that which is great.
-- **`333-step-332-i-am-only-beginning-to-comprehend-the-meaning-of-knowledge-in-my-life.md`** — Step 332: I am only beginning to comprehend the meaning of Knowledge in my life.
-- **`334-step-333-there-is-a-presence-with-me-i-can-feel-it.md`** — Step 333: There is a presence with me. I can feel it.
-- **`335-step-334-the-presence-of-my-teachers-is-with-me-every-day.md`** — Step 334: The presence of my Teachers is with me every day.
-- **`336-step-335-the-fire-of-knowledge-is-with-me-every-day.md`** — Step 335: The fire of Knowledge is with me every day.
-- **`337-step-336-review.md`** — Step 336: Review
-- **`338-step-337-alone-i-can-do-nothing.md`** — Step 337: Alone I can do nothing.
-- **`339-step-338-today-i-will-be-attentive.md`** — Step 338: Today I will be attentive.
-- **`340-step-339-the-presence-of-love-is-with-me-now.md`** — Step 339: The presence of love is with me now.
-- **`341-step-340-my-practice-is-my-contribution-to-the-world.md`** — Step 340: My practice is my contribution to the world.
-- **`342-step-341-i-am-happy-for-i-can-now-receive.md`** — Step 341: I am happy, for I can now receive.
-- **`343-step-342-i-am-a-student-of-knowledge-today.md`** — Step 342: I am a student of Knowledge today.
-- **`344-step-343-today-i-will-honor-the-source-of-my-preparation.md`** — Step 343: Today I will honor the source of my preparation.
-- **`345-step-344-my-knowledge-is-the-gift-i-give-unto-the-world.md`** — Step 344: My Knowledge is the gift I give unto the world.
-- **`346-step-345-my-knowledge-is-my-gift-to-my-spiritual-family.md`** — Step 345: My Knowledge is my gift to my Spiritual Family.
-- **`347-step-346-i-am-in-the-world-to-work.md`** — Step 346: I am in the world to work.
-- **`348-step-347-i-allow-my-life-to-unfold-today.md`** — Step 347: I allow my life to unfold today.
-- **`349-step-348-today-i-will-witness-the-world-unfolding.md`** — Step 348: Today I will witness the world unfolding.
-- **`350-step-349-i-am-happy-that-i-can-finally-serve-the-truth.md`** — Step 349: I am happy that I can finally serve the truth.
-- **`351-step-350-review.md`** — Step 350: Review
-- **`352-step-351-i-serve-a-greater-purpose-which-i-am-now-beginning-to-experience.md`** — Step 351: I serve a greater purpose, which I am now beginning to experience.
-- **`353-step-352-i-am-a-true-student-of-knowledge-today.md`** — Step 352: I am a true student of Knowledge today.
-- **`354-step-353-my-true-home-is-in-god.md`** — Step 353: My True Home is in God.
-- **`355-step-354-i-must-experience-my-true-home-while-i-am-in-the-world.md`** — Step 354: I must experience my True Home while I am in the world.
-- **`356-step-355-i-can-be-at-peace-in-the-world.md`** — Step 355: I can be at peace in the world.
-- **`357-step-356-i-will-find-my-self-today.md`** — Step 356: I will find my Self today.
-- **`358-step-357-i-am-in-the-world-to-express-my-self.md`** — Step 357: I am in the world to express my Self.
-- **`359-step-358-i-wish-to-be-at-home-in-the-world.md`** — Step 358: I wish to be at home in the world.
-- **`360-step-359-i-am-present-to-serve-the-world.md`** — Step 359: I am present to serve the world.
-- **`361-step-360-i-must-learn-how-to-reveal-greatness-in-the-world.md`** — Step 360: I must learn how to reveal greatness in the world.
-- **`362-step-361-i-am-being-led-into-the-light-of-knowledge-today.md`** — Step 361: I am being led into the light of Knowledge today.
-- **`363-step-362-i-am-learning-to-learn-because-i-carry-knowledge-within-me-today.md`** — Step 362: I am learning to learn because I carry Knowledge within me today.
-- **`364-step-363-knowledge-is-my-true-desire-because-i-am-a-student-of-knowledge.md`** — Step 363: Knowledge is my true desire because I am a student of Knowledge.
-- **`365-step-364-knowledge-carries-me-because-i-am-a-student-of-knowledge.md`** — Step 364: Knowledge carries me because I am a student of Knowledge.
-- **`366-step-365-i-am-committed-to-learn-to-learn-i-am-committed-to-give-what-i-am-meant-to-give-i-am-committed-because-i-am-part-of-life-i-am-part-of-life-because-i-am-one-with-knowledge.md`** — Step 365: I am committed to learn to learn. I am committed to give what I am meant to give. I am committed because I am part of life. I am part of life because I am one with Knowledge.
+- **`124-step-123-i-will-not-pity-myself-today.md`** — I will not pity myself today.
+- **`125-step-124-today-i-will-not-pretend-i-am-happy.md`** — Today I will not pretend I am happy.
+- **`126-step-125-i-do-not-need-to-be-someone-today.md`** — I do not need to be someone today.
+- **`127-step-126-review.md`** — REVIEW
+- **`128-step-127-today-i-will-not-try-to-get-even-with-god.md`** — Today I will not try to get even with God.
+- **`129-step-128-my-teachers-are-with-me-i-need-not-fear.md`** — My Teachers are with me. I need not fear.
+- **`130-step-129-my-teachers-are-with-me-i-will-be-with-them.md`** — My Teachers are with me. I will be with them.
+- **`131-step-130-relationships-will-come-to-me-when-i-am-prepared.md`** — Relationships will come to me when I am prepared.
+- **`132-step-131-today-i-will-seek-the-experience-of-true-purpose-in-life.md`** — Today I will seek the experience of true purpose in life.
+- **`133-step-132-let-me-learn-to-be-free-so-that-i-may-join.md`** — Let me learn to be free so that I may join.
+- **`134-step-133-review.md`** — REVIEW
+- **`135-step-134-i-will-not-define-my-purpose-for-myself.md`** — I will not define my purpose for myself.
+- **`136-step-135-i-will-not-define-my-destiny-today.md`** — I will not define my destiny today.
+- **`137-step-136-my-purpose-is-to-reclaim-my-knowledge-and-to-allow-it-to-express-itself-in-the-world.md`** — My purpose is to reclaim my Knowledge and to allow it to express itself in the world.
+- **`138-step-137-i-will-accept-the-mystery-of-my-life.md`** — I will accept the mystery of my life.
+- **`139-step-138-i-need-only-follow-the-steps-as-they-are-given.md`** — I need only follow the steps as they are given.
+- **`140-step-139-i-have-come-to-the-world-to-serve.md`** — I have come to the world to serve.
+- **`141-step-140-review.md`** — REVIEW
+- **`142-step-141-i-will-be-confident-this-day.md`** — I will be confident this day.
+- **`143-step-142-i-will-be-consistent-today.md`** — I will be consistent today.
+- **`144-step-143-today-i-will-be-still.md`** — Today I will be still.
+- **`145-step-144-i-will-honor-myself-today.md`** — I will honor myself today.
+- **`146-step-145-i-will-honor-the-world-today.md`** — I will honor the world today.
+- **`147-step-146-i-will-honor-my-teachers-today.md`** — I will honor my Teachers today.
+- **`148-step-147-review.md`** — REVIEW
+- **`149-step-148-my-practice-is-my-gift-to-god.md`** — My practice is my gift to God.
+- **`150-step-149-my-practice-is-my-gift-to-the-world.md`** — My practice is my gift to the world.
+- **`151-step-150-today-i-will-learn-to-learn.md`** — Today I will learn to learn.
+- **`152-step-151-i-will-not-use-fear-to-support-my-judgments.md`** — I will not use fear to support my judgments.
+- **`153-step-152-i-will-not-follow-fear-within-the-world.md`** — I will not follow fear within the world.
+- **`154-step-153-my-source-wishes-to-express-itself-through-me.md`** — My Source wishes to express itself through me.
+- **`155-step-154-review.md`** — REVIEW
+- **`156-step-155-the-world-blesses-me-as-i-receive.md`** — The world blesses me as I receive.
+- **`157-step-156-i-will-not-be-concerned-about-myself-today.md`** — I will not be concerned about myself today.
+- **`158-step-157-i-am-not-alone-in-the-universe.md`** — I am not alone in the universe.
+- **`159-step-158-i-am-rich-so-i-can-give.md`** — I am rich so I can give.
+- **`160-step-159-the-poor-cannot-give-i-am-not-poor.md`** — The poor cannot give. I am not poor.
+- **`161-step-160-the-world-is-poor-but-i-am-not.md`** — The world is poor, but I am not.
+- **`162-step-161-review.md`** — REVIEW
+- **`163-step-162-i-will-not-be-afraid-today.md`** — I will not be afraid today.
+- **`164-step-163-i-will-feel-knowledge-today.md`** — I will feel Knowledge today.
+- **`165-step-164-today-i-will-honor-what-i-know.md`** — Today I will honor what I know.
+- **`166-step-165-my-duties-are-small-my-mission-is-great.md`** — My duties are small. My mission is great.
+- **`167-step-166-my-mission-is-great-therefore-i-am-free-to-do-small-things.md`** — My mission is great. Therefore, I am free to do small things.
+- **`168-step-167-with-knowledge-i-am-free-in-the-world.md`** — With Knowledge I am free in the world.
+- **`169-step-168-review.md`** — REVIEW
+- **`170-step-169-the-world-is-within-me-this-i-know.md`** — The world is within me. This I know.
+- **`171-step-170-i-am-following-the-ancient-rite-of-preparation-today.md`** — I am following the Ancient Rite of preparation today.
+- **`172-step-171-my-giving-is-an-affirmation-of-my-wealth.md`** — My giving is an affirmation of my wealth.
+- **`173-step-172-i-must-reclaim-my-knowledge.md`** — I must reclaim my Knowledge.
+- **`174-step-173-today-i-will-do-what-is-necessary.md`** — Today I will do what is necessary.
+- **`175-step-174-my-life-is-necessary.md`** — My life is necessary.
+- **`176-step-175-review.md`** — REVIEW
+- **`177-step-176-i-will-follow-knowledge-today.md`** — I will follow Knowledge today.
+- **`178-step-177-i-will-learn-to-be-honest-today.md`** — I will learn to be honest today.
+- **`179-step-178-i-will-remember-those-who-have-given-to-me-today.md`** — I will remember those who have given to me today.
+- **`180-step-179-today-i-will-thank-the-world-for-teaching-me-what-is-true.md`** — Today I will thank the world for teaching me what is true.
+- **`181-step-180-i-complain-because-i-am-lacking-knowledge.md`** — I complain because I am lacking Knowledge.
+- **`182-step-181-today-i-receive-the-love-of-knowledge.md`** — Today I receive the love of Knowledge.
+- **`183-step-182-review.md`** — REVIEW
+- **`184-step-183-i-seek-experience-not-answers.md`** — I seek experience not answers.
+- **`185-step-184-my-questions-are-greater-than-i-had-realized-before.md`** — My questions are greater than I had realized before.
+- **`186-step-185-i-have-come-into-the-world-for-a-purpose.md`** — I have come into the world for a purpose.
+- **`187-step-186-i-am-born-of-an-ancient-heritage.md`** — I am born of an Ancient Heritage.
+- **`188-step-187-i-am-a-citizen-of-the-greater-community-of-worlds.md`** — I am a citizen of the Greater Community of worlds.
+- **`189-step-188-my-life-in-this-world-is-more-important-than-i-had-realized-before.md`** — My life in this world is more important than I had realized before.
+- **`190-step-189-my-spiritual-family-exists-in-all-places.md`** — My Spiritual Family exists in all places.
+- **`191-step-190-the-world-is-emerging-into-the-greater-community-of-worlds-and-that-is-why-i-have-come.md`** — The world is emerging into the Greater Community of worlds and that is why I have come.
+- **`192-step-191-my-knowledge-is-greater-than-my-humanity.md`** — My Knowledge is greater than my humanity.
+- **`193-step-192-i-will-not-neglect-small-things-today.md`** — I will not neglect small things today.
+- **`194-step-193-i-shall-listen-to-others-without-judgment-today.md`** — I shall listen to others without judgment today.
+- **`195-step-194-i-will-go-where-i-am-needed-today.md`** — I will go where I am needed today.
+- **`196-step-195-knowledge-is-more-powerful-than-i-realize.md`** — Knowledge is more powerful than I realize.
+- **`197-step-196-review.md`** — REVIEW
+- **`198-step-197-knowledge-must-be-experienced-to-be-realized.md`** — Knowledge must be experienced to be realized.
+- **`199-step-198-today-i-will-be-strong.md`** — Today I will be strong.
+- **`200-step-199-the-world-i-see-is-emerging-into-the-greater-community-of-worlds.md`** — The world I see is emerging into the Greater Community of worlds.
+- **`201-step-200-my-thoughts-are-too-small-to-contain-knowledge.md`** — My thoughts are too small to contain Knowledge.
+- **`202-step-201-my-mind-was-made-to-serve-knowledge.md`** — My mind was made to serve Knowledge.
+- **`203-step-202-i-behold-the-greater-community-today.md`** — I behold the Greater Community today.
+- **`204-step-203-the-greater-community-is-influencing-the-world-i-see.md`** — The Greater Community is influencing the world I see.
+- **`205-step-204-i-will-be-at-peace-today.md`** — I will be at peace today.
+- **`206-step-205-i-will-not-judge-the-world-today.md`** — I will not judge the world today.
+- **`207-step-206-love-is-flowing-from-me-now.md`** — Love is flowing from me now.
+- **`208-step-207-i-forgive-those-whom-i-think-have-hurt-me.md`** — I forgive those whom I think have hurt me.
+- **`209-step-208-all-things-i-truly-value-will-be-expressed-from-knowledge.md`** — All things I truly value will be expressed from Knowledge.
+- **`210-step-209-i-will-not-be-cruel-with-myself-today.md`** — I will not be cruel with myself today.
+- **`211-step-210-review.md`** — REVIEW
+- **`212-step-211-i-have-great-friends-beyond-this-world.md`** — I have great friends beyond this world.
+- **`213-step-212-i-gain-strength-from-all-who-practice-with-me.md`** — I gain strength from all who practice with me.
+- **`214-step-213-i-do-not-understand-the-world.md`** — I do not understand the world.
+- **`215-step-214-i-do-not-understand-myself.md`** — I do not understand myself.
+- **`216-step-215-my-teachers-are-with-me-i-am-not-alone.md`** — My Teachers are with me. I am not alone.
+- **`217-step-216-there-is-a-spiritual-presence-in-my-life.md`** — There is a Spiritual Presence in my life.
+- **`218-step-217-i-give-myself-to-knowledge-today.md`** — I give myself to Knowledge today.
+- **`219-step-218-i-will-hold-knowledge-within-myself-today.md`** — I will hold Knowledge within myself today.
+- **`220-step-219-i-will-not-let-ambition-deceive-me-today.md`** — I will not let ambition deceive me today.
+- **`221-step-220-i-will-use-restraint-today-so-that-greatness-may-grow-within-me.md`** — I will use restraint today so that greatness may grow within me.
+- **`222-step-221-i-am-free-to-be-confused-today.md`** — I am free to be confused today.
+- **`223-step-222-the-world-is-confused-i-will-judge-it-not.md`** — The world is confused. I will judge it not.
+- **`224-step-223-i-will-receive-knowledge-this-day.md`** — I will receive Knowledge this day.
+- **`225-step-224-review.md`** — REVIEW
+- **`226-step-225-today-i-will-be-serious-and-lighthearted-all-at-once.md`** — Today I will be serious and lighthearted all at once.
+- **`227-step-226-knowledge-is-with-me-i-will-not-be-afraid.md`** — Knowledge is with me. I will not be afraid.
+- **`228-step-227-i-will-not-think-that-i-know-today.md`** — I will not think that I know today.
+- **`229-step-228-i-will-not-be-poor-today.md`** — I will not be poor today.
+- **`230-step-229-i-will-not-blame-another-for-my-pain.md`** — I will not blame another for my pain.
+- **`231-step-230-my-suffering-is-born-of-confusion.md`** — My suffering is born of confusion.
+- **`232-step-231-i-have-a-calling-in-this-world.md`** — I have a calling in this world.
+- **`233-step-232-my-calling-in-life-requires-the-development-of-others.md`** — My calling in life requires the development of others.
+- **`234-step-233-i-am-part-of-a-greater-force-for-good-in-the-world.md`** — I am part of a Greater Force for good in the world.
+- **`235-step-234-knowledge-serves-humanity-in-all-ways.md`** — Knowledge serves humanity in all ways.
+- **`236-step-235-the-power-of-knowledge-is-becoming-evident-to-me.md`** — The power of Knowledge is becoming evident to me.
+- **`237-step-236-with-knowledge-i-will-know-what-to-do.md`** — With Knowledge I will know what to do.
+- **`238-step-237-i-am-only-beginning-to-comprehend-the-meaning-of-my-life.md`** — I am only beginning to comprehend the meaning of my life.
+- **`239-step-238-review.md`** — REVIEW
+- **`240-step-239-freedom-is-mine-today.md`** — Freedom is mine today.
+- **`241-step-240-small-ideas-cannot-fulfill-my-need-for-knowledge.md`** — Small ideas cannot fulfill my need for Knowledge.
+- **`242-step-241-my-anger-is-unjustified.md`** — My anger is unjustified.
+- **`243-step-242-my-greatest-gift-to-the-world-is-my-knowledge.md`** — My greatest gift to the world is my Knowledge.
+- **`244-step-243-i-do-not-need-to-be-special-to-give.md`** — I do not need to be special to give.
+- **`245-step-244-i-am-honored-when-others-are-strong.md`** — I am honored when others are strong.
+- **`246-step-245-when-others-fail-i-am-reminded-of-the-need-for-knowledge.md`** — When others fail, I am reminded of the need for Knowledge.
+- **`247-step-246-there-is-no-justification-for-failing-to-reclaim-knowledge.md`** — There is no justification for failing to reclaim Knowledge.
+- **`248-step-247-i-will-listen-to-my-inner-teachers-today.md`** — I will listen to my Inner Teachers today.
+- **`249-step-248-i-will-rely-upon-the-wisdom-of-the-universe-to-instruct-me.md`** — I will rely upon the Wisdom of the universe to instruct me.
+- **`250-step-249-alone-i-can-do-nothing.md`** — Alone I can do nothing.
+- **`251-step-250-i-will-not-hold-myself-apart-today.md`** — I will not hold myself apart today.
+- **`252-step-251-if-i-abide-with-knowledge-there-will-be-no-confusion-in-my-relationships.md`** — If I abide with Knowledge, there will be no confusion in my relationships.
+- **`253-step-252-review.md`** — REVIEW
+- **`254-step-253-all-things-i-truly-need-will-be-provided-for-me.md`** — All things I truly need will be provided for me.
+- **`255-step-254-i-trust-my-teachers-who-abide-with-me.md`** — I trust my Teachers who abide with me.
+- **`256-step-255-the-errors-of-this-world-will-not-dissuade-me.md`** — The errors of this world will not dissuade me.
+- **`257-step-256-the-world-is-emerging-into-the-greater-community-of-worlds.md`** — The world is emerging into the Greater Community of worlds.
+- **`258-step-257-life-is-greater-than-i-had-ever-realized.md`** — Life is greater than I had ever realized.
+- **`259-step-258-who-are-my-friends-today.md`** — Who are my friends today?
+- **`260-step-259-i-have-come-to-teach-in-the-world.md`** — I have come to teach in the world.
+- **`261-step-260-i-am-a-friend-of-the-world-today.md`** — I am a friend of the world today.
+- **`262-step-261-i-must-learn-to-give-with-discernment.md`** — I must learn to give with discernment.
+- **`263-step-262-how-can-i-judge-myself-when-i-do-not-know-who-i-am.md`** — How can I judge myself when I do not know who I am?
+- **`264-step-263-with-knowledge-all-things-become-clear.md`** — With Knowledge all things become clear.
+- **`265-step-264-i-will-learn-of-freedom-this-day.md`** — I will learn of freedom this day.
+- **`266-step-265-there-is-a-greater-freedom-awaiting-me.md`** — There is a greater freedom awaiting me.
+- **`267-step-266-review.md`** — REVIEW
+- **`268-step-267-there-is-a-simple-solution-to-all-problems-that-face-me-today.md`** — There is a simple solution to all problems that face me today.
+- **`269-step-268-i-will-not-be-deceived-by-complexity-today.md`** — I will not be deceived by complexity today.
+- **`270-step-269-the-power-of-knowledge-will-extend-itself-from-me.md`** — The power of Knowledge will extend itself from me.
+- **`271-step-270-with-power-comes-responsibility.md`** — With power comes responsibility.
+- **`272-step-271-i-will-accept-responsibility-today.md`** — I will accept responsibility today.
+- **`273-step-272-my-teachers-will-guide-me-as-i-proceed.md`** — My Teachers will guide me as I proceed.
+- **`274-step-273-my-teachers-hold-the-memory-of-my-ancient-home-for-me.md`** — My Teachers hold the memory of my Ancient Home for me.
+- **`275-step-274-i-seek-freedom-from-ambivalence-today.md`** — I seek freedom from ambivalence today.
+- **`276-step-275-today-i-seek-freedom-from-uncertainty.md`** — Today I seek freedom from uncertainty.
+- **`277-step-276-knowledge-is-my-salvation.md`** — Knowledge is my salvation.
+- **`278-step-277-my-ideas-are-small-but-knowledge-is-great.md`** — My ideas are small, but Knowledge is great.
+- **`279-step-278-what-is-changeless-will-express-itself-through-me.md`** — What is changeless will express itself through me.
+- **`280-step-279-i-must-experience-my-freedom-to-realize-it.md`** — I must experience my freedom to realize it.
+- **`281-step-280-review.md`** — REVIEW
+- **`282-step-281-above-all-else-i-seek-knowledge.md`** — Above all else I seek Knowledge.
+- **`283-step-282-i-will-learn-to-accept-the-responsibility-of-carrying-knowledge-in-the-world.md`** — I will learn to accept the responsibility of carrying Knowledge in the world.
+- **`284-step-283-the-world-is-ambivalent-but-i-am-not.md`** — The world is ambivalent, but I am not.
+- **`285-step-284-stillness-is-my-gift-to-the-world.md`** — Stillness is my gift to the world.
+- **`286-step-285-in-stillness-all-things-can-be-known.md`** — In stillness all things can be known.
+- **`287-step-286-i-carry-stillness-into-the-world-with-me-today.md`** — I carry stillness into the world with me today.
+- **`288-step-287-with-knowledge-i-cannot-be-at-war.md`** — With Knowledge I cannot be at war.
+- **`289-step-288-enemies-are-only-friends-who-have-not-learned-to-join.md`** — Enemies are only friends who have not learned to join.
+- **`290-step-289-today-i-am-a-student-of-knowledge.md`** — Today I am a student of Knowledge.
+- **`291-step-290-i-can-only-be-a-student-therefore-i-will-be-a-student-of-knowledge.md`** — I can only be a student. Therefore, I will be a student of Knowledge.
+- **`292-step-291-i-am-grateful-to-my-brothers-and-my-sisters-who-err-against-me.md`** — I am grateful to my brothers and my sisters who err against me.
+- **`293-step-292-how-can-i-be-angry-with-the-world-when-it-only-serves-me.md`** — How can I be angry with the world when it only serves me?
+- **`294-step-293-i-do-not-wish-to-suffer-today.md`** — I do not wish to suffer today.
+- **`295-step-294-review.md`** — REVIEW
+- **`296-step-295-i-am-now-penetrating-the-mystery-of-my-life.md`** — I am now penetrating the mystery of my life.
+- **`297-step-296-nasi-novare-coram.md`** — Nasi Novare Coram
+- **`298-step-297-novre-novre-comey-na-vera-te-novre.md`** — Novre Novre Comey Na Vera Te Novre
+- **`299-step-298-mavran-mavran-conay-mavran.md`** — Mavran Mavran Conay Mavran
+- **`300-step-299-nome-nome-cono-na-vera-te-nome.md`** — Nome Nome Cono Na Vera Te Nome
+- **`301-step-300-i-receive-all-those-who-are-my-spiritual-family-today.md`** — I receive all those who are my Spiritual Family today.
+- **`302-step-301-i-will-not-lose-myself-in-anxiety-today.md`** — I will not lose myself in anxiety today.
+- **`303-step-302-i-will-not-resist-the-world-today.md`** — I will not resist the world today.
+- **`304-step-303-i-will-step-back-from-the-worlds-persuasions-today.md`** — I will step back from the world’s persuasions today.
+- **`305-step-304-i-will-not-be-a-student-of-fear-today.md`** — I will not be a student of fear today.
+- **`306-step-305-i-feel-the-power-of-love-today.md`** — I feel the power of love today.
+- **`307-step-306-i-will-rest-in-knowledge-today.md`** — I will rest in Knowledge today.
+- **`308-step-307-knowledge-is-living-within-me-now.md`** — Knowledge is living within me now.
+- **`309-step-308-review.md`** — REVIEW
+- **`310-step-309-the-world-i-see-is-attempting-to-become-one-community.md`** — The world I see is attempting to become one community.
+- **`311-step-310-i-am-free-because-i-desire-to-give.md`** — I am free because I desire to give.
+- **`312-step-311-the-world-is-calling-me-i-must-prepare-to-serve-it.md`** — The world is calling me. I must prepare to serve it.
+- **`313-step-312-there-are-greater-problems-for-me-to-solve-in-the-world.md`** — There are greater problems for me to solve in the world.
+- **`314-step-313-let-me-recognize-that-what-is-complex-is-simple.md`** — Let me recognize that what is complex is simple.
+- **`315-step-314-i-will-not-be-afraid-to-follow-today.md`** — I will not be afraid to follow today.
+- **`316-step-315-today-i-will-not-be-alone.md`** — Today I will not be alone.
+- **`317-step-316-i-will-trust-my-deepest-inclinations-today.md`** — I will trust my deepest inclinations today.
+- **`318-step-317-i-need-but-relinquish-my-ambivalence-to-know-the-truth.md`** — I need but relinquish my ambivalence to know the truth.
+- **`319-step-318-there-is-a-greater-power-at-work-in-the-world.md`** — There is a Greater Power at work in the world.
+- **`320-step-319-why-should-i-be-afraid-when-a-greater-power-is-in-the-world.md`** — Why should I be afraid when a Greater Power is in the world?
+- **`321-step-320-i-am-free-to-work-within-the-world.md`** — I am free to work within the world.
+- **`322-step-321-the-world-is-awaiting-my-contribution.md`** — The world is awaiting my contribution.
+- **`323-step-322-review.md`** — REVIEW
+- **`324-step-323-my-role-in-the-world-is-too-important-to-neglect.md`** — My role in the world is too important to neglect.
+- **`325-step-324-i-will-not-judge-another-today.md`** — I will not judge another today.
+- **`326-step-325-the-world-is-emerging-into-the-greater-community-of-worlds-therefore-i-must-be-attentive.md`** — The world is emerging into the Greater Community of worlds. Therefore, I must be attentive.
+- **`327-step-326-the-greater-community-is-something-i-can-feel-but-cannot-understand.md`** — The Greater Community is something I can feel but cannot understand.
+- **`328-step-327-i-will-be-at-peace-today.md`** — I will be at peace today.
+- **`329-step-328-today-i-will-honor-those-who-have-given-to-me.md`** — Today I will honor those who have given to me.
+- **`330-step-329-i-am-free-to-love-the-world-today.md`** — I am free to love the world today.
+- **`331-step-330-i-will-not-neglect-the-small-things-in-my-life.md`** — I will not neglect the small things in my life.
+- **`332-step-331-what-is-small-expresses-that-which-is-great.md`** — What is small expresses that which is great.
+- **`333-step-332-i-am-only-beginning-to-comprehend-the-meaning-of-knowledge-in-my-life.md`** — I am only beginning to comprehend the meaning of Knowledge in my life.
+- **`334-step-333-there-is-a-presence-with-me-i-can-feel-it.md`** — There is a presence with me. I can feel it.
+- **`335-step-334-the-presence-of-my-teachers-is-with-me-every-day.md`** — The presence of my Teachers is with me every day.
+- **`336-step-335-the-fire-of-knowledge-is-with-me-every-day.md`** — The Fire of Knowledge is with me every day.
+- **`337-step-336-review.md`** — REVIEW
+- **`338-step-337-alone-i-can-do-nothing.md`** — Alone I can do nothing.
+- **`339-step-338-today-i-will-be-attentive.md`** — Today I will be attentive.
+- **`340-step-339-the-presence-of-love-is-with-me-now.md`** — The presence of love is with me now.
+- **`341-step-340-my-practice-is-my-contribution-to-the-world.md`** — My practice is my contribution to the world.
+- **`342-step-341-i-am-happy-for-i-can-now-receive.md`** — I am happy, for I can now receive.
+- **`343-step-342-i-am-a-student-of-knowledge-today.md`** — I am a student of Knowledge today.
+- **`344-step-343-today-i-will-honor-the-source-of-my-preparation.md`** — Today I will honor the source of my preparation.
+- **`345-step-344-my-knowledge-is-the-gift-i-give-unto-the-world.md`** — My Knowledge is the gift I give unto the world.
+- **`346-step-345-my-knowledge-is-my-gift-to-my-spiritual-family.md`** — My Knowledge is my gift to my Spiritual Family.
+- **`347-step-346-i-am-in-the-world-to-work.md`** — I am in the world to work.
+- **`348-step-347-i-allow-my-life-to-unfold-today.md`** — I allow my life to unfold today.
+- **`349-step-348-today-i-will-witness-the-world-unfolding.md`** — Today I will witness the world unfolding.
+- **`350-step-349-i-am-happy-that-i-can-finally-serve-the-truth.md`** — I am happy that I can finally serve the truth.
+- **`351-step-350-review.md`** — REVIEW
+- **`352-step-351-i-serve-a-greater-purpose-which-i-am-now-beginning-to-experience.md`** — I serve a greater purpose, which I am now beginning to experience.
+- **`353-step-352-i-am-a-true-student-of-knowledge-today.md`** — I am a true student of Knowledge today.
+- **`354-step-353-my-true-home-is-in-god.md`** — My True Home is in God.
+- **`355-step-354-i-must-experience-my-true-home-while-i-am-in-the-world.md`** — I must experience my True Home while I am in the world.
+- **`356-step-355-i-can-be-at-peace-in-the-world.md`** — I can be at peace in the world.
+- **`357-step-356-i-will-find-my-self-today.md`** — I will find my Self today.
+- **`358-step-357-i-am-in-the-world-to-express-my-self.md`** — I am in the world to express my Self.
+- **`359-step-358-i-wish-to-be-at-home-in-the-world.md`** — I wish to be at home in the world.
+- **`360-step-359-i-am-present-to-serve-the-world.md`** — I am present to serve the world.
+- **`361-step-360-i-must-learn-how-to-reveal-greatness-in-the-world.md`** — I must learn how to reveal greatness in the world.
+- **`362-step-361-i-am-being-led-into-the-light-of-knowledge-today.md`** — I am being led into the light of Knowledge today.
+- **`363-step-362-i-am-learning-to-learn-because-i-carry-knowledge-within-me-today.md`** — I am learning to learn because I carry Knowledge within me today.
+- **`364-step-363-knowledge-is-my-true-desire-because-i-am-a-student-of-knowledge.md`** — Knowledge is my true desire because I am a student of Knowledge.
+- **`365-step-364-knowledge-carries-me-because-i-am-a-student-of-knowledge.md`** — Knowledge carries me because I am a student of Knowledge.
+- **`366-step-365-i-am-committed-to-learn-to-learn-i-am-committed-to-give-what-i-am-meant-to-give-i-am-committed-because-i-am-part-of-life-i-am-part-of-life-because-i-am-one-with-knowledge.md`** — I am committed to learn to learn. I am committed to give what I am meant to give. I am committed because I am part of life. I am part of life because I am one with Knowledge.

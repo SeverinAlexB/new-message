@@ -2,14 +2,14 @@
 
 Volume 1
 
-Source: [The Time of Revelation](https://www.newmessage.org/the-message/volume-1/the-time-of-revelation/)
+Source: [The Time of Revelation](https://newmessage.org/the-message/volume-1/the-time-of-revelation/)
 
-## Chapters
+## Contents
 
-- **`00-front-matter.md`** — Front Matter
+- **`00-front-matter.md`** — Overview
 - **`01-buddha-and-the-new-message-from-god.md`** — Buddha and the New Message from God
 - **`02-destiny.md`** — Destiny
-- **`03-god-s-plan-for-the-world.md`** — God’s Plan for the World
+- **`03-gods-plan-for-the-world.md`** — God’s Plan for the World
 - **`04-jesus-and-the-new-message-from-god.md`** — Jesus and the New Message from God
 - **`05-muhammad-and-the-new-message-from-god.md`** — Muhammad and the New Message from God
 - **`06-the-burden-of-the-messenger.md`** — The Burden of the Messenger

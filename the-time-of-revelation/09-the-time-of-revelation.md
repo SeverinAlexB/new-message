@@ -4,99 +4,87 @@ book: "The Time of Revelation"
 chapter: "09"
 title: "The Time of Revelation"
 type: chapter
-source_url: "https://www.newmessage.org/the-message/volume-1/the-time-of-revelation/the-time-of-revelation/"
+source_url: "https://newmessage.org/the-message/volume-1/the-time-of-revelation/the-time-of-revelation/"
+received_date: "February 23, 2008"
+received_location: "Boulder, Colorado"
 ---
 
 # The Time of Revelation
 
-<a id="p1"></a>- Listen
-- Info
-- Watch
+<a id="p1"></a>It is time to proclaim the New Message.
 
-<a id="p2"></a>Hear the original spoken revelation:
+<a id="p2"></a>It is time to proclaim that God has sent a New Message into the world to prepare humanity and to protect humanity from the impact of the Great Waves of change that are coming, and from humanity’s vulnerability to a Greater Community of intelligent life in the universe.
 
-<a id="p3"></a>[Download](https://www.newmessage.org/av/the-time-of-revelation.mp3) (Right-click to download)
+<a id="p3"></a>It is time that the Will of the Creator be known afresh, anew—without the weight of history, and the infusion of culture and the manipulation of governments.
 
-<a id="p4"></a>As received
+<a id="p4"></a>It is time that the great clarification takes place as to the real nature of human spirituality and the greater purpose that has brought every person into the world at this time.
 
-<a id="p5"></a>on February 23, 2008
+<a id="p5"></a>It is time for humanity to realize that it can no longer be a primitive race—a race governed by mythology, a race governed by passionate beliefs that have no grounding in reality.
 
-<a id="p6"></a>in Boulder, Colorado
+<a id="p6"></a>It is time for humanity to become elevated so that it may have the maturity, the strength, the unity and the cooperation to face the Great Waves of change that are coming, and to prepare for the difficulties and the dangers of emerging into a Greater Community of intelligent life in the universe.
 
-<a id="p7"></a>It is time to proclaim [the New Message](https://www.newmessage.org/aboutnmg).
+<a id="p7"></a>This is why you have come into the world, for you have not come here by accident. You have not come here without a greater purpose to fulfill in this world at this time. You have come to serve the world in specific ways, with others whom you are destined to meet.
 
-<a id="p8"></a>It is time to proclaim that God has sent a New Message into the world to prepare humanity and to protect humanity from the impact of the [Great Waves of change](https://www.newmessage.org/aboutgwc) that are coming, and from humanity’s vulnerability to a [Greater Community](https://www.newmessage.org/aboutgc) of intelligent life in the universe.
+<a id="p8"></a>Your gift is beyond your comprehension at this moment, for it resides deeper within you, protected by Knowledge—the greater Mind that God has given to you to guide you, to protect you and to lead you to a greater fulfillment and accomplishment in life.
 
-<a id="p9"></a>It is time that the Will of the Creator be known afresh, anew—without the weight of history, and the infusion of culture and the manipulation of governments.
+<a id="p9"></a>It is time to outgrow the passions, the grievances, the misunderstandings of the past. These will not serve you now and will only endanger people, casting them into conflict and competition with one another, generating conflict and war and retribution.
 
-<a id="p10"></a>It is time that the great clarification takes place as to the real nature of human spirituality and the greater purpose that has brought every person into the world at this time.
+<a id="p10"></a>It is time for a greater understanding to be given to the human family, and that is why a New Message from God has been sent into the world. It is not what people expect. It does not fulfill their prophecies. It does not assure the fulfillment of their ambitions. For this is a New Message from God. It is not a human invention. People did not make this up. It is not an accommodation. It is a Revelation in the purest sense.
 
-<a id="p11"></a>It is time for humanity to realize that it can no longer be a primitive race—a race governed by mythology, a race governed by passionate beliefs that have no grounding in reality.
+<a id="p11"></a>For humanity must know of the Great Waves of change that are coming to the world, and humanity must understand that it stands at the threshold of space in the universe, and that dangerous and self-serving races are intervening in the world to take advantage of a weak and struggling humanity.
 
-<a id="p12"></a>It is time for humanity to become elevated so that it may have the maturity, the strength, the unity and the cooperation to face the Great Waves of change that are coming, and to prepare for the difficulties and the dangers of emerging into a Greater Community of intelligent life in the universe.
+<a id="p12"></a>This is where human division will be exploited. This is where human ignorance will be focused and directed. This is where the great grievances that exist between nations, between groups and between religions will be used to drive humanity into a greater conflict, into a greater decline, to render it weak and powerless in the face of intervening forces from the Greater Community, from the universe around you, who seek to exploit humanity, who now is vulnerable to such exploitation and manipulation.
 
-<a id="p13"></a>This is why you have come into the world, for you have not come here by accident. You have not come here without a greater purpose to fulfill in this world at this time. You have come to serve the world in specific ways, with others whom you are destined to meet.
+<a id="p13"></a>You know not the gravity of your times. You are still lost in older prophecies. You are still misguided. You are still ignorant of your greater destiny and the greater purpose that has brought you individually into the world—to serve a world in need, to generate and to support human unity and cooperation beyond the interests of any one nation or government.
 
-<a id="p14"></a>Your gift is beyond your comprehension at this moment, for it resides deeper within you, protected by Knowledge—the greater Mind that God has given to you to guide you, to protect you and to lead you to a greater fulfillment and accomplishment in life.
+<a id="p14"></a>A Messenger has been sent into the world to bring this New Message from God. He is human, he is fallible, he is not perfect. But he is the one who has been given the Message for all humanity—a Message that will inform you, a Message that will challenge you, a Message that will reveal a greater reality to you and a Message that will redeem you in service to God’s greater purpose in the world, a purpose that is not understood within the nations of the world today.
 
-<a id="p15"></a>It is time to outgrow the passions, the grievances, the misunderstandings of the past. These will not serve you now and will only endanger people, casting them into conflict and competition with one another, generating conflict and war and retribution.
+<a id="p15"></a>It is time for a New Revelation. It is time for humanity to realize it must unite in its own defense, that it must cooperate to prevent it declining in a world of diminishing resources, that it must understand its vulnerability to a Greater Community of intelligent life, that it must prepare to defend its borders to space and to strengthen its own internal alliances for the protection and the preservation of the world.
 
-<a id="p16"></a>It is time for a greater understanding to be given to the human family, and that is why a New Message from God has been sent into the world. It is not what people expect. It does not fulfill their prophecies. It does not assure the fulfillment of their ambitions. For this is a New Message from God. It is not a human invention. People did not make this up. It is not an accommodation. It is a Revelation in the purest sense.
+<a id="p16"></a>Like all of God’s great Messages that have been sent to uplift and to direct humanity over the course of history, this New Revelation will not be understood at the outset. It will be ignored, it will be denied, it will be condemned. That is because it is a Revelation from God and not a human invention. It is not an accommodation to human beliefs and expectations, preferences and beliefs.
 
-<a id="p17"></a>For humanity must know of the Great Waves of change that are coming to the world, and humanity must understand that it stands at the threshold of space in the universe, and that dangerous and self-serving races are intervening in the world to take advantage of a weak and struggling humanity.
+<a id="p17"></a>The Will of God is preserved in the deeper Knowledge that God has placed within you—a Knowledge which you yourself cannot bring forth, a Knowledge that cannot be used and manipulated by selfish individuals or by governments or organizations.
 
-<a id="p18"></a>This is where human division will be exploited. This is where human ignorance will be focused and directed. This is where the great grievances that exist between nations, between groups and between religions will be used to drive humanity into a greater conflict, into a greater decline, to render it weak and powerless in the face of intervening forces from the Greater Community, from the universe around you, who seek to exploit humanity, who now is vulnerable to such exploitation and manipulation.
+<a id="p18"></a>There will be great resistance to the New Message from God, particularly from religious institutions and authorities who will feel challenged by this. But they do not understand that the New Message from God is here to strengthen and to unite their religious faiths so that humanity may proceed with greater strength and unity in the future.
 
-<a id="p19"></a>You know not the gravity of your times. You are still lost in older prophecies. You are still misguided. You are still ignorant of your greater destiny and the greater purpose that has brought you individually into the world—to serve a world in need, to generate and to support human unity and cooperation beyond the interests of any one nation or government.
+<a id="p19"></a>You are living now at a time of Revelation—a time when a New Message from the Creator of all life is being given into the world, a time when the Messenger is amongst you, imbued with the Message, for the Message has been received.
 
-<a id="p20"></a>A Messenger has been sent into the world to bring this New Message from God. He is human, he is fallible, he is not perfect. But he is the one who has been given the Message for all humanity—a Message that will inform you, a Message that will challenge you, a Message that will reveal a greater reality to you and a Message that will redeem you in service to God’s greater purpose in the world, a purpose that is not understood within the nations of the world today.
+<a id="p20"></a>It is pure. It has not been corrupted and manipulated. It has not been misused and misapplied. It is for the whole world, to give humanity a new beginning, to give humanity a great chance to survive the Great Waves of change and to emerge into a Greater Community of intelligent life in the universe as a free and self-determined race.
 
-<a id="p21"></a>It is time for a New Revelation. It is time for humanity to realize it must unite in its own defense, that it must cooperate to prevent it declining in a world of diminishing resources, that it must understand its vulnerability to a Greater Community of intelligent life, that it must prepare to defend its borders to space and to strengthen its own internal alliances for the protection and the preservation of the world.
+<a id="p21"></a>Without this New Message, humanity would enter into grave competition and conflict over the remaining resources of the world. And it would remain ignorant of those forces from the Greater Community who are intervening in the world today.
 
-<a id="p22"></a>Like all of God’s great Messages that have been sent to uplift and to direct humanity over the course of history, this New Revelation will not be understood at the outset. It will be ignored, it will be denied, it will be condemned. That is because it is a Revelation from God and not a human invention. It is not an accommodation to human beliefs and expectations, preferences and beliefs.
+<a id="p22"></a>It is these two great events that will shape humanity’s future and destiny. But they are as yet unrecognized, unaccounted for, and humanity is unprepared for them. That is why a New Message from God has been sent into the world—to prepare humanity for a future that will be unlike the past and to protect humanity from its own dangerous and self-destructive inclinations.
 
-<a id="p23"></a>The Will of God is preserved in the deeper Knowledge that God has placed within you—a Knowledge which you yourself cannot bring forth, a Knowledge that cannot be used and manipulated by selfish individuals or by governments or organizations.
+<a id="p23"></a>This is why you have come into the world—to be a part of this, to strengthen your faith and tradition and culture, and to unite it with others so that it may survive in the difficult times to come.
 
-<a id="p24"></a>There will be great resistance to the New Message from God, particularly from religious institutions and authorities who will feel challenged by this. But they do not understand that the New Message from God is here to strengthen and to unite their religious faiths so that humanity may proceed with greater strength and unity in the future.
+<a id="p24"></a>Only God knows how to prepare for this future. Only God’s Revelation can teach you how to prepare for this future. Only the strength of Knowledge that God has placed within each person will give you the courage, the confidence and the ability to overcome your own inhibitions and destructive tendencies.
 
-<a id="p25"></a>You are living now at a time of Revelation—a time when a New Message from the Creator of all life is being given into the world, a time when the Messenger is amongst you, imbued with the Message, for the Message has been received.
+<a id="p25"></a>Do not think that a New Revelation cannot come into the world. This is the assumption of some people, but it is an arrogant assumption. For God would not turn away from the needs of humanity. And God would not leave humanity unprepared for the great difficulties to come and for the great challenge from the universe around you.
 
-<a id="p26"></a>It is pure. It has not been corrupted and manipulated. It has not been misused and misapplied. It is for the whole world, to give humanity a new beginning, to give humanity a great chance to survive the Great Waves of change and to emerge into a Greater Community of intelligent life in the universe as a free and self-determined race.
+<a id="p26"></a>It is your responsibility, it is your duty, it is your calling to receive this New Message with an open mind—to read it, to consider it, to hear it, to allow it to speak to you through the greater Knowledge within you, to be challenged by it, to be uplifted by it and to be redeemed by it.
 
-<a id="p27"></a>Without this New Message, humanity would enter into grave competition and conflict over the remaining resources of the world. And it would remain ignorant of those forces from the Greater Community who are intervening in the world today.
+<a id="p27"></a>The Proclamation now is going forth. Time is of the essence, for humanity does not have much time to prepare for the future, to prepare for the Great Waves of change, to prepare for the Greater Community and for those races from the universe who are intervening in the world at this time.
 
-<a id="p28"></a>It is these two great events that will shape humanity’s future and destiny. But they are as yet unrecognized, unaccounted for, and humanity is unprepared for them. That is why a New Message from God has been sent into the world—to prepare humanity for a future that will be unlike the past and to protect humanity from its own dangerous and self-destructive inclinations.
+<a id="p28"></a>Humanity will have to unite for its own defense. It will have to unite to preserve the world. It will have to unite to sustain human civilization. It will have to forgo its ancient grievances. It will have to outgrow its ancient mythology and its longstanding assumptions.
 
-<a id="p29"></a>This is why you have come into the world—to be a part of this, to strengthen your faith and tradition and culture, and to unite it with others so that it may survive in the difficult times to come.
+<a id="p29"></a>This will be driven by necessity now, for the difficult times are upon you, and you are unprepared. The Greater Community is in the world, but you are unprepared. Your life remains unfulfilled because the greater Knowledge that God has given you has not yet emerged in your awareness.
 
-<a id="p30"></a>Only God knows how to prepare for this future. Only God’s Revelation can teach you how to prepare for this future. Only the strength of Knowledge that God has placed within each person will give you the courage, the confidence and the ability to overcome your own inhibitions and destructive tendencies.
+<a id="p30"></a>Receive, then, the New Message from God. Hear the Messenger. Hear the Voice of the New Message, which is the Angelic Presence speaking through the Messenger. Read the sacred words that have been given to the Messenger to be given to the world. And listen to your own heart, for the New Message from God speaks to your heart. It does not speak to your beliefs, your preferences and your assumptions, but to a deeper reality within you, a reality born of God.
 
-<a id="p31"></a>Do not think that a New Revelation cannot come into the world. This is the assumption of some people, but it is an arrogant assumption. For God would not turn away from the needs of humanity. And God would not leave humanity unprepared for the great difficulties to come and for the great challenge from the universe around you.
+<a id="p31"></a>It is a calling for this reality to emerge within you. It is a calling for its strength, for its grace, for its compassion, for its courage and its strength.
 
-<a id="p32"></a>It is your responsibility, it is your duty, it is your calling to receive this New Message with an open mind—to read it, to consider it, to hear it, to allow it to speak to you through the greater Knowledge within you, to be challenged by it, to be uplifted by it and to be redeemed by it.
+<a id="p32"></a>This is not a time now to become lost in your own personal confusion, your own personal indulgences and your fantasies. It is a time to respond to the great needs of your time, the great challenge of your time, the great threshold of your time, which are revealed in the New Message from God.
 
-<a id="p33"></a>The Proclamation now is going forth. Time is of the essence, for humanity does not have much time to prepare for the future, to prepare for the Great Waves of change, to prepare for the Greater Community and for those races from the universe who are intervening in the world at this time.
+<a id="p33"></a>This alone will speak to Knowledge within you and fulfill your calling to be in the world. For the connection will have been made, the Revelation will have been given, and you who are so subject to human error and misunderstanding will see the great truth that is emerging on the horizon and realize that humanity faces its greatest peril, its greatest challenge and its greatest opportunity for human unity and cooperation to become established.
 
-<a id="p34"></a>Humanity will have to unite for its own defense. It will have to unite to preserve the world. It will have to unite to sustain human civilization. It will have to forgo its ancient grievances. It will have to outgrow its ancient mythology and its longstanding assumptions.
+<a id="p34"></a>The Power of God has been given to humanity to make this occur, to face this challenge and this difficulty and to unite in the face of it. But only the power of Knowledge within you can give you this strength and vision. And only the New Message from God can reveal what this really means.
 
-<a id="p35"></a>This will be driven by necessity now, for the difficult times are upon you, and you are unprepared. The Greater Community is in the world, but you are unprepared. Your life remains unfulfilled because the greater Knowledge that God has given you has not yet emerged in your awareness.
+<a id="p35"></a>You give praise to God by carrying out what God has given you to do, to see and to know. That is why the Revelation is essential, for without it you will not be able to see and to know.
 
-<a id="p36"></a>Receive, then, the New Message from God. Hear the Messenger. Hear the Voice of the New Message, which is the Angelic Presence speaking through the Messenger. Read the sacred words that have been given to the Messenger to be given to the world. And listen to your own heart, for the New Message from God speaks to your heart. It does not speak to your beliefs, your preferences and your assumptions, but to a deeper reality within you, a reality born of God.
+<a id="p36"></a>That is why a New Revelation is in the world, for humanity must see now what it could not see before. It must know now what it could not know before. It must recognize that the world is changing and that humanity stands at the threshold of space and at the boundaries of encountering a Greater Community of intelligent life in the universe. Humanity must face that the world has been exploited, its environments have been degraded, its resources have been unwisely used and wasted.
 
-<a id="p37"></a>It is a calling for this reality to emerge within you. It is a calling for its strength, for its grace, for its compassion, for its courage and its strength.
+<a id="p37"></a>God would not give a New Revelation to the world unless the need was profound, unless it was such a need that could not be met by God’s Messages that have been given in the past and by the beliefs and assumptions of the peoples of the world.
 
-<a id="p38"></a>This is not a time now to become lost in your own personal confusion, your own personal indulgences and your fantasies. It is a time to respond to the great needs of your time, the great challenge of your time, the great threshold of your time, which are revealed in the New Message from God.
+<a id="p38"></a>A New Revelation must be given, a new vision for humanity, a calling for strength and unity and a deeper resonance with the power of God that has been placed within each person, which must now come forward to guide humanity and to protect humanity.
 
-<a id="p39"></a>This alone will speak to Knowledge within you and fulfill your calling to be in the world. For the connection will have been made, the Revelation will have been given, and you who are so subject to human error and misunderstanding will see the great truth that is emerging on the horizon and realize that humanity faces its greatest peril, its greatest challenge and its greatest opportunity for human unity and cooperation to become established.
-
-<a id="p40"></a>The Power of God has been given to humanity to make this occur, to face this challenge and this difficulty and to unite in the face of it. But only the power of Knowledge within you can give you this strength and vision. And only the New Message from God can reveal what this really means.
-
-<a id="p41"></a>You give praise to God by carrying out what God has given you to do, to see and to know. That is why the Revelation is essential, for without it you will not be able to see and to know.
-
-<a id="p42"></a>That is why a New Revelation is in the world, for humanity must see now what it could not see before. It must know now what it could not know before. It must recognize that the world is changing and that humanity stands at the threshold of space and at the boundaries of encountering a Greater Community of intelligent life in the universe. Humanity must face that the world has been exploited, its environments have been degraded, its resources have been unwisely used and wasted.
-
-<a id="p43"></a>God would not give a New Revelation to the world unless the need was profound, unless it was such a need that could not be met by God’s Messages that have been given in the past and by the beliefs and assumptions of the peoples of the world.
-
-<a id="p44"></a>A New Revelation must be given, a new vision for humanity, a calling for strength and unity and a deeper resonance with the power of God that has been placed within each person, which must now come forward to guide humanity and to protect humanity.
-
-<a id="p45"></a>May the power and the presence of Knowledge emerge in your life. And may the Revelation of the New Message from God reach you and speak to you, give you comfort and resolution and restore to you the greater power that God has invested in you to be given to the world.
+<a id="p39"></a>May the power and the presence of Knowledge emerge in your life. And may the Revelation of the New Message from God reach you and speak to you, give you comfort and resolution and restore to you the greater power that God has invested in you to be given to the world.

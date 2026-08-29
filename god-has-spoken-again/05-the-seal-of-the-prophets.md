@@ -1,132 +1,120 @@
 ---
 volume: 1
 book: "God Has Spoken Again"
-chapter: "05"
+chapter: "5"
 title: "The Seal of the Prophets"
 type: chapter
-source_url: "https://www.newmessage.org/the-message/volume-1/god-spoken-again/seal-of-the-prophets/"
+source_url: "https://newmessage.org/the-message/volume-1/god-spoken-again/seal-of-the-prophets/"
+received_date: "May 21, 2014"
+received_location: "Boulder, Colorado"
 ---
 
 # The Seal of the Prophets
 
-<a id="p1"></a>- Listen
-- Info
-- Watch
+<a id="p1"></a>It is very important now that We speak of the Seal of the Prophets so that the people of the world may understand what this really means and why it is important to protect God’s great Revelations, which are only given at certain key turning points in humanity’s development and evolution.
 
-<a id="p2"></a>Hear the original spoken revelation:
+<a id="p2"></a>The great Revelations are so very important for the world. They provide the building blocks of human civilization.
 
-<a id="p3"></a>[Download](https://www.newmessage.org/av/the-seal-of-the-prophets.mp3) (Right-click to download)
+<a id="p3"></a>Now God has spoken again to protect human civilization from internal disintegration and collapse and from subjugation from forces in the universe who seek to take advantage of human conflict and ignorance.
 
-<a id="p4"></a>As received
+<a id="p4"></a>It is a threshold that was long anticipated and was destined to arrive, and it would arrive at a time when humanity had begun to establish a world civilization—certainly not a perfect civilization, but a civilization nonetheless.
 
-<a id="p5"></a>on May 21, 2014
+<a id="p5"></a>It would happen when certain conditions were met and when humanity’s vulnerability to its own errors would grow to such a point that human civilization itself would be endangered through environmental decline and disruption and through the Earth becoming plundered to a point where it could no longer provide sufficiently for a growing humanity.
 
-<a id="p6"></a>in Boulder, Colorado
+<a id="p6"></a>It would wait to a point when humanity’s vulnerability to the universe would reach a critical threshold. For the Earth has been long observed by certain races for their own purposes and designs.
 
-<a id="p7"></a>It is very important now that We speak of the Seal of the Prophets so that the people of the world may understand what this really means and why it is important to protect God’s great Revelations, which are only given at certain key turning points in humanity’s development and evolution.
+<a id="p7"></a>God knows this, of course, for this is part of any world’s evolution—any world that has been a fountainhead of a race’s emergence or any world that has been cultivated by visitors from beyond. It is predictable. It will happen sooner or later. And the time for this now for humanity has come.
 
-<a id="p8"></a>The great Revelations are so very important for the world. They provide the building blocks of human civilization.
+<a id="p8"></a>God protects the great Revelations with a Seal. The Seal means that the Angelic Assembly will not provide another great Revelation until the Lord of the universe indicates that it must be so. It is their Seal, to protect the Revelations from usurpation, from plagiarism and from those who proclaim themselves to be emissaries and messengers, which inevitably happens following a great Revelation for the world.
 
-<a id="p9"></a>Now God has spoken again to protect human civilization from internal disintegration and collapse and from subjugation from forces in the universe who seek to take advantage of human conflict and ignorance.
+<a id="p9"></a>People of the Earth will not know this Seal exists. It is not something they can touch. It is not written in their constitutions. It is not widely understood or accepted.
 
-<a id="p10"></a>It is a threshold that was long anticipated and was destined to arrive, and it would arrive at a time when humanity had begun to establish a world civilization—certainly not a perfect civilization, but a civilization nonetheless.
+<a id="p10"></a>But amongst the Angelic Presence and Assembly who oversees this world, it is a very clear mandate and must be established, or the great Revelations can be polluted beyond recognition. They will be affected and altered by humankind over time, through ignorance and corruption and through the misuse of adoption. But the Seal in Heaven is complete, you see.
 
-<a id="p11"></a>It would happen when certain conditions were met and when humanity’s vulnerability to its own errors would grow to such a point that human civilization itself would be endangered through environmental decline and disruption and through the Earth becoming plundered to a point where it could no longer provide sufficiently for a growing humanity.
+<a id="p11"></a>However, at a certain point, God will break the Seal, for a New Revelation must come. For the great Teachings that were given before would be insufficient to meet the real needs of the human family as a whole.
 
-<a id="p12"></a>It would wait to a point when humanity’s vulnerability to the universe would reach a critical threshold. For the Earth has been long observed by certain races for their own purposes and designs.
+<a id="p12"></a>The interval between the great Revelations will be very long, in most cases, for they are sufficient to meet humanity’s needs for a great period of time to come.
 
-<a id="p13"></a>God knows this, of course, for this is part of any world’s evolution—any world that has been a fountainhead of a race’s emergence or any world that has been cultivated by visitors from beyond. It is predictable. It will happen sooner or later. And the time for this now for humanity has come.
+<a id="p13"></a>But now you have reached the great threshold where God has spoken again—a great threshold for which humanity is ignorant and unprepared, a great threshold that the great Revelations given in the ancient times cannot address. They were not designed for this. They were not given for this purpose. They were critical in building human civilization, a world civilization over time.
 
-<a id="p14"></a>God protects the great Revelations with a Seal. The Seal means that the [Angelic Assembly](https://www.newmessage.org/the-message/volume-1/god-spoken-again/the-assembly) will not provide another great Revelation until the Lord of the universe indicates that it must be so. It is their Seal, to protect the Revelations from usurpation, from plagiarism and from those who proclaim themselves to be emissaries and messengers, which inevitably happens following a great Revelation for the world.
+<a id="p14"></a>But now human civilization as it stands today is threatened both from within and from without, so severely threatened that God has spoken again, for the risks are too high, the dangers are too great, human ignorance is too profound.
 
-<a id="p15"></a>People of the Earth will not know this Seal exists. It is not something they can touch. It is not written in their constitutions. It is not widely understood or accepted.
+<a id="p15"></a>Even the great Revelations given before are fractured and contentious within themselves and between one another. They cannot prepare humanity for a Greater Community of life in the universe. They cannot prepare humanity for a world in environmental decline—the greatest change that could happen to any civilization in any world. They were not designed for this purpose.
 
-<a id="p16"></a>But amongst the Angelic Presence and Assembly who oversees this world, it is a very clear mandate and must be established, or the great Revelations can be polluted beyond recognition. They will be affected and altered by humankind over time, through ignorance and corruption and through the misuse of adoption. But the Seal in Heaven is complete, you see.
+<a id="p16"></a>God knows this, of course. But humanity does not know. It does not realize what is coming over the horizon. It does not understand its condition in light of life around it in the universe. It does not know the state of the Earth sufficiently to see how much it has overtaken and overspent its natural inheritance in this world. It is on a reckless course of self-destruction and disintegration over time.
 
-<a id="p17"></a>However, at a certain point, God will break the Seal, for [a New Revelation](https://www.newmessage.org/aboutnmg) must come. For the great Teachings that were given before would be insufficient to meet the real needs of the human family as a whole.
+<a id="p17"></a>The great changes that will come to the planet itself are sufficient to reduce human civilization severely, if humanity is not prepared.
 
-<a id="p18"></a>The interval between the great Revelations will be very long, in most cases, for they are sufficient to meet humanity’s needs for a great period of time to come.
+<a id="p18"></a>Here the Seal is broken, for a New Revelation must be given. The Seal was broken after the life of Jesus when Muhammad was given his great mission on Earth. And now the Seal is being broken again in God’s New Revelation [for] the world.
 
-<a id="p19"></a>But now you have reached the great threshold where God has spoken again—a great threshold for which humanity is ignorant and unprepared, a great threshold that the great Revelations given in the ancient times cannot address. They were not designed for this. They were not given for this purpose. They were critical in building human civilization, a world civilization over time.
+<a id="p19"></a>Here you must understand that the great Messengers have all come from the Angelic Assembly, sent into the world for a great mission, sent into the world at great turning points and opportunities. They have all come from the Assembly. They all have a common Source. They are not sons of God. They are not the center of the universe.
 
-<a id="p20"></a>But now human civilization as it stands today is threatened both from within and from without, so severely threatened that God has spoken again, for the risks are too high, the dangers are too great, human ignorance is too profound.
+<a id="p20"></a>They have come from the Assembly that oversees this world, a world of great importance and significance in the universe because humanity has kept its spiritual awareness alive. Despite its many errors and tragic history—great conflicts and great misfortunes it has wrought upon itself and upon the world—it is still a world of great promise and significance.
 
-<a id="p21"></a>Even the great Revelations given before are fractured and contentious within themselves and between one another. They cannot prepare humanity for a [Greater Community](https://www.newmessage.org/aboutgc) of life in the universe. They cannot prepare humanity for a world in environmental decline—the greatest change that could happen to any civilization in any world. They were not designed for this purpose.
+<a id="p21"></a>God will create a new Seal when the Proclamation at this time is complete, and it will last for centuries.
 
-<a id="p22"></a>God knows this, of course. But humanity does not know. It does not realize what is coming over the horizon. It does not understand its condition in light of life around it in the universe. It does not know the state of the Earth sufficiently to see how much it has overtaken and overspent its natural inheritance in this world. It is on a reckless course of self-destruction and disintegration over time.
+<a id="p22"></a>People will still claim to have messages from God or to be prophets or redeemers. But the Angelic Assembly will not give them what it would be required to give them for this to be really true and authentic. In this way, Heaven does what it can to protect the great Revelations, which are so vulnerable to human misuse and misunderstanding.
 
-<a id="p23"></a>The great changes that will come to the planet itself are sufficient to reduce human civilization severely, if humanity is not prepared.
+<a id="p23"></a>God’s New Revelation for the world at this great turning point is the most expansive ever given to the world—given to a literate world now, a world of global commerce and communication, a world of global dangers and risks, given now with its own commentary to limit the possibility of it being misconstrued and misapplied in the future, given with great repetition, said in many ways to give the greatest opportunity for people to truly understand what they are receiving and why it must be given at this time.
 
-<a id="p24"></a>Here the Seal is broken, for a New Revelation must be given. The Seal was broken after the life of Jesus when Muhammad was given his great mission on Earth. And now the Seal is being broken again in God’s New Revelation [for] the world.
+<a id="p24"></a>God’s New Revelation for the world contains a warning, a blessing and a great preparation. Without the preparation, you could not respond to the warning. Without the warning, you would not understand the importance of the preparation. And without the blessing, you would not have the strength or know where to turn within yourself or between one another for the courage and determination to do what must be done for the world, to understand the real meaning of your purpose here and why you have come at this great turning point.
 
-<a id="p25"></a>Here you must understand that the great Messengers have all come from the Angelic Assembly, sent into the world for a great mission, sent into the world at great turning points and opportunities. They have all come from the Assembly. They all have a common Source. They are not sons of God. They are not the center of the universe.
+<a id="p25"></a>This is not a gift for the elect few, or a few chosen individuals, or for the richest and the most privileged amongst you. It is given to the whole world, given in the simplest terms, given in the clearest possible way, given with great strength, speaking to almost every avenue of human experience, given to give humanity this one great chance to restore the world and to prepare itself for the Greater Community of life, for which it must now learn to respond.
 
-<a id="p26"></a>They have come from the Assembly that oversees this world, a world of great importance and significance in the universe because humanity has kept its spiritual awareness alive. Despite its many errors and tragic history—great conflicts and great misfortunes it has wrought upon itself and upon the world—it is still a world of great promise and significance.
+<a id="p26"></a>Think not this is irrelevant to your needs, for this is the world you have come to serve. These two great events will determine in all matters, in all manner of ways, what kind of life you will be able to have, what will limit your life and what can draw forth from you your greater strengths and the greater purpose that lies hidden within you beneath the surface of your mind. Think not this does not speak to you, for you have been sent into the world for this.
 
-<a id="p27"></a>God will create a new Seal when the Proclamation at this time is complete, and it will last for centuries.
+<a id="p27"></a>What happens in this world and beyond this world, regarding this world, will determine the fate and the future of every person alive today and of their children and the generations to come. That is how powerful this is. That is how necessary this is.
 
-<a id="p28"></a>People will still claim to have messages from God or to be prophets or redeemers. But the Angelic Assembly will not give them what it would be required to give them for this to be really true and authentic. In this way, Heaven does what it can to protect the great Revelations, which are so vulnerable to human misuse and misunderstanding.
+<a id="p28"></a>It [the New Message from God] will change your understanding of religion and bring great clarity here. It will establish the unity of all religions and how they have built upon one another to provide the true moral and ethical foundation for human conduct and understanding.
 
-<a id="p29"></a>God’s New Revelation for the world at this great turning point is the most expansive ever given to the world—given to a literate world now, a world of global commerce and communication, a world of global dangers and risks, given now with its own commentary to limit the possibility of it being misconstrued and misapplied in the future, given with great repetition, said in many ways to give the greatest opportunity for people to truly understand what they are receiving and why it must be given at this time.
+<a id="p29"></a>But you are living in a different world now, and you are facing a very different world in the future—a world of diminishing resources and unstable climate, a world that will affect everybody’s life, rich or poor, in all corners of the world.
 
-<a id="p30"></a>God’s New Revelation for the world contains a warning, a blessing and a great preparation. Without the preparation, you could not respond to the warning. Without the warning, you would not understand the importance of the preparation. And without the blessing, you would not have the strength or know where to turn within yourself or between one another for the courage and determination to do what must be done for the world, to understand the real meaning of your purpose here and why you have come at this great turning point.
+<a id="p30"></a>So great is the need. So great is the risk. So great is the influence and the power of this that God has spoken again and sent a new Messenger into the world. Sent from the Angelic Assembly he is, akin to all those who were sent before. They stand with him, for he is the Messenger of this time, of this era and of the times to come for a very long time.
 
-<a id="p31"></a>This is not a gift for the elect few, or a few chosen individuals, or for the richest and the most privileged amongst you. It is given to the whole world, given in the simplest terms, given in the clearest possible way, given with great strength, speaking to almost every avenue of human experience, given to give humanity this one great chance to restore the world and to prepare itself for the Greater Community of life, for which it must now learn to respond.
+<a id="p31"></a>The Seal will be with him, and Heaven will watch to see who can respond to his presence on Earth. For he is an older man now and does not have a long time to teach this.
 
-<a id="p32"></a>Think not this is irrelevant to your needs, for this is the world you have come to serve. These two great events will determine in all matters, in all manner of ways, what kind of life you will be able to have, what will limit your life and what can draw forth from you your greater strengths and the greater purpose that lies hidden within you beneath the surface of your mind. Think not this does not speak to you, for you have been sent into the world for this.
+<a id="p32"></a>[He] has spent his life receiving a Revelation more vast and more complete than anything that has ever been given to humanity before.
 
-<a id="p33"></a>What happens in this world and beyond this world, regarding this world, will determine the fate and the future of every person alive today and of their children and the generations to come. That is how powerful this is. That is how necessary this is.
+<a id="p33"></a>It will reveal the meaning of life in the universe. It will reveal what is coming over the horizon of your life and of the whole world. It will reveal the true nature of human spirituality at a higher level, at a level called Knowledge. It will reveal what humanity must learn to create real cooperation here on Earth and to end its ceaseless conflicts and its terrible plundering of the world. For this is the only world you will have that can sustain you.
 
-<a id="p34"></a>It [the New Message from God] will change your understanding of religion and bring great clarity here. It will establish the unity of all religions and how they have built upon one another to provide the true moral and ethical foundation for human conduct and understanding.
+<a id="p34"></a>The universe around you will not be yours to conquer or to explore beyond this solar system. There are great dangers there, of which humanity knows nothing at all. It is still looking through primitive eyes, the eyes of ignorance and hopeful expectation. It does not know what it is dealing with in a Greater Community of life in the universe.
 
-<a id="p35"></a>But you are living in a different world now, and you are facing a very different world in the future—a world of diminishing resources and unstable climate, a world that will affect everybody’s life, rich or poor, in all corners of the world.
+<a id="p35"></a>God must now provide this, at least sufficiently, so humanity can prepare and act with wisdom and concern for the future, rather than merely acting out of expediency for the moment.
 
-<a id="p36"></a>So great is the need. So great is the risk. So great is the influence and the power of this that God has spoken again and sent a new Messenger into the world. Sent from the Angelic Assembly he is, akin to all those who were sent before. They stand with him, for he is the Messenger of this time, of this era and of the times to come for a very long time.
+<a id="p36"></a>This has everything to do with who you are—your deeper nature, why you are the way you are and why you are designed the way you are—which is something you cannot understand until you realize it is for a greater purpose, which you have yet to really discover.
 
-<a id="p37"></a>The Seal will be with him, and Heaven will watch to see who can respond to his presence on Earth. For he is an older man now and does not have a long time to teach this.
+<a id="p37"></a>You must accept that the Seal of the Prophets has been broken. Not by a person, not by a religion, but by God, who communicates to the world through the Angelic Presence and Assembly that oversees this world and the progress and evolution of the human family.
 
-<a id="p38"></a>[He] has spent his life receiving a Revelation more vast and more complete than anything that has ever been given to humanity before.
+<a id="p38"></a>Here there will be great clarity about the questions of religion, the meaning of your life, the destiny of humanity and the great challenges to come, for which humanity must prepare at this time.
 
-<a id="p39"></a>It will reveal the meaning of life in the universe. It will reveal what is coming over the horizon of your life and of the whole world. It will reveal the true nature of human spirituality at a higher level, at a level called Knowledge. It will reveal what humanity must learn to create real cooperation here on Earth and to end its ceaseless conflicts and its terrible plundering of the world. For this is the only world you will have that can sustain you.
+<a id="p39"></a>Do not shrink from this. Do not fall into the shadows of your own preoccupations. Do not despair. For God has given you a deeper strength within yourself to enable you to respond, to prepare to face a larger world and to experience a greater life.
 
-<a id="p40"></a>The universe around you will not be yours to conquer or to explore beyond this solar system. There are great dangers there, of which humanity knows nothing at all. It is still looking through primitive eyes, the eyes of ignorance and hopeful expectation. It does not know what it is dealing with in a Greater Community of life in the universe.
+<a id="p40"></a>You do not understand what this means yet, but in time it will become as clear as day. For God has given you the eyes to see and the ears to hear, but they are not the eyes that you see with now or the ears that you hear with now. Yet they are within you—deeper within you.
 
-<a id="p41"></a>God must now provide this, at least sufficiently, so humanity can prepare and act with wisdom and concern for the future, rather than merely acting out of expediency for the moment.
+<a id="p41"></a>This is the true strength of your life. This is the true strength of the human family. It is this that will make all the difference in the outcome for your life on Earth here and for the future and destiny of humanity.
 
-<a id="p42"></a>This has everything to do with who you are—your deeper nature, why you are the way you are and why you are designed the way you are—which is something you cannot understand until you realize it is for a greater purpose, which you have yet to really discover.
+<a id="p42"></a>Only God’s New Revelation for the world can reveal these things to you now. Without this, humanity will continue in its desperate combative fall, its desperate combative trajectory in life, depleting the world so critically that it will not be able to sustain human civilization in any kind of recognizable form. You will fall prey to dominating forces of the universe, and everything that you have created of value will be lost.
 
-<a id="p43"></a>You must accept that the Seal of the Prophets has been broken. Not by a person, not by a religion, but by God, who communicates to the world through the Angelic Presence and Assembly that oversees this world and the progress and evolution of the human family.
+<a id="p43"></a>It is only God’s Revelation for the world that can reveal this to you clearly, without distortion, without the interests of any foreign race being involved, without any manipulation or deception whatsoever.
 
-<a id="p44"></a>Here there will be great clarity about the questions of religion, the meaning of your life, the destiny of humanity and the great challenges to come, for which humanity must prepare at this time.
+<a id="p44"></a>In your heart, you will respond because at a deeper level you are still connected to God. Whether you are religious or not, whether you have a faith tradition or not, you are still connected. And that is the promise of your future redemption, the source of your greater strength and your greater resolution of whatever has happened to you before.
 
-<a id="p45"></a>Do not shrink from this. Do not fall into the shadows of your own preoccupations. Do not despair. For God has given you a deeper strength within yourself to enable you to respond, to prepare to face a larger world and to experience a greater life.
+<a id="p45"></a>The Seal of the Prophets has been broken again by God. It was destined to be broken once humanity reached a certain destination, reached a great turning point where it would be facing challenges never seen by the human family as a whole before, facing a world in decline and the realities of the universe around you.
 
-<a id="p46"></a>You do not understand what this means yet, but in time it will become as clear as day. For God has given you the eyes to see and the ears to hear, but they are not the eyes that you see with now or the ears that you hear with now. Yet they are within you—deeper within you.
+<a id="p46"></a>God has given the clarity now to understand what all the great traditions were really talking about, before they were changed and adopted and utilized through generations by individuals and governments for their own purposes.
 
-<a id="p47"></a>This is the true strength of your life. This is the true strength of the human family. It is this that will make all the difference in the outcome for your life on Earth here and for the future and destiny of humanity.
+<a id="p47"></a>Here you honor all the great Messengers and understand their mission on Earth more completely, in a clear light. For there should be no contention and competition between the religions of the world, for they were all initiated by God, and they have all been changed by man.
 
-<a id="p48"></a>Only God’s New Revelation for the world can reveal these things to you now. Without this, humanity will continue in its desperate combative fall, its desperate combative trajectory in life, depleting the world so critically that it will not be able to sustain human civilization in any kind of recognizable form. You will fall prey to dominating forces of the universe, and everything that you have created of value will be lost.
+<a id="p48"></a>The Seal has been broken, but it will be re-established once God’s New Revelation is complete, and once the Messenger has time to present it in his own time, which must occur now for the Revelation to be truly, completely authentic. It cannot be assembled later by those who did not know him.
 
-<a id="p49"></a>It is only God’s Revelation for the world that can reveal this to you clearly, without distortion, without the interests of any foreign race being involved, without any manipulation or deception whatsoever.
+<a id="p49"></a>It has been his great task to receive the largest Revelation ever given to this world—to compile it, to assure its accuracy, to learn of it so it could be taught, to understand it completely while he is a person here in the world, to assemble around him courageous individuals who would assist him in these great tasks so that within his life, the Revelation could be rendered in its pure form, solving a dilemma that has plagued the earlier Revelations for humanity.
 
-<a id="p50"></a>In your heart, you will respond because at a deeper level you are still connected to God. Whether you are religious or not, whether you have a faith tradition or not, you are still connected. And that is the promise of your future redemption, the source of your greater strength and your greater resolution of whatever has happened to you before.
+<a id="p50"></a>The Blessing is upon you. It is upon the world, but it comes with great urgency and necessity. It is not a thing that you use to try to enrich yourself or to dabble with. You must approach it with reverence and great seriousness and the willingness to see what it really means for you and for the world.
 
-<a id="p51"></a>The Seal of the Prophets has been broken again by God. It was destined to be broken once humanity reached a certain destination, reached a great turning point where it would be facing challenges never seen by the human family as a whole before, facing a world in decline and the realities of the universe around you.
+<a id="p51"></a>It must speak to people of all faith traditions and all nations and cultures.
 
-<a id="p52"></a>God has given the clarity now to understand what all the great traditions were really talking about, before they were changed and adopted and utilized through generations by individuals and governments for their own purposes.
+<a id="p52"></a>It must be free of any kind of ownership by an existing religious institution beyond what the Messenger has established to receive, to prepare and to render it into the world.
 
-<a id="p53"></a>Here you honor all the great Messengers and understand their mission on Earth more completely, in a clear light. For there should be no contention and competition between the religions of the world, for they were all initiated by God, and they have all been changed by man.
+<a id="p53"></a>He will need your support. But you must learn of this and apply it to your life to understand. You cannot stand apart from it and understand it, for that is not possible with a great Revelation born of Heaven for the well-being and protection of the world.
 
-<a id="p54"></a>The Seal has been broken, but it will be re-established once God’s New Revelation is complete, and once the Messenger has time to present it in his own time, which must occur now for the Revelation to be truly, completely authentic. It cannot be assembled later by those who did not know him.
-
-<a id="p55"></a>It has been his great task to receive the largest Revelation ever given to this world—to compile it, to assure its accuracy, to learn of it so it could be taught, to understand it completely while he is a person here in the world, to assemble around him courageous individuals who would assist him in these great tasks so that within his life, the Revelation could be rendered in its pure form, solving a dilemma that has plagued the earlier Revelations for humanity.
-
-<a id="p56"></a>The Blessing is upon you. It is upon the world, but it comes with great urgency and necessity. It is not a thing that you use to try to enrich yourself or to dabble with. You must approach it with reverence and great seriousness and the willingness to see what it really means for you and for the world.
-
-<a id="p57"></a>It must speak to people of all faith traditions and all nations and cultures.
-
-<a id="p58"></a>It must be free of any kind of ownership by an existing religious institution beyond what the Messenger has established to receive, to prepare and to render it into the world.
-
-<a id="p59"></a>He will need your support. But you must learn of this and apply it to your life to understand. You cannot stand apart from it and understand it, for that is not possible with a great Revelation born of Heaven for the well-being and protection of the world.
-
-<a id="p60"></a>May the Blessing be upon the Messenger and all those who assist him in his remaining years on Earth. And may those who have courage, humility and the great need to understand, receive this in time to recognize its essential importance for their lives and for the future of this world.
+<a id="p54"></a>May the Blessing be upon the Messenger and all those who assist him in his remaining years on Earth. And may those who have courage, humility and the great need to understand, receive this in time to recognize its essential importance for their lives and for the future of this world.

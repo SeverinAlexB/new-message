@@ -1,130 +1,118 @@
 ---
 volume: 1
 book: "The New World"
-chapter: "04"
+chapter: "4"
 title: "The Plight of Humanity"
 type: chapter
-source_url: "https://www.newmessage.org/the-message/volume-1/new-world/plight-humanity-waves-change/"
+source_url: "https://newmessage.org/the-message/volume-1/new-world/plight-humanity-waves-change/"
+received_date: "July 26, 2009"
+received_location: "Beirut, Lebanon"
 ---
 
 # The Plight of Humanity
 
-<a id="p1"></a>- Listen
-- Info
-- Watch
+<a id="p1"></a>The growing storms of the world, the growing plight of humanity, are being driven by the Great Waves of change now—change that is encompassing nations and peoples everywhere, a world where an ever-growing population will be drinking from a slowly shrinking well.
 
-<a id="p2"></a>Hear the original spoken revelation:
+<a id="p2"></a>The world is overwhelmed. People are being forced together in ever greater numbers, different groups occupying the same environment—competing for power, armed, contentious with each other, with different agendas, different alliances, small nations being used by larger nations to provoke competition for land, for water, for food, not just for power and influence, but for the very basic things that everyone requires.
 
-<a id="p3"></a>[Download](https://www.newmessage.org/av/the-plight-of-humanity.mp3) (Right-click to download)
+<a id="p3"></a>Into these growing storms now, humanity is moving—unprepared, unaware, not realizing the Great Waves of change that now are beginning to impact the human family. Many places now are facing the impact of these Great Waves more powerfully as ever greater numbers of people swell the teeming cities, where groups that are armed and contentious make tenuous truces with one another.
 
-<a id="p4"></a>As received
+<a id="p4"></a>The greater problem facing all will require a level of cooperation and the ending of conflict, but not enough people see this and know this and are willing to sacrifice their position, to sacrifice their agenda. It is still perceived that armed conflict can win the day, that one group can overwhelm another and drive them away. But it is too late for that, you see, for there is nowhere to go now.
 
-<a id="p5"></a>on July 26, 2009
+<a id="p5"></a>The world is full. The world cannot carry any more, but there are more and more. The wealthy carry on their little play and their fantasies and their indulgences while people blocks away are struggling to survive—a kind of suicidal activity, you see. It is in these environments, then, that the tragedy and the plight of humanity will play itself out in the early stages of the Great Waves of change.
 
-<a id="p6"></a>in Beirut, Lebanon
+<a id="p6"></a>The world is changing. The climate has now been disrupted. Humanity will lose much of its natural security. Food and water will become more precious and more difficult to obtain. The stresses will be felt, even in the wealthy nations that seem so insulated from the plight of humanity.
 
-<a id="p7"></a>The growing storms of the world, the growing plight of humanity, are being driven by the [Great Waves of change](https://www.newmessage.org/aboutgwc) now—change that is encompassing nations and peoples everywhere, a world where an ever-growing population will be drinking from a slowly shrinking well.
+<a id="p7"></a>But who can see and who can know? Who has the eyes to see and the compassion to look without condemnation? Without cynicism? Who can simply look and see? Can wealth and poverty really coexist to this extent without leading to a kind of collapse?
 
-<a id="p8"></a>The world is overwhelmed. People are being forced together in ever greater numbers, different groups occupying the same environment—competing for power, armed, contentious with each other, with different agendas, different alliances, small nations being used by larger nations to provoke competition for land, for water, for food, not just for power and influence, but for the very basic things that everyone requires.
+<a id="p8"></a>Those who have time and the luxury to reconsider their lives and circumstances, and to change and alter the course of their lives, they must now look and see and stop pretending that technology or politics or some other avenue will maintain their insulation and their affluence in the ways that they have known. This is a time to be really honest. It is a time of reckoning. It is a time to prepare, for those who have the luxury to do so.
 
-<a id="p9"></a>Into these growing storms now, humanity is moving—unprepared, unaware, not realizing the Great Waves of change that now are beginning to impact the human family. Many places now are facing the impact of these Great Waves more powerfully as ever greater numbers of people swell the teeming cities, where groups that are armed and contentious make tenuous truces with one another.
+<a id="p9"></a>What you will see in the coming years and decade will be so shocking and so disheartening. Though humanity will make progress in many areas, its overall condition is deteriorating.
 
-<a id="p10"></a>The greater problem facing all will require a level of cooperation and the ending of conflict, but not enough people see this and know this and are willing to sacrifice their position, to sacrifice their agenda. It is still perceived that armed conflict can win the day, that one group can overwhelm another and drive them away. But it is too late for that, you see, for there is nowhere to go now.
+<a id="p10"></a>This is why God has sent a New Message into the world, you see, for human civilization is now at risk. Humanity is faltering. It is entering a time of great travail. It is entering a time where the fruits of its ignorance and competition and conflict will bear out. It is a time where people will have to choose whether they will unite and cooperate to save their communities and their nation or whether they will fight and struggle and maintain their ancient animosities, using politics and religion as a pretense, when in fact it is a struggle for resources.
 
-<a id="p11"></a>The world is full. The world cannot carry any more, but there are more and more. The wealthy carry on their little play and their fantasies and their indulgences while people blocks away are struggling to survive—a kind of suicidal activity, you see. It is in these environments, then, that the tragedy and the plight of humanity will play itself out in the early stages of the Great Waves of change.
+<a id="p11"></a>Those who live in relative freedom and affluence will have to become the great contributors now, for the poor will become ever more endangered, and the tensions will rise as the struggle to live becomes more acute.
 
-<a id="p12"></a>The world is changing. The climate has now been disrupted. Humanity will lose much of its natural security. Food and water will become more precious and more difficult to obtain. The stresses will be felt, even in the wealthy nations that seem so insulated from the plight of humanity.
+<a id="p12"></a>It is not a question of looking with love or with fear. It is a question of seeing, a question of responsibility.
 
-<a id="p13"></a>But who can see and who can know? Who has the eyes to see and the compassion to look without condemnation? Without cynicism? Who can simply look and see? Can wealth and poverty really coexist to this extent without leading to a kind of collapse?
+<a id="p13"></a>The rich will continue their play and all of the justifications and excuses they will make. Yet they will fall as the pillars of their nations collapse, as the angry poor, the great swell of humanity, turn against them. They will retreat and abandon the faltering countries, but the plight is worldwide now. Go to the most pleasurable place on Earth, and you will see the plight of humanity growing.
 
-<a id="p14"></a>Those who have time and the luxury to reconsider their lives and circumstances, and to change and alter the course of their lives, they must now look and see and stop pretending that technology or politics or some other avenue will maintain their insulation and their affluence in the ways that they have known. This is a time to be really honest. It is a time of reckoning. It is a time to prepare, for those who have the luxury to do so.
+<a id="p14"></a>What will money and wealth provide in the face of this? Certainly, it will give security and insulation for a time, but even the pillars of wealth will begin to fall, for their basis is false. This is occurring already, as humanity as a whole becomes poorer and more destitute.
 
-<a id="p15"></a>What you will see in the coming years and decade will be so shocking and so disheartening. Though humanity will make progress in many areas, its overall condition is deteriorating.
+<a id="p15"></a>This is why the Creator of all life has sent a New Message, because the ancient Messages have been too altered and have become the province of political forces and national interests and commercial investments. They have an interest in maintaining the plight of humanity. Despite the purity of their faith, it has become too immersed in the world, too corrupted by selfish interests and political aims.
 
-<a id="p16"></a>This is why God has sent a New Message into the world, you see, for human civilization is now at risk. Humanity is faltering. It is entering a time of great travail. It is entering a time where the fruits of its ignorance and competition and conflict will bear out. It is a time where people will have to choose whether they will unite and cooperate to save their communities and their nation or whether they will fight and struggle and maintain their ancient animosities, using politics and religion as a pretense, when in fact it is a struggle for resources.
+<a id="p16"></a>So a New Message has been sent for humanity—a warning, a blessing and a preparation. If you cannot heed the warning, you will not understand the blessing, and you will not receive the preparation. If you cannot see, then you cannot know. If you cannot know, then your actions will be foolish and ill advised.
 
-<a id="p17"></a>Those who live in relative freedom and affluence will have to become the great contributors now, for the poor will become ever more endangered, and the tensions will rise as the struggle to live becomes more acute.
+<a id="p17"></a>But who today can receive a New Message from God? So many people think that all the Messages have been given—there is nothing more for God to say to the world; God has lost interest in the world; for centuries God is doing something else; there is nothing left to say.
 
-<a id="p18"></a>It is not a question of looking with love or with fear. It is a question of seeing, a question of responsibility.
+<a id="p18"></a>But how can this be when humanity has reached a new threshold, a great turning point where all of human civilization is at risk, where the eyes of your competitors in the universe now look at the world, seeing the opportunity to intervene, to gain influence, to undermine the weakness of humanity?
 
-<a id="p19"></a>The rich will continue their play and all of the justifications and excuses they will make. Yet they will fall as the pillars of their nations collapse, as the angry poor, the great swell of humanity, turn against them. They will retreat and abandon the faltering countries, but the plight is worldwide now. Go to the most pleasurable place on Earth, and you will see the plight of humanity growing.
+<a id="p19"></a>The great traditions of the world have nothing to say about this. They can only admit that God would have to give some kind of new instruction. And in this, they are correct. God is giving a new instruction through the Angelic Presence who oversees the world.
 
-<a id="p20"></a>What will money and wealth provide in the face of this? Certainly, it will give security and insulation for a time, but even the pillars of wealth will begin to fall, for their basis is false. This is occurring already, as humanity as a whole becomes poorer and more destitute.
+<a id="p20"></a>For humanity is entering a new phase, a dangerous phase, a cataclysmic phase, but also a phase of great promise. For it is under these deteriorating situations and conditions that there is a chance that real human unity and cooperation will become established, not merely out of principle, but out of sheer necessity. If humanity cannot unite in its prosperity, then it must unite in the loss of its prosperity.
 
-<a id="p21"></a>This is why the Creator of all life has sent a New Message, because the ancient Messages have been too altered and have become the province of political forces and national interests and commercial investments. They have an interest in maintaining the plight of humanity. Despite the purity of their faith, it has become too immersed in the world, too corrupted by selfish interests and political aims.
+<a id="p21"></a>People have made technology their god. They think technology will solve all of these problems and all of the problems that technology will create. But technology is based on resources, and the resources are diminishing in the world. Humanity has depleted the world now to a point where it cannot rely upon technology to save it, for ever-growing numbers of people in the world will not be able to benefit from this.
 
-<a id="p22"></a>So a New Message has been sent for humanity—a warning, a blessing and a preparation. If you cannot heed the warning, you will not understand the blessing, and you will not receive the preparation. If you cannot see, then you cannot know. If you cannot know, then your actions will be foolish and ill advised.
+<a id="p22"></a>The world’s soils have been depleted and destroyed by technology and by ignorance. The world’s fisheries are depleted. And now the world’s climate is changing, becoming unpredictable and destructive.
 
-<a id="p23"></a>But who today can receive a [New Message from God](https://www.newmessage.org/aboutnmg)? So many people think that all the Messages have been given—there is nothing more for God to say to the world; God has lost interest in the world; for centuries God is doing something else; there is nothing left to say.
+<a id="p23"></a>What will humanity do in the face of this? Its self-assurances certainly will be seen as inadequate. Those who give warning will be dismissed as being extreme. People want to hear good news. They want to be reassured because they are too weak and unstable to face reality.
 
-<a id="p24"></a>But how can this be when humanity has reached a new threshold, a great turning point where all of human civilization is at risk, where the eyes of your competitors in the universe now look at the world, seeing the opportunity to intervene, to gain influence, to undermine the weakness of humanity?
+<a id="p24"></a>The governments are not preparing their people for the Great Waves of change. Religious leaders are not preparing people for the Great Waves of change. So the people are weak and unprepared and only seek assurances.
 
-<a id="p25"></a>The great traditions of the world have nothing to say about this. They can only admit that God would have to give some kind of new instruction. And in this, they are correct. God is giving a new instruction through the Angelic Presence who oversees the world.
+<a id="p25"></a>Around the world, people are praying to God for deliverance, for security, for improving conditions and improving relationships between nations. And God has responded in a New Message for humanity, but who can accept that this is true? Surely the Message will be unlike people’s expectations because the Creator of all life is not bound by these things.
 
-<a id="p26"></a>For humanity is entering a new phase, a dangerous phase, a cataclysmic phase, but also a phase of great promise. For it is under these deteriorating situations and conditions that there is a chance that real human unity and cooperation will become established, not merely out of principle, but out of sheer necessity. If humanity cannot unite in its prosperity, then it must unite in the loss of its prosperity.
+<a id="p26"></a>What will be given to humanity is what humanity needs, not what humanity wants or expects. Everyone wants more wealth, more possessions, more security, but the world cannot deliver. People want to be richer. The rich want to be richer. The poor want to have stability and security, which they need. But for this to be possible now, there must be a great equitable sharing of the world.
 
-<a id="p27"></a>People have made technology their god. They think technology will solve all of these problems and all of the problems that technology will create. But technology is based on resources, and the resources are diminishing in the world. Humanity has depleted the world now to a point where it cannot rely upon technology to save it, for ever-growing numbers of people in the world will not be able to benefit from this.
+<a id="p27"></a>Humanity will have to control its population and its consumption of resources. Who has the wisdom, the power and the restraint to do this?
 
-<a id="p28"></a>The world’s soils have been depleted and destroyed by technology and by ignorance. The world’s fisheries are depleted. And now the world’s climate is changing, becoming unpredictable and destructive.
+<a id="p28"></a>If you are clear, if you are honest, you can see what is required. So what will it take for this awareness to become shared and certain, overriding people’s preferences, their religious beliefs, the supremacy of their national interests? How much suffering and destruction must take place before there is an honest reckoning of what is really required?
 
-<a id="p29"></a>What will humanity do in the face of this? Its self-assurances certainly will be seen as inadequate. Those who give warning will be dismissed as being extreme. People want to hear good news. They want to be reassured because they are too weak and unstable to face reality.
+<a id="p29"></a>Do not condemn other peoples or nations if you yourself are not willing to accommodate the Great Waves of change and to adapt to them and to prepare for them. Who are you to make such criticism? So easy it is to blame others and to not see your own limitations.
 
-<a id="p30"></a>The governments are not preparing their people for the Great Waves of change. Religious leaders are not preparing people for the Great Waves of change. So the people are weak and unprepared and only seek assurances.
+<a id="p30"></a>How great must the Great Waves of change become before they overwhelm people’s military objectives, their political agendas and their racial and cultural isolation? How great must the Waves become? Do nations have to collapse? Must there be immense war and genocide? What will it take until there is a different kind of awareness, an honest reckoning of the situation?
 
-<a id="p31"></a>Around the world, people are praying to God for deliverance, for security, for improving conditions and improving relationships between nations. And God has responded in a New Message for humanity, but who can accept that this is true? Surely the Message will be unlike people’s expectations because the Creator of all life is not bound by these things.
+<a id="p31"></a>Who in the world today knows that humanity is being watched from others in the universe, your neighbors who seek to take advantage of a weak and divided humanity? If nations understood this, war would cease. They would prepare humanity to safeguard the world.
 
-<a id="p32"></a>What will be given to humanity is what humanity needs, not what humanity wants or expects. Everyone wants more wealth, more possessions, more security, but the world cannot deliver. People want to be richer. The rich want to be richer. The poor want to have stability and security, which they need. But for this to be possible now, there must be a great equitable sharing of the world.
+<a id="p32"></a>What humanity sees and what humanity must see are not yet even close. That is why there is a New Message from God because time is of the essence. You do not have decades or a century to prepare, for the Great Waves are moving, and Intervention into the world has already begun.
 
-<a id="p33"></a>Humanity will have to control its population and its consumption of resources. Who has the wisdom, the power and the restraint to do this?
+<a id="p33"></a>The poor are so overworked and so overwhelmed, they cannot see. Their governments are too obsessed with their agendas. No one is looking ahead. No one is considering the future. That is why there is a New Message from God.
 
-<a id="p34"></a>If you are clear, if you are honest, you can see what is required. So what will it take for this awareness to become shared and certain, overriding people’s preferences, their religious beliefs, the supremacy of their national interests? How much suffering and destruction must take place before there is an honest reckoning of what is really required?
+<a id="p34"></a>God’s great Revelations from the past have given great clarification about the ethics and the behavior that individuals must assume to live well and to live in harmony with others. These great Messages that are so essential and have played a part in the building of human civilization and the advancement of humanity are not sufficient to meet the great needs that are now emerging. That is why God has sent a New Revelation and a Messenger into the world to provide this Revelation.
 
-<a id="p35"></a>Do not condemn other peoples or nations if you yourself are not willing to accommodate the Great Waves of change and to adapt to them and to prepare for them. Who are you to make such criticism? So easy it is to blame others and to not see your own limitations.
+<a id="p35"></a>If you are honest, you will see you do not have an answer. You do not have an answer to the Great Waves of change. You do not have an answer to Intervention into the world by those races who seek to influence human thinking and behavior. You do not have an answer for the shrinking well. You can only make assumptions, and these assumptions, for the most part, have no validity. For the world has changed, but people have not changed with it.
 
-<a id="p36"></a>How great must the Great Waves of change become before they overwhelm people’s military objectives, their political agendas and their racial and cultural isolation? How great must the Waves become? Do nations have to collapse? Must there be immense war and genocide? What will it take until there is a different kind of awareness, an honest reckoning of the situation?
+<a id="p36"></a>Your crisis will be when you realize the enormity of the Great Waves of change and your inability to provide an answer. But God has provided an answer through you and through all others, an answer that will be activated by God’s New Revelation. For there is a deeper Intelligence within you that must be activated, and nothing else can really activate it except the Power of the Creator and all the forces that are here to serve humanity’s well-being and advancement.
 
-<a id="p37"></a>Who in the world today knows that humanity is being watched from others in the universe, your neighbors who seek to take advantage of a weak and divided humanity? If nations understood this, war would cease. They would prepare humanity to safeguard the world.
+<a id="p37"></a>People’s notions about religion and the final judgment are so false, so ridiculous—the projections of an ignorant people. God wills that humanity survive the Great Waves of change and advance and unite and maintain and build human freedom and creativity in the process.
 
-<a id="p38"></a>What humanity sees and what humanity must see are not yet even close. That is why there is a New Message from God because time is of the essence. You do not have decades or a century to prepare, for the Great Waves are moving, and Intervention into the world has already begun.
+<a id="p38"></a>But this is such a goal, it seems almost unattainable given everything that you are facing. That is because you are thinking with your intellect, which is a product of the past, and not with the deeper Intelligence that God has placed within you that can lead you through the difficult times ahead.
 
-<a id="p39"></a>The poor are so overworked and so overwhelmed, they cannot see. Their governments are too obsessed with their agendas. No one is looking ahead. No one is considering the future. That is why there is a New Message from God.
+<a id="p39"></a>It is as if the human family needs an upgrade, a shift in reality, a different set of assumptions, a different mandate, a different understanding. Without this, humanity will continue its ignorant pursuits, its destructive use of the world, competition between nations, sowing the seeds of future war and conflict.
 
-<a id="p40"></a>God’s great Revelations from the past have given great clarification about the ethics and the behavior that individuals must assume to live well and to live in harmony with others. These great Messages that are so essential and have played a part in the building of human civilization and the advancement of humanity are not sufficient to meet the great needs that are now emerging. That is why God has sent a New Revelation and a Messenger into the world to provide this Revelation.
+<a id="p40"></a>For nations to survive and to be stable, they must cooperate. Even where they are ancient enemies, the resources that are essential—the energy, food and water—must be shared and provided. Human populations must be brought under some humane control. And there will have to be control of the use of resources and the consumption of resources.
 
-<a id="p41"></a>If you are honest, you will see you do not have an answer. You do not have an answer to the Great Waves of change. You do not have an answer to Intervention into the world by those races who seek to influence human thinking and behavior. You do not have an answer for the shrinking well. You can only make assumptions, and these assumptions, for the most part, have no validity. For the world has changed, but people have not changed with it.
+<a id="p41"></a>Every advanced nation in the universe has had to do this to survive. It is now time for humanity to grow up, to outgrow its adolescent behavior, its irresponsible behavior, its unaccountable behavior, and start preparing for the future so that you will have a future.
 
-<a id="p42"></a>Your crisis will be when you realize the enormity of the Great Waves of change and your inability to provide an answer. But God has provided an answer through you and through all others, an answer that will be activated by God’s New Revelation. For there is a deeper Intelligence within you that must be activated, and nothing else can really activate it except the Power of the Creator and all the forces that are here to serve humanity’s well-being and advancement.
+<a id="p42"></a>If you exhaust the resources of the world, you will not be able to go out in the universe to find them, for they are owned by others. If you should become so weak and vulnerable, then the power of persuasion that will be cast over the world will be so strong, you cannot deny it. You cannot refuse it. For your position will be too weak and unstable.
 
-<a id="p43"></a>People’s notions about religion and the final judgment are so false, so ridiculous—the projections of an ignorant people. God wills that humanity survive the Great Waves of change and advance and unite and maintain and build human freedom and creativity in the process.
+<a id="p43"></a>These ideas seem so extreme. They seem so different. It is because humanity is still thinking like a primitive people. It is still thinking that the world is endless, that the resources are endless and that it is alone in a dark universe.
 
-<a id="p44"></a>But this is such a goal, it seems almost unattainable given everything that you are facing. That is because you are thinking with your intellect, which is a product of the past, and not with the deeper Intelligence that God has placed within you that can lead you through the difficult times ahead.
+<a id="p44"></a>But the world is limited, and you are reaching those limits, and the universe is full of life—a competitive environment on a scale you cannot even imagine. You see the difference here between these words and this understanding and the way you think and how you see the world, and how you see humanity’s future, and how you see the prospect of life in the universe?
 
-<a id="p45"></a>It is as if the human family needs an upgrade, a shift in reality, a different set of assumptions, a different mandate, a different understanding. Without this, humanity will continue its ignorant pursuits, its destructive use of the world, competition between nations, sowing the seeds of future war and conflict.
+<a id="p45"></a>What can create this new awareness but a New Message from the Creator of all life? You know not what you are preparing for. You know not what is coming over the horizon. Even your most highly educated individuals cannot see and do not know.
 
-<a id="p46"></a>For nations to survive and to be stable, they must cooperate. Even where they are ancient enemies, the resources that are essential—the energy, food and water—must be shared and provided. Human populations must be brought under some humane control. And there will have to be control of the use of resources and the consumption of resources.
+<a id="p46"></a>There must be a New Revelation for humanity. You are living in a time of Revelation. God knows this. God knows what humanity needs, what humanity must see and do. But what God knows and what people think are so very different.
 
-<a id="p47"></a>Every advanced nation in the universe has had to do this to survive. It is now time for humanity to grow up, to outgrow its adolescent behavior, its irresponsible behavior, its unaccountable behavior, and start preparing for the future so that you will have a future.
+<a id="p47"></a>In the face, then, of the plight of humanity and the growing storms of the world, a New Message is being sent here, a Message that calls upon the strength of the individual and the collective strength of people. It is not just a Message of hope. It is a Message of necessity. It is not just a Message of a wonderful afterlife. It is a Message to prepare humanity to survive the Great Waves of change and to protect its freedom and sovereignty in this world as it emerges into a Greater Community of intelligent life in the universe. It is not a Message about miracles and fantastic creation stories and judgment days and the prospect of Heaven and Hell. You have more important things to concern yourself with now. And this is what God’s New Message emphasizes.
 
-<a id="p48"></a>If you exhaust the resources of the world, you will not be able to go out in the universe to find them, for they are owned by others. If you should become so weak and vulnerable, then the power of persuasion that will be cast over the world will be so strong, you cannot deny it. You cannot refuse it. For your position will be too weak and unstable.
+<a id="p48"></a>God does not favor one religion over another, but God hears the yearning and the sincere requests for help. Whether they come from the religiously oriented or from the secular population, God knows the plight of humanity. All races in the universe reach a point such as this if they are technologically evolving. And you have reached this point where you either destroy yourself or you begin to build a new platform for human existence.
 
-<a id="p49"></a>These ideas seem so extreme. They seem so different. It is because humanity is still thinking like a primitive people. It is still thinking that the world is endless, that the resources are endless and that it is alone in a dark universe.
+<a id="p49"></a>Here you choose either domination or freedom. Most nations in the universe have chosen domination. That is why freedom is rare. But freedom is the choice you must make. It is what will assure humanity the greatest power and the greatest security in the universe.
 
-<a id="p50"></a>But the world is limited, and you are reaching those limits, and the universe is full of life—a competitive environment on a scale you cannot even imagine. You see the difference here between these words and this understanding and the way you think and how you see the world, and how you see humanity’s future, and how you see the prospect of life in the universe?
+<a id="p50"></a>But it will be a long, long road to reach this new stability and a tremendous re-assessment, re-evaluation, a tremendous responsibility not just for leaders of nations, but for citizens everywhere.
 
-<a id="p51"></a>What can create this new awareness but a New Message from the Creator of all life? You know not what you are preparing for. You know not what is coming over the horizon. Even your most highly educated individuals cannot see and do not know.
+<a id="p51"></a>People will need each other to survive and to produce this greater foundation. It is this God’s New Message emphasizes for the world.
 
-<a id="p52"></a>There must be a New Revelation for humanity. You are living in a time of Revelation. God knows this. God knows what humanity needs, what humanity must see and do. But what God knows and what people think are so very different.
+<a id="p52"></a>You must listen to a different voice within yourself—not the voice of your cultural values, the voice of your prejudices, the voice of your intellectual pride, the voice of your sense of security, your assumptions of power. What are these but nothing?
 
-<a id="p53"></a>In the face, then, of the plight of humanity and the growing storms of the world, a New Message is being sent here, a Message that calls upon the strength of the individual and the collective strength of people. It is not just a Message of hope. It is a Message of necessity. It is not just a Message of a wonderful afterlife. It is a Message to prepare humanity to survive the Great Waves of change and to protect its freedom and sovereignty in this world as it emerges into a [Greater Community](https://www.newmessage.org/aboutgc) of intelligent life in the universe. It is not a Message about miracles and fantastic creation stories and judgment days and the prospect of Heaven and Hell. You have more important things to concern yourself with now. And this is what God’s New Message emphasizes.
-
-<a id="p54"></a>God does not favor one religion over another, but God hears the yearning and the sincere requests for help. Whether they come from the religiously oriented or from the secular population, God knows the plight of humanity. All races in the universe reach a point such as this if they are technologically evolving. And you have reached this point where you either destroy yourself or you begin to build a new platform for human existence.
-
-<a id="p55"></a>Here you choose either domination or freedom. Most nations in the universe have chosen domination. That is why freedom is rare. But freedom is the choice you must make. It is what will assure humanity the greatest power and the greatest security in the universe.
-
-<a id="p56"></a>But it will be a long, long road to reach this new stability and a tremendous re-assessment, re-evaluation, a tremendous responsibility not just for leaders of nations, but for citizens everywhere.
-
-<a id="p57"></a>People will need each other to survive and to produce this greater foundation. It is this God’s New Message emphasizes for the world.
-
-<a id="p58"></a>You must listen to a different voice within yourself—not the voice of your cultural values, the voice of your prejudices, the voice of your intellectual pride, the voice of your sense of security, your assumptions of power. What are these but nothing?
-
-<a id="p59"></a>There is a deeper voice you must learn to listen to, or you will not hear God’s New Message. You will not hear the suffering of the world, and you will not see the signs of the world that are telling you what is coming over the horizon. God’s New Message will teach you to find this deeper voice, for this will be essential and central to humanity’s redemption and to securing humanity’s future as a free race in the universe.
+<a id="p53"></a>There is a deeper voice you must learn to listen to, or you will not hear God’s New Message. You will not hear the suffering of the world, and you will not see the signs of the world that are telling you what is coming over the horizon. God’s New Message will teach you to find this deeper voice, for this will be essential and central to humanity’s redemption and to securing humanity’s future as a free race in the universe.

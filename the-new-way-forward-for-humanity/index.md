@@ -2,11 +2,11 @@
 
 Volume 1
 
-Source: [The New Way Forward for Humanity](https://www.newmessage.org/the-message/volume-1/the-new-way-forward-for-humanity/)
+Source: [The New Way Forward for Humanity](https://newmessage.org/the-message/volume-1/the-new-way-forward-for-humanity/)
 
-## Chapters
+## Contents
 
-- **`00-front-matter.md`** — Front Matter
+- **`00-front-matter.md`** — Overview
 - **`01-bringing-balance-and-security-to-the-world.md`** — Bringing Balance and Security to the World
 - **`02-facing-great-change-in-the-world.md`** — Facing Great Change in the World
 - **`03-forgiveness.md`** — Forgiveness

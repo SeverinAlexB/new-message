@@ -2,11 +2,11 @@
 
 Volume 6
 
-Source: [Wisdom from the Greater Community Book One](https://www.newmessage.org/the-message/volume-6/wisdom-greater-community-book-1/)
+Source: [Wisdom from the Greater Community Book One](https://newmessage.org/the-message/volume-6/wisdom-greater-community-book-1/)
 
-## Chapters
+## Contents
 
-- **`00-front-matter.md`** — Front Matter
+- **`00-front-matter.md`** — Overview
 - **`01-introduction.md`** — Introduction
 - **`02-the-greater-religion.md`** — The Greater Religion
 - **`03-the-greater-community.md`** — The Greater Community

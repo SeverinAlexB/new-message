@@ -1,17 +1,17 @@
 ---
 volume: 5
 book: "The Great Waves of Change"
-chapter: "01"
+chapter: "Introduction"
 title: "Introduction"
-type: chapter
-source_url: "https://www.newmessage.org/book-intro/the-great-waves-of-change-introduction/"
+type: introduction
+source_url: "https://newmessage.org/the-message/volume-5/great-waves-change/introduction/"
 ---
 
 # Introduction
 
 <a id="p1"></a>Humanity has crossed a critical threshold where we will have to adapt to a whole new set of circumstances. This will require a united effort between governments and peoples to bring new levels of skill, technology and cooperation to meet the requirements of living in a radically changing world.
 
-<a id="p2"></a>At the core of this united effort are the courage and the ability within people to see what is coming, to know what to do and to act wisely in the face of increasing uncertainty and upheaval. Nature has given us this courage and this set of abilities, but they have become latent and forgotten within the human family. More than anything else, it is these abilities that will determine how, and even if, humanity will prepare for the [Great Waves of change](https://www.newmessage.org/aboutgwc) and the kind of world we will all have to face as a result.
+<a id="p2"></a>At the core of this united effort are the courage and the ability within people to see what is coming, to know what to do and to act wisely in the face of increasing uncertainty and upheaval. Nature has given us this courage and this set of abilities, but they have become latent and forgotten within the human family. More than anything else, it is these abilities that will determine how, and even if, humanity will prepare for the [Great Waves of change](https://newmessage.org/the-message/volume-5/great-waves-change/) and the kind of world we will all have to face as a result.
 
 <a id="p3"></a>In facing the Great Waves of change, preparation is the key. The preparation is not merely about fortifying your outer life or attempting to build a sustainable lifestyle. Instead, it is about preparing for a whole new reality. This new reality will require that you become self-reliant and able to call upon a deeper strength within yourself and within others, a strength that few people are yet aware of. This strength is within you now and has been with you all along. This book will reveal to you where it can be found and how it can be used.
 

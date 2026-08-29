@@ -1,19 +1,19 @@
 ---
 volume: 2
 book: "Preparing for the Great Waves of Change"
-chapter: "01"
+chapter: "Introduction"
 title: "Introduction"
-type: chapter
-source_url: "https://www.newmessage.org/book-intro/preparing-for-the-great-waves-of-change-introduction/"
+type: introduction
+source_url: "https://newmessage.org/the-message/volume-2/preparing-for-the-great-waves-of-change/introduction/"
 ---
 
 # Introduction
 
-<a id="p1"></a>As we open the pages of *Preparing for the [Great Waves of Change](https://www.newmessage.org/aboutgwc)*, we are confronted with several new challenges and concepts for us as individuals and for humanity as a whole about the world we live in and about the universe around us.
+<a id="p1"></a>As we open the pages of *Preparing for the* [*Great Waves of Change*](https://newmessage.org/the-message/volume-5/great-waves-change/), we are confronted with several new challenges and concepts for us as individuals and for humanity as a whole about the world we live in and about the universe around us.
 
 <a id="p2"></a>As a world, we are now facing two significant challenges. The first is what this book calls the “Great Waves of change,” which are a converging set of social, environmental, and economic forces impacting the world. These converging and accelerating forces are the result of centuries of environmental destruction and misuse of the world which pose a major threat to the well-being of people everywhere, even in the most wealthy nations.
 
-<a id="p3"></a>The second is Contact with a “[Greater Community](https://www.newmessage.org/aboutgc)” of intelligent life in the universe. Visitation by extraterrestrial life from beyond our solar system is now underway around the world and represents a major step in the evolution of the human species and a significant challenge to our human sovereignty. We are no longer alone in the universe or even within our own world.
+<a id="p3"></a>The second is Contact with a “[Greater Community](https://newmessage.org/the-message/volume-1/greater-community/)” of intelligent life in the universe. Visitation by extraterrestrial life from beyond our solar system is now underway around the world and represents a major step in the evolution of the human species and a significant challenge to our human sovereignty. We are no longer alone in the universe or even within our own world.
 
 <a id="p4"></a>These two realities can initially be quite shocking. I know firsthand the shock of encountering the reality of what we are facing. Perhaps you too have felt that something has changed in the world even though things may look much as they always have. If so, you are not alone. Many people all around the world are experiencing a vague or sometimes acute sense of anxiety, apprehension, and uneasiness about the future.
 

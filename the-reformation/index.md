@@ -2,13 +2,13 @@
 
 Volume 1
 
-Source: [The Reformation](https://www.newmessage.org/the-message/volume-1/the-reformation/)
+Source: [The Reformation](https://newmessage.org/the-message/volume-1/the-reformation/)
 
-## Chapters
+## Contents
 
-- **`00-front-matter.md`** — Front Matter
-- **`01-god-s-new-message-for-political-leaders.md`** — God’s New Message for Political Leaders
-- **`02-god-s-new-message-for-the-islamic-world.md`** — God’s New Message for the Islamic World
+- **`00-front-matter.md`** — Overview
+- **`01-gods-new-message-for-political-leaders.md`** — God’s New Message for Political Leaders
+- **`02-gods-new-message-for-the-islamic-world.md`** — God’s New Message for the Islamic World
 - **`03-poverty.md`** — Poverty
 - **`04-real-change.md`** — Real Change
 - **`05-religion-and-politics.md`** — Religion and Politics

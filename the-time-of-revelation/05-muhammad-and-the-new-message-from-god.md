@@ -4,139 +4,126 @@ book: "The Time of Revelation"
 chapter: "05"
 title: "Muhammad and the New Message from God"
 type: chapter
-source_url: "https://www.newmessage.org/the-message/volume-1/the-time-of-revelation/muhammad-and-the-nm/"
+source_url: "https://newmessage.org/the-message/volume-1/the-time-of-revelation/muhammad-and-the-nm/"
+received_date: "July 19, 2014"
+received_location: "Boulder, Colorado"
 ---
 
 # Muhammad and the New Message from God
 
-<a id="p1"></a>- Listen
-- Info
-- Watch
+<a id="p1"></a>It is important for you to understand that all the great Messengers have come from the Angelic Assembly. They have come from this one great Assembly that is charged with overseeing the well-being and progress of humanity.
 
-<a id="p2"></a>Hear the original spoken revelation:
+<a id="p2"></a>If this could be understood, then war and conflict between the religions could perhaps be ended, for this must occur now in a world facing Great Waves of change.
 
-<a id="p3"></a>[Download](https://www.newmessage.org/av/muhammad-and-the-new-message-from-god.mp3) (Right-click to download)
+<a id="p3"></a>Muhammad was one of the great Messengers sent from the Angelic Assembly to speak to a part of the world that was destined to emerge and to have a global influence. It was given at a specific time in history where such a possibility could be fulfilled. The time and the place were essential for this.
 
-<a id="p4"></a>As received
+<a id="p4"></a>He was given a very difficult mission to speak to tribes of people who had no notion of real freedom and social development beyond what they had become accustomed to in their times, living with tremendous hardship and constant conflict. Little did they know a great Message for the world would be coming to them in their time, in the time of the Messenger.
 
-<a id="p5"></a>on July 19, 2014
+<a id="p5"></a>His Revelation to them would be very simple and very forceful, for they only understood power in these terms, being as yet unaware of the greater dimensions of their lives.
 
-<a id="p6"></a>in Boulder, Colorado
+<a id="p6"></a>Muhammad’s Message would be to build a society based upon faith and a greater association around the Revelation itself, a social establishment never seen before in that part of the world. It was revolutionary in so many ways, a great movement forward. Yet like all the great traditions of the past, it fell under the aegis of political leaders. It became the establishment. And as a result, the mystery and the potency of it were removed.
 
-<a id="p7"></a>It is important for you to understand that all the great Messengers have come from the [Angelic Assembly](https://www.newmessage.org/the-message/volume-1/god-spoken-again/the-assembly). They have come from this one great Assembly that is charged with overseeing the well-being and progress of humanity.
+<a id="p7"></a>Muhammad received the Word of God for those people at that time, at a time very different from the time that you are living in today. It was a Message for that time, but it also contained the seeds of greater wisdom and compassion, much of which has been fortunately preserved.
 
-<a id="p8"></a>If this could be understood, then war and conflict between the religions could perhaps be ended, for this must occur now in a world facing [Great Waves of change](https://www.newmessage.org/aboutgwc).
+<a id="p8"></a>But Muhammad did not compile the Qur’an as he was charged to do, for he perished and died before it could be completed. It was, therefore, assembled by different individuals who had different intentions, and the great Suras of personal revelation were left out. Islam became a religion of obedience and submission, which were necessary at that time especially. But the revelations of personal realization and the Love of God were not included.
 
-<a id="p9"></a>Muhammad was one of the great Messengers sent from the Angelic Assembly to speak to a part of the world that was destined to emerge and to have a global influence. It was given at a specific time in history where such a possibility could be fulfilled. The time and the place were essential for this.
+<a id="p9"></a>It is a problem, you see, a tragedy in its own right, that the great religions were established beyond the lifetime of the great Messengers, a problem that has been repeated many times with many unfortunate consequences.
 
-<a id="p10"></a>He was given a very difficult mission to speak to tribes of people who had no notion of real freedom and social development beyond what they had become accustomed to in their times, living with tremendous hardship and constant conflict. Little did they know a great Message for the world would be coming to them in their time, in the time of the Messenger.
+<a id="p10"></a>Muhammad had the very difficult task of establishing, building and protecting a new social order: a community of believers, a community of adherents, a community unlike anything that had been seen before in that part of the world. His trials were to establish this so that his Message may be able to spread beyond his region, as it has done.
 
-<a id="p11"></a>His Revelation to them would be very simple and very forceful, for they only understood power in these terms, being as yet unaware of the greater dimensions of their lives.
+<a id="p11"></a>It is one of the great Revelations for humanity, but it is incomplete. And many mistakes were made with it. To protect it, its followers insisted that he was the last prophet, and there would be no further word from God.
 
-<a id="p12"></a>Muhammad’s Message would be to build a society based upon faith and a greater association around the Revelation itself, a social establishment never seen before in that part of the world. It was revolutionary in so many ways, a great movement forward. Yet like all the great traditions of the past, it fell under the aegis of political leaders. It became the establishment. And as a result, the mystery and the potency of it were removed.
+<a id="p12"></a>In a sense, that was true for a time, but could not be true for all time. For God has more to say to the world. And in these times of great change and upheaval in the world as a whole, God has given a New Revelation and has broken the Seal of the Prophets, as was foreseen and would become necessary when the time arrived.
 
-<a id="p13"></a>Muhammad received the Word of God for those people at that time, at a time very different from the time that you are living in today. It was a Message for that time, but it also contained the seeds of greater wisdom and compassion, much of which has been fortunately preserved.
+<a id="p13"></a>Heaven understands this perfectly, of course, for it is part of a Greater Plan that is beyond human comprehension—a Plan not only for this one world, but for the universe itself, a Plan for a billion, billion, billion races and more, so unlike you, living in different environments at all stages of social and spiritual evolution, in a universe so complex that no race can comprehend it fully.
 
-<a id="p14"></a>But Muhammad did not compile the Qur’an as he was charged to do, for he perished and died before it could be completed. It was, therefore, assembled by different individuals who had different intentions, and the great Suras of personal revelation were left out. Islam became a religion of obedience and submission, which were necessary at that time especially. But the revelations of personal realization and the Love of God were not included.
+<a id="p14"></a>What is important for you to know is that God is giving a series of progressive Revelations, each adding something essential to the building and protection of human civilization—not just one nation alone, not just one culture or tribe alone, but for the whole world, you see.
 
-<a id="p15"></a>It is a problem, you see, a tragedy in its own right, that the great religions were established beyond the lifetime of the great Messengers, a problem that has been repeated many times with many unfortunate consequences.
+<a id="p15"></a>Islam ultimately was for the whole world, you see, though not everyone would become its follower. But Heaven knows that would be the case. It was never meant to be the one religion of this world, for Heaven knows that would never be the case.
 
-<a id="p16"></a>Muhammad had the very difficult task of establishing, building and protecting a new social order: a community of believers, a community of adherents, a community unlike anything that had been seen before in that part of the world. His trials were to establish this so that his Message may be able to spread beyond his region, as it has done.
+<a id="p16"></a>For God has given different Revelations at turning points for humanity, not only to meet the need of those times, but to meet the need of all time. For humanity has a greater destiny in the universe, for which it is unprepared.
 
-<a id="p17"></a>It is one of the great Revelations for humanity, but it is incomplete. And many mistakes were made with it. To protect it, its followers insisted that he was the last prophet, and there would be no further word from God.
+<a id="p17"></a>All the great religions have given humanity the opportunity to build a higher moral and ethical foundation, to learn restraint, to learn reverence, to learn to see beyond one’s own race and tribe and nation. For you are destined to become one humanity: one community, one humanity with all the divergences of culture, race, custom and so forth.
 
-<a id="p18"></a>In a sense, that was true for a time, but could not be true for all time. For God has more to say to the world. And in these times of great change and upheaval in the world as a whole, God has given [a New Revelation](https://www.newmessage.org/aboutnmg) and has broken the Seal of the Prophets, as was foreseen and would become necessary when the time arrived.
+<a id="p18"></a>The Great Plan is for this, a Plan for which humanity at this moment is unprepared and unaware.
 
-<a id="p19"></a>Heaven understands this perfectly, of course, for it is part of a Greater Plan that is beyond human comprehension—a Plan not only for this one world, but for the universe itself, a Plan for a billion, billion, billion races and more, so unlike you, living in different environments at all stages of social and spiritual evolution, in a universe so complex that no race can comprehend it fully.
+<a id="p19"></a>The followers of Muhammad made the mistake in claiming that he was the final and only Prophet for the future, for no man can say this. Even the Prophet, the Messenger, cannot say this. Even the Angelic Assembly, from which all the Messengers have emerged, cannot say this.
 
-<a id="p20"></a>What is important for you to know is that God is giving a series of progressive Revelations, each adding something essential to the building and protection of human civilization—not just one nation alone, not just one culture or tribe alone, but for the whole world, you see.
+<a id="p20"></a>For God speaks when God wills. And none other than God can say otherwise, nor understand the moment and the time when a great Revelation will be given.
 
-<a id="p21"></a>Islam ultimately was for the whole world, you see, though not everyone would become its follower. But Heaven knows that would be the case. It was never meant to be the one religion of this world, for Heaven knows that would never be the case.
+<a id="p21"></a>The followers of Muhammad in many cases forced religion upon the peoples that were subjugated to it, against the will of the Messenger. The transmission of leadership in the community was given over to forces beyond the will and the stipulation of the Messenger.
 
-<a id="p22"></a>For God has given different Revelations at turning points for humanity, not only to meet the need of those times, but to meet the need of all time. For humanity has a greater destiny in the universe, for which it is unprepared.
+<a id="p22"></a>Islam today is suffering and even declining because of the conflicts that have emerged over time—the great rift within the religion and its followers, the great social discord, the great wars, the great degradation, the great suffering.
 
-<a id="p23"></a>All the great religions have given humanity the opportunity to build a higher moral and ethical foundation, to learn restraint, to learn reverence, to learn to see beyond one’s own race and tribe and nation. For you are destined to become one humanity: one community, one humanity with all the divergences of culture, race, custom and so forth.
+<a id="p23"></a>When religion falls under the governance of the state, then its true efficacy begins to wane, and it ceases to have the potency with which it was originally given.
 
-<a id="p24"></a>The Great Plan is for this, a Plan for which humanity at this moment is unprepared and unaware.
+<a id="p24"></a>Islam became in many times the religion of the state, which was never the intention of the Creator. Though it was necessary in the time of Muhammad to establish the tradition and the teaching, it was never meant to be the government of the state.
 
-<a id="p25"></a>The followers of Muhammad made the mistake in claiming that he was the final and only Prophet for the future, for no man can say this. Even the Prophet, the Messenger, cannot say this. Even the Angelic Assembly, from which all the Messengers have emerged, cannot say this.
+<a id="p25"></a>For religion should never govern. It should only encourage, inspire and advise, or it will be corrupted by all the forces that corrupt governments, by all the forces that corrupt humanity, seeking for power and domination, seeking to protect wealth and privilege.
+The true essence of Islam has been kept alive by those who are not governed by such things. The true essence of all the great traditions is kept alive by those who are not governed by such things.
 
-<a id="p26"></a>For God speaks when God wills. And none other than God can say otherwise, nor understand the moment and the time when a great Revelation will be given.
+<a id="p26"></a>Islam is about returning to the mystery of your relationship with the Divine. It is not merely a code of ethics and behavior for social conduct or for establishing a pattern of religious service. Beyond this, it is meant to generate the return to God through great service in the world, through compassion, through forgiveness, through humility, through courage.
 
-<a id="p27"></a>The followers of Muhammad in many cases forced religion upon the peoples that were subjugated to it, against the will of the Messenger. The transmission of leadership in the community was given over to forces beyond the will and the stipulation of the Messenger.
+<a id="p27"></a>It cannot be the banner of war, for there are no holy warriors. There are no holy wars. All war represents a failure of human nations, tribes and groups to work together for each other’s mutual benefit and well-being.
 
-<a id="p28"></a>Islam today is suffering and even declining because of the conflicts that have emerged over time—the great rift within the religion and its followers, the great social discord, the great wars, the great degradation, the great suffering.
+<a id="p28"></a>There is no war that is “jihad,” for “jihad” is about self-purification, not about waging war against your neighbors or against foreign powers. This is an error that Christianity and Islam both have fostered to great destruction, a great error in understanding, the result of religion becoming an institution, a political institution with power and dominance.
 
-<a id="p29"></a>When religion falls under the governance of the state, then its true efficacy begins to wane, and it ceases to have the potency with which it was originally given.
+<a id="p29"></a>Islam and Christianity have been kept alive by those who are not governed by these forces.
 
-<a id="p30"></a>Islam became in many times the religion of the state, which was never the intention of the Creator. Though it was necessary in the time of Muhammad to establish the tradition and the teaching, it was never meant to be the government of the state.
+<a id="p30"></a>Muhammad became a model for leadership, but not political leadership. He became a model of service, but he made mistakes, for all the Messengers have made mistakes.
 
-<a id="p31"></a>For religion should never govern. It should only encourage, inspire and advise, or it will be corrupted by all the forces that corrupt governments, by all the forces that corrupt humanity, seeking for power and domination, seeking to protect wealth and privilege.
+<a id="p31"></a>The purpose of Islam is the purpose of all the great religions—to bring you close to what God has put within you to follow, what We call Knowledge, your Divine connection to God. This is what will enable you to respond and become faithful. Without this Knowledge, faithfulness will be forced through the threat of Hell and damnation, through punishment by human authorities, and even punishment by God.
 
-<a id="p32"></a>The true essence of Islam has been kept alive by those who are not governed by such things. The true essence of all the great traditions is kept alive by those who are not governed by such things.
+<a id="p32"></a>But God will not punish you, for God knows that without Knowledge to guide you, you would be in error. You would make one mistake after another. You would live in confusion and assume that your beliefs and admonitions were the truth itself, when in fact you are not even engaged with the truth, the greater truth that will redeem you and with you the whole world.
 
-<a id="p33"></a>Islam is about returning to the mystery of your relationship with the Divine. It is not merely a code of ethics and behavior for social conduct or for establishing a pattern of religious service. Beyond this, it is meant to generate the return to God through great service in the world, through compassion, through forgiveness, through humility, through courage.
+<a id="p33"></a>The emphasis on Hell and damnation in the ancient traditions was the belief and assumption that permeated the entire ancient world. For people did not know about Knowledge, except for a very few prescient individuals. Everyone converted under the threat of punishment. Everyone believed, thinking that they would face terrible consequences if they did not. Everyone behaved, thinking not only that government would punish them, but that God would punish them—the god or the gods.
 
-<a id="p34"></a>It cannot be the banner of war, for there are no holy warriors. There are no holy wars. All war represents a failure of human nations, tribes and groups to work together for each other’s mutual benefit and well-being.
+<a id="p34"></a>That is why God is presented as being amoral in the beginning, a god more like yourself—kind to those who agree with you and harsh with those who do not, a projection of human psychology, human temperament, human grievance and human nature.
 
-<a id="p35"></a>There is no war that is “jihad,” for “jihad” is about self-purification, not about waging war against your neighbors or against foreign powers. This is an error that Christianity and Islam both have fostered to great destruction, a great error in understanding, the result of religion becoming an institution, a political institution with power and dominance.
+<a id="p35"></a>But as humanity has progressed in its evolution, so has the understanding of God. For God to be all merciful, there cannot be Hell and damnation. But how can God be all merciful when humanity lives in such error and degradation?
 
-<a id="p36"></a>Islam and Christianity have been kept alive by those who are not governed by these forces.
+<a id="p36"></a>The answer is that God has put Knowledge within each person, waiting to be discovered. And until it is discovered and encouraged, people will live in error, and their understanding of God will be based upon beliefs and traditions and codes and laws. They have not yet found the true engagement, a greater pathway beyond simply following the precepts of being faithful to the Word, which itself is a great enough challenge.
 
-<a id="p37"></a>Muhammad became a model for leadership, but not political leadership. He became a model of service, but he made mistakes, for all the Messengers have made mistakes.
+<a id="p37"></a>But God is calling you to return, not to leave the world, but to become an agent of good in the world. That is why you have come. That is why you are here. Beyond your need for survival, safety and security, this is the greater need of the soul—to recognize this and to fulfill this in life.
 
-<a id="p38"></a>The purpose of Islam is the purpose of all the great religions—to bring you close to what God has put within you to follow, what We call Knowledge, your Divine connection to God. This is what will enable you to respond and become faithful. Without this Knowledge, faithfulness will be forced through the threat of Hell and damnation, through punishment by human authorities, and even punishment by God.
+<a id="p38"></a>Islam made the error of condemning those who would leave the faith for other religions, even punishable by death in certain parts of the world, even today.
 
-<a id="p39"></a>But God will not punish you, for God knows that without Knowledge to guide you, you would be in error. You would make one mistake after another. You would live in confusion and assume that your beliefs and admonitions were the truth itself, when in fact you are not even engaged with the truth, the greater truth that will redeem you and with you the whole world.
+<a id="p39"></a>This is a human invention. God does not care what your faith tradition is as long as you can utilize it to gain access to this Knowledge that God has placed within you and to become faithful to that, primarily and fundamentally—learning to distinguish it from all the impulses of your own mind; learning to distinguish it from fear and greed, aggression and hostility, passion and deception.
 
-<a id="p40"></a>The emphasis on Hell and damnation in the ancient traditions was the belief and assumption that permeated the entire ancient world. For people did not know about Knowledge, except for a very few prescient individuals. Everyone converted under the threat of punishment. Everyone believed, thinking that they would face terrible consequences if they did not. Everyone behaved, thinking not only that government would punish them, but that God would punish them—the god or the gods.
+<a id="p40"></a>When this [Knowledge] is lost from religion, religion becomes the state, which does not care about what spiritual reality means at the individual level. It only cares about ruling and order. It wants to get rid of controversy. It wants to get rid of contradiction. It wants to suppress dissent, even the natural exploration that each spiritually inspired person will undertake—even this it will discourage and deny.
 
-<a id="p41"></a>That is why God is presented as being amoral in the beginning, a god more like yourself—kind to those who agree with you and harsh with those who do not, a projection of human psychology, human temperament, human grievance and human nature.
+<a id="p41"></a>You cannot love a God who will punish you for your natural and inevitable errors. You cannot love a God who you cannot be close to in some way. Though God is great, greater than you can even imagine, Knowledge within you brings you closer to God and God’s Will, and mitigates all the errors and dangerous tendencies within your mind and circumstances.
 
-<a id="p42"></a>But as humanity has progressed in its evolution, so has the understanding of God. For God to be all merciful, there cannot be Hell and damnation. But how can God be all merciful when humanity lives in such error and degradation?
+<a id="p42"></a>Ultimately, it will be the end of all war and conflict if enough people can follow this.
 
-<a id="p43"></a>The answer is that God has put Knowledge within each person, waiting to be discovered. And until it is discovered and encouraged, people will live in error, and their understanding of God will be based upon beliefs and traditions and codes and laws. They have not yet found the true engagement, a greater pathway beyond simply following the precepts of being faithful to the Word, which itself is a great enough challenge.
+<a id="p43"></a>Muhammad played his essential part in moving humanity towards this greater dimension, this greater destiny, this greater future.
 
-<a id="p44"></a>But God is calling you to return, not to leave the world, but to become an agent of good in the world. That is why you have come. That is why you are here. Beyond your need for survival, safety and security, this is the greater need of the soul—to recognize this and to fulfill this in life.
+<a id="p44"></a>If you understand Our words, you will see there should be no conflict between the world’s religions. There should be no conflict even within the world’s religions as to interpretation, for there will always be a variety of interpretations.
 
-<a id="p45"></a>Islam made the error of condemning those who would leave the faith for other religions, even punishable by death in certain parts of the world, even today.
+<a id="p45"></a>What brings real unity to people is the power of Knowledge, for that is the true morality. For at the level of Knowledge, you cannot be in conflict with others. Even if they have a different interpretation or ideas, you cannot really be in conflict with them.
 
-<a id="p46"></a>This is a human invention. God does not care what your faith tradition is as long as you can utilize it to gain access to this Knowledge that God has placed within you and to become faithful to that, primarily and fundamentally—learning to distinguish it from all the impulses of your own mind; learning to distinguish it from fear and greed, aggression and hostility, passion and deception.
+<a id="p46"></a>If you are not using religion to gain power or simply to escape your own insecurity, then you can assume its greater responsibilities and its greater blessings.
 
-<a id="p47"></a>When this [Knowledge] is lost from religion, religion becomes the state, which does not care about what spiritual reality means at the individual level. It only cares about ruling and order. It wants to get rid of controversy. It wants to get rid of contradiction. It wants to suppress dissent, even the natural exploration that each spiritually inspired person will undertake—even this it will discourage and deny.
+<a id="p47"></a>God has now spoken again. The Seal of the Prophets has been broken again because a New Revelation must be given to the world. It must be given to a world facing the Great Waves of environmental, social and economic change that are now facing the whole world at once, and it must now be given because humanity is encountering a universe full of intelligent life—two great thresholds, for which the ancient traditions were not designed to prepare you. Though their wisdom is great indeed, and pervasive for all time, they cannot prepare you for the great threshold upon which humanity is now embarking.
 
-<a id="p48"></a>You cannot love a God who will punish you for your natural and inevitable errors. You cannot love a God who you cannot be close to in some way. Though God is great, greater than you can even imagine, Knowledge within you brings you closer to God and God’s Will, and mitigates all the errors and dangerous tendencies within your mind and circumstances.
+<a id="p48"></a>The religions are divided and even contentious within themselves. Many people in the world today are turning away from religion, thinking technology is their new religion. Religion is generating war and conflict increasingly as the Great Waves of change come—diminishing the world’s resources, changing the world’s climate, creating ever-greater pressure, difficulty and uncertainty.
 
-<a id="p49"></a>Ultimately, it will be the end of all war and conflict if enough people can follow this.
+<a id="p49"></a>All of this has brought a New Revelation from God, a Revelation given not to an ancient world of illiterate people living under subjugation, but given to a modern world of global communications, global commerce and for many a growing global awareness. God is giving a Revelation more complete and more detailed than anything that has ever been given to the human family before—not to replace the world’s religions, but to expand them and to unite them, for they are all part of God’s Plan, you see.
 
-<a id="p50"></a>Muhammad played his essential part in moving humanity towards this greater dimension, this greater destiny, this greater future.
+<a id="p50"></a>All of the tragedy and error that have been created in the name of religion is a human invention, born of human error and human misunderstanding.
 
-<a id="p51"></a>If you understand Our words, you will see there should be no conflict between the world’s religions. There should be no conflict even within the world’s religions as to interpretation, for there will always be a variety of interpretations.
+<a id="p51"></a>Now humanity has reached a level of social development and collective awareness that you can understand God of the whole universe and begin to respond to what God has placed within you, which is God’s greatest gift to you: the power and presence of Knowledge, which is pure and eternal and cannot be corrupted by the world or by any force in the universe.
 
-<a id="p52"></a>What brings real unity to people is the power of Knowledge, for that is the true morality. For at the level of Knowledge, you cannot be in conflict with others. Even if they have a different interpretation or ideas, you cannot really be in conflict with them.
+<a id="p52"></a>Here Islam becomes an Islam of the universe. Here Christianity and Islam become different expressions of the same Power, the same Force and the same Plan. Here all of the world’s religions now, despite their differences in practice and theological understanding, all come from the same Source to serve the development and the protection of human civilization, particularly now as it faces environmental decline, and as it faces intervention from the universe around you, for which humanity is completely unprepared.
 
-<a id="p53"></a>If you are not using religion to gain power or simply to escape your own insecurity, then you can assume its greater responsibilities and its greater blessings.
+<a id="p53"></a>If you could understand religion at this level, closer to the comprehension of Heaven, you could see all these things We speak of, and they would be clear as day.
 
-<a id="p54"></a>God has now spoken again. The Seal of the Prophets has been broken again because a New Revelation must be given to the world. It must be given to a world facing the Great Waves of environmental, social and economic change that are now facing the whole world at once, and it must now be given because humanity is encountering a universe full of intelligent life—two great thresholds, for which the ancient traditions were not designed to prepare you. Though their wisdom is great indeed, and pervasive for all time, they cannot prepare you for the great threshold upon which humanity is now embarking.
+<a id="p54"></a>You need not defend your faith, for your faith must be beyond ideas, beliefs and tradition. It is your core engagement with the Knowledge that God has placed within you to guide you, to protect you and to lead you to a greater level of service and fulfillment in the world—in this world, in the world under these very circumstances for which you have come.
 
-<a id="p55"></a>The religions are divided and even contentious within themselves. Many people in the world today are turning away from religion, thinking technology is their new religion. Religion is generating war and conflict increasingly as the Great Waves of change come—diminishing the world’s resources, changing the world’s climate, creating ever-greater pressure, difficulty and uncertainty.
+<a id="p55"></a>Then you will honor all the religions and recognize the errors that have been made by those who followed them and by those who maintained them over time. You would be able to see the essence beyond the form. You would be able to discern the purpose beyond the manifestation.
 
-<a id="p56"></a>All of this has brought a New Revelation from God, a Revelation given not to an ancient world of illiterate people living under subjugation, but given to a modern world of global communications, global commerce and for many a growing global awareness. God is giving a Revelation more complete and more detailed than anything that has ever been given to the human family before—not to replace the world’s religions, but to expand them and to unite them, for they are all part of [God’s Plan](https://www.newmessage.org/the-message/volume-1/one-god/gods-plan-save-everyone), you see.
+<a id="p56"></a>God is now giving you the understanding of religion at the level of Knowledge, not only given to adept individuals, but made available to the whole world. For it is needed now by many people. It is needed now by many people if humanity is to survive the Great Waves of change and if it is to prepare for its engagement with life in the universe, the greatest threshold the human family has ever faced.
 
-<a id="p57"></a>All of the tragedy and error that have been created in the name of religion is a human invention, born of human error and human misunderstanding.
+<a id="p57"></a>Religion is to bring you closer to God and closer to what God has put within you to follow—all religion that is true and efficacious, all the religion that is born of the Great Revelations given from the Creator of all life, through the Angelic Presence, given at great turning points for humanity.
 
-<a id="p58"></a>Now humanity has reached a level of social development and collective awareness that you can understand God of the whole universe and begin to respond to what God has placed within you, which is God’s greatest gift to you: the power and presence of Knowledge, which is pure and eternal and cannot be corrupted by the world or by any force in the universe.
-
-<a id="p59"></a>Here Islam becomes an Islam of the universe. Here Christianity and Islam become different expressions of the same Power, the same Force and the same Plan. Here all of the world’s religions now, despite their differences in practice and theological understanding, all come from the same Source to serve the development and the protection of human civilization, particularly now as it faces environmental decline, and as it faces intervention from the universe around you, for which humanity is completely unprepared.
-
-<a id="p60"></a>If you could understand religion at this level, closer to the comprehension of Heaven, you could see all these things We speak of, and they would be clear as day.
-
-<a id="p61"></a>You need not defend your faith, for your faith must be beyond ideas, beliefs and tradition. It is your core engagement with the Knowledge that God has placed within you to guide you, to protect you and to lead you to a greater level of service and fulfillment in the world—in this world, in the world under these very circumstances for which you have come.
-
-<a id="p62"></a>Then you will honor all the religions and recognize the errors that have been made by those who followed them and by those who maintained them over time. You would be able to see the essence beyond the form. You would be able to discern the purpose beyond the manifestation.
-
-<a id="p63"></a>God is now giving you the understanding of religion at the level of Knowledge, not only given to adept individuals, but made available to the whole world. For it is needed now by many people. It is needed now by many people if humanity is to survive the Great Waves of change and if it is to prepare for its engagement with life in the universe, the greatest threshold the human family has ever faced.
-
-<a id="p64"></a>Religion is to bring you closer to God and closer to what God has put within you to follow—all religion that is true and efficacious, all the religion that is born of the Great Revelations given from the Creator of all life, through the Angelic Presence, given at great turning points for humanity.
-
-<a id="p65"></a>Understand there are centuries and millennia between the great Revelations. For God only speaks to humanity as a whole at these great turning points and now provides the great Revelation that will prepare you to restore your world and to give you the strength, courage and unity to face a future that will be unlike the past.
+<a id="p58"></a>Understand there are centuries and millennia between the great Revelations. For God only speaks to humanity as a whole at these great turning points and now provides the great Revelation that will prepare you to restore your world and to give you the strength, courage and unity to face a future that will be unlike the past.

@@ -4,129 +4,117 @@ book: "The Time of Revelation"
 chapter: "02"
 title: "Destiny"
 type: chapter
-source_url: "https://www.newmessage.org/the-message/volume-1/the-time-of-revelation/destiny/"
+source_url: "https://newmessage.org/the-message/volume-1/the-time-of-revelation/destiny/"
+received_date: "April 12, 2011"
+received_location: "Boulder, Colorado"
 ---
 
 # Destiny
 
-<a id="p1"></a>- Listen
-- Info
-- Watch
+<a id="p1"></a>The New Message is here to direct humanity and to preserve human civilization. It is the answer to innumerable prayers for the restoration of the individual and to bring greater cooperation, strength and creativity to the human family at its time of greatest need and travail.
 
-<a id="p2"></a>Hear the original spoken revelation:
+<a id="p2"></a>It is so great that people cannot fathom it, though they may think they understand. And yet it is so simple that people can use it today, in every situation, with every person they meet, in every set of circumstances.
 
-<a id="p3"></a>[Download](https://www.newmessage.org/av/destiny.mp3) (Right-click to download)
+<a id="p3"></a>The New Message is to prepare humanity for living in a new world and to prepare humanity to engage with life beyond this world, an engagement that is part of your destiny and evolution. At this moment, humanity is unprepared for both of these great turning points—these great thresholds that will require greater strength, greater discernment and greater compassion from people everywhere.
 
-<a id="p4"></a>As received
+<a id="p4"></a>It is a tremendous calling for the individual to become wise and responsible, capable and perceptive. It is a gift for all peoples and nations. It is a gift for this time and the times to come. It answers questions you have not even yet learned to ask. It addresses problems that people are not yet aware of.
 
-<a id="p5"></a>on April 12, 2011
+<a id="p5"></a>It brings with it the Wisdom of the Creator. It is sent through the Angelic Presence, who translate the Will of the Creator into words, ideas and application.
 
-<a id="p6"></a>in Boulder, Colorado
+<a id="p6"></a>The New Message provides its own commentary and practices. For it cannot be left up to people and individuals, even scholars and experts, to determine what it means and how it should be practiced. The New Message itself speaks of these things and clarifies these things so that very little is left up to human speculation and human interpretation. This is to minimize the potential for error that will always arise when people are dealing with something of this magnitude.
 
-<a id="p7"></a>[The New Message](https://www.newmessage.org/aboutnmg) is here to direct humanity and to preserve human civilization. It is the answer to innumerable prayers for the restoration of the individual and to bring greater cooperation, strength and creativity to the human family at its time of greatest need and travail.
+<a id="p7"></a>Great care is being made to provide this teaching, application and commentary—said in many different ways, applied to different situations, expressed again and again so that its clarity may be apparent and so there will be minimal ambiguity associated with it.
 
-<a id="p8"></a>It is so great that people cannot fathom it, though they may think they understand. And yet it is so simple that people can use it today, in every situation, with every person they meet, in every set of circumstances.
+<a id="p8"></a>For the first time, a New Revelation is being given to a literate world, to a world of planetary communications, planetary commerce and for some people even planetary awareness. It is being given now in great depth and comprehensiveness so that it can bridge cultures, temperaments, nationalities and racial distinctions; so that it can be accessible and comprehensible to the individual, without having to rely upon great scholars or institutions to determine what it means, what it says and how the person should respond.
 
-<a id="p9"></a>The New Message is to prepare humanity for living in a new world and to prepare humanity to engage with life beyond this world, an engagement that is part of your destiny and evolution. At this moment, humanity is unprepared for both of these great turning points—these great thresholds that will require greater strength, greater discernment and greater compassion from people everywhere.
+<a id="p9"></a>The New Message calls upon the greater power of Knowledge within the individual to arise—a power beyond the realm and the reach of the intellect, a power that is incomprehensible and yet immediately part of your experience.
 
-<a id="p10"></a>It is a tremendous calling for the individual to become wise and responsible, capable and perceptive. It is a gift for all peoples and nations. It is a gift for this time and the times to come. It answers questions you have not even yet learned to ask. It addresses problems that people are not yet aware of.
+<a id="p10"></a>For some, this will be very difficult to deal with. They look at everything in the world like it is a resource for their mind. But Knowledge is too great to be a resource for your mind. People who claim to be following Knowledge will be following their ideas. People who claim to be guided by Knowledge will be guided by their social conditioning or their ambitions. So for certain people, this will be very difficult to comprehend. It is because of how they look at themselves and the world that this is the case.
 
-<a id="p11"></a>It brings with it the Wisdom of the Creator. It is sent through the Angelic Presence, who translate the Will of the Creator into words, ideas and application.
+<a id="p11"></a>Not everyone will be able to apprehend the great truth at this time. But if enough people can, it gives great promise to the future, and the safety and the freedom of humanity.
 
-<a id="p12"></a>The New Message provides its own commentary and practices. For it cannot be left up to people and individuals, even scholars and experts, to determine what it means and how it should be practiced. The New Message itself speaks of these things and clarifies these things so that very little is left up to human speculation and human interpretation. This is to minimize the potential for error that will always arise when people are dealing with something of this magnitude.
+<a id="p12"></a>For the new world will be more perilous than the world you are accustomed to. And the Greater Community of life is far more complex and sophisticated.
 
-<a id="p13"></a>Great care is being made to provide this teaching, application and commentary—said in many different ways, applied to different situations, expressed again and again so that its clarity may be apparent and so there will be minimal ambiguity associated with it.
+<a id="p13"></a>You will have to learn of it. You will have to learn Wisdom and Knowledge from the Greater Community, and that is something that only God can really teach you now. Even other races cannot do this, for they do not know the human mind and the human heart sufficiently, and they do not value freedom, except for a few races.
 
-<a id="p14"></a>For the first time, a New Revelation is being given to a literate world, to a world of planetary communications, planetary commerce and for some people even planetary awareness. It is being given now in great depth and comprehensiveness so that it can bridge cultures, temperaments, nationalities and racial distinctions; so that it can be accessible and comprehensible to the individual, without having to rely upon great scholars or institutions to determine what it means, what it says and how the person should respond.
+<a id="p14"></a>You were born into this time. You were born for this time. It is your destiny to be here, to learn of these things. It is your destiny to receive these words. It is your destiny to discover the New Revelation.
 
-<a id="p15"></a>The New Message calls upon the greater power of Knowledge within the individual to arise—a power beyond the realm and the reach of the intellect, a power that is incomprehensible and yet immediately part of your experience.
+<a id="p15"></a>Many people in the world have not been able to give themselves to the religious traditions of humanity because there is something in them that has told them to wait. Perhaps they justify this based upon the limitations or the difficulties existing within certain traditions. But that is not really the issue, you see, for they are really meant for something else, and they have had to wait for the Revelation. It is not merely that their tradition is inadequate in some way. The truth is they are meant for something else because of their nature and their design, because of their purpose, because of destiny.
 
-<a id="p16"></a>For some, this will be very difficult to deal with. They look at everything in the world like it is a resource for their mind. But Knowledge is too great to be a resource for your mind. People who claim to be following Knowledge will be following their ideas. People who claim to be guided by Knowledge will be guided by their social conditioning or their ambitions. So for certain people, this will be very difficult to comprehend. It is because of how they look at themselves and the world that this is the case.
+<a id="p16"></a>This is a power greater than human understanding, and it brings with it its own challenges and its great blessing and opportunities.
 
-<a id="p17"></a>Not everyone will be able to apprehend the great truth at this time. But if enough people can, it gives great promise to the future, and the safety and the freedom of humanity.
+<a id="p17"></a>The return to God is not an intellectual enterprise. You do not come to God on your terms. Reality and Creation are not based on your understanding or evaluation. Heaven does not value your ideas, only your participation.
 
-<a id="p18"></a>For the new world will be more perilous than the world you are accustomed to. And the [Greater Community](https://www.newmessage.org/aboutgc) of life is far more complex and sophisticated.
+<a id="p18"></a>Destiny is not something that you can prescribe for yourself, not something you can define and say, “Well, this is my destiny because I like the idea.”
 
-<a id="p19"></a>You will have to learn of it. You will have to learn Wisdom and Knowledge from the Greater Community, and that is something that only God can really teach you now. Even other races cannot do this, for they do not know the human mind and the human heart sufficiently, and they do not value freedom, except for a few races.
+<a id="p19"></a>Destiny has to do with where you have come from and where you are going and why you are in the world and where the world is going—things that are far beyond most people’s considerations or awareness.
 
-<a id="p20"></a>You were born into this time. You were born for this time. It is your destiny to be here, to learn of these things. It is your destiny to receive these words. It is your destiny to discover the New Revelation.
+<a id="p20"></a>Destiny will lead you, for it is part of Knowledge within you—the greater intelligence that God has given you to prepare you and protect you, to clarify your way and to engage you with your destiny.
 
-<a id="p21"></a>Many people in the world have not been able to give themselves to the religious traditions of humanity because there is something in them that has told them to wait. Perhaps they justify this based upon the limitations or the difficulties existing within certain traditions. But that is not really the issue, you see, for they are really meant for something else, and they have had to wait for the Revelation. It is not merely that their tradition is inadequate in some way. The truth is they are meant for something else because of their nature and their design, because of their purpose, because of destiny.
+<a id="p21"></a>The people of the New Revelation are part of a new threshold of understanding for humanity as humanity enters a new world—a world of environmental change; a world of political and economic instabilities; a world of diminishing resources; a world where the risk of competition, conflict and war will be very great; a world that requires a greater cooperation and a sense of shared destiny with others.
 
-<a id="p22"></a>This is a power greater than human understanding, and it brings with it its own challenges and its great blessing and opportunities.
+<a id="p22"></a>For divided, humanity will fail in the Greater Community and fall under the persuasion of foreign powers, as has happened countless times in the history of the universe. That is your great risk.
 
-<a id="p23"></a>The return to God is not an intellectual enterprise. You do not come to God on your terms. Reality and Creation are not based on your understanding or evaluation. Heaven does not value your ideas, only your participation.
+<a id="p23"></a>Yet who is aware of this? Who thinks of this? Who is concerned with this? What people think and believe and expect are so very different from what God knows, and that is the gulf that must be bridged. That is why God has put Knowledge within you—to enable you to gain this greater comprehension and to discern a greater reality.
 
-<a id="p24"></a>Destiny is not something that you can prescribe for yourself, not something you can define and say, “Well, this is my destiny because I like the idea.”
+<a id="p24"></a>God has provided the Steps to Knowledge to re-engage your surface mind—your social mind, your worldly mind—with the deeper mind of Knowledge. This is where you become really integrated. This is where you establish and experience your integrity.
 
-<a id="p25"></a>Destiny has to do with where you have come from and where you are going and why you are in the world and where the world is going—things that are far beyond most people’s considerations or awareness.
+<a id="p25"></a>This is what gives you the strength and power of Heaven as you take your journey here on Earth. This gives purpose, meaning and direction to your existence here and calls to you certain individuals who will play a significant role in the discovery and expression of the greater purpose that has brought you here at this time, under these circumstances. This is your destiny.
 
-<a id="p26"></a>Destiny will lead you, for it is part of Knowledge within you—the greater intelligence that God has given you to prepare you and protect you, to clarify your way and to engage you with your destiny.
+<a id="p26"></a>Do not complain about the world. Do not be resentful or jaded in your outlook, for this is the world you have come to serve. It is perfect for you. It is why you have come. Do not deny it, or you will deny your own purpose for being here. Do not condemn it, or you will condemn yourself along with it. Do not disassociate from it, or you will lose contact with your deeper nature.
 
-<a id="p27"></a>The people of the New Revelation are part of a new threshold of understanding for humanity as humanity enters a new world—a world of environmental change; a world of political and economic instabilities; a world of diminishing resources; a world where the risk of competition, conflict and war will be very great; a world that requires a greater cooperation and a sense of shared destiny with others.
+<a id="p27"></a>Destiny is upon you now. The great Calling is going out. The Messenger is being prepared to speak to the world. The New Revelation is here.
 
-<a id="p28"></a>For divided, humanity will fail in the Greater Community and fall under the persuasion of foreign powers, as has happened countless times in the history of the universe. That is your great risk.
+<a id="p28"></a>What a great blessing this is to be in the world at this time—the time of Revelation. What a great blessing it is for you to learn of these things. What a great blessing it is to have a destiny, to learn of it and to have the humility and the wisdom to accept it.
 
-<a id="p29"></a>Yet who is aware of this? Who thinks of this? Who is concerned with this? What people think and believe and expect are so very different from what God knows, and that is the gulf that must be bridged. That is why God has put Knowledge within you—to enable you to gain this greater comprehension and to discern a greater reality.
+<a id="p29"></a>People have difficulty with these things because of the degree to which they associate with their beliefs, their complaints and their idea of themselves, which rarely has anything to do with who they are or why they are in the world.
 
-<a id="p30"></a>God has provided the [Steps to Knowledge](https://www.newmessage.org/stk) to re-engage your surface mind—your social mind, your worldly mind—with the deeper mind of Knowledge. This is where you become really integrated. This is where you establish and experience your integrity.
+<a id="p30"></a>Change is hard for people, particularly change on the inside. But it is natural and necessary, or you cannot assume a greater life or a greater purpose, and you will not be available to greater relationships and a greater union with others.
 
-<a id="p31"></a>This is what gives you the strength and power of Heaven as you take your journey here on Earth. This gives purpose, meaning and direction to your existence here and calls to you certain individuals who will play a significant role in the discovery and expression of the greater purpose that has brought you here at this time, under these circumstances. This is your destiny.
+<a id="p31"></a>It is the price of admission. It is what it means to have your prayers answered. For to have your prayers answered means a door has opened for you, and you must go through. It is a journey not of your making and does not happen according to your terms, ideas and expectations.
 
-<a id="p32"></a>Do not complain about the world. Do not be resentful or jaded in your outlook, for this is the world you have come to serve. It is perfect for you. It is why you have come. Do not deny it, or you will deny your own purpose for being here. Do not condemn it, or you will condemn yourself along with it. Do not disassociate from it, or you will lose contact with your deeper nature.
+<a id="p32"></a>For God to help you, you must let God help you and guide you. And God guides you and helps you through the power and presence of Knowledge.
 
-<a id="p33"></a>Destiny is upon you now. The great Calling is going out. The Messenger is being prepared to speak to the world. The New Revelation is here.
+<a id="p33"></a>But you must become connected to Knowledge, take the Steps to Knowledge, experience its reality, its potency, and develop the skills of patience and perseverance that will be necessary for you to journey into regions of life and experience that are not part of your concepts or current understanding.
 
-<a id="p34"></a>What a great blessing this is to be in the world at this time—the time of Revelation. What a great blessing it is for you to learn of these things. What a great blessing it is to have a destiny, to learn of it and to have the humility and the wisdom to accept it.
+<a id="p34"></a>God knows what is coming over the horizon. The question is, can people respond and prepare, and can they receive the preparation that the Creator of all life is sending into the world?
 
-<a id="p35"></a>People have difficulty with these things because of the degree to which they associate with their beliefs, their complaints and their idea of themselves, which rarely has anything to do with who they are or why they are in the world.
+<a id="p35"></a>For humanity cannot prepare itself. It does not know what it is preparing for. It is completely ignorant of life in the universe. It knows not how to prepare for this. And it does not expect or anticipate having to adapt to a new world. So it is quite unprepared and foolish, thinking that the future will be like the past, living in the past, associating with the past, unable to see the changing circumstances of the world—the changing landscape and the great change that is coming over the horizon.
 
-<a id="p36"></a>Change is hard for people, particularly change on the inside. But it is natural and necessary, or you cannot assume a greater life or a greater purpose, and you will not be available to greater relationships and a greater union with others.
+<a id="p36"></a>You have very little time to prepare for all these things, for they are in motion, and you cannot stop them. You cannot stop having to enter into a new world. You cannot stop your emergence into a Greater Community of life in the universe. The Intervention is already underway in the world by clever races who are here to take advantage of human ignorance and human expectations.
 
-<a id="p37"></a>It is the price of admission. It is what it means to have your prayers answered. For to have your prayers answered means a door has opened for you, and you must go through. It is a journey not of your making and does not happen according to your terms, ideas and expectations.
+<a id="p37"></a>You cannot escape your destiny, you see, and this destiny will either uplift you or it will defeat you, depending on how you prepare and your ability to respond—your response-ability.
 
-<a id="p38"></a>For God to help you, you must let God help you and guide you. And God guides you and helps you through the power and presence of Knowledge.
+<a id="p38"></a>This is really the time. You do not have time to languish. You do not have time to hide out in ambivalence. You do not have time to lose yourself in your hobbies, your romances or your distractions.
 
-<a id="p39"></a>But you must become connected to Knowledge, take the Steps to Knowledge, experience its reality, its potency, and develop the skills of patience and perseverance that will be necessary for you to journey into regions of life and experience that are not part of your concepts or current understanding.
+<a id="p39"></a>The world is changing. It is moving beneath your feet. It is shaking your cities. It is depriving your peoples. It is changing how you are going to live in the world. It is changing the weather, the climate, the landscape, the ability to grow food and the resources you will need to maintain civilization.
 
-<a id="p40"></a>God knows what is coming over the horizon. The question is, can people respond and prepare, and can they receive the preparation that the Creator of all life is sending into the world?
+<a id="p40"></a>It is momentous. It is tremendous. But people are asleep, dreaming, lost, unresponsive, obsessed, preoccupied, distracted, believing what they are told by leaders who know little more than they do about what is coming over the horizon.
 
-<a id="p41"></a>For humanity cannot prepare itself. It does not know what it is preparing for. It is completely ignorant of life in the universe. It knows not how to prepare for this. And it does not expect or anticipate having to adapt to a new world. So it is quite unprepared and foolish, thinking that the future will be like the past, living in the past, associating with the past, unable to see the changing circumstances of the world—the changing landscape and the great change that is coming over the horizon.
+<a id="p41"></a>But people cannot be completely foolish because Knowledge lives within them, and Knowledge is sending the warning signs. That is why people are feeling apprehensive. That is why people are feeling uncertain about the stability and the future of humanity. That is why people are concerned.
 
-<a id="p42"></a>You have very little time to prepare for all these things, for they are in motion, and you cannot stop them. You cannot stop having to enter into a new world. You cannot stop your emergence into a Greater Community of life in the universe. The Intervention is already underway in the world by clever races who are here to take advantage of human ignorance and human expectations.
+<a id="p42"></a>It is this concern that gives you a clue that at some deeper level you are responding to the Great Waves of change that are coming to the world and to humanity’s changing position in the universe. It is an indicator of great change. You do not understand it. You cannot define it. But you are here to learn to deal with it because that is your destiny.
 
-<a id="p43"></a>You cannot escape your destiny, you see, and this destiny will either uplift you or it will defeat you, depending on how you prepare and your ability to respond—your response-ability.
+<a id="p43"></a>From a greater standpoint, from a standpoint of Creation, destiny is everything. But it is not a destiny you created. It is the destiny that God has given you. It is why you are here. It is why your personality has been shaped the way it is. It is perfect for your true vocation in life, a vocation you have likely not found yet.
 
-<a id="p44"></a>This is really the time. You do not have time to languish. You do not have time to hide out in ambivalence. You do not have time to lose yourself in your hobbies, your romances or your distractions.
+<a id="p44"></a>It is destiny. This exists beyond the realm of the intellect, beyond the realm of philosophy and theology and ideology, beyond preference, beyond fear, beyond confusion, beyond human certainty—the pretense of human certainty. Beyond religious beliefs, beyond political positions, beyond economic theory is destiny.
 
-<a id="p45"></a>The world is changing. It is moving beneath your feet. It is shaking your cities. It is depriving your peoples. It is changing how you are going to live in the world. It is changing the weather, the climate, the landscape, the ability to grow food and the resources you will need to maintain civilization.
+<a id="p45"></a>Your mind will not understand, but at a deeper level you will begin to respond because at a deeper level, you are connected to destiny.
 
-<a id="p46"></a>It is momentous. It is tremendous. But people are asleep, dreaming, lost, unresponsive, obsessed, preoccupied, distracted, believing what they are told by leaders who know little more than they do about what is coming over the horizon.
+<a id="p46"></a>You are destined to meet certain people if you can make your rendezvous, if you do not fall away on the way to your greater engagement with each other.
 
-<a id="p47"></a>But people cannot be completely foolish because Knowledge lives within them, and Knowledge is sending the warning signs. That is why people are feeling apprehensive. That is why people are feeling uncertain about the stability and the future of humanity. That is why people are concerned.
+<a id="p47"></a>It is destiny that you will have to face the new world and the realities of the Greater Community that God will reveal to you through the New Revelation.
 
-<a id="p48"></a>It is this concern that gives you a clue that at some deeper level you are responding to the [Great Waves of change](https://www.newmessage.org/aboutgwc) that are coming to the world and to humanity’s changing position in the universe. It is an indicator of great change. You do not understand it. You cannot define it. But you are here to learn to deal with it because that is your destiny.
+<a id="p48"></a>It is destiny that you are hearing these words. It is destiny that has brought the New Message to you and has brought you to the New Message.
 
-<a id="p49"></a>From a greater standpoint, from a standpoint of Creation, destiny is everything. But it is not a destiny you created. It is the destiny that God has given you. It is why you are here. It is why your personality has been shaped the way it is. It is perfect for your true vocation in life, a vocation you have likely not found yet.
+<a id="p49"></a>Eventually, you will understand many of these things. But for the moment, it is a matter of giving greater faith that the power of Knowledge lives within you, that it is pure and that it is the Creation of God.
 
-<a id="p50"></a>It is destiny. This exists beyond the realm of the intellect, beyond the realm of philosophy and theology and ideology, beyond preference, beyond fear, beyond confusion, beyond human certainty—the pretense of human certainty. Beyond religious beliefs, beyond political positions, beyond economic theory is destiny.
+<a id="p50"></a>It is the humility and the discernment you bring that will enable you to tell the difference between Knowledge and your own beliefs, fears and ambitions and the beliefs, fears and ambitions of others.
 
-<a id="p51"></a>Your mind will not understand, but at a deeper level you will begin to respond because at a deeper level, you are connected to destiny.
+<a id="p51"></a>This is where you become skillful. This is where you become discerning. This is where you are not like a child that has to be led and guided, unknowingly, for that will not be appropriate in the new world.
 
-<a id="p52"></a>You are destined to meet certain people if you can make your rendezvous, if you do not fall away on the way to your greater engagement with each other.
+<a id="p52"></a>Humanity must grow up. Its citizens must become aware and alerted, prepared and strengthened. Allow children to be children, but as an adult, you must gain this greater perspective and assume greater responsibilities.
 
-<a id="p53"></a>It is destiny that you will have to face the new world and the realities of the Greater Community that God will reveal to you through the New Revelation.
+<a id="p53"></a>These are not ancient times. You are not asked to be like sheep. You are asked to rise to the occasion and to take the Steps to Knowledge and to allow Knowledge to reshape your life and reveal to you your greater destiny.
 
-<a id="p54"></a>It is destiny that you are hearing these words. It is destiny that has brought the New Message to you and has brought you to the New Message.
-
-<a id="p55"></a>Eventually, you will understand many of these things. But for the moment, it is a matter of giving greater faith that the power of Knowledge lives within you, that it is pure and that it is the Creation of God.
-
-<a id="p56"></a>It is the humility and the discernment you bring that will enable you to tell the difference between Knowledge and your own beliefs, fears and ambitions and the beliefs, fears and ambitions of others.
-
-<a id="p57"></a>This is where you become skillful. This is where you become discerning. This is where you are not like a child that has to be led and guided, unknowingly, for that will not be appropriate in the new world.
-
-<a id="p58"></a>Humanity must grow up. Its citizens must become aware and alerted, prepared and strengthened. Allow children to be children, but as an adult, you must gain this greater perspective and assume greater responsibilities.
-
-<a id="p59"></a>These are not ancient times. You are not asked to be like sheep. You are asked to rise to the occasion and to take the Steps to Knowledge and to allow Knowledge to reshape your life and reveal to you your greater destiny.
-
-<a id="p60"></a>This is the Will of Heaven, and this now must become the intention of humanity.
+<a id="p54"></a>This is the Will of Heaven, and this now must become the intention of humanity.

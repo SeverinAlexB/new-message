@@ -1,58 +1,46 @@
 ---
 volume: 1
 book: "The Power of Knowledge"
-chapter: "01"
+chapter: "1"
 title: "The Greater Power Within You"
 type: chapter
-source_url: "https://www.newmessage.org/the-message/volume-1/power-of-knowledge/greater-power/"
+source_url: "https://newmessage.org/the-message/volume-1/power-of-knowledge/greater-power/"
+received_date: "September 12, 2008"
+received_location: "Boulder, Colorado"
 ---
 
 # The Greater Power Within You
 
-<a id="p1"></a>- Listen
-- Info
-- Watch
+<a id="p1"></a>People everywhere are carrying a greater power within themselves, a power that they have not yet discovered. It is a deeper Intelligence that the Creator of all life has given to each person.
 
-<a id="p2"></a>Hear the original spoken revelation:
+<a id="p2"></a>This deeper Intelligence does not function like your intellect. It is not conditioned by the world. It is not subject to doubt and fear, confusion, resentment or anger. It is quiet. It is clear. It is powerful. It cannot be persuaded by any force or power, for it only answers to God.
 
-<a id="p3"></a>[Download](https://www.newmessage.org/av/the-greater-power-within-you.mp3) (Right-click to download)
+<a id="p3"></a>This greater Intelligence is called Knowledge, and it lives within you, beneath the surface of your mind. Every day Knowledge is giving you counsel—to protect you, to guide you, to lead you. But if you are living at the surface of your mind, caught up in the turbulence of the surface, like the turbulence at the surface of the ocean, you will not hear these messages. You will not feel this greater presence within yourself. You will not recognize Knowledge’s warnings and direction.
 
-<a id="p4"></a>As received
+<a id="p4"></a>People try to keep themselves constantly stimulated—radio and television, books and endless conversation, keeping themselves at the surface of their mind, where they cannot feel the presence of Knowledge or the power of Knowledge, where they cannot hear or respond to the guidance that Knowledge is providing for them.
 
-<a id="p5"></a>on September 12, 2008
+<a id="p5"></a>Perhaps once in a while they will feel a deeper inclination. They will recognize a sign or have a profound feeling about something, but these experiences are often intermittent and are often misinterpreted. Even people who feel that they are intuitive by nature often misinterpret the signs that they are receiving, trying to have everything fit in with what they want, to fulfill their desires and their goals, or to support a philosophy they have about life. So while many people do respond to the power and the presence of Knowledge, often they misinterpret its signs, thinking it is something else.
 
-<a id="p6"></a>in Boulder, Colorado
+<a id="p6"></a>Some people think that every sign from within themselves must be about love, when in fact Knowledge is warning you about things. It is alerting you to the presence of danger. It is trying to restrain you from making critical mistakes, or from giving your life away to people or things that have no real value or future.
 
-<a id="p7"></a>People everywhere are carrying a greater power within themselves, a power that they have not yet discovered. It is a deeper Intelligence that the Creator of all life has given to each person.
+<a id="p7"></a>This is love also—the guidance of love, the restraint of love, the warnings from love. Yet if you think love is all about happiness and peace and pleasantness, then you do not understand the real power and potency of love. The love that a parent has for their child, the concern a parent will have for their child and the parents’ attempt to protect their child from harm, danger or damaging influences represent the kind of love that lives within you.
 
-<a id="p8"></a>This deeper Intelligence does not function like your intellect. It is not conditioned by the world. It is not subject to doubt and fear, confusion, resentment or anger. It is quiet. It is clear. It is powerful. It cannot be persuaded by any force or power, for it only answers to God.
+<a id="p8"></a>How can you experience this Knowledge, which holds for you your greater purpose for coming into the world and can teach you to navigate the difficult times ahead under any kind of circumstances? How can you experience this for yourself?
 
-<a id="p9"></a>This greater Intelligence is called Knowledge, and it lives within you, beneath the surface of your mind. Every day Knowledge is giving you counsel—to protect you, to guide you, to lead you. But if you are living at the surface of your mind, caught up in the turbulence of the surface, like the turbulence at the surface of the ocean, you will not hear these messages. You will not feel this greater presence within yourself. You will not recognize Knowledge’s warnings and direction.
+<a id="p9"></a>You must learn to become still. You must learn to listen deep within yourself, not just for moments here or there, but on a more regular basis, as part of your spiritual practice. When you come to pray, do not simply ask for things, but learn to listen. God has already placed the answer within you, but it is deep within you, and you must go beneath the surface of your mind to experience it.
 
-<a id="p10"></a>People try to keep themselves constantly stimulated—radio and television, books and endless conversation, keeping themselves at the surface of their mind, where they cannot feel the presence of Knowledge or the power of Knowledge, where they cannot hear or respond to the guidance that Knowledge is providing for them.
+<a id="p10"></a>Like the ocean, the surface is turbulent and erratic, always changing, but deep down inside, deep within the ocean, there are strong currents that are moving the waters of the world. Your mind is like this. At the surface, it is swept up by the dangers and concerns of your outer life. It is persuaded and influenced and impacted by the world around you—by the opinions of other people, by the requirements of your life, by your desires and by your fears. But deep down there is a deeper current of life that is not subject to these outer influences. It is strong. It is permanent. It has a true direction. It is moving your life.
 
-<a id="p11"></a>Perhaps once in a while they will feel a deeper inclination. They will recognize a sign or have a profound feeling about something, but these experiences are often intermittent and are often misinterpreted. Even people who feel that they are intuitive by nature often misinterpret the signs that they are receiving, trying to have everything fit in with what they want, to fulfill their desires and their goals, or to support a philosophy they have about life. So while many people do respond to the power and the presence of Knowledge, often they misinterpret its signs, thinking it is something else.
+<a id="p11"></a>As you learn to take the Steps to Knowledge, you will learn to feel the presence of this greater Intelligence. And over time, you will learn to correctly discern its signs and its messages, and to accept its presence and its power in your life.
 
-<a id="p12"></a>Some people think that every sign from within themselves must be about love, when in fact Knowledge is warning you about things. It is alerting you to the presence of danger. It is trying to restrain you from making critical mistakes, or from giving your life away to people or things that have no real value or future.
+<a id="p12"></a>This is how God will speak to you. This is how God will influence you to protect you and to guide you towards leading and experiencing a greater life in the world—a life in service to the world, a life that is connected to the real world around you. This is the greatest discovery in life, and it is awaiting you.
 
-<a id="p13"></a>This is love also—the guidance of love, the restraint of love, the warnings from love. Yet if you think love is all about happiness and peace and pleasantness, then you do not understand the real power and potency of love. The love that a parent has for their child, the concern a parent will have for their child and the parents’ attempt to protect their child from harm, danger or damaging influences represent the kind of love that lives within you.
+<a id="p13"></a>Already, you have experienced the power and the presence of Knowledge at moments in your life when you felt an overwhelming desire to take a certain kind of action, or a concern about an event before it happened, or a concern about a loved one, only to find that that concern was well justified.
 
-<a id="p14"></a>How can you experience this Knowledge, which holds for you your greater purpose for coming into the world and can teach you to navigate the difficult times ahead under any kind of circumstances? How can you experience this for yourself?
+<a id="p14"></a>There is a power within you that is wise. It is moving you forward in some ways and holding you back in others. It represents your deeper conscience, the conscience that God has placed within you. You may ask God for miracles. You may ask God to intervene in your life. But God has put the answer in you already: the power and the presence of Knowledge, the deeper eternal Mind within you. It alone knows who you are and why you are here, who you must meet in this life and what you are here ultimately to contribute in service to humanity and to the world.
 
-<a id="p15"></a>You must learn to become still. You must learn to listen deep within yourself, not just for moments here or there, but on a more regular basis, as part of your spiritual practice. When you come to pray, do not simply ask for things, but learn to listen. God has already placed the answer within you, but it is deep within you, and you must go beneath the surface of your mind to experience it.
+<a id="p15"></a>You carry the great endowment within yourself. It is waiting to be discovered. It is waiting for you to take the Steps to Knowledge, and to build the wisdom that you will need to have to carry this Knowledge out into the world, to protect this Knowledge and to discern its guidance and to experience its gifts.
 
-<a id="p16"></a>Like the ocean, the surface is turbulent and erratic, always changing, but deep down inside, deep within the ocean, there are strong currents that are moving the waters of the world. Your mind is like this. At the surface, it is swept up by the dangers and concerns of your outer life. It is persuaded and influenced and impacted by the world around you—by the opinions of other people, by the requirements of your life, by your desires and by your fears. But deep down there is a deeper current of life that is not subject to these outer influences. It is strong. It is permanent. It has a true direction. It is moving your life.
+<a id="p16"></a>This is the blessing that the Creator of all life has given to you and to each person. And the extent to which Knowledge can be experienced and expressed in this world, the world will be blessed, great disasters will be prevented, and humanity will continue to move in a positive direction.
 
-<a id="p17"></a>As you learn to take the [Steps to Knowledge](https://www.newmessage.org/stk), you will learn to feel the presence of this greater Intelligence. And over time, you will learn to correctly discern its signs and its messages, and to accept its presence and its power in your life.
-
-<a id="p18"></a>This is how God will speak to you. This is how God will influence you to protect you and to guide you towards leading and experiencing a greater life in the world—a life in service to the world, a life that is connected to the real world around you. This is the greatest discovery in life, and it is awaiting you.
-
-<a id="p19"></a>Already, you have experienced the power and the presence of Knowledge at moments in your life when you felt an overwhelming desire to take a certain kind of action, or a concern about an event before it happened, or a concern about a loved one, only to find that that concern was well justified.
-
-<a id="p20"></a>There is a power within you that is wise. It is moving you forward in some ways and holding you back in others. It represents your deeper conscience, the conscience that God has placed within you. You may ask God for miracles. You may ask God to intervene in your life. But God has put the answer in you already: the power and the presence of Knowledge, the deeper eternal Mind within you. It alone knows who you are and why you are here, who you must meet in this life and what you are here ultimately to contribute in service to humanity and to the world.
-
-<a id="p21"></a>You carry the great endowment within yourself. It is waiting to be discovered. It is waiting for you to take the Steps to Knowledge, and to build the wisdom that you will need to have to carry this Knowledge out into the world, to protect this Knowledge and to discern its guidance and to experience its gifts.
-
-<a id="p22"></a>This is the blessing that the Creator of all life has given to you and to each person. And the extent to which Knowledge can be experienced and expressed in this world, the world will be blessed, great disasters will be prevented, and humanity will continue to move in a positive direction.
-
-<a id="p23"></a>This is the antidote to evil. This is the blessing for the world, a blessing that lives within you.
+<a id="p17"></a>This is the antidote to evil. This is the blessing for the world, a blessing that lives within you.

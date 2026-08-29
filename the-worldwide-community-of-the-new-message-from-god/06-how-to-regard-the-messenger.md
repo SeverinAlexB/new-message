@@ -1,162 +1,150 @@
 ---
 volume: 2
 book: "The Worldwide Community of the New Message from God"
-chapter: "06"
+chapter: "5"
 title: "How to Regard the Messenger"
 type: chapter
-source_url: "https://www.newmessage.org/the-message/volume-2/the-worldwide-community-of-gods-new-message/how-to-regard-the-messenger/"
+source_url: "https://newmessage.org/the-message/volume-2/the-worldwide-community-of-gods-new-message/how-to-regard-the-messenger/"
+received_date: "March 8, 2015"
+received_location: "Boulder, Colorado"
 ---
 
 # How to Regard the Messenger
 
-<a id="p1"></a>- Listen
-- Info
-- Watch
+<a id="p1"></a>God has sent a great Messenger into the world to receive and to present God’s New Revelation. He is no ordinary person. He has come from the Angelic Assembly, as have all the Messengers for all the great Revelations. Because of this, the Jesus, the Buddha and the Muhammad stand with him, for he is furthering their work in the world. And he is preparing humanity for a new threshold that the great Teachings of antiquity were not designed to address.
 
-<a id="p2"></a>Hear the original spoken revelation:
+<a id="p2"></a>He has had to go through a long preparation, and a very mysterious preparation, until he was ready, until he could be trusted and was reliable, until his life was in order sufficiently to receive the largest Revelation ever given to this world and to accept the mantle of responsibility. A great mantle it is. He had to be ready to receive it so it would not crush him or overwhelm him or oppress him.
 
-<a id="p3"></a>[Download](https://www.newmessage.org/av/how-to-regard-the-messenger.mp3) (Right-click to download)
+<a id="p3"></a>No one in the world can understand fully what this means. But all the great Messengers had to go through this long preparation to be ready to receive the great Calling that was theirs to receive, to bear the responsibility and the burden of receiving and communicating and protecting a Revelation that even exceeded their understanding. That is how great all the great Revelations are.
 
-<a id="p4"></a>As received
+<a id="p4"></a>The Assembly who watches over this world, the Angelic Assembly, has taken great care now that the Revelation be preserved in its pure form. Aided by modern technology, the actual Voice of Revelation can be heard and recorded so there will be no confusion or controversy about the accuracy and the authenticity of this great Revelation for the world.
 
-<a id="p5"></a>on March 8, 2015
+<a id="p5"></a>Let there be no mistake. This is God’s only Revelation for the world. For God has not spoken again in this way to the whole world in 1400 years.
 
-<a id="p6"></a>in Boulder, Colorado
+<a id="p6"></a>For the great Revelations bring not only prophecy and clarification, inspiration and spiritual power; they really are to change the reality of the world. If they can be successfully adopted and practiced, in the spirit of the Revelation itself, then they will bring a greater good to the whole world despite the great risks of human corruption and misuse.
 
-<a id="p7"></a>God has sent a great Messenger into the world to receive and to present [God’s New Revelation](https://www.newmessage.org/aboutnmg). He is no ordinary person. He has come from the [Angelic Assembly](https://www.newmessage.org/the-message/volume-1/god-spoken-again/the-assembly), as have all the Messengers for all the great Revelations. Because of this, the Jesus, the Buddha and the Muhammad stand with him, for he is furthering their work in the world. And he is preparing humanity for a new threshold that the great Teachings of antiquity were not designed to address.
+<a id="p7"></a>The Messenger has had to compile the Revelation to protect it, to learn of it, to comprehend it sufficiently so that he can proclaim it and teach it and correct all the inevitable misunderstandings and objections that will arise.
 
-<a id="p8"></a>He has had to go through a long preparation, and a very mysterious preparation, until he was ready, until he could be trusted and was reliable, until his life was in order sufficiently to receive the largest Revelation ever given to this world and to accept the mantle of responsibility. A great mantle it is. He had to be ready to receive it so it would not crush him or overwhelm him or oppress him.
+<a id="p8"></a>Because he comes from the Assembly, and because the great Messengers have all come from the Assembly, and because they stand with him, he is their equal in this regard. Whether he will be accepted or denied in this world, whether his Teaching will be preserved in the future or corrupted and taken apart, he is still their equal, you see.
 
-<a id="p9"></a>No one in the world can understand fully what this means. But all the great Messengers had to go through this long preparation to be ready to receive the great Calling that was theirs to receive, to bear the responsibility and the burden of receiving and communicating and protecting a Revelation that even exceeded their understanding. That is how great all the great Revelations are.
+<a id="p9"></a>You must deal with this reality and this challenge and this great opportunity. For you are living at a time of Revelation, a time that comes around perhaps only once in a millennium. From Heaven’s view, this is a great blessing and a great opportunity for you, who will be amongst the first to hear and to receive God’s Revelation for the world and the Messenger who has been sent.
 
-<a id="p10"></a>The Assembly who watches over this world, the Angelic Assembly, has taken great care now that the Revelation be preserved in its pure form. Aided by modern technology, the actual Voice of Revelation can be heard and recorded so there will be no confusion or controversy about the accuracy and the authenticity of this great Revelation for the world.
+<a id="p10"></a>If you cannot accept this, it is merely because your mind is overtaken by your own beliefs and assumptions. For to recognize the Message and the Messenger is the most natural thing unless your mind is so conditioned, so jaded and preoccupied, so defensive that you cannot see, you cannot hear, you cannot know that God has spoken again.
 
-<a id="p11"></a>Let there be no mistake. This is God’s only Revelation for the world. For God has not spoken again in this way to the whole world in 1400 years.
+<a id="p11"></a>Make no mistake. There is no one who can say that God cannot speak again. For who has such authority? What presumption. What arrogance. What foolishness is this? To say that God cannot speak again is to say that God has lost interest in this world, has left humanity up to its own devices even as the world’s religions have become altered over time and are contentious with one another, and even internally, producing great conflict and suffering.
 
-<a id="p12"></a>For the great Revelations bring not only prophecy and clarification, inspiration and spiritual power; they really are to change the reality of the world. If they can be successfully adopted and practiced, in the spirit of the Revelation itself, then they will bring a greater good to the whole world despite the great risks of human corruption and misuse.
+<a id="p12"></a>Do not defend your faith in this way. Do not defend your beliefs in this way, for you will be blind to that God which you claim to serve and whom you praise in your church, your temple or your mosque.
 
-<a id="p13"></a>The Messenger has had to compile the Revelation to protect it, to learn of it, to comprehend it sufficiently so that he can proclaim it and teach it and correct all the inevitable misunderstandings and objections that will arise.
+<a id="p13"></a>For God speaks when God wills, and there is no one on Earth—even the great Messengers from the past, even the Angelic Assembly cannot say when the moment will come when God has spoken again.
 
-<a id="p14"></a>Because he comes from the Assembly, and because the great Messengers have all come from the Assembly, and because they stand with him, he is their equal in this regard. Whether he will be accepted or denied in this world, whether his Teaching will be preserved in the future or corrupted and taken apart, he is still their equal, you see.
+<a id="p14"></a>The Messenger must be respected. His great gift must be considered honestly, openly and objectively. Heaven will watch to see who can receive and who cannot, who will assist him and who will deny him.
 
-<a id="p15"></a>You must deal with this reality and this challenge and this great opportunity. For you are living at a time of Revelation, a time that comes around perhaps only once in a millennium. From Heaven’s view, this is a great blessing and a great opportunity for you, who will be amongst the first to hear and to receive God’s Revelation for the world and the Messenger who has been sent.
+<a id="p15"></a>He is not a god, but none of the Messengers were gods. He is not the son of God, for God has no sons, or daughters. The Lord of all the universe and the universes beyond, of countless races of beings so unlike humanity, does not have sons and daughters. This is a fable. This is a human creation, and a great human misunderstanding.
 
-<a id="p16"></a>If you cannot accept this, it is merely because your mind is overtaken by your own beliefs and assumptions. For to recognize the Message and the Messenger is the most natural thing unless your mind is so conditioned, so jaded and preoccupied, so defensive that you cannot see, you cannot hear, you cannot know that God has spoken again.
+<a id="p16"></a>People elevate the Messengers to god status because they really cannot deal with the Message itself. They cannot meet its challenge. They cannot accept its power. They cannot change their life according to what it requires of them. And so they make the Messenger a god and forget about the Message itself.
 
-<a id="p17"></a>Make no mistake. There is no one who can say that God cannot speak again. For who has such authority? What presumption. What arrogance. What foolishness is this? To say that God cannot speak again is to say that God has lost interest in this world, has left humanity up to its own devices even as the world’s religions have become altered over time and are contentious with one another, and even internally, producing great conflict and suffering.
+<a id="p17"></a>But all the Messengers have come from the Angelic Assembly. They all are continuing God’s Greater Plan for the world. For God knows the great evolutionary steps that the human family will have to take and has taken before. And all of them are part of God’s Greater Plan, you see, something that is beyond human calculation and understanding. For your intellect is not big enough to hold something of this magnitude.
 
-<a id="p18"></a>Do not defend your faith in this way. Do not defend your beliefs in this way, for you will be blind to that God which you claim to serve and whom you praise in your church, your temple or your mosque.
+<a id="p18"></a>For what God wills for the world God wills for the whole universe because God’s Plan for the world is part of God’s Plan for the whole universe.
 
-<a id="p19"></a>For God speaks when God wills, and there is no one on Earth—even the great Messengers from the past, even the Angelic Assembly cannot say when the moment will come when God has spoken again.
+<a id="p19"></a>What theology, what human belief system, what set of assumptions can contain this? It is hopeless to even attempt this. It is foolish to try, for your estimations will be pathetically limited and often dangerously wrong.
 
-<a id="p20"></a>The Messenger must be respected. His great gift must be considered honestly, openly and objectively. Heaven will watch to see who can receive and who cannot, who will assist him and who will deny him.
+<a id="p20"></a>You must regard the Messenger as the Messenger, the only Messenger in the world today and the only Messenger that will come to this world for a very long time to come, regardless of what people proclaim for themselves.
 
-<a id="p21"></a>He is not a god, but none of the Messengers were gods. He is not the son of God, for God has no sons, or daughters. The Lord of all the universe and the universes beyond, of countless races of beings so unlike humanity, does not have sons and daughters. This is a fable. This is a human creation, and a great human misunderstanding.
+<a id="p21"></a>The Messenger brings a whole new reality into this world. He is not merely a prophet or a teacher or an advocate. He brings a whole new reality and great correction and clarification to what God has provided before in the great Revelations for the human family.
 
-<a id="p22"></a>People elevate the Messengers to god status because they really cannot deal with the Message itself. They cannot meet its challenge. They cannot accept its power. They cannot change their life according to what it requires of them. And so they make the Messenger a god and forget about the Message itself.
+<a id="p22"></a>If you hold that your religion is the only religion or the last religion or the final religion, then you do not see that they are all part of God’s Greater Plan. Your assumptions will be incorrect, and therefore your conclusions will not be correct.
 
-<a id="p23"></a>But all the Messengers have come from the Angelic Assembly. They all are continuing [God’s Greater Plan](https://www.newmessage.org/the-message/volume-1/one-god/gods-plan-save-everyone) for the world. For God knows the great evolutionary steps that the human family will have to take and has taken before. And all of them are part of God’s Greater Plan, you see, something that is beyond human calculation and understanding. For your intellect is not big enough to hold something of this magnitude.
+<a id="p23"></a>You must honor them all despite all that has been done to change them and misuse them by governments and ambitious individuals over the course of time. This is what happens when something pure is brought into a corrupted world, a world of Separation, where everyone is out to protect themselves and gain advantage over others.
 
-<a id="p24"></a>For what God wills for the world God wills for the whole universe because God’s Plan for the world is part of God’s Plan for the whole universe.
+<a id="p24"></a>God knows this will even happen for God’s New Revelation. But much is being given now to protect its purity. And those who have gathered with the Messenger, they will have to protect its purity into the future, for nothing can be added once the Messenger is gone. Nothing should be changed once the Messenger is gone.
 
-<a id="p25"></a>What theology, what human belief system, what set of assumptions can contain this? It is hopeless to even attempt this. It is foolish to try, for your estimations will be pathetically limited and often dangerously wrong.
+<a id="p25"></a>Everything has been recorded and preserved so that people a hundred years from now or two hundred years from now will not create a religion out of something that they knew nothing about at the outset—to cast the Messenger in their own likeness, in their own designs.
 
-<a id="p26"></a>You must regard the Messenger as the Messenger, the only Messenger in the world today and the only Messenger that will come to this world for a very long time to come, regardless of what people proclaim for themselves.
+<a id="p26"></a>Humanity is facing the greatest change it has ever faced as a whole—a new world reality of environmental destruction and political and economic upheaval. You know not what is coming over the horizon and what you face. Though you may feel anxious about the future and uncertain, what is coming is greater, likely, than your estimation. The need for Revelation is responding to the reality of your present and future life, of which you know little at all.
 
-<a id="p27"></a>The Messenger brings a whole new reality into this world. He is not merely a prophet or a teacher or an advocate. He brings a whole new reality and great correction and clarification to what God has provided before in the great Revelations for the human family.
+<a id="p27"></a>What the Messenger teaches and what he says are second only to the Revelation itself. And because he is recording it, and those close to him are recording this, its authenticity is more likely to be assured.
 
-<a id="p28"></a>If you hold that your religion is the only religion or the last religion or the final religion, then you do not see that they are all part of God’s Greater Plan. Your assumptions will be incorrect, and therefore your conclusions will not be correct.
+<a id="p28"></a>Part of the Message is within him. It is part of his role now to clarify the Revelation; to dispel those myths and misconceptions that would prevent people from having a clear and direct understanding; to bring the Revelation together; to organize it so it can be presented clearly with the greatest possibility of being recognized and accepted in a world of ever greater dissonance and discord and anxiety.
 
-<a id="p29"></a>You must honor them all despite all that has been done to change them and misuse them by governments and ambitious individuals over the course of time. This is what happens when something pure is brought into a corrupted world, a world of [Separation](https://www.newmessage.org/the-message/volume-1/one-god/the-separation), where everyone is out to protect themselves and gain advantage over others.
+<a id="p29"></a>He has come at a time before the Great Waves of change will strike the world profoundly, giving people time to understand what is coming and to prepare wisely and constructively, not only to serve themselves, but to serve others, for that is why they have come.
 
-<a id="p30"></a>God knows this will even happen for God’s New Revelation. But much is being given now to protect its purity. And those who have gathered with the Messenger, they will have to protect its purity into the future, for nothing can be added once the Messenger is gone. Nothing should be changed once the Messenger is gone.
+<a id="p30"></a>That is why you have come—not to enrich yourself or provide a comfort zone around yourself, but to play a small but necessary part in preparing for the great change that is coming and to preserve what is greatest and most powerful and beneficial within the human family.
 
-<a id="p31"></a>Everything has been recorded and preserved so that people a hundred years from now or two hundred years from now will not create a religion out of something that they knew nothing about at the outset—to cast the Messenger in their own likeness, in their own designs.
+<a id="p31"></a>God’s New Revelation clarifies what this is, what it means and how it can be preserved and made real and efficacious in a world that is slowly breaking down.
 
-<a id="p32"></a>Humanity is facing the greatest change it has ever faced as a whole—a new world reality of environmental destruction and political and economic upheaval. You know not what is coming over the horizon and what you face. Though you may feel anxious about the future and uncertain, what is coming is greater, likely, than your estimation. The need for Revelation is responding to the reality of your present and future life, of which you know little at all.
+<a id="p32"></a>In this, you must honor the Messenger. For no one else can receive this, for he was the chosen one. He is not merely a man who was one day given a great Message. He was prepared before he even came into this world.
 
-<a id="p33"></a>What the Messenger teaches and what he says are second only to the Revelation itself. And because he is recording it, and those close to him are recording this, its authenticity is more likely to be assured.
+<a id="p33"></a>But he had to undergo the long process of becoming a functional and competent human being—a human being capable of gaining a greater wisdom; a compassionate individual; an individual without ambition, without hatred, without seeking revenge against others. This required a long preparation before he even had a clue of what he would be required to do, to see and to know.
 
-<a id="p34"></a>Part of the Message is within him. It is part of his role now to clarify the Revelation; to dispel those myths and misconceptions that would prevent people from having a clear and direct understanding; to bring the Revelation together; to organize it so it can be presented clearly with the greatest possibility of being recognized and accepted in a world of ever greater dissonance and discord and anxiety.
+<a id="p34"></a>The Revelation is far more important. It cannot be given to someone who does not have this reliability or this predestination.
 
-<a id="p35"></a>He has come at a time before the [Great Waves of change](https://www.newmessage.org/aboutgwc) will strike the world profoundly, giving people time to understand what is coming and to prepare wisely and constructively, not only to serve themselves, but to serve others, for that is why they have come.
+<a id="p35"></a>People will proclaim they are bringing new messages from God, but it really is old information that is simply being recycled through once again, with great fanfare perhaps, but it does not do what the real Revelation can do. It does not change the reality of humanity. It does not initiate people into a greater service and a greater relationship with the Divine, for it has not the Power of Heaven within it unless it is the true Revelation.
 
-<a id="p36"></a>That is why you have come—not to enrich yourself or provide a comfort zone around yourself, but to play a small but necessary part in preparing for the great change that is coming and to preserve what is greatest and most powerful and beneficial within the human family.
+<a id="p36"></a>You will have to deal with the fact that the Messenger is in your midst. And when he is gone, you will have to deal with the fact that he is gone and that his great gift must be preserved and protected, without alloying it with other things, without adding or subtracting from it the parts that you like or dislike. You must have it all for it to be powerful and real.
 
-<a id="p37"></a>God’s New Revelation clarifies what this is, what it means and how it can be preserved and made real and efficacious in a world that is slowly breaking down.
+<a id="p37"></a>The Messenger is an older man now. In his remaining years, there is much that he must do to bring the Revelation together, to add to it, to proclaim it and to provide teachings to clarify many of its major and minor teachings, all of which are very, very important for people to receive over time.
 
-<a id="p38"></a>In this, you must honor the Messenger. For no one else can receive this, for he was the chosen one. He is not merely a man who was one day given a great Message. He was prepared before he even came into this world.
+<a id="p38"></a>Do not think you can understand something of this magnitude at one moment, at one time. It is a Teaching of a thousand teachings, given now to a literate world, a world of global communication, global commerce and growing global awareness; given now not in pastoral terms or anecdotal terms, or with great symbolism, but in the clearest possible language so that it may be translated easily, so that its great depth can become accessible to people of all nations and languages.
 
-<a id="p39"></a>But he had to undergo the long process of becoming a functional and competent human being—a human being capable of gaining a greater wisdom; a compassionate individual; an individual without ambition, without hatred, without seeking revenge against others. This required a long preparation before he even had a clue of what he would be required to do, to see and to know.
+<a id="p39"></a>It is a gift to all the world’s religions, for it is part of God’s Greater Plan. It will give to Islam what Islam needs. It will give to Christianity what Christianity needs. It will give to Buddhism what Buddhism needs now and to all the faith traditions—preparation for a new world experience, preparation for contact with life in the universe, a greater and clearer understanding of the One Spirituality of humanity that unites and binds you all to your Creator even while you appear to live in Separation in this world. Its great clarification will help all people who have an earnest approach.
 
-<a id="p40"></a>The Revelation is far more important. It cannot be given to someone who does not have this reliability or this predestination.
+<a id="p40"></a>It is to protect the Revelation from those who do not have such an honest approach that much work is being done now. For it is so easy for the Message to fall into the wrong hands by people who claim to be its authority, its governors. Much work must be done now to assure that it is guided properly, that it is managed properly, or the world will tear it apart.
 
-<a id="p41"></a>People will proclaim they are bringing new messages from God, but it really is old information that is simply being recycled through once again, with great fanfare perhaps, but it does not do what the real Revelation can do. It does not change the reality of humanity. It does not initiate people into a greater service and a greater relationship with the Divine, for it has not the Power of Heaven within it unless it is the true Revelation.
+<a id="p41"></a>You can hear for the first time the Voice of Revelation, which was not possible before for obvious reasons—recorded now so the words are pure and clear.
 
-<a id="p42"></a>You will have to deal with the fact that the Messenger is in your midst. And when he is gone, you will have to deal with the fact that he is gone and that his great gift must be preserved and protected, without alloying it with other things, without adding or subtracting from it the parts that you like or dislike. You must have it all for it to be powerful and real.
+<a id="p42"></a>It is not a Voice of your world. Do not think it represents a Voice from this nation or that nation. It is the Voice of many Voices speaking as one. It is ancient. It is old. It is new. It is revolutionary.
 
-<a id="p43"></a>The Messenger is an older man now. In his remaining years, there is much that he must do to bring the Revelation together, to add to it, to proclaim it and to provide teachings to clarify many of its major and minor teachings, all of which are very, very important for people to receive over time.
+<a id="p43"></a>It is like this Voice that spoke to the Jesus, the Buddha and the Muhammad, speaking to you now, speaking to the whole world, calling forth those who can respond, calling forth those who feel they have a greater mission and purpose in the world, calling forth those who know they must prepare for a greatly uncertain future, calling forth those who have an earnest approach and who feel a greater connection with God, a greater connection with the world and a greater connection perhaps with life beyond the world. For there are many people in the world today who have this greater connection.
 
-<a id="p44"></a>Do not think you can understand something of this magnitude at one moment, at one time. It is a Teaching of a thousand teachings, given now to a literate world, a world of global communication, global commerce and growing global awareness; given now not in pastoral terms or anecdotal terms, or with great symbolism, but in the clearest possible language so that it may be translated easily, so that its great depth can become accessible to people of all nations and languages.
+<a id="p44"></a>This is the Greater Plan that overlays all the other plans of humanity, all the other beliefs, assumptions and evaluations of the human family, both now and in the past. Part of it you can understand with the intellect, but most of it you must understand with your own heart and soul.
 
-<a id="p45"></a>It is a gift to all the world’s religions, for it is part of God’s Greater Plan. It will give to Islam what Islam needs. It will give to Christianity what Christianity needs. It will give to Buddhism what Buddhism needs now and to all the faith traditions—preparation for a new world experience, preparation for contact with life in the universe, a greater and clearer understanding of the One Spirituality of humanity that unites and binds you all to your Creator even while you appear to live in Separation in this world. Its great clarification will help all people who have an earnest approach.
+<a id="p45"></a>You cannot put this into a formula. You cannot say this is like that. You cannot call Knowledge mere intuition, for if you do so, you will have no real understanding of what it means. You cannot call the Messenger just another teacher, for to say that means you do not know who he is or what he has brought here, and the Power of Heaven that has been instilled in him and in his Message.
 
-<a id="p46"></a>It is to protect the Revelation from those who do not have such an honest approach that much work is being done now. For it is so easy for the Message to fall into the wrong hands by people who claim to be its authority, its governors. Much work must be done now to assure that it is guided properly, that it is managed properly, or the world will tear it apart.
+<a id="p46"></a>This is a challenge for the recipient, both now and into the future. In the future, there will be many who will try to take the Revelation and build their own empire with it, to establish themselves as the great authority of God’s New Revelation, who will even add to it their own part, the part that they want to add.
 
-<a id="p47"></a>You can hear for the first time the Voice of Revelation, which was not possible before for obvious reasons—recorded now so the words are pure and clear.
+<a id="p47"></a>But beware. For this is a corruption. You must return to the pure Revelation and to those the Messenger has assigned to protect it and preserve it into the future.
 
-<a id="p48"></a>It is not a Voice of your world. Do not think it represents a Voice from this nation or that nation. It is the Voice of many Voices speaking as one. It is ancient. It is old. It is new. It is revolutionary.
+<a id="p48"></a>In this way, you help to guard it, for many will try to corrupt it for their own purposes and designs. Even governments may assume it and use it for their purposes.
 
-<a id="p49"></a>It is like this Voice that spoke to the Jesus, the Buddha and the Muhammad, speaking to you now, speaking to the whole world, calling forth those who can respond, calling forth those who feel they have a greater mission and purpose in the world, calling forth those who know they must prepare for a greatly uncertain future, calling forth those who have an earnest approach and who feel a greater connection with God, a greater connection with the world and a greater connection perhaps with life beyond the world. For there are many people in the world today who have this greater connection.
+<a id="p49"></a>This is what happens to religion in the world. But now you are at the beginning, at the time of Revelation, the time of the Messenger, and you will be here for the time following the Messenger’s life.
 
-<a id="p50"></a>This is the Greater Plan that overlays all the other plans of humanity, all the other beliefs, assumptions and evaluations of the human family, both now and in the past. Part of it you can understand with the intellect, but most of it you must understand with your own heart and soul.
+<a id="p50"></a>Heaven will see who can respond and act appropriately here. Heaven will see those who will try to change it and alter it and adapt it to their own preferences and temperament. There will be no punishment for them, but they will be left out. And they will endanger the attempt to preserve the pure Revelation, which has been given with so much care, so much preparation for the Messenger and for those who are close to him.
 
-<a id="p51"></a>You cannot put this into a formula. You cannot say this is like that. You cannot call Knowledge mere intuition, for if you do so, you will have no real understanding of what it means. You cannot call the Messenger just another teacher, for to say that means you do not know who he is or what he has brought here, and the Power of Heaven that has been instilled in him and in his Message.
+<a id="p51"></a>The change to come will be convulsive, highly disruptive. The temptation to alter the Message will be very great for many people. But God knows exactly what is coming and how to prepare, for this is the only preparation for the future that you have now.
 
-<a id="p52"></a>This is a challenge for the recipient, both now and into the future. In the future, there will be many who will try to take the Revelation and build their own empire with it, to establish themselves as the great authority of God’s New Revelation, who will even add to it their own part, the part that they want to add.
+<a id="p52"></a>The great traditions of antiquity cannot prepare you for what is coming, for that is not their purpose and design, you see. They were all aimed towards bringing humanity into the core of its spiritual reality and to teach the high ethics that must be reinforced constantly in a world where people are driven by fear, anger and greed to harm themselves and others.
 
-<a id="p53"></a>But beware. For this is a corruption. You must return to the pure Revelation and to those the Messenger has assigned to protect it and preserve it into the future.
+<a id="p53"></a>You must understand, then, that you are blessed to live at this time and to see this is your great opportunity. When the Messenger is gone, it will be there, but it will be more difficult.
 
-<a id="p54"></a>In this way, you help to guard it, for many will try to corrupt it for their own purposes and designs. Even governments may assume it and use it for their purposes.
+<a id="p54"></a>For while he is here, he brings a great Presence to the human family. And though he is imperfect, for all the Messengers have been imperfect, it is who he is, it is where he has come from, and it is what he gives that are the most important.
 
-<a id="p55"></a>This is what happens to religion in the world. But now you are at the beginning, at the time of Revelation, the time of the Messenger, and you will be here for the time following the Messenger’s life.
+<a id="p55"></a>He does not meet people’s expectations of beauty, wealth and charm. He is not so magnanimous that everyone falls down on their knees in his presence, for that has not been the case with any of the Messengers. They went unnoticed and unrecognized by nearly everyone in their own time on Earth.
 
-<a id="p56"></a>Heaven will see who can respond and act appropriately here. Heaven will see those who will try to change it and alter it and adapt it to their own preferences and temperament. There will be no punishment for them, but they will be left out. And they will endanger the attempt to preserve the pure Revelation, which has been given with so much care, so much preparation for the Messenger and for those who are close to him.
+<a id="p56"></a>Forget such things, such foolishness. Your mind may think whatever you want to think, but your heart will know because what the Messenger brings is your connection to God—pure, clear.
 
-<a id="p57"></a>The change to come will be convulsive, highly disruptive. The temptation to alter the Message will be very great for many people. But God knows exactly what is coming and how to prepare, for this is the only preparation for the future that you have now.
+<a id="p57"></a>It will revitalize your faith tradition. It will give you a new pathway if you do not have a faith tradition, or must change your faith tradition. But it is here to bless everyone. It is here to protect the world from internal collapse and from external subjugation from forces in the universe who are here to take advantage of human weakness and division.
 
-<a id="p58"></a>The great traditions of antiquity cannot prepare you for what is coming, for that is not their purpose and design, you see. They were all aimed towards bringing humanity into the core of its spiritual reality and to teach the high ethics that must be reinforced constantly in a world where people are driven by fear, anger and greed to harm themselves and others.
+<a id="p58"></a>Heaven knows what is coming, but people are still confused. They are trying to live in the moment, forgetting they must also prepare for the future.
 
-<a id="p59"></a>You must understand, then, that you are blessed to live at this time and to see this is your great opportunity. When the Messenger is gone, it will be there, but it will be more difficult.
+<a id="p59"></a>And who can know the future more than God? Who can know human destiny more than your Source and the Angelic Assembly who watches over this world and has always watched over this world—from the time of the first human being, the first conscious entity here on Earth, to the present and into the future?
 
-<a id="p60"></a>For while he is here, he brings a great Presence to the human family. And though he is imperfect, for all the Messengers have been imperfect, it is who he is, it is where he has come from, and it is what he gives that are the most important.
+<a id="p60"></a>This is a great gateway. There is so much for you to learn. There is so much for you to reconsider. You must have the heart to do this. You must have the courage and the humility to do this. You do not want to be amongst those who are unprepared for the great change that is coming or those who stand in the way of God’s greater Purpose and Design for humanity.
 
-<a id="p61"></a>He does not meet people’s expectations of beauty, wealth and charm. He is not so magnanimous that everyone falls down on their knees in his presence, for that has not been the case with any of the Messengers. They went unnoticed and unrecognized by nearly everyone in their own time on Earth.
+<a id="p61"></a>This is your opportunity, you see, and it could not be greater or more important—more important than anything you can think of, for yourself or for the world.
 
-<a id="p62"></a>Forget such things, such foolishness. Your mind may think whatever you want to think, but your heart will know because what the Messenger brings is your connection to God—pure, clear.
+<a id="p62"></a>Come to the Revelation and it will strike you if you can stay with it long enough. Hear the words of the Messenger. They will speak to you in a place you barely know but which represents your core—who you were before you came into the world, who you will be after you leave the world. He will speak to that part of you.
 
-<a id="p63"></a>It will revitalize your faith tradition. It will give you a new pathway if you do not have a faith tradition, or must change your faith tradition. But it is here to bless everyone. It is here to protect the world from internal collapse and from external subjugation from forces in the universe who are here to take advantage of human weakness and division.
+<a id="p63"></a>Do not look to others to respond, for you must take this journey. Do not be dismayed by human weakness, ignorance and the inability of many people to respond. It is you who must respond—to the Message and to the Messenger and to those who are assigned to protect the Revelation during and after his life.
 
-<a id="p64"></a>Heaven knows what is coming, but people are still confused. They are trying to live in the moment, forgetting they must also prepare for the future.
+<a id="p64"></a>Come with your questions. Come with your confusion. Come with your admonitions. Come complaining. Come praising. Come as you are. For the Revelation can speak to you as you are, with the greatest quality of love that you can imagine.
 
-<a id="p65"></a>And who can know the future more than God? Who can know human destiny more than your Source and the Angelic Assembly who watches over this world and has always watched over this world—from the time of the first human being, the first conscious entity here on Earth, to the present and into the future?
+<a id="p65"></a>Yet it brings responsibility, for you must do the work. You must take the journey. There is no magic potion here. There is no magic belief. There is no talisman. There is no elevator up this mountain. For it is yours to climb. And it is only by climbing it that you become strong and competent and able to see beyond the forest that existed below.
 
-<a id="p66"></a>This is a great gateway. There is so much for you to learn. There is so much for you to reconsider. You must have the heart to do this. You must have the courage and the humility to do this. You do not want to be amongst those who are unprepared for the great change that is coming or those who stand in the way of God’s greater Purpose and Design for humanity.
+<a id="p66"></a>Heaven seeks to lift you up, but you must take the journey to do this. You must take the Steps to Knowledge, the greater power that represents your connection to God.
 
-<a id="p67"></a>This is your opportunity, you see, and it could not be greater or more important—more important than anything you can think of, for yourself or for the world.
+<a id="p67"></a>There is no other way, you see. In all your faith traditions, in any one of them, it is the same. You must do the work. You must take the journey.
 
-<a id="p68"></a>Come to the Revelation and it will strike you if you can stay with it long enough. Hear the words of the Messenger. They will speak to you in a place you barely know but which represents your core—who you were before you came into the world, who you will be after you leave the world. He will speak to that part of you.
+<a id="p68"></a>Here the journey is clarified once again, not to replace what has been given before but to amplify it, to give it a greater dimension and relevance in this time and for the times to come.
 
-<a id="p69"></a>Do not look to others to respond, for you must take this journey. Do not be dismayed by human weakness, ignorance and the inability of many people to respond. It is you who must respond—to the Message and to the Messenger and to those who are assigned to protect the Revelation during and after his life.
-
-<a id="p70"></a>Come with your questions. Come with your confusion. Come with your admonitions. Come complaining. Come praising. Come as you are. For the Revelation can speak to you as you are, with the greatest quality of love that you can imagine.
-
-<a id="p71"></a>Yet it brings responsibility, for you must do the work. You must take the journey. There is no magic potion here. There is no magic belief. There is no talisman. There is no elevator up this mountain. For it is yours to climb. And it is only by climbing it that you become strong and competent and able to see beyond the forest that existed below.
-
-<a id="p72"></a>Heaven seeks to lift you up, but you must take the journey to do this. You must take the [Steps to Knowledge](https://www.newmessage.org/stk), the greater power that represents your connection to God.
-
-<a id="p73"></a>There is no other way, you see. In all your faith traditions, in any one of them, it is the same. You must do the work. You must take the journey.
-
-<a id="p74"></a>Here the journey is clarified once again, not to replace what has been given before but to amplify it, to give it a greater dimension and relevance in this time and for the times to come.
-
-<a id="p75"></a>For the blessings of the Creator are here. Though the world grows darker with each passing day, the Power and the Presence of Revelation is in the world. May you have the eyes to see and the ears to hear to experience this for yourself.
+<a id="p69"></a>For the blessings of the Creator are here. Though the world grows darker with each passing day, the Power and the Presence of Revelation is in the world. May you have the eyes to see and the ears to hear to experience this for yourself.

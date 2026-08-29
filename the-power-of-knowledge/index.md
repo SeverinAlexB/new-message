@@ -2,14 +2,14 @@
 
 Volume 1
 
-Source: [The Power of Knowledge](https://www.newmessage.org/the-message/volume-1/power-of-knowledge/)
+Source: [The Power of Knowledge](https://newmessage.org/the-message/volume-1/power-of-knowledge/)
 
-## Chapters
+## Contents
 
-- **`00-front-matter.md`** — Front Matter
+- **`00-front-matter.md`** — Overview
 - **`01-the-greater-power-within-you.md`** — The Greater Power Within You
 - **`02-the-power-of-knowledge.md`** — The Power of Knowledge
-- **`03-the-soul-s-journey-on-earth.md`** — The Soul’s Journey on Earth
+- **`03-the-souls-journey-on-earth.md`** — The Soul’s Journey on Earth
 - **`04-living-in-separation.md`** — Living in Separation
 - **`05-the-crisis.md`** — The Crisis
 - **`06-the-presence.md`** — The Presence

@@ -1,14 +1,13 @@
 ---
 volume: 3
-book: "Steps To Knowledge"
-chapter: "029"
-title: "Step 28: Review"
+book: "Steps to Knowledge"
+chapter: "28"
+title: "REVIEW"
 type: chapter
-source_url: "https://s3.us-east-1.wasabisys.com/nmfg-pdf/books/StepstoKnowledge_v1.5.pdf"
-source_pdf: "../sources/pdf/steps-to-knowledge.pdf"
+source_url: "https://newmessage.org/the-message/volume-3/steps-knowledge/step-28-review/"
 ---
 
-# Step 28: Review
+# REVIEW
 
 <a id="p1"></a>We shall begin Our fourth Review period with a special prayer.
 
@@ -17,5 +16,3 @@ source_pdf: "../sources/pdf/steps-to-knowledge.pdf"
 <a id="p3"></a>Once again We shall review the past week of practice, rereading all of the instructions and with each step reviewing what has transpired in your times of practice. Be sure to ask yourself how deeply you were involved in practice—how much you wanted to search and investigate, how carefully you examined your own experience and to what extent you felt motivated to penetrate whatever barriers that might exist.
 
 <a id="p4"></a>Our one 45-minute practice period of review will begin to give you a perspective on your development in this preparation. This is beneficial not only for yourself but for those whom you will serve in the future, for as you are receiving now, you will wish to give in whatever context and in whatever form is appropriate for you. You must understand how people learn and how people develop. This must come from your own experience and must represent the love and compassion that are the natural emanations of your Knowledge. Again do not let any doubt or confusion dissuade you from your true application.
-
-<a id="p5"></a>Practice 28: One 45-minute practice period.

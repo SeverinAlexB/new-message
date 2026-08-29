@@ -2,11 +2,11 @@
 
 Volume 6
 
-Source: [Wisdom from the Greater Community Book Two](https://www.newmessage.org/the-message/volume-6/wisdom-greater-community-book-2/)
+Source: [Wisdom from the Greater Community Book Two](https://newmessage.org/the-message/volume-6/wisdom-greater-community-book-2/)
 
-## Chapters
+## Contents
 
-- **`00-front-matter.md`** — Front Matter
+- **`00-front-matter.md`** — Overview
 - **`01-ambition.md`** — Ambition
 - **`02-possessions.md`** — Possessions
 - **`03-pleasure.md`** — Pleasure

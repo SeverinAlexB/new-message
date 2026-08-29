@@ -2,11 +2,11 @@
 
 Volume 5
 
-Source: [The Great Waves of Change](https://www.newmessage.org/the-message/volume-5/great-waves-change/)
+Source: [The Great Waves of Change](https://newmessage.org/the-message/volume-5/great-waves-change/)
 
-## Chapters
+## Contents
 
-- **`00-front-matter.md`** — Front Matter
+- **`00-front-matter.md`** — Overview
 - **`01-introduction.md`** — Introduction
 - **`02-the-great-waves-of-change.md`** — The Great Waves of Change
 - **`03-the-great-waves-and-your-life.md`** — The Great Waves and Your Life

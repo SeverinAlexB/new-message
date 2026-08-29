@@ -4,159 +4,147 @@ book: "The New World"
 chapter: "13"
 title: "Being Centered in a Crashing World"
 type: chapter
-source_url: "https://www.newmessage.org/the-message/volume-1/new-world/being-centered-crashing-world/"
+source_url: "https://newmessage.org/the-message/volume-1/new-world/being-centered-crashing-world/"
+received_date: "November 22, 2015"
+received_location: "Boulder, Colorado"
 ---
 
 # Being Centered in a Crashing World
 
-<a id="p1"></a>- Listen
-- Info
-- Watch
+<a id="p1"></a>To be intelligent means you are living in the moment and preparing for the future—the two fundamental aspects that require intelligence. You cannot do one without the other, for if you do not know how to be in the moment, you will not understand the signs of the world. If you do not prepare for the future, the world will overtake you, and you will be helpless and hopeless in its wake.
 
-<a id="p2"></a>Hear the original spoken revelation:
+<a id="p2"></a>The great storms of the world are coming, the Great Waves of change, the great upheaval. For humanity has sown the seeds of this for a very long time. You are standing at the cusp of a new world experience. It is not the end of the world, but a great transition to a different kind of world reality.
 
-<a id="p3"></a>[Download](https://www.newmessage.org/av/being-centered-in-a-crashing-world.mp3) (Right-click to download)
+<a id="p3"></a>Indeed, you have been sent into the world for this purpose—to participate in the world under these very circumstances that you may seek to avoid or to deny. It is because you do not know yourself. You are not yet connected to the deeper Knowledge that God has put within you—to prepare you, to guide you, to lead you to a greater life of service and meaning in a radically changing world.
 
-<a id="p4"></a>As received
+<a id="p4"></a>The concern of Heaven is not merely that you will be fulfilled in the moment or what you may have for today, but that you may be prepared for the future in such a way that your greater gifts may come forth, and that the true purpose that has brought you here may be recognized, followed and correctly fulfilled.
 
-<a id="p5"></a>on November 22, 2015
+<a id="p5"></a>You think for today and tomorrow only perhaps, or you are looking behind yourself with concern and regret. Without this deeper Knowledge in your awareness, you cannot yet prepare for what is to come. And you do not understand your past. In fact, you really do not understand anything very well.
 
-<a id="p6"></a>in Boulder, Colorado
+<a id="p6"></a>Therefore, God must prepare you by giving you the steps to take to find this deeper strength and power that represents the immortal part of yourself that is not corrupted by the world, that is not terrified by the world, that is not even influenced by the world. It is the source of your strength, your courage and your integrity. It is also the source of your love, your compassion and your forgiveness.
 
-<a id="p7"></a>To be intelligent means you are living in the moment and preparing for the future—the two fundamental aspects that require intelligence. You cannot do one without the other, for if you do not know how to be in the moment, you will not understand the signs of the world. If you do not prepare for the future, the world will overtake you, and you will be helpless and hopeless in its wake.
+<a id="p7"></a>While your mind struggles to understand, the deeper part of you already knows. It knows enough for you to take the next step that has been waiting for you.
 
-<a id="p8"></a>The great storms of the world are coming, the [Great Waves of change](https://www.newmessage.org/aboutgwc), the great upheaval. For humanity has sown the seeds of this for a very long time. You are standing at the cusp of a new world experience. It is not the end of the world, but a great transition to a different kind of world reality.
+<a id="p8"></a>For you must be centered in a crashing world. You must be strong. You must be purposeful. You must know where to give yourself and where to hold yourself back. You must be certain about who to be with and who not to be with despite any other possible attraction or intrigue that has gained control of your mind, which is running wild. It is chaotic, full of grievance and fear and fantasy. It is meant to be a servant to the deeper Knowledge within you, which represents your true Self. But it is out of control. It is harming you. It is leading you astray. It is pulled every which way by the world around you, and indeed it will be terrified by what is to come if Knowledge is not its guide and counsel.
 
-<a id="p9"></a>Indeed, you have been sent into the world for this purpose—to participate in the world under these very circumstances that you may seek to avoid or to deny. It is because you do not know yourself. You are not yet connected to the deeper Knowledge that God has put within you—to prepare you, to guide you, to lead you to a greater life of service and meaning in a radically changing world.
+<a id="p9"></a>Therefore, God is giving you what you really need for today and for tomorrow and for the remainder of your life on Earth. People look to the heavens wanting to have dispensations to try to fulfill their desires, ambitions and needs, but God is providing what is really essential.
 
-<a id="p10"></a>The concern of Heaven is not merely that you will be fulfilled in the moment or what you may have for today, but that you may be prepared for the future in such a way that your greater gifts may come forth, and that the true purpose that has brought you here may be recognized, followed and correctly fulfilled.
+<a id="p10"></a>For God knows why you are here, why you were sent and what it will require of you to face a changing world and the Great Waves of change.
 
-<a id="p11"></a>You think for today and tomorrow only perhaps, or you are looking behind yourself with concern and regret. Without this deeper Knowledge in your awareness, you cannot yet prepare for what is to come. And you do not understand your past. In fact, you really do not understand anything very well.
+<a id="p11"></a>You are living in Separation, but part of you has never separated from God. You are still connected. And God is going to redeem you through this Knowledge—not to take you out of the world, but to bring you here with greater purpose, meaning and relationship, things you cannot fulfill otherwise, try as you may.
 
-<a id="p12"></a>Therefore, God must prepare you by giving you the steps to take to find this deeper strength and power that represents the immortal part of yourself that is not corrupted by the world, that is not terrified by the world, that is not even influenced by the world. It is the source of your strength, your courage and your integrity. It is also the source of your love, your compassion and your forgiveness.
+<a id="p12"></a>Own everything you can, marry whoever is attractive, and you will still be lost. For you cannot find yourself without the power of Knowledge. You cannot be truly happy or satisfied with your life without the power of Knowledge.
 
-<a id="p13"></a>While your mind struggles to understand, the deeper part of you already knows. It knows enough for you to take the next step that has been waiting for you.
+<a id="p13"></a>God has already figured out your dilemma. It was figured out at the beginning of time. And it [Knowledge] lives with you today. It lives within everyone else. And it lives within all sentient beings and life in the whole universe. It is beyond the scriptures. It is beyond religious ideology and philosophy. It is the real power of Grace in your life.
 
-<a id="p14"></a>For you must be centered in a crashing world. You must be strong. You must be purposeful. You must know where to give yourself and where to hold yourself back. You must be certain about who to be with and who not to be with despite any other possible attraction or intrigue that has gained control of your mind, which is running wild. It is chaotic, full of grievance and fear and fantasy. It is meant to be a servant to the deeper Knowledge within you, which represents your true Self. But it is out of control. It is harming you. It is leading you astray. It is pulled every which way by the world around you, and indeed it will be terrified by what is to come if Knowledge is not its guide and counsel.
+<a id="p14"></a>It is with you here today, waiting for you to come to it in humility and sincerity—not to try to use it as a resource, for that is not possible; not to try to use it to gain love or wealth or security, for you cannot use Knowledge in this way. It is foolishness and arrogance to think that you can do these things.
 
-<a id="p15"></a>Therefore, God is giving you what you really need for today and for tomorrow and for the remainder of your life on Earth. People look to the heavens wanting to have dispensations to try to fulfill their desires, ambitions and needs, but God is providing what is really essential.
+<a id="p15"></a>But Knowledge is waiting for you to return, to come to it, seeking guidance and counsel, and over time allowing it to reshape your life, which it will do so naturally.
 
-<a id="p16"></a>For God knows why you are here, why you were sent and what it will require of you to face a changing world and the Great Waves of change.
+<a id="p16"></a>This is what it means to be truly centered, you see: that Knowledge is the center of your experience, the center of your life, the center of your Being, the center of your decisions, the center of your response to the world around you no matter what is going on.
 
-<a id="p17"></a>You are living in [Separation](https://www.newmessage.org/the-message/volume-1/one-god/the-separation), but part of you has never separated from God. You are still connected. And God is going to redeem you through this Knowledge—not to take you out of the world, but to bring you here with greater purpose, meaning and relationship, things you cannot fulfill otherwise, try as you may.
+<a id="p17"></a>Without this, you are lost in your thoughts, in your fears, in your preoccupations. You cannot see what is coming over the horizon, and you do not have the courage or the will to prepare. You are weak and vulnerable, easily persuaded by others, constantly adapting yourself to the expectations of others, seeking relationship perhaps, but unaware of who you are and where you really need to be going in life.
 
-<a id="p18"></a>Own everything you can, marry whoever is attractive, and you will still be lost. For you cannot find yourself without the power of Knowledge. You cannot be truly happy or satisfied with your life without the power of Knowledge.
+<a id="p18"></a>You cannot understand this with your intellect. It is vast. It is mysterious. It is profound. It is greater than anyone’s understanding, but it is at the core of your true experience. It is what will save you. It is what will give you power. It is what will give you certainty and true direction and, in time, bring relationships of true value into your life.
 
-<a id="p19"></a>God has already figured out your dilemma. It was figured out at the beginning of time. And it [Knowledge] lives with you today. It lives within everyone else. And it lives within all sentient beings and life in the whole universe. It is beyond the scriptures. It is beyond religious ideology and philosophy. It is the real power of Grace in your life.
+<a id="p19"></a>For once you begin to take the Steps to Knowledge and continue to do so, you begin to end the Separation within yourself—the Separation from your worldly mind to the deeper Mind within you, that was you before you came into this world and will be you after you leave this world. While the soul wanders, Knowledge remains connected to its Source.
 
-<a id="p20"></a>It is with you here today, waiting for you to come to it in humility and sincerity—not to try to use it as a resource, for that is not possible; not to try to use it to gain love or wealth or security, for you cannot use Knowledge in this way. It is foolishness and arrogance to think that you can do these things.
+<a id="p20"></a>If you can understand what We are telling you here today, you will see that it is the most important thing you could possibly consider. It is the most important thing you could approach. For you have only to look at the world around you to see the hopeless pursuits and attempts at happiness and fulfillment.
 
-<a id="p21"></a>But Knowledge is waiting for you to return, to come to it, seeking guidance and counsel, and over time allowing it to reshape your life, which it will do so naturally.
+<a id="p21"></a>The crisis of Separation continues within each person, no matter how wealthy they are, no matter what they own or control. They may have all the trappings of beauty, wealth and power. But they are unknown to themselves and they are still lost.
 
-<a id="p22"></a>This is what it means to be truly centered, you see: that Knowledge is the center of your experience, the center of your life, the center of your Being, the center of your decisions, the center of your response to the world around you no matter what is going on.
+<a id="p22"></a>God will not punish them for being lost because God has put Knowledge within them. But they cannot return to their true state until they begin to respond to what God has put within them and to begin a preparation they did not invent for themselves—a preparation both practical and mysterious. Practical in that it will guide you in all practical matters, in all important decisions, in how to understand yourself, others and the world with great clarity. But mysterious because it cannot be controlled or understood by your mind or the minds of others.
 
-<a id="p23"></a>Without this, you are lost in your thoughts, in your fears, in your preoccupations. You cannot see what is coming over the horizon, and you do not have the courage or the will to prepare. You are weak and vulnerable, easily persuaded by others, constantly adapting yourself to the expectations of others, seeking relationship perhaps, but unaware of who you are and where you really need to be going in life.
+<a id="p23"></a>Once you come to the truth within yourself, you will realize you cannot fulfill yourself. You cannot find real happiness and sustain it here. You cannot protect yourself against a world becoming ever more chaotic and uncertain with each passing day.
 
-<a id="p24"></a>You cannot understand this with your intellect. It is vast. It is mysterious. It is profound. It is greater than anyone’s understanding, but it is at the core of your true experience. It is what will save you. It is what will give you power. It is what will give you certainty and true direction and, in time, bring relationships of true value into your life.
+<a id="p24"></a>You must find your center in a crashing world. You needed it yesterday. You needed it five years ago. You have always needed it. And now you will need it ever more importantly, for things that you depend upon or assume to be there for you may not be there for you.
 
-<a id="p25"></a>For once you begin to take the [Steps to Knowledge](https://www.newmessage.org/stk) and continue to do so, you begin to end the Separation within yourself—the Separation from your worldly mind to the deeper Mind within you, that was you before you came into this world and will be you after you leave this world. While the soul wanders, Knowledge remains connected to its Source.
+<a id="p25"></a>Great tribulation is coming to the world, not because God wills it but because humanity has set it in motion. There is no punishment in God, but there is redemption there—for every person, religious or not, from every country, every tribe, every nation, every position in life. God has put Knowledge within them all, within you, waiting to be discovered.
 
-<a id="p26"></a>If you can understand what We are telling you here today, you will see that it is the most important thing you could possibly consider. It is the most important thing you could approach. For you have only to look at the world around you to see the hopeless pursuits and attempts at happiness and fulfillment.
+<a id="p26"></a>The things that you think will keep you safe in the future will not keep you safe. You cannot rest your future upon weak assumptions that are easily changed by changing circumstances.
 
-<a id="p27"></a>The crisis of Separation continues within each person, no matter how wealthy they are, no matter what they own or control. They may have all the trappings of beauty, wealth and power. But they are unknown to themselves and they are still lost.
+<a id="p27"></a>You have to be more intelligent than this. You have to be more resilient than this. You have to look ahead to see where you are going and to see what is coming your way. For God has given you the eyes to see and the ears to hear. But these are not the eyes that you see with or the ears that you hear with—not yet.
 
-<a id="p28"></a>God will not punish them for being lost because God has put Knowledge within them. But they cannot return to their true state until they begin to respond to what God has put within them and to begin a preparation they did not invent for themselves—a preparation both practical and mysterious. Practical in that it will guide you in all practical matters, in all important decisions, in how to understand yourself, others and the world with great clarity. But mysterious because it cannot be controlled or understood by your mind or the minds of others.
+<a id="p28"></a>In the future, tens of thousands, even millions of people will be displaced by the rising seas and the world growing hotter and the crops failing everywhere. The disorder will be immense. And you will look at this with great fear and trepidation until you can find the strength of Knowledge, which is not afraid of what is coming, for it knows what is coming. Not precisely. Not the moment and the hour necessarily—not in all cases—but it knows what humanity has sown and what it will have to reap.
 
-<a id="p29"></a>Once you come to the truth within yourself, you will realize you cannot fulfill yourself. You cannot find real happiness and sustain it here. You cannot protect yourself against a world becoming ever more chaotic and uncertain with each passing day.
+<a id="p29"></a>To Heaven, this is so very obvious, but you living on the surface of the Earth cannot see it yet. You do not yet have the eyes to see and the ears to hear. And so your vision is so limited. You are preoccupied with yourself, with your thoughts, with your plans, with your memories, with your problems, with your admonition against others. Your mind is taken up with these things.
 
-<a id="p30"></a>You must find your center in a crashing world. You needed it yesterday. You needed it five years ago. You have always needed it. And now you will need it ever more importantly, for things that you depend upon or assume to be there for you may not be there for you.
+<a id="p30"></a>Do not seek pleasantries alone. Do not try to pad your life with sweet and wonderful things. You must prepare for a world that will be much more dangerous and difficult to navigate. You may dismiss this at your own risk, but the world is giving you the signs with each passing day—the signs of great change that is underway and greater change to come.
 
-<a id="p31"></a>Great tribulation is coming to the world, not because God wills it but because humanity has set it in motion. There is no punishment in God, but there is redemption there—for every person, religious or not, from every country, every tribe, every nation, every position in life. God has put Knowledge within them all, within you, waiting to be discovered.
+<a id="p31"></a>God is going to save and protect you through the power of Knowledge. So you must seek this. You must take the Steps to Knowledge. You must build the bridge to Knowledge and redirect your life accordingly. For much of what you are trying to do at this moment is unnecessary for what you really need, both now and into the future.
 
-<a id="p32"></a>The things that you think will keep you safe in the future will not keep you safe. You cannot rest your future upon weak assumptions that are easily changed by changing circumstances.
+<a id="p32"></a>You have to be centered. You learn, experience by experience, moment by moment. It will not come all at once, for you are not ready for that.
 
-<a id="p33"></a>You have to be more intelligent than this. You have to be more resilient than this. You have to look ahead to see where you are going and to see what is coming your way. For God has given you the eyes to see and the ears to hear. But these are not the eyes that you see with or the ears that you hear with—not yet.
+<a id="p33"></a>But if you take the Steps to Knowledge, it will grow stronger. You may question it, wanting things from it, but it will be silent because it is moving your life. It will speak when it needs to speak. In the meantime, you must follow and be as honest as you can about what you are doing and about your own thoughts and feelings.
 
-<a id="p34"></a>In the future, tens of thousands, even millions of people will be displaced by the rising seas and the world growing hotter and the crops failing everywhere. The disorder will be immense. And you will look at this with great fear and trepidation until you can find the strength of Knowledge, which is not afraid of what is coming, for it knows what is coming. Not precisely. Not the moment and the hour necessarily—not in all cases—but it knows what humanity has sown and what it will have to reap.
+<a id="p34"></a>God has given the preparation for you, to relieve your mind of its great burden of fear and condemnation, to relieve it of its great burden of preoccupation and foolish ideas that have no promise or value.
 
-<a id="p35"></a>To Heaven, this is so very obvious, but you living on the surface of the Earth cannot see it yet. You do not yet have the eyes to see and the ears to hear. And so your vision is so limited. You are preoccupied with yourself, with your thoughts, with your plans, with your memories, with your problems, with your admonition against others. Your mind is taken up with these things.
+<a id="p35"></a>Living in Separation, you have tried to replace your experience of your Ancient Home with all kinds of things. Even if they seem perfectly all right, you cannot assure them for the future.
 
-<a id="p36"></a>Do not seek pleasantries alone. Do not try to pad your life with sweet and wonderful things. You must prepare for a world that will be much more dangerous and difficult to navigate. You may dismiss this at your own risk, but the world is giving you the signs with each passing day—the signs of great change that is underway and greater change to come.
+<a id="p36"></a>This is not a time to run away and hide and try to be safe somewhere, for there is nowhere to hide, really. Do not leave the city and live in the remote country because that will be even more dangerous.
 
-<a id="p37"></a>God is going to save and protect you through the power of Knowledge. So you must seek this. You must take the Steps to Knowledge. You must build the bridge to Knowledge and redirect your life accordingly. For much of what you are trying to do at this moment is unnecessary for what you really need, both now and into the future.
+<a id="p37"></a>But you are blessed to learn of the great preparation that God’s New Revelation for the world is providing. For only God knows how to prepare you. You do not know how to prepare you. Only God knows what you will need to be prepared for. You do not know what you need to be prepared for. Here you do not become passive and detached from the world, trying not to feel anything because you will close the power of Knowledge within yourself if you do this.
 
-<a id="p38"></a>You have to be centered. You learn, experience by experience, moment by moment. It will not come all at once, for you are not ready for that.
+<a id="p38"></a>You are meant here to participate, but to participate truly, you must be prepared. And you are not the source of the preparation. Be grateful it is so. It is a great blessing indeed.
 
-<a id="p39"></a>But if you take the Steps to Knowledge, it will grow stronger. You may question it, wanting things from it, but it will be silent because it is moving your life. It will speak when it needs to speak. In the meantime, you must follow and be as honest as you can about what you are doing and about your own thoughts and feelings.
+<a id="p39"></a>Knowledge will teach you how to navigate the changing world. But first it must free you from the burden of your current conditions, mostly your mental and emotional conditions, which weigh upon you more heavily than almost anything else. You must free your mind so the power of your mind can be used purposefully.
 
-<a id="p40"></a>God has given the preparation for you, to relieve your mind of its great burden of fear and condemnation, to relieve it of its great burden of preoccupation and foolish ideas that have no promise or value.
+<a id="p40"></a>Do not live only for the moment, for that is a fool’s paradise. You must prepare for the future, or you will be a victim of the future. If you could really see what is coming, you would understand perfectly what We are telling you here today.
 
-<a id="p41"></a>Living in Separation, you have tried to replace your experience of your Ancient Home with all kinds of things. Even if they seem perfectly all right, you cannot assure them for the future.
+<a id="p41"></a>The world will get hotter. Great weather events will have ever more destructive power. Humanity has unleashed a great change upon the world through its misuse of the world—its greed, its corruption, its plundering of the world’s resources with never a thought for tomorrow.
 
-<a id="p42"></a>This is not a time to run away and hide and try to be safe somewhere, for there is nowhere to hide, really. Do not leave the city and live in the remote country because that will be even more dangerous.
+<a id="p42"></a>You are going to have to now live in this new world. Your children will have to live in this new world. Who will prepare them? Who will prepare you? Who will give you courage and strength and real determination?
 
-<a id="p43"></a>But you are blessed to learn of the great preparation that [God’s New Revelation](https://www.newmessage.org/aboutnmg) for the world is providing. For only God knows how to prepare you. You do not know how to prepare you. Only God knows what you will need to be prepared for. You do not know what you need to be prepared for. Here you do not become passive and detached from the world, trying not to feel anything because you will close the power of Knowledge within yourself if you do this.
+<a id="p43"></a>Political leaders cannot do this. Economic theories cannot do this. As humanity struggles to cope and to survive, you will have to take greater steps—the Steps to Knowledge.
 
-<a id="p44"></a>You are meant here to participate, but to participate truly, you must be prepared. And you are not the source of the preparation. Be grateful it is so. It is a great blessing indeed.
+<a id="p44"></a>God is not going to come and save humanity in the eleventh hour, but God has given you the power of Knowledge to guide you and prevent you from giving your life away to meaningless and hopeless things. This is how God will save you, and through you others, and through others the whole world, in time, if enough people can respond.
 
-<a id="p45"></a>Knowledge will teach you how to navigate the changing world. But first it must free you from the burden of your current conditions, mostly your mental and emotional conditions, which weigh upon you more heavily than almost anything else. You must free your mind so the power of your mind can be used purposefully.
+<a id="p45"></a>Do not think you will be passive, sitting around waiting for messages, for you will be at work—working on your circumstances, correcting your behavior, setting things aside, taking things on, making important decisions and having to be responsible for the outcome of those decisions. There is no passivity here. You are not going to be led like a little child. For the world you are facing will be hazardous, and you must be very strong and very determined to deal with it.
 
-<a id="p46"></a>Do not live only for the moment, for that is a fool’s paradise. You must prepare for the future, or you will be a victim of the future. If you could really see what is coming, you would understand perfectly what We are telling you here today.
+<a id="p46"></a>You will see immense suffering around you, immense travail. People will act foolishly in the face of the Great Waves of change. They will elect dangerous officials. They will give themselves to dangerous pursuits. They will take sides against others. They will retreat into fear and defensiveness. You will see this everywhere, in all nations.
 
-<a id="p47"></a>The world will get hotter. Great weather events will have ever more destructive power. Humanity has unleashed a great change upon the world through its misuse of the world—its greed, its corruption, its plundering of the world’s resources with never a thought for tomorrow.
+<a id="p47"></a>It will be very disturbing. It will be very difficult. It will be heart wrenching. But you must find your center and hold fast to this in the challenges to come. And from this center you will know what to practice and what not to practice. You will take a journey of many steps, for you are not ready for a greater life yet.
 
-<a id="p48"></a>You are going to have to now live in this new world. Your children will have to live in this new world. Who will prepare them? Who will prepare you? Who will give you courage and strength and real determination?
+<a id="p48"></a>You will have to overcome certain tendencies within yourselves. And Knowledge will give you the power and clarity to do this. You will have to change your relationships with certain people who are holding you back or taking you away. Knowledge will give you the strength and certainty to do this.
 
-<a id="p49"></a>Political leaders cannot do this. Economic theories cannot do this. As humanity struggles to cope and to survive, you will have to take greater steps—the Steps to Knowledge.
+<a id="p49"></a>You will have to build the foundation of your life, practically. It will be a lot of work, but it will be redeeming. It will be purposeful. And it will give you meaning in the moment and strength for the future.
 
-<a id="p50"></a>God is not going to come and save humanity in the eleventh hour, but God has given you the power of Knowledge to guide you and prevent you from giving your life away to meaningless and hopeless things. This is how God will save you, and through you others, and through others the whole world, in time, if enough people can respond.
+<a id="p50"></a>This is not the end times, but it is the end of the world as you have known it. Do not subscribe to such ideas, for they were given in ancient times. They only have meaning symbolically. But many things will come to an end, and this will impact people greatly.
 
-<a id="p51"></a>Do not think you will be passive, sitting around waiting for messages, for you will be at work—working on your circumstances, correcting your behavior, setting things aside, taking things on, making important decisions and having to be responsible for the outcome of those decisions. There is no passivity here. You are not going to be led like a little child. For the world you are facing will be hazardous, and you must be very strong and very determined to deal with it.
+<a id="p51"></a>For this, most people are unprepared—circumstantially unprepared, emotionally unprepared, spiritually unprepared. And that is why God is giving the great preparation for the world in a New Revelation for the world.
 
-<a id="p52"></a>You will see immense suffering around you, immense travail. People will act foolishly in the face of the Great Waves of change. They will elect dangerous officials. They will give themselves to dangerous pursuits. They will take sides against others. They will retreat into fear and defensiveness. You will see this everywhere, in all nations.
+<a id="p52"></a>For God gives people what they truly need, both now and for the future. Not what they want in the moment, which in so many cases would only weaken them further and make it more difficult for them to respond.
 
-<a id="p53"></a>It will be very disturbing. It will be very difficult. It will be heart wrenching. But you must find your center and hold fast to this in the challenges to come. And from this center you will know what to practice and what not to practice. You will take a journey of many steps, for you are not ready for a greater life yet.
+<a id="p53"></a>God is not going to do things for you. God is going to teach you how to do things for yourself and for others. God is not going to give you miracles. God is going to give you the steps to become powerful and certain and compassionate in a world of ever-growing discord.
 
-<a id="p54"></a>You will have to overcome certain tendencies within yourselves. And Knowledge will give you the power and clarity to do this. You will have to change your relationships with certain people who are holding you back or taking you away. Knowledge will give you the strength and certainty to do this.
+<a id="p54"></a>God is not going to make your life work or cast a spell over you to make your past and your history disappear. God is going to teach you how to use your past and history to gain wisdom and strength, for surely it is a demonstration of what life is like without Knowledge, if seen correctly.
 
-<a id="p55"></a>You will have to build the foundation of your life, practically. It will be a lot of work, but it will be redeeming. It will be purposeful. And it will give you meaning in the moment and strength for the future.
+<a id="p55"></a>When you pray, pray that your relationship with Knowledge will become stronger. Pray that you will have strength and courage and compassion. For you need this today, and you will certainly need it in the future. When you pray for others, pray that Knowledge will become strong within them so that they may find the true pathway and course of their life.
 
-<a id="p56"></a>This is not the end times, but it is the end of the world as you have known it. Do not subscribe to such ideas, for they were given in ancient times. They only have meaning symbolically. But many things will come to an end, and this will impact people greatly.
+<a id="p56"></a>God is giving you a whole new platform upon which to build a new and stronger life, a platform that can survive the Great Waves of change and gain meaning from it and provide service within it.
 
-<a id="p57"></a>For this, most people are unprepared—circumstantially unprepared, emotionally unprepared, spiritually unprepared. And that is why God is giving the great preparation for the world in a New Revelation for the world.
+<a id="p57"></a>Right now you are like sleeping on the beach, and the great tsunami waves are coming. You are sleeping there, dreaming of what you want and what you are afraid of. While the animals seek higher ground and the birds fly away, the people are lying on the beach as if nothing is happening at all.
 
-<a id="p58"></a>For God gives people what they truly need, both now and for the future. Not what they want in the moment, which in so many cases would only weaken them further and make it more difficult for them to respond.
+<a id="p58"></a>You must take this journey. Do not try to do it for other people. Do not try to have them do it with you. For each person must respond. For your children, teach them how to follow and listen to their own deeper experience and give them a demonstration of courage and integrity from yourself, from your own life.
 
-<a id="p59"></a>God is not going to do things for you. God is going to teach you how to do things for yourself and for others. God is not going to give you miracles. God is going to give you the steps to become powerful and certain and compassionate in a world of ever-growing discord.
+<a id="p59"></a>You cannot save everyone. But you are not sent here to save everyone. You must build your foundation, your true foundation. From that, the true service that you are here to provide will naturally come forth. At this moment, you cannot determine what it will be, what it will look like, what it will mean. For you are not ready. You do not yet have the eyes to see.
 
-<a id="p60"></a>God is not going to make your life work or cast a spell over you to make your past and your history disappear. God is going to teach you how to use your past and history to gain wisdom and strength, for surely it is a demonstration of what life is like without Knowledge, if seen correctly.
+<a id="p60"></a>You must get serious about your life. It is not a game. It is not a shopping spree. It is not a vendetta against other people. It is not a fantasy built upon fantasy. You are going to have to become strong enough to take care of yourself and others, without becoming a victim yourself.
 
-<a id="p61"></a>When you pray, pray that your relationship with Knowledge will become stronger. Pray that you will have strength and courage and compassion. For you need this today, and you will certainly need it in the future. When you pray for others, pray that Knowledge will become strong within them so that they may find the true pathway and course of their life.
+<a id="p61"></a>You do not know how to achieve this, and your ideas most likely will do you more harm than good. That is why God has sent the preparation into the world—a warning, a preparation and a great blessing for a struggling humanity, facing now change on a scale never seen in the world before, given now to a humanity standing at the threshold of space, a Greater Community of life in the universe, with which it must learn to contend.
 
-<a id="p62"></a>God is giving you a whole new platform upon which to build a new and stronger life, a platform that can survive the Great Waves of change and gain meaning from it and provide service within it.
+<a id="p62"></a>People live their lives as if nothing has really changed. But, in fact, everything has really changed. The climate of your world is changing. The resources of your world are being diminished. The world is being interfered with from races from beyond, who see the great opportunity to take control here without the use of force.
 
-<a id="p63"></a>Right now you are like sleeping on the beach, and the great tsunami waves are coming. You are sleeping there, dreaming of what you want and what you are afraid of. While the animals seek higher ground and the birds fly away, the people are lying on the beach as if nothing is happening at all.
+<a id="p63"></a>God is alerting you, preparing you, warning you, trying to awaken you from your troubled sleep, from your dreams and preoccupations, from your tendencies and habits so that you can find your real strengths, your real qualities, the real courage and value of your life, which is alive within you underneath everything that has been put on top.
 
-<a id="p64"></a>You must take this journey. Do not try to do it for other people. Do not try to have them do it with you. For each person must respond. For your children, teach them how to follow and listen to their own deeper experience and give them a demonstration of courage and integrity from yourself, from your own life.
+<a id="p64"></a>God’s first purpose is to unburden you, to relieve you of those things that are harming you and others, to relieve you of your crown of thorns—your aggravations, your contempt for others and yourself, your regrets, your ignorance. God’s first purpose is to unburden you.
 
-<a id="p65"></a>You cannot save everyone. But you are not sent here to save everyone. You must build your foundation, your true foundation. From that, the true service that you are here to provide will naturally come forth. At this moment, you cannot determine what it will be, what it will look like, what it will mean. For you are not ready. You do not yet have the eyes to see.
+<a id="p65"></a>Before you can know what comes next, this unburdening must take place. And it will take time. It does not happen overnight. In this, you must learn to follow without knowing what it looks like around the other side of the mountain. You must live without definitions for your future. You must live without many of the conclusions that you rely upon today, which will be hopeless in the times to come.
 
-<a id="p66"></a>You must get serious about your life. It is not a game. It is not a shopping spree. It is not a vendetta against other people. It is not a fantasy built upon fantasy. You are going to have to become strong enough to take care of yourself and others, without becoming a victim yourself.
+<a id="p66"></a>Not everyone will be able to respond to this. Not everyone will find it in time. Many will reject it because of their religious beliefs or positions, unable to see that it really is a true Message and preparation from God.
 
-<a id="p67"></a>You do not know how to achieve this, and your ideas most likely will do you more harm than good. That is why God has sent the preparation into the world—a warning, a preparation and a great blessing for a struggling humanity, facing now change on a scale never seen in the world before, given now to a humanity standing at the threshold of space, a [Greater Community](https://www.newmessage.org/aboutgc) of life in the universe, with which it must learn to contend.
+<a id="p67"></a>You can do nothing for them. You must continue on yourself. The Calling is for you. They have their own calling, to which they may or may not respond. You must respond to yours.
 
-<a id="p68"></a>People live their lives as if nothing has really changed. But, in fact, everything has really changed. The climate of your world is changing. The resources of your world are being diminished. The world is being interfered with from races from beyond, who see the great opportunity to take control here without the use of force.
+<a id="p68"></a>You must be centered in a crashing world—courageous, purposeful, affected but not overtaken by things around you, impacted but not overwhelmed by what you see and hear.
 
-<a id="p69"></a>God is alerting you, preparing you, warning you, trying to awaken you from your troubled sleep, from your dreams and preoccupations, from your tendencies and habits so that you can find your real strengths, your real qualities, the real courage and value of your life, which is alive within you underneath everything that has been put on top.
-
-<a id="p70"></a>God’s first purpose is to unburden you, to relieve you of those things that are harming you and others, to relieve you of your crown of thorns—your aggravations, your contempt for others and yourself, your regrets, your ignorance. God’s first purpose is to unburden you.
-
-<a id="p71"></a>Before you can know what comes next, this unburdening must take place. And it will take time. It does not happen overnight. In this, you must learn to follow without knowing what it looks like around the other side of the mountain. You must live without definitions for your future. You must live without many of the conclusions that you rely upon today, which will be hopeless in the times to come.
-
-<a id="p72"></a>Not everyone will be able to respond to this. Not everyone will find it in time. Many will reject it because of their religious beliefs or positions, unable to see that it really is a true Message and preparation from God.
-
-<a id="p73"></a>You can do nothing for them. You must continue on yourself. The Calling is for you. They have their own calling, to which they may or may not respond. You must respond to yours.
-
-<a id="p74"></a>You must be centered in a crashing world—courageous, purposeful, affected but not overtaken by things around you, impacted but not overwhelmed by what you see and hear.
-
-<a id="p75"></a>Here you do not need to be so armored because your center is Knowledge. You have returned to yourself as you really are, not as the world has made you. And with this, the Power of Heaven can move through you, mysteriously. It is a perfect Plan. And it is come at just the right time.
+<a id="p69"></a>Here you do not need to be so armored because your center is Knowledge. You have returned to yourself as you really are, not as the world has made you. And with this, the Power of Heaven can move through you, mysteriously. It is a perfect Plan. And it is come at just the right time.

@@ -2,11 +2,11 @@
 
 Volume 1
 
-Source: [The Journey to a New Life](https://www.newmessage.org/the-message/volume-1/journey-new-life/)
+Source: [The Journey to a New Life](https://newmessage.org/the-message/volume-1/journey-new-life/)
 
-## Chapters
+## Contents
 
-- **`00-front-matter.md`** — Front Matter
+- **`00-front-matter.md`** — Overview
 - **`01-the-awakening.md`** — The Awakening
 - **`02-the-freedom-journey.md`** — The Freedom Journey
 - **`03-the-prison.md`** — The Prison

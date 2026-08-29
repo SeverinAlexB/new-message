@@ -1,12 +1,12 @@
-# Secrets Of Heaven — Index
+# Secrets of Heaven — Index
 
 Volume 7
 
-Source PDF: [secrets-of-heaven.pdf](../sources/pdf/secrets-of-heaven.pdf)
+Source: [Secrets of Heaven](https://newmessage.org/the-message/volume-7/secrets-heaven/)
 
-## Chapters
+## Contents
 
-- **`00-front-matter.md`** — Front Matter
+- **`00-front-matter.md`** — Overview
 - **`001-introduction.md`** — Introduction
 - **`002-the-secrets-of-heaven.md`** — The Secrets of Heaven
 - **`003-the-engagement.md`** — The Engagement

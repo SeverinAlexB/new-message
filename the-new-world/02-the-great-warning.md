@@ -1,142 +1,130 @@
 ---
 volume: 1
 book: "The New World"
-chapter: "02"
+chapter: "2"
 title: "The Great Warning"
 type: chapter
-source_url: "https://www.newmessage.org/the-message/volume-1/new-world/the-great-warning/"
+source_url: "https://newmessage.org/the-message/volume-1/new-world/the-great-warning/"
+received_date: "April 26, 2015"
+received_location: "Boulder, Colorado"
 ---
 
 # The Great Warning
 
-<a id="p1"></a>- Listen
-- Info
-- Watch
+<a id="p1"></a>God has sent the New Message to the world at a great turning point for the human family—a turning point for which you are unprepared and unaware, a turning point that is so great that it will alter the course of life for everyone here today, and the future of everyone to come in this world.
 
-<a id="p2"></a>Hear the original spoken revelation:
+<a id="p2"></a>It is a great threshold, the greatest the human family has ever had to face, in part due to its despoiling the world and in part due to its evolution, which has brought it to the threshold of space, a Greater Community of life in the universe of which you know nothing at all.
 
-<a id="p3"></a>[Download](https://www.newmessage.org/av/the-great-warning.mp3) (Right-click to download)
+<a id="p3"></a>The great Revelations of the past and the Messengers who have brought them here did not prepare you for this, for that was not the need at that time.
 
-<a id="p4"></a>As received
+<a id="p4"></a>But you have now reached the threshold where you are changing the world so sufficiently that it will create an environment that will be ever more difficult for you to survive within. And you are facing Intervention from the universe around you, from those races who seek to exploit your weakness and division and your changing circumstances for their own purposes and benefit.
 
-<a id="p5"></a>on April 26, 2015
+<a id="p5"></a>All the while, humanity is consumed with its own internal problems and its friction between nations, cultures and religions. Consumed it is, [self-obsessed] it is, blind and foolish as it stands at the threshold of the Greater Community, unprepared to deal with the outcome and the effects of its plundering this world to such an extent that it is changing the atmosphere and the waters and the soils—all the very things you depend upon each moment and day to live in this world, this splendid world, a real gem in the universe.
 
-<a id="p6"></a>in Boulder, Colorado
+<a id="p6"></a>Wrecking the planet has brought others here to save it for themselves, to become the new leadership for this world, if the opportunity can be given to them.
 
-<a id="p7"></a>God has sent [the New Message](https://www.newmessage.org/aboutnmg) to the world at a great turning point for the human family—a turning point for which you are unprepared and unaware, a turning point that is so great that it will alter the course of life for everyone here today, and the future of everyone to come in this world.
+<a id="p7"></a>Many people feel great anxiety about the future and concern over what will come, and that is well founded. No matter what explanations they give to this, or what they think it means, it is all the same response to a great change in your circumstances and a great challenge to your freedom and well-being.
 
-<a id="p8"></a>It is a great threshold, the greatest the human family has ever had to face, in part due to its despoiling the world and in part due to its evolution, which has brought it to the threshold of space, a [Greater Community](https://www.newmessage.org/aboutgc) of life in the universe of which you know nothing at all.
+<a id="p8"></a>Only the Lord of the universe can warn you of these things with perfect clarity. And that is being done now through the Angelic Assembly, who speaks as one Voice to bring God’s New Revelation into the world.
 
-<a id="p9"></a>The great Revelations of the past and the Messengers who have brought them here did not prepare you for this, for that was not the need at that time.
+<a id="p9"></a>For God has not spoken to the world in 1400 years. Messages have come for specific things, through certain agents, but nothing for the whole world, nothing to alter the course of humanity’s reckless behavior and destiny.
 
-<a id="p10"></a>But you have now reached the threshold where you are changing the world so sufficiently that it will create an environment that will be ever more difficult for you to survive within. And you are facing Intervention from the universe around you, from those races who seek to exploit your weakness and division and your changing circumstances for their own purposes and benefit.
+<a id="p10"></a>Revelations of this nature only come perhaps once in a millennium. You are so privileged and challenged to be living at such a time of Revelation. It is the greatest opportunity if you can understand it, if you can receive what God wants to give to humanity, and not just use it for your own selfish purposes, but to bring it to bear on the well-being and the future of the human family in this world, which is now imperiled from within and from without.
 
-<a id="p11"></a>All the while, humanity is consumed with its own internal problems and its friction between nations, cultures and religions. Consumed it is, [self-obsessed] it is, blind and foolish as it stands at the threshold of the Greater Community, unprepared to deal with the outcome and the effects of its plundering this world to such an extent that it is changing the atmosphere and the waters and the soils—all the very things you depend upon each moment and day to live in this world, this splendid world, a real gem in the universe.
+<a id="p11"></a>For you have changed the chemistry of the atmosphere so sufficiently that the planet will become hotter and the waters will rise. The oceans will rise and they will continue to rise, consuming everything in their wake. Great droughts and storms will lash upon the world as they are beginning to do now.
 
-<a id="p12"></a>Wrecking the planet has brought others here to save it for themselves, to become the new leadership for this world, if the opportunity can be given to them.
+<a id="p12"></a>It will be a time of increasing difficulty and emergency. Do not be surprised that this is occurring, for you have changed the conditions of life here so sufficiently that this could be foreseen and has been foreseen by certain individuals.
 
-<a id="p13"></a>Many people feel great anxiety about the future and concern over what will come, and that is well founded. No matter what explanations they give to this, or what they think it means, it is all the same response to a great change in your circumstances and a great challenge to your freedom and well-being.
+<a id="p13"></a>But the picture is bigger than this, you see, for your growing vulnerability has brought Intervention from the universe, from exploitive races who may present themselves as being peace loving and in service to humanity. But this is only a deception.
 
-<a id="p14"></a>Only the Lord of the universe can warn you of these things with perfect clarity. And that is being done now through the [Angelic Assembly](https://www.newmessage.org/the-message/volume-1/god-spoken-again/the-assembly), who speaks as one Voice to bring God’s New Revelation into the world.
+<a id="p14"></a>This planet is of great value in the universe. But no one will attack it, for that is not allowed in this part of space. No one wants to destroy its great assets. And no one wants to destroy humanity as its resident work force.
 
-<a id="p15"></a>For God has not spoken to the world in 1400 years. Messages have come for specific things, through certain agents, but nothing for the whole world, nothing to alter the course of humanity’s reckless behavior and destiny.
+<a id="p15"></a>With each passing day, you are losing your self-sufficiency, making you ever vulnerable to persuasion from beyond and inducements from beyond and the offering of gifts from beyond. As humanity’s condition continues to decline, who amongst you or your leaders will have the wisdom and the restraint to hold back from receiving these things?
 
-<a id="p16"></a>Revelations of this nature only come perhaps once in a millennium. You are so privileged and challenged to be living at such a time of Revelation. It is the greatest opportunity if you can understand it, if you can receive what God wants to give to humanity, and not just use it for your own selfish purposes, but to bring it to bear on the well-being and the future of the human family in this world, which is now imperiled from within and from without.
+<a id="p16"></a>The world is changing so fast, and some of it you cannot change. You can only mitigate it, which is rarely being done in the world today.
 
-<a id="p17"></a>For you have changed the chemistry of the atmosphere so sufficiently that the planet will become hotter and the waters will rise. The oceans will rise and they will continue to rise, consuming everything in their wake. Great droughts and storms will lash upon the world as they are beginning to do now.
+<a id="p17"></a>For people do not realize they are living in a global state of emergency, the early stages of this where much can be done, where much can be resolved, where much preparation can be underway.
 
-<a id="p18"></a>It will be a time of increasing difficulty and emergency. Do not be surprised that this is occurring, for you have changed the conditions of life here so sufficiently that this could be foreseen and has been foreseen by certain individuals.
+<a id="p18"></a>But who amongst those you know, who amongst your culture and nation and family are preparing for the Great Waves of change? Are you preparing for the Great Waves of change? Or are you foolishly living in the moment, blind and ignorant to where you are going and what is coming over the horizon and the great signs the world is giving you now to alert you and to prepare you?
 
-<a id="p19"></a>But the picture is bigger than this, you see, for your growing vulnerability has brought Intervention from the universe, from exploitive races who may present themselves as being peace loving and in service to humanity. But this is only a deception.
+<a id="p19"></a>God has given now the preparation for the great change that is coming—given at a time of utmost importance and expediency, given at a time when humanity still has time to prepare and to offset much of the damage that may be done in the future, should you neglect your duties and responsibilities now.
 
-<a id="p20"></a>This planet is of great value in the universe. But no one will attack it, for that is not allowed in this part of space. No one wants to destroy its great assets. And no one wants to destroy humanity as its resident work force.
+<a id="p20"></a>Only God knows what is coming over the horizon. You are concerned with your needs and issues, your grievances and your debates. But you are not even looking. Who amongst anyone you know is really looking? People are hiding behind their religions, their scriptures, people are hiding behind their politics, people are hiding behind their problems. Who has the courage and the humility to look out and to ask in all honesty, “What is coming now?”
 
-<a id="p21"></a>With each passing day, you are losing your self-sufficiency, making you ever vulnerable to persuasion from beyond and inducements from beyond and the offering of gifts from beyond. As humanity’s condition continues to decline, who amongst you or your leaders will have the wisdom and the restraint to hold back from receiving these things?
+<a id="p21"></a>People do not want to know. They do not want to see. They do not want to face the challenge, even though facing it will make them stronger than they are today and will give them a chance to do something intelligent for themselves and their loved ones.
 
-<a id="p22"></a>The world is changing so fast, and some of it you cannot change. You can only mitigate it, which is rarely being done in the world today.
+<a id="p22"></a>Do not seek comfort. Do not seek reprieve. Do not try to find peace and equanimity in a world that you have been sent to serve—a world now facing its greatest challenges and its greatest opportunity for unity and cooperation, if enough people can recognize the great need of this time and the times to come.
 
-<a id="p23"></a>For people do not realize they are living in a global state of emergency, the early stages of this where much can be done, where much can be resolved, where much preparation can be underway.
+<a id="p23"></a>It does not matter if you pray to God. It does not matter that you prostrate yourself in the church, the temple or the mosque if you are not willing to really do what God has sent you here to do, which is to play your small but important part in preparing yourself and your nation for the two great challenges that humanity is now facing and will face increasingly as time continues.
 
-<a id="p24"></a>But who amongst those you know, who amongst your culture and nation and family are preparing for the [Great Waves of change](https://www.newmessage.org/aboutgwc)? Are you preparing for the Great Waves of change? Or are you foolishly living in the moment, blind and ignorant to where you are going and what is coming over the horizon and the great signs the world is giving you now to alert you and to prepare you?
+<a id="p24"></a>There is no greater problem than this. For if you should fail in either of these challenges—if you should fail to prepare for the Great Waves of change; if you should fail to offset the Intervention that is occurring in the world today, which you have the power to do—then human freedom will be lost, and you will be placed in a set of circumstances more difficult and challenging than you can now imagine.
 
-<a id="p25"></a>God has given now the preparation for the great change that is coming—given at a time of utmost importance and expediency, given at a time when humanity still has time to prepare and to offset much of the damage that may be done in the future, should you neglect your duties and responsibilities now.
+<a id="p25"></a>This is such a great challenge and so important that God has spoken again, to address it directly, to prepare you, to bring purpose and equanimity and cooperation between the world’s religions, which must all now help to prepare humanity for the great change that is coming. There should be no conflict between them, for God has initiated them all. Though they have all been changed by man over time, they still have great purpose to their Source and service to give to the world in cooperation with one another.
 
-<a id="p26"></a>Only God knows what is coming over the horizon. You are concerned with your needs and issues, your grievances and your debates. But you are not even looking. Who amongst anyone you know is really looking? People are hiding behind their religions, their scriptures, people are hiding behind their politics, people are hiding behind their problems. Who has the courage and the humility to look out and to ask in all honesty, “What is coming now?”
+<a id="p26"></a>Now you must begin to think of things you have not thought of before, to consider the outcome and the consequences of great events in the world and not merely think about your own personal interests, needs or distractions.
 
-<a id="p27"></a>People do not want to know. They do not want to see. They do not want to face the challenge, even though facing it will make them stronger than they are today and will give them a chance to do something intelligent for themselves and their loved ones.
+<a id="p27"></a>You must become responsible—able to respond, willing to look, recognizing your limitations in doing so, recognizing your weaknesses and your strengths. A deep evaluation for your life must be undertaken at such a time, or the Great Waves will consume you and all that you have. And when it occurs, you will recognize you did not see it coming because you were never looking or paying attention.
 
-<a id="p28"></a>Do not seek comfort. Do not seek reprieve. Do not try to find peace and equanimity in a world that you have been sent to serve—a world now facing its greatest challenges and its greatest opportunity for unity and cooperation, if enough people can recognize the great need of this time and the times to come.
+<a id="p28"></a>The seas will rise. Within the next century and a half, they will rise over a hundred feet. Where are you going to live? What will happen to your ports and cities and your prime farmland? What will happen to the deltas of the world and the millions who live there? Who will take them in when they must flee their nation, unable to survive there any longer? It is this you must consider.
 
-<a id="p29"></a>It does not matter if you pray to God. It does not matter that you prostrate yourself in the church, the temple or the mosque if you are not willing to really do what God has sent you here to do, which is to play your small but important part in preparing yourself and your nation for the two great challenges that humanity is now facing and will face increasingly as time continues.
+<a id="p29"></a>Look at a map of the world and see what will be lost. The majority of the major cities of the world will be flooded and will not be able to be protected. What will happen to all the people who must leave, even [in] the wealthy nations and their cities and their coastlines? Where will they go? What will they do, they, along with you and your recent ancestors, who have changed the climate of the world? As the icecaps melt, as the glaciers melt, as water becomes ever more precious and drought grows worldwide, these are the things that must be mitigated now while you still have a chance to do so. Do not think there are other problems that are more significant than this. Do not discount this.
 
-<a id="p30"></a>There is no greater problem than this. For if you should fail in either of these challenges—if you should fail to prepare for the Great Waves of change; if you should fail to offset the Intervention that is occurring in the world today, which you have the power to do—then human freedom will be lost, and you will be placed in a set of circumstances more difficult and challenging than you can now imagine.
+<a id="p30"></a>You must build your ark—for yourself and your family and your community—not for your own needs, but for the needs of everyone around you. If you wait too long, it will be too late to prepare, and everyone will be panicking. All those who would not see and could not see or were too weak or elderly or infirm to prepare—it will be a great panic, a growing panic, a panic between nations, a panic within nations.
 
-<a id="p31"></a>This is such a great challenge and so important that God has spoken again, to address it directly, to prepare you, to bring purpose and equanimity and cooperation between the world’s religions, which must all now help to prepare humanity for the great change that is coming. There should be no conflict between them, for God has initiated them all. Though they have all been changed by man over time, they still have great purpose to their Source and service to give to the world in cooperation with one another.
+<a id="p31"></a>We must tell you these things so that you will understand the importance of God’s New Revelation for the world and the importance of your being in the world at this time, which is not merely to lose yourself in hobbies, fantasies and personal goals. You have a responsibility to those who sent you and to those who went to great effort to bring you here at this time, under these circumstances, to serve a world facing its greatest trial and greatest crisis.
 
-<a id="p32"></a>Now you must begin to think of things you have not thought of before, to consider the outcome and the consequences of great events in the world and not merely think about your own personal interests, needs or distractions.
+<a id="p32"></a>Step out of the shadows. Step away from addiction and obsession. Step away from your hopeless romances and your foolish goals, which will have no promise in a future such as this. This is the challenge of your life, you see. Discount it at your own peril. Neglect it at your own peril. Argue with it at your own peril.
 
-<a id="p33"></a>You must become responsible—able to respond, willing to look, recognizing your limitations in doing so, recognizing your weaknesses and your strengths. A deep evaluation for your life must be undertaken at such a time, or the Great Waves will consume you and all that you have. And when it occurs, you will recognize you did not see it coming because you were never looking or paying attention.
+<a id="p33"></a>For technology will not save you. An alien race will not save you. They are part of your problem, you see. It is only human will, determination and cooperation that will fortify the human family in the great changes to come. It is your moral responsibility. It is your greater purpose for being here. It is what your life is really about.
 
-<a id="p34"></a>The seas will rise. Within the next century and a half, they will rise over a hundred feet. Where are you going to live? What will happen to your ports and cities and your prime farmland? What will happen to the deltas of the world and the millions who live there? Who will take them in when they must flee their nation, unable to survive there any longer? It is this you must consider.
+<a id="p34"></a>Your service will not be grand. It will not garner great attention. It will be to help a person, or a group of people or a city or a town, wherever you are designed to give. The service must happen at all levels, in all ways from increasing numbers of people.
 
-<a id="p35"></a>Look at a map of the world and see what will be lost. The majority of the major cities of the world will be flooded and will not be able to be protected. What will happen to all the people who must leave, even [in] the wealthy nations and their cities and their coastlines? Where will they go? What will they do, they, along with you and your recent ancestors, who have changed the climate of the world? As the icecaps melt, as the glaciers melt, as water becomes ever more precious and drought grows worldwide, these are the things that must be mitigated now while you still have a chance to do so. Do not think there are other problems that are more significant than this. Do not discount this.
+<a id="p35"></a>Do not wait until the skies grow dark and the waters rise and the lands dry out and the people are desperate. For then it will be too late to do much of anything, for yourself or for others.
 
-<a id="p36"></a>You must build your ark—for yourself and your family and your community—not for your own needs, but for the needs of everyone around you. If you wait too long, it will be too late to prepare, and everyone will be panicking. All those who would not see and could not see or were too weak or elderly or infirm to prepare—it will be a great panic, a growing panic, a panic between nations, a panic within nations.
+<a id="p36"></a>God is giving you now the eyes to see, the ears to hear. You have this within you already, in a deeper Intelligence within you called Knowledge. It is beyond your intellect. It is more powerful than your intellect. It is greater than your ideas, your assumptions, your beliefs or your preferences.
 
-<a id="p37"></a>We must tell you these things so that you will understand the importance of God’s New Revelation for the world and the importance of your being in the world at this time, which is not merely to lose yourself in hobbies, fantasies and personal goals. You have a responsibility to those who sent you and to those who went to great effort to bring you here at this time, under these circumstances, to serve a world facing its greatest trial and greatest crisis.
+<a id="p37"></a>You must face this greater reality. If you do not, your life will be wasted and forfeited, and your purpose will be unrecognized and unfulfilled.
 
-<a id="p38"></a>Step out of the shadows. Step away from addiction and obsession. Step away from your hopeless romances and your foolish goals, which will have no promise in a future such as this. This is the challenge of your life, you see. Discount it at your own peril. Neglect it at your own peril. Argue with it at your own peril.
+<a id="p38"></a>Yet if you do face it, you will be frightened at first, but you will gain strength as you continue to recognize the great need that is emerging. It will help you re-evaluate your life and to give up little and dangerous and harmful things. It will be the perfect impetus and inspiration for you to bring your life and mind in order and to learn how to follow Knowledge, for that is the meaning of all true spirituality and all true religion.
 
-<a id="p39"></a>For technology will not save you. An alien race will not save you. They are part of your problem, you see. It is only human will, determination and cooperation that will fortify the human family in the great changes to come. It is your moral responsibility. It is your greater purpose for being here. It is what your life is really about.
+<a id="p39"></a>God has given you a perfect guiding Intelligence. It is unafraid of the world. It is uncorrupted by the world. What other part of you can claim this, in all honesty? That which is weak within you must follow that which is strong. That which is weak within you must follow others who are strong in the way in which We speak.
 
-<a id="p40"></a>Your service will not be grand. It will not garner great attention. It will be to help a person, or a group of people or a city or a town, wherever you are designed to give. The service must happen at all levels, in all ways from increasing numbers of people.
+<a id="p40"></a>Humanity has backed itself into a corner. There is no easy way out. There is no simple solution. There is no one technology that is going to change all this. Humanity does not know how to prepare. It only has little pieces of the preparation, and most of that has never been really tested before.
 
-<a id="p41"></a>Do not wait until the skies grow dark and the waters rise and the lands dry out and the people are desperate. For then it will be too late to do much of anything, for yourself or for others.
+<a id="p41"></a>If you will give this your attention, it will help you to understand. If you will understand that you were sent here for this, it will bring your life into greater balance, and a greater strength can begin to emerge within you.
 
-<a id="p42"></a>God is giving you now the eyes to see, the ears to hear. You have this within you already, in a deeper Intelligence within you called Knowledge. It is beyond your intellect. It is more powerful than your intellect. It is greater than your ideas, your assumptions, your beliefs or your preferences.
+<a id="p42"></a>For the first time in human history, the Lord of all the universe has provided the Steps to Knowledge to the human family, an ancient teaching that has been given to other races in the universe over countless eons of time. It is this that must be studied, for this will engage you with the greater power within you, which is connected to God. Be you religious or not, no matter what your faith tradition, or if you have no faith tradition, it is all the same. The gift is the same. The need is the same. The truth is the same.
 
-<a id="p43"></a>You must face this greater reality. If you do not, your life will be wasted and forfeited, and your purpose will be unrecognized and unfulfilled.
+<a id="p43"></a>Argue with this theologically. Argue with it psychologically. Argue with it politically, economically. It does not matter. It is all a failure to respond. Do not defend your weakness in this way, but see that God is calling you through the Revelation to recognize the condition of the world and of your life, your future and your destiny here.
 
-<a id="p44"></a>Yet if you do face it, you will be frightened at first, but you will gain strength as you continue to recognize the great need that is emerging. It will help you re-evaluate your life and to give up little and dangerous and harmful things. It will be the perfect impetus and inspiration for you to bring your life and mind in order and to learn how to follow Knowledge, for that is the meaning of all true spirituality and all true religion.
+<a id="p44"></a>Do this for yourself. Do this for your children. Do this for everything you love and appreciate about the world. But beyond this, do this for those who sent you here, who are watching to see if you can respond.
 
-<a id="p45"></a>God has given you a perfect guiding Intelligence. It is unafraid of the world. It is uncorrupted by the world. What other part of you can claim this, in all honesty? That which is weak within you must follow that which is strong. That which is weak within you must follow others who are strong in the way in which We speak.
+<a id="p45"></a>The Messenger is in the world. He is an older man now. He will not be here forever. He holds part of the gift within himself, for he was sent from the Angelic Assembly, as [were] all of the former Messengers.
 
-<a id="p46"></a>Humanity has backed itself into a corner. There is no easy way out. There is no simple solution. There is no one technology that is going to change all this. Humanity does not know how to prepare. It only has little pieces of the preparation, and most of that has never been really tested before.
+<a id="p46"></a>This is the time. This is the moment. This is the crisis. Only when you see you do not have an answer for these things will you turn to that which does have the answer and can lead you step by step to repositioning your life and your mind correctly so that you may have wisdom and clarity, instead of fear and admonition.
 
-<a id="p47"></a>If you will give this your attention, it will help you to understand. If you will understand that you were sent here for this, it will bring your life into greater balance, and a greater strength can begin to emerge within you.
+<a id="p47"></a>This is the Love that God is giving you. It is hard. It is challenging. It is uncomfortable. It is not merely to comfort and reassure you. It is to call you into service, into a greater service and recognition, into a greater cooperation between you and others—between groups, between religions, between nations, for the preservation and the advancement of humanity.
 
-<a id="p48"></a>For the first time in human history, the Lord of all the universe has provided the [Steps to Knowledge](https://www.newmessage.org/stk) to the human family, an ancient teaching that has been given to other races in the universe over countless eons of time. It is this that must be studied, for this will engage you with the greater power within you, which is connected to God. Be you religious or not, no matter what your faith tradition, or if you have no faith tradition, it is all the same. The gift is the same. The need is the same. The truth is the same.
+<a id="p48"></a>Many people will refuse. They will cling to their former beliefs and ideas and investments. They will blindly reject this as impossible, or think that this is the end times for humanity, and that all they must do is pray, when in fact they must prepare.
 
-<a id="p49"></a>Argue with this theologically. Argue with it psychologically. Argue with it politically, economically. It does not matter. It is all a failure to respond. Do not defend your weakness in this way, but see that God is calling you through the Revelation to recognize the condition of the world and of your life, your future and your destiny here.
+<a id="p49"></a>For this is the great transition. But great transitions, by their very nature, are difficult and hazardous. People can fail during such great turning points. And failure here would be more costly than anything you have ever experienced in this world. You cannot afford such things.
 
-<a id="p50"></a>Do this for yourself. Do this for your children. Do this for everything you love and appreciate about the world. But beyond this, do this for those who sent you here, who are watching to see if you can respond.
+<a id="p50"></a>Heaven is watching to see who can respond, who will prepare, who will bring their life in order and take the Steps to Knowledge and build the Four Pillars of their life—the Pillar of Relationships, the Pillar of Work, the Pillar of Health, the Pillar of Spiritual Development—the Four Pillars upon which any true life must stand and can be stable in turbulent and uncertain times.
 
-<a id="p51"></a>The Messenger is in the world. He is an older man now. He will not be here forever. He holds part of the gift within himself, for he was sent from the Angelic Assembly, as [were] all of the former Messengers.
+<a id="p51"></a>This is the Calling. This is true Love. If there were not true Love, the Creator of all life would look away and let humanity fall into chaos and dissolution, only to be overtaken by foreign powers, who are far more cruel and harsh than anything you can imagine.
 
-<a id="p52"></a>This is the time. This is the moment. This is the crisis. Only when you see you do not have an answer for these things will you turn to that which does have the answer and can lead you step by step to repositioning your life and your mind correctly so that you may have wisdom and clarity, instead of fear and admonition.
+<a id="p52"></a>Do not give up. Do not give in. Do not capitulate to your own fears or to the challenges around you. Do not be a victim. Be a contributor. Here you will gain strength and purpose and renewal. For only a greater situation now can restore and renew and prepare humanity to face the great challenges that are to come.
 
-<a id="p53"></a>This is the Love that God is giving you. It is hard. It is challenging. It is uncomfortable. It is not merely to comfort and reassure you. It is to call you into service, into a greater service and recognition, into a greater cooperation between you and others—between groups, between religions, between nations, for the preservation and the advancement of humanity.
+<a id="p53"></a>God’s New Revelation for the world is the largest Revelation ever given, given now to a world community—a literate community, a world of global commerce, a world of growing global awareness, a world of global communication.
 
-<a id="p54"></a>Many people will refuse. They will cling to their former beliefs and ideas and investments. They will blindly reject this as impossible, or think that this is the end times for humanity, and that all they must do is pray, when in fact they must prepare.
+<a id="p54"></a>It is the greatest opportunity before things really begin to break down. It is the greatest time, you see. It is the time of your life. Respond to this and you will begin to make your great return to your Source, to your purpose and the greater destiny that has brought you here, under these very circumstances that We speak of.
 
-<a id="p55"></a>For this is the great transition. But great transitions, by their very nature, are difficult and hazardous. People can fail during such great turning points. And failure here would be more costly than anything you have ever experienced in this world. You cannot afford such things.
+<a id="p55"></a>The Messenger is in the world. Learn of him. Assist him if you can. Receive from him. He is the only one who can bring God’s Revelation into the world. When he is done, the Seal of the Prophets will close behind him, and nothing more will be given for a very long time.
 
-<a id="p56"></a>Heaven is watching to see who can respond, who will prepare, who will bring their life in order and take the Steps to Knowledge and build the [Four Pillars](https://www.newmessage.org/the-message/volume-3/living-way-knowledge/the-four-pillars-of-life) of their life—the Pillar of Relationships, the Pillar of Work, the Pillar of Health, the Pillar of Spiritual Development—the Four Pillars upon which any true life must stand and can be stable in turbulent and uncertain times.
+<a id="p56"></a>It is because of this that his Message is so great and so detailed, so repetitive, so broad, so inclusive, so directly important to every aspect of your life; given over a great period of time, given with its own commentary, so its truth is not left up to future commentators, who did not know the Messenger and who likely did not understand the Revelation. There can be no confusion now. The mistakes of the past cannot be repeated in how the great Revelations are used and employed.
 
-<a id="p57"></a>This is the Calling. This is true Love. If there were not true Love, the Creator of all life would look away and let humanity fall into chaos and dissolution, only to be overtaken by foreign powers, who are far more cruel and harsh than anything you can imagine.
+<a id="p57"></a>Everything is important now. Every day is important. Every decision is important. Your decision, the decision of others, your behavior, the behavior of others—everything is important now. Your life is important now, but only within this greater context.
 
-<a id="p58"></a>Do not give up. Do not give in. Do not capitulate to your own fears or to the challenges around you. Do not be a victim. Be a contributor. Here you will gain strength and purpose and renewal. For only a greater situation now can restore and renew and prepare humanity to face the great challenges that are to come.
+<a id="p58"></a>Failure must be avoided and resisted at all costs, for to face the Great Waves of change will cost everything. Instead of building larger armies and enriching a few individuals, all the resources of your societies and nations will have to be brought to bear.
 
-<a id="p59"></a>God’s New Revelation for the world is the largest Revelation ever given, given now to a world community—a literate community, a world of global commerce, a world of growing global awareness, a world of global communication.
-
-<a id="p60"></a>It is the greatest opportunity before things really begin to break down. It is the greatest time, you see. It is the time of your life. Respond to this and you will begin to make your great return to your Source, to your purpose and the greater destiny that has brought you here, under these very circumstances that We speak of.
-
-<a id="p61"></a>The Messenger is in the world. Learn of him. Assist him if you can. Receive from him. He is the only one who can bring God’s Revelation into the world. When he is done, the Seal of the Prophets will close behind him, and nothing more will be given for a very long time.
-
-<a id="p62"></a>It is because of this that his Message is so great and so detailed, so repetitive, so broad, so inclusive, so directly important to every aspect of your life; given over a great period of time, given with its own commentary, so its truth is not left up to future commentators, who did not know the Messenger and who likely did not understand the Revelation. There can be no confusion now. The mistakes of the past cannot be repeated in how the great Revelations are used and employed.
-
-<a id="p63"></a>Everything is important now. Every day is important. Every decision is important. Your decision, the decision of others, your behavior, the behavior of others—everything is important now. Your life is important now, but only within this greater context.
-
-<a id="p64"></a>Failure must be avoided and resisted at all costs, for to face the Great Waves of change will cost everything. Instead of building larger armies and enriching a few individuals, all the resources of your societies and nations will have to be brought to bear.
-
-<a id="p65"></a>Face the Power and the Presence, and Grace will attend you. You can overcome your weakness and your fear because there is a greater power within you. In God’s New Revelation for the world, this power is made most evident and necessary.
+<a id="p59"></a>Face the Power and the Presence, and Grace will attend you. You can overcome your weakness and your fear because there is a greater power within you. In God’s New Revelation for the world, this power is made most evident and necessary.

@@ -2,11 +2,11 @@
 
 Volume 1
 
-Source: [The New World](https://www.newmessage.org/the-message/volume-1/new-world/)
+Source: [The New World](https://newmessage.org/the-message/volume-1/new-world/)
 
-## Chapters
+## Contents
 
-- **`00-front-matter.md`** — Front Matter
+- **`00-front-matter.md`** — Overview
 - **`01-entering-the-new-world.md`** — Entering the New World
 - **`02-the-great-warning.md`** — The Great Warning
 - **`03-the-global-emergency.md`** — The Global Emergency

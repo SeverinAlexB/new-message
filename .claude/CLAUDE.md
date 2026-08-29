@@ -1,90 +1,129 @@
-# Project: Allies of Humanity
+# Project: Allies of Humanity / New Message Corpus
 
-This repo contains the full text of the four-book "Allies of Humanity" Briefings plus related Greater Community teachings by Marshall Vian Summers, organized as one directory per book and one markdown file per chapter (front matter, briefings/commentaries, numbered chapters, back matter).
+This repo contains a Markdown corpus for *The Allies of Humanity* Briefings and the broader New Message library by Marshall Vian Summers. It includes material from **Volume 0 plus Volumes 1-7** from `newmessage.org`. Chapter text follows the current official web pages, with officially linked PDFs used only where web full text is unavailable.
 
-```
-book-1-allies-of-humanity/        9 chapter files
-book-2-human-unity-and-freedom/   11 chapter files
-book-3-a-message-to-earth/        9 chapter files
-book-4-freedom-in-the-universe/   8 chapter files
-```
+The corpus is organized as one directory per book or teaching group, with one Markdown file per chapter, lesson, section, or teaching page.
 
-It also contains related Greater Community books:
+## Main Lookup Files
 
-```
-greater-community-spirituality-a-new-relevation/ 29 chapter files
-wisdom-from-the-greater-community-volume-1/       36 chapter files
-```
-
-## Lookup files — use these before scanning source
-
-There is a layered lookup system. Use it rather than blindly grepping all source chapter files:
+Use the lookup files before scanning raw source text.
 
 | File | Purpose |
 |---|---|
-| **`README.md`** | Human-facing entry point: orientation, links. |
-| **`index.md`** (repo root) | Master cross-book index: chapter map for all Allies books plus GCS/WFGC1 + merged A–Z concept index. **Always start here when the user asks where a topic is discussed.** |
-| **`book-<N>-*/index.md`, `greater-community-*/index.md`, `wisdom-from-*/index.md`** | Per-book index: chapter title + summary or chapter list + key concepts list when available, then a book-level A–Z concept index where present. |
-| **`GLOSSARY.md`** | Definitions of the specialized terminology (Knowledge, Greater Community, Mental Environment, Pacification Program, Collectives, Unseen Ones, etc.) with per-book variations noted. **Look here first when the user asks "what is X?".** |
+| `README.md` | Human-facing source policy, navigation and citation conventions. |
+| `index.md` | Canonical inventory for the four Allies books and New Message Volumes 0-7. Start here for broad navigation. |
+| `<book-folder>/index.md` | Complete chapter or section list for one book. |
+| `GLOSSARY.md` | Source-backed guide to specialized Allies terminology. Start here for term-definition questions. |
 
-## Workflow for content questions
+## Generated Corpus Scope
 
-1. If the question is "what does <term> mean?" → start in **`GLOSSARY.md`**.
-2. If the question is "where does the corpus discuss <topic>?" → start in **`index.md`**, then drill into the relevant per-book `index.md` for chapter summaries.
-3. If the question needs a quote or fine detail → read the chapter file itself, citing using the **B`<n>`/`<chapter>`#p`<paragraph>`**, **GCS/`<chapter>`#p`<paragraph>`**, or **WFGC1/`<chapter>`#p`<paragraph>`** form.
-4. For verbatim phrase search → `grep -ril "<phrase>" book-*/ greater-community-*/ wisdom-from-*/` against the source files directly. **Do not grep the indexes — they paraphrase or summarize.**
+The generated New Message folders cover:
 
-## Citation format
+- Volume 0: `volume-0-other-teachings/`
+- Volume 1: books such as `god-has-spoken-again/`, `the-new-world/`, `the-reformation/`, etc.
+- Volume 2: books such as `preparing-for-the-great-waves-of-change/`, `preparing-for-the-greater-community/`, `love-and-relationships/`, etc.
+- Volume 3: includes `steps-to-knowledge/`, `steps-to-knowledge-continuation-training/`, `living-the-way-of-knowledge/`, etc.
+- Volume 4: includes `greater-community-spirituality/`, `relationships-and-higher-purpose/`, etc.
+- Volume 5: includes `life-in-the-universe/`, `the-great-waves-of-change/`, `the-alien-intervention/`, etc.
+- Volume 6: `wisdom-from-the-greater-community-book-one/`, `wisdom-from-the-greater-community-book-two/`
+- Volume 7: `secrets-of-heaven/`
 
-- Books: **B1**, **B2**, **B3**, **B4**, **GCS**, **WFGC1**.
-- Chapters: two-digit prefix (e.g. **B2/03** = `book-2-human-unity-and-freedom/03-third-briefing-…md`).
-- Paragraphs: appended `#pN` (e.g. **B2/03#p17**) — anchored via inline `<a id="pN"></a>` at each paragraph start.
-- The master `index.md` uses the compact form **B`<n>`: <prefix>**, **GCS: <prefix>**, or **WFGC1: <prefix>** (e.g. *B2: 03, 05* or *WFGC1: 03, 14*).
+The four canonical Allies web editions are in `book-1-allies-of-humanity/` through `book-4-freedom-in-the-universe/`.
 
-## Notation in the master index
+## Source Policy
 
-- Chapter refs use the leading two-digit prefix only: e.g. **B2: 03, 05** means *Book 2, files starting with `03-…` and `05-…`*; **WFGC1: 03, 14** means *WFGC1 files starting with `03-…` and `14-…`*.
-- Resolve prefixes to full filenames by looking at the chapter map in `index.md` or the per-book index.
+Use sources in this order:
 
-## File-level structure (every chapter)
+- Current official chapter page when it exposes full text.
+- Officially linked PDF when the chapter text is not exposed on the web.
+- Omit print-only or unavailable content rather than importing unrelated local editions.
 
-Every chapter `.md` file has this shape:
+`steps-to-knowledge/` is web-sourced. `steps-to-knowledge-continuation-training/` contains only its official web overview. `secrets-of-heaven/` uses its official web introduction and officially linked PDF for the 300 Secrets and related sections.
+
+## Generators
+
+The existing generators were not changed during the source reconciliation and do not reproduce the current corpus exactly. Do not run them against the reconciled Markdown unless the task explicitly includes bringing generator behavior up to date.
+
+| Script | Purpose |
+|---|---|
+| `tools/generate_newmessage_corpus.py` | Scrapes `https://www.newmessage.org/the-message/`, generates Volume 0-7 web-sourced folders, and updates the generated table in root `index.md`. |
+| `tools/generate_pdf_books.py` | Generates Markdown for PDF-backed books and updates root `index.md` counts. |
+
+Typical commands:
+
+```bash
+python3 tools/generate_newmessage_corpus.py --root . --force
+python3 tools/generate_pdf_books.py
+```
+
+Be careful: `--force` deletes and rewrites `*.md` files inside generated book folders. Do not run it if there are intentional manual edits in those folders unless the user approves losing them.
+
+## Workflow For Content Questions
+
+1. For “what does `<term>` mean?” start in `GLOSSARY.md`.
+2. For “where is `<topic>` discussed?” start in root `index.md`, then drill into relevant per-book `index.md` files.
+3. For exact wording, read chapter/section files and cite file paths plus line numbers or paragraph anchors.
+4. For verbatim phrase search, search source Markdown files directly, not just indexes. Indexes may paraphrase.
+5. Distinguish explicit text from inference. If a searched term or mechanism is not found, say so directly.
+
+Use `grep`/`rg`-style searches over relevant folders rather than assuming the old Allies-only corpus is complete.
+
+## Citation Format
+
+For broad answers, prefer explicit file references:
+
+- `the-new-world/03-the-global-emergency.md:11`
+- `steps-to-knowledge/002-step-1-i-am-without-knowledge-now.md#p1`
+
+Paragraph anchors use inline HTML:
+
+```markdown
+<a id="p1"></a>First paragraph...
+```
+
+Older curated indexes may use compact abbreviations such as `B1`, `B2`, `GCS`, or `WFGC1`. For the expanded Volume 0-7 corpus, folder paths are usually clearer than introducing new abbreviations.
+
+## File Structure
+
+Generated chapter files generally use this shape:
 
 ```markdown
 ---
-book: <book-code>
-chapter: "<two-digit-prefix>"
-title: "<full title>"
-type: front-matter | briefing | commentary | chapter | final-words | back-matter
-key_concepts:
-  - "..."
-  - "..."
+volume: 3
+book: "Steps To Knowledge"
+chapter: "002"
+title: "Step 1: I am without Knowledge now."
+type: chapter
+source_url: "https://..."
+source_pdf: "../sources/pdf/..." # only for PDF-derived files
 ---
 
-# <H1 same as title>
+# Step 1: I am without Knowledge now.
 
 <a id="p1"></a>First paragraph...
-
-<a id="p2"></a>Second paragraph...
 ```
 
-YAML frontmatter is machine-parseable. Paragraph anchors give stable cross-reference points. Headings (`#`, `##`) are NOT anchored — only prose paragraphs.
+Older curated files may instead have frontmatter like `book`, `chapter`, `title`, `type`, and `key_concepts`. Handle both formats.
 
-## Updating things
+## Updating Generated Content
 
-When chapter files are added, removed, renamed, or substantially edited:
+When generated corpus files change:
 
-- Update the per-book `index.md` (chapter summary, key concepts, per-book concept index).
-- Update the master `index.md` (chapter map and any affected concept refs).
-- Update `GLOSSARY.md` only if a specialized term's meaning changes meaningfully.
-- Keep the compact **B`<n>`: <prefix>**, **GCS: <prefix>**, and **WFGC1: <prefix>** notation in the master index — don't expand to full filenames.
-- Frontmatter: keep `key_concepts` in sync with the per-book index's "Key concepts:" line.
-- Paragraph anchors: if you split or merge paragraphs, renumber. The script that originally added them lived at `/tmp/process_chapters.py` (idempotent — safe to re-run).
-- Validation: `/tmp/validate_indexes.py` checks per-book index coverage, dead refs in concept entries, and master prefix references.
-- **Never include verbatim excerpts in any index or summary file** — summaries should be paraphrased. (Deliberate choice when these were built.)
+- Update the relevant generator first when possible.
+- Rerun the generator.
+- Ensure the per-book `index.md` is regenerated.
+- Ensure root `index.md` generated table counts are current.
+- Do not manually edit generated book files unless the user explicitly wants a one-off correction.
+
+Useful validation checks:
+
+- Every generated chapter/section file should have paragraph anchors.
+- Generated files should not contain site chrome such as `Skip to content`, `Toggle Menu`, `Search for:`, `Subscribe and get`, `Scroll to top`, or global sidebar volume trees.
+- PDF-derived files should not contain obvious extraction artifacts such as split drop caps (`T here`), stylized headings (`TH E ENG...`), or separator-only paragraphs.
 
 ## Conventions
 
-- Chapter filenames are kebab-case, prefixed with their order (`00-`, `01-`, …). Don't rename without updating both indexes.
-- Source markdown uses curly quotes (`"`, `'`) and em-dashes from the original. Don't normalize unless asked.
-- Use the books' own terminology when discussing content (Greater Community, Knowledge, Mental Environment, Pacification Program, Collectives, Unseen Ones, Networks of the Wise, Septa Varne, etc.).
+- Preserve the source wording and punctuation unless cleaning obvious extraction artifacts.
+- Keep filenames kebab-case and order-prefixed (`00-`, `001-`, `002-`, etc.).
+- Use the books' own terminology when discussing content.
+- Be precise about whether a claim is explicitly stated, absent from searched text, or an interpretation.

@@ -2,11 +2,11 @@
 
 Volume 2
 
-Source: [Preparing for the Greater Community](https://www.newmessage.org/the-message/volume-2/preparing-for-the-greater-community/)
+Source: [Preparing for the Greater Community](https://newmessage.org/the-message/volume-2/preparing-for-the-greater-community/)
 
-## Chapters
+## Contents
 
-- **`00-front-matter.md`** — Front Matter
+- **`00-front-matter.md`** — Overview
 - **`01-introduction.md`** — Introduction
 - **`02-what-is-the-greater-community.md`** — What is the Greater Community?
 - **`03-the-greater-community-presence-in-the-world.md`** — The Greater Community Presence in the World
@@ -17,7 +17,7 @@ Source: [Preparing for the Greater Community](https://www.newmessage.org/the-mes
 - **`08-the-great-challenge-awaiting-humanity.md`** — The Great Challenge Awaiting Humanity
 - **`09-developing-a-greater-community-perspective-and-understanding.md`** — Developing a Greater Community Perspective and Understanding
 - **`10-finding-knowledge.md`** — Finding Knowledge
-- **`11-gaining-strength-and-influence-in-the-mental-environment.md`** — Gaining Strength and Influence in the Mental Environment
+- **`11-gaining-strength-and-influence-in-the-mental-environment.md`** — Gaining Strength and Influence  in the Mental Environment
 - **`12-developing-clarity-and-discernment.md`** — Developing Clarity and Discernment
 - **`13-going-beyond-the-limits-of-human-religion-and-belief.md`** — Going Beyond the Limits of Human Religion and Belief
 - **`14-human-responses-to-the-greater-community.md`** — Human Responses to the Greater Community

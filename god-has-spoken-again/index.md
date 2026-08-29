@@ -2,11 +2,11 @@
 
 Volume 1
 
-Source: [God Has Spoken Again](https://www.newmessage.org/the-message/volume-1/god-spoken-again/)
+Source: [God Has Spoken Again](https://newmessage.org/the-message/volume-1/god-spoken-again/)
 
-## Chapters
+## Contents
 
-- **`00-front-matter.md`** — Front Matter
+- **`00-front-matter.md`** — Overview
 - **`01-the-proclamation.md`** — The Proclamation
 - **`02-the-recitation.md`** — The Recitation
 - **`03-the-engagement.md`** — The Engagement
@@ -17,8 +17,7 @@ Source: [God Has Spoken Again](https://www.newmessage.org/the-message/volume-1/g
 - **`08-the-blessing.md`** — The Blessing
 - **`09-living-at-a-time-of-revelation.md`** — Living at a Time of Revelation
 - **`10-the-assembly.md`** — The Assembly
-- **`11-god-s-new-message-for-the-world.md`** — God’s New Message for the World
+- **`11-gods-new-message-for-the-world.md`** — God’s New Message for the World
 - **`12-god-is-moving-humanity-in-a-new-direction.md`** — God Is Moving Humanity in a New Direction
-- **`13-the-world-must-receive-god-s-new-message.md`** — The World Must Receive God’s New Message
+- **`13-the-world-must-receive-gods-new-message.md`** — The World Must Receive God’s New Message
 - **`14-the-calling.md`** — The Calling
-- **`15-god-has-spoken-again.md`** — God Has Spoken Again

@@ -2,11 +2,11 @@
 
 Volume 3
 
-Source: [Living The Way of Knowledge](https://www.newmessage.org/the-message/volume-3/living-way-knowledge/)
+Source: [Living The Way of Knowledge](https://newmessage.org/the-message/volume-3/living-way-knowledge/)
 
-## Chapters
+## Contents
 
-- **`00-front-matter.md`** — Front Matter
+- **`00-front-matter.md`** — Overview
 - **`01-living-in-an-emerging-world.md`** — Living in an Emerging World
 - **`02-the-four-pillars-of-life.md`** — The Four Pillars of Life
 - **`03-the-pillar-of-relationships.md`** — The Pillar of Relationships

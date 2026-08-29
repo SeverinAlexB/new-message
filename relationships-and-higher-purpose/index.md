@@ -2,11 +2,11 @@
 
 Volume 4
 
-Source: [Relationships and Higher Purpose](https://www.newmessage.org/the-message/volume-4/relationships-higher-purpose/)
+Source: [Relationships and Higher Purpose](https://newmessage.org/the-message/volume-4/relationships-higher-purpose/)
 
-## Chapters
+## Contents
 
-- **`00-front-matter.md`** — Front Matter
+- **`00-front-matter.md`** — Overview
 - **`01-your-most-primary-relationship.md`** — Your Most Primary Relationship
 - **`02-your-relationship-with-yourself.md`** — Your Relationship With Yourself
 - **`03-your-relationship-with-others.md`** — Your Relationship With Others

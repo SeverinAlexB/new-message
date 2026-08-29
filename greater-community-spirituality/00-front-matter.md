@@ -2,40 +2,44 @@
 volume: 4
 book: "Greater Community Spirituality"
 chapter: "00"
-title: "Front Matter"
-type: front-matter
-source_url: "https://www.newmessage.org/the-message/volume-4/greater-community-spirituality/"
+title: "Overview"
+type: overview
+source_url: "https://newmessage.org/the-message/volume-4/greater-community-spirituality/"
 ---
 
-# Front Matter
+# Overview
 
-<a id="p1"></a>Source: [Greater Community Spirituality](https://www.newmessage.org/the-message/volume-4/greater-community-spirituality/)
+<a id="p1"></a>Greater Community Spirituality presents a new understanding and experience of God and human spirituality within a larger arena of intelligent life. It presents a spirituality that transcends all boundaries of race, culture, religion and language, and provides the foundation for recognition and relationship between peoples, nations and worlds.
+
+<a id="p2"></a>Greater Community Spirituality often deeply speaks to those who have not found their spiritual home in the religious traditions of this world and may be seeking a spiritual preparation and direction. It contains 27 chapters answering the fundamental questions about the meaning of life, our relationship with God, the pathway of spiritual preparation and our destiny in a Greater Community of life in the universe at a time of environment, political and social change and uncertainty in our world.
+
+<a id="p3"></a>Greater Community Spirituality is a book of Volume 4 of The New Message.
 
 ## Contents
-- 01. [What is God?](https://www.newmessage.org/the-message/volume-4/greater-community-spirituality/what-is-god/)
-- 02. [What is the World?](https://www.newmessage.org/the-message/volume-4/greater-community-spirituality/what-is-the-world/)
-- 03. [What is Life Force?](https://www.newmessage.org/the-message/volume-4/greater-community-spirituality/what-is-life-force/)
-- 04. [What is Knowledge?](https://www.newmessage.org/the-message/volume-4/greater-community-spirituality/what-is-knowledge/)
-- 05. [What is Human Purpose?](https://www.newmessage.org/the-message/volume-4/greater-community-spirituality/what-is-human-purpose/)
-- 06. [What is the Greater Community?](https://www.newmessage.org/the-message/volume-4/greater-community-spirituality/what-is-the-greater-community/)
-- 07. [How is Wisdom Achieved in Life?](https://www.newmessage.org/the-message/volume-4/greater-community-spirituality/how-is-wisdom-achieved-in-life/)
-- 08. [Who is Wisdom Meant For?](https://www.newmessage.org/the-message/volume-4/greater-community-spirituality/who-is-wisdom-meant-for/)
-- 09. [How does God Participate in the World?](https://www.newmessage.org/the-message/volume-4/greater-community-spirituality/false-expectations-of-god/)
-- 10. [How Do You Prepare?](https://www.newmessage.org/the-message/volume-4/greater-community-spirituality/how-do-you-prepare/)
-- 11. [What is Your Preparation For?](https://www.newmessage.org/the-message/volume-4/greater-community-spirituality/what-is-your-preparation-for/)
-- 12. [Whom Will You Meet?](https://www.newmessage.org/the-message/volume-4/greater-community-spirituality/whom-will-you-meet/)
-- 13. [What Must Be Unlearned?](https://www.newmessage.org/the-message/volume-4/greater-community-spirituality/what-must-be-unlearned/)
-- 14. [What Must Be Avoided?](https://www.newmessage.org/the-message/volume-4/greater-community-spirituality/what-must-be-avoided/)
-- 15. [Who Serves Humanity?](https://www.newmessage.org/the-message/volume-4/greater-community-spirituality/who-serves-humanity/)
-- 16. [Who are the Unseen Ones?](https://www.newmessage.org/the-message/volume-4/greater-community-spirituality/who-are-the-unseen-ones/)
-- 17. [How Does Revelation Occur in Human Life?](https://www.newmessage.org/the-message/volume-4/greater-community-spirituality/how-does-revelation-occur-in-human-life/)
-- 18. [What is Human Destiny?](https://www.newmessage.org/the-message/volume-4/greater-community-spirituality/what-is-human-destiny/)
-- 19. [What is Religion?](https://www.newmessage.org/the-message/volume-4/greater-community-spirituality/what-is-religion/)
-- 20. [What is Religious Education and Who is it For?](https://www.newmessage.org/the-message/volume-4/greater-community-spirituality/what-is-religious-education-and-who-is-it-for/)
-- 21. [What is The Greater Community Way of Knowledge?](https://www.newmessage.org/the-message/volume-4/greater-community-spirituality/what-is-the-greater-community-way-of-knowledge/)
-- 22. [Where can Knowledge Be Found?](https://www.newmessage.org/the-message/volume-4/greater-community-spirituality/where-can-knowledge-be-found/)
-- 23. [How is Knowledge Translated in the Greater Community?](https://www.newmessage.org/the-message/volume-4/greater-community-spirituality/how-is-knowledge-translated-in-the-greater-community/)
-- 24. [What is Steps to Knowledge?](https://www.newmessage.org/the-message/volume-4/greater-community-spirituality/what-is-steps-to-knowledge/)
-- 25. [What is Grace?](https://www.newmessage.org/the-message/volume-4/greater-community-spirituality/what-is-grace/)
-- 26. [Who is Jesus?](https://www.newmessage.org/the-message/volume-4/greater-community-spirituality/who-is-jesus/)
-- 27. [What is the Evolution of Religion in the World?](https://www.newmessage.org/the-message/volume-4/greater-community-spirituality/what-is-the-evolution-of-religion-in-the-world/)
+- [What is God?](https://newmessage.org/the-message/volume-4/greater-community-spirituality/what-is-god/)
+- [What is the World?](https://newmessage.org/the-message/volume-4/greater-community-spirituality/what-is-the-world/)
+- [What is Life Force?](https://newmessage.org/the-message/volume-4/greater-community-spirituality/what-is-life-force/)
+- [What is Knowledge?](https://newmessage.org/the-message/volume-4/greater-community-spirituality/what-is-knowledge/)
+- [What is Human Purpose?](https://newmessage.org/the-message/volume-4/greater-community-spirituality/what-is-human-purpose/)
+- [What is the Greater Community?](https://newmessage.org/the-message/volume-4/greater-community-spirituality/what-is-the-greater-community/)
+- [How is Wisdom Achieved in Life?](https://newmessage.org/the-message/volume-4/greater-community-spirituality/how-is-wisdom-achieved-in-life/)
+- [Who is Wisdom Meant For?](https://newmessage.org/the-message/volume-4/greater-community-spirituality/who-is-wisdom-meant-for/)
+- [How does God Participate in the World?](https://newmessage.org/the-message/volume-4/greater-community-spirituality/false-expectations-of-god/)
+- [How Do You Prepare?](https://newmessage.org/the-message/volume-4/greater-community-spirituality/how-do-you-prepare/)
+- [What is Your Preparation For?](https://newmessage.org/the-message/volume-4/greater-community-spirituality/what-is-your-preparation-for/)
+- [Whom Will You Meet?](https://newmessage.org/the-message/volume-4/greater-community-spirituality/whom-will-you-meet/)
+- [What Must Be Unlearned?](https://newmessage.org/the-message/volume-4/greater-community-spirituality/what-must-be-unlearned/)
+- [What Must Be Avoided?](https://newmessage.org/the-message/volume-4/greater-community-spirituality/what-must-be-avoided/)
+- [Who Serves Humanity?](https://newmessage.org/the-message/volume-4/greater-community-spirituality/who-serves-humanity/)
+- [Who are the Unseen Ones?](https://newmessage.org/the-message/volume-4/greater-community-spirituality/who-are-the-unseen-ones/)
+- [How Does Revelation Occur in Human Life?](https://newmessage.org/the-message/volume-4/greater-community-spirituality/how-does-revelation-occur-in-human-life/)
+- [What is Human Destiny?](https://newmessage.org/the-message/volume-4/greater-community-spirituality/what-is-human-destiny/)
+- [What is Religion?](https://newmessage.org/the-message/volume-4/greater-community-spirituality/what-is-religion/)
+- [What is Religious Education and Who is it For?](https://newmessage.org/the-message/volume-4/greater-community-spirituality/what-is-religious-education-and-who-is-it-for/)
+- [What is The Greater Community Way of Knowledge?](https://newmessage.org/the-message/volume-4/greater-community-spirituality/what-is-the-greater-community-way-of-knowledge/)
+- [Where can Knowledge Be Found?](https://newmessage.org/the-message/volume-4/greater-community-spirituality/where-can-knowledge-be-found/)
+- [How is Knowledge Translated in the Greater Community?](https://newmessage.org/the-message/volume-4/greater-community-spirituality/how-is-knowledge-translated-in-the-greater-community/)
+- [What is Steps to Knowledge?](https://newmessage.org/the-message/volume-4/greater-community-spirituality/what-is-steps-to-knowledge/)
+- [What is Grace?](https://newmessage.org/the-message/volume-4/greater-community-spirituality/what-is-grace/)
+- [Who is Jesus?](https://newmessage.org/the-message/volume-4/greater-community-spirituality/who-is-jesus/)
+- [What is the Evolution of Religion in the World?](https://newmessage.org/the-message/volume-4/greater-community-spirituality/what-is-the-evolution-of-religion-in-the-world/)

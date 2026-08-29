@@ -1,132 +1,120 @@
 ---
 volume: 1
 book: "The Greater Community"
-chapter: "09"
+chapter: "9"
 title: "Protecting the World"
 type: chapter
-source_url: "https://www.newmessage.org/the-message/volume-1/greater-community/protecting-the-world/"
+source_url: "https://newmessage.org/the-message/volume-1/greater-community/protecting-the-world/"
+received_date: "December 15, 2006"
+received_location: "Boulder, Colorado"
 ---
 
 # Protecting the World
 
-<a id="p1"></a>- Listen
-- Info
-- Watch
+<a id="p1"></a>It is apparent to many people that the environment is undergoing tremendous stress and in many places tremendous degradation. While a few people are very concerned, most people do not pay much attention to this, thinking that the environment is kind of an endless supplier of everything they need.
 
-<a id="p2"></a>Hear the original spoken revelation:
+<a id="p2"></a>Many people today have lost sight of the utter dependence they have on their environment to provide them the bare essentials of life—food, water, shelter and clothing—and to make possible all of the conveniences and the benefits that they enjoy, to whatever extent these things are available to them.
 
-<a id="p3"></a>[Download](https://www.newmessage.org/av/protecting-the-world.mp3) (Right-click to download)
+<a id="p3"></a>But the environment has great power to change and alter the course of human destiny. Those who are aware of humanity’s long history will understand this. The New Message from God emphasizes that the world’s environment must be preserved and well cared for if humanity is to have a future. For if this is not done, humanity will decline, human conflict will escalate, and human deprivation and suffering will increase dramatically.
 
-<a id="p4"></a>As received
+<a id="p4"></a>While this is apparent to a few people today, what many people do not realize is if humanity were to decline in this way, you would be extremely vulnerable to persuasion and influence from forces from the Greater Community, the Greater Community of intelligent life [in the universe] in which your world exists.
 
-<a id="p5"></a>on December 15, 2006
+<a id="p5"></a>For there are many races today who are watching humanity—waiting for an opportunity to gain advantage here, waiting for an opportunity to gain access to this world’s immense biological resources, waiting for an opportunity for humanity to be in a state of desperation where such influences will have tremendous impact.
 
-<a id="p6"></a>in Boulder, Colorado
+<a id="p6"></a>This is the greatest threat to humanity’s freedom and future. But it is a threat that very few people in the world today recognize or understand. For to be a free race within this Greater Community of intelligent life, you must be self-sufficient, you must be united and you must be extremely discreet.
 
-<a id="p7"></a>It is apparent to many people that the environment is undergoing tremendous stress and in many places tremendous degradation. While a few people are very concerned, most people do not pay much attention to this, thinking that the environment is kind of an endless supplier of everything they need.
+<a id="p7"></a>Clearly, humanity can only benefit from one of these advantages, and that is that you are self-sufficient. You are hardly united. And you are hardly discreet.
 
-<a id="p8"></a>Many people today have lost sight of the utter dependence they have on their environment to provide them the bare essentials of life—food, water, shelter and clothing—and to make possible all of the conveniences and the benefits that they enjoy, to whatever extent these things are available to them.
+<a id="p8"></a>Those races and groups who are watching the world from beyond, those races who seek to take advantage of a weak and divided humanity, can gain access to all your information. It is being broadcast into space. It is entirely available to the discreet observer.
 
-<a id="p9"></a>But the environment has great power to change and alter the course of human destiny. Those who are aware of humanity’s long history will understand this. [The New Message](https://www.newmessage.org/aboutnmg) from God emphasizes that the world’s environment must be preserved and well cared for if humanity is to have a future. For if this is not done, humanity will decline, human conflict will escalate, and human deprivation and suffering will increase dramatically.
+<a id="p9"></a>You do not yet realize what a disadvantage this is, for you feel you are isolated in the universe and that no one can reach your shores. This is such a foolish assumption, of course. Such a ridiculous proposition. But this is what most people believe. This is what human science still advocates.
 
-<a id="p10"></a>While this is apparent to a few people today, what many people do not realize is if humanity were to decline in this way, you would be extremely vulnerable to persuasion and influence from forces from the [Greater Community](https://www.newmessage.org/aboutgc), the Greater Community of intelligent life [in the universe] in which your world exists.
+<a id="p10"></a>The human family has lived in isolation for so long that it assumes that isolation is a fact of life. But it is hardly a fact of life. If you could stand outside your world and observe the actions of intelligent races in the neighborhood in which your world exists, it would be quite apparent that humanity is in great peril.
 
-<a id="p11"></a>For there are many races today who are watching humanity—waiting for an opportunity to gain advantage here, waiting for an opportunity to gain access to this world’s immense biological resources, waiting for an opportunity for humanity to be in a state of desperation where such influences will have tremendous impact.
+<a id="p11"></a>Do not think that humanity has garnered much respect within this local environment. For indeed others see you destroying a world of immense value, a real gem in the universe, and so they seek to intervene. But they cannot do this militarily, for that is prevented in the area of space in which you live.
 
-<a id="p12"></a>This is the greatest threat to humanity’s freedom and future. But it is a threat that very few people in the world today recognize or understand. For to be a free race within this Greater Community of intelligent life, you must be self-sufficient, you must be united and you must be extremely discreet.
+<a id="p12"></a>So they will seek more subtle and invasive means. Such means are already underway and are being taken by several competing groups who seek to have this world’s splendid environment and resources for themselves.
 
-<a id="p13"></a>Clearly, humanity can only benefit from one of these advantages, and that is that you are self-sufficient. You are hardly united. And you are hardly discreet.
+<a id="p13"></a>Such groups do not seek to eradicate humanity but to wait until humanity is entirely dependent and compliant on whatever they may offer to you. That is why for the human family to lose its self-sufficiency is the greatest disadvantage that you could create for yourself. Even beyond the specter of human suffering, conflict and war, this would be your greatest disadvantage.
 
-<a id="p14"></a>Those races and groups who are watching the world from beyond, those races who seek to take advantage of a weak and divided humanity, can gain access to all your information. It is being broadcast into space. It is entirely available to the discreet observer.
+<a id="p14"></a>For the world could be overtaken without firing a shot. Humanity could fall under the persuasion of foreign powers far more easily than you realize. And this could be accomplished by humanity itself, with a minimum of foreign intervention and foreign persuasion.
 
-<a id="p15"></a>You do not yet realize what a disadvantage this is, for you feel you are isolated in the universe and that no one can reach your shores. This is such a foolish assumption, of course. Such a ridiculous proposition. But this is what most people believe. This is what human science still advocates.
+<a id="p15"></a>This is why, you see, the environment is the most important thing—more important than personal wealth, more important than national military strength, more important than any country’s national security. For the greater emphasis here is the world’s security.
 
-<a id="p16"></a>The human family has lived in isolation for so long that it assumes that isolation is a fact of life. But it is hardly a fact of life. If you could stand outside your world and observe the actions of intelligent races in the neighborhood in which your world exists, it would be quite apparent that humanity is in great peril.
+<a id="p16"></a>You have great barriers against one another. You have great walls of separation dividing the human family, making it weak, vulnerable and self-destructive. But you have no barriers against the Greater Community. And as the native peoples of this world, you are in a very vulnerable and precarious situation.
 
-<a id="p17"></a>Do not think that humanity has garnered much respect within this local environment. For indeed others see you destroying a world of immense value, a real gem in the universe, and so they seek to intervene. But they cannot do this militarily, for that is prevented in the area of space in which you live.
+<a id="p17"></a>Human unity may be a long way away to achieve. Human discretion may be a long way away to achieve. But you must not lose your self-sufficiency. For if you do, then you will have to yield to whatever a foreign power will offer you. You will not be in a position to decline these offers. You will not be in a position to negotiate for your own best interests. You will receive whatever offerings are given. And you will allow these powers to establish themselves here, hoping and believing it is for your benefit.
 
-<a id="p18"></a>So they will seek more subtle and invasive means. Such means are already underway and are being taken by several competing groups who seek to have this world’s splendid environment and resources for themselves.
+<a id="p18"></a>This is the great peril that awaits humanity. It is a peril that any emerging race in the universe will have to face. For the first to reach the shores of this world will not be saints and environmentalists. The first to reach the shores of your world will be commercial interests, resource explorers, economic collectives, those who seek to take advantage of the native peoples—native peoples whom they do not respect or regard as their equals.
 
-<a id="p19"></a>Such groups do not seek to eradicate humanity but to wait until humanity is entirely dependent and compliant on whatever they may offer to you. That is why for the human family to lose its self-sufficiency is the greatest disadvantage that you could create for yourself. Even beyond the specter of human suffering, conflict and war, this would be your greatest disadvantage.
+<a id="p19"></a>Indeed, at this moment humanity assumes its pre-eminence in the world. It feels it has a God-given right to be in this pre-eminent position within the world. But within this Greater Community, humanity is a weak, divided and self-obsessed race occupying and stewarding a planet of immense value and importance to others.
 
-<a id="p20"></a>For the world could be overtaken without firing a shot. Humanity could fall under the persuasion of foreign powers far more easily than you realize. And this could be accomplished by humanity itself, with a minimum of foreign intervention and foreign persuasion.
+<a id="p20"></a>It is important, therefore, that you gain a Greater Community perspective on these things, for if you do, your understanding of the environment and your understanding of its importance to your future gain a whole new emphasis. It is an entirely practical emphasis.
 
-<a id="p21"></a>This is why, you see, the environment is the most important thing—more important than personal wealth, more important than national military strength, more important than any country’s national security. For the greater emphasis here is the world’s security.
+<a id="p21"></a>For never think that you can go into space and just claim whatever resources that you have wasted here upon the Earth, for those resources are owned by others. Never assume that the universe is just a vast empty place awaiting human exploration and human exploitation. For you are not alone in the universe or even within your own world at this time.
 
-<a id="p22"></a>You have great barriers against one another. You have great walls of [separation](https://www.newmessage.org/the-message/volume-1/one-god/the-separation) dividing the human family, making it weak, vulnerable and self-destructive. But you have no barriers against the Greater Community. And as the native peoples of this world, you are in a very vulnerable and precarious situation.
+<a id="p22"></a>The ignorance and the arrogance of such assumptions must be corrected, or humanity will make fatal mistakes that even God and God’s Angels will not be able to offset.
 
-<a id="p23"></a>Human unity may be a long way away to achieve. Human discretion may be a long way away to achieve. But you must not lose your self-sufficiency. For if you do, then you will have to yield to whatever a foreign power will offer you. You will not be in a position to decline these offers. You will not be in a position to negotiate for your own best interests. You will receive whatever offerings are given. And you will allow these powers to establish themselves here, hoping and believing it is for your benefit.
+<a id="p23"></a>That is why there is a New Message from God in the world because humanity is destroying its self-sufficiency, humanity is standing at the edge of space, and humanity is already experiencing forces that are intervening in its world, without its control and without its permission.
 
-<a id="p24"></a>This is the great peril that awaits humanity. It is a peril that any emerging race in the universe will have to face. For the first to reach the shores of this world will not be saints and environmentalists. The first to reach the shores of your world will be commercial interests, resource explorers, economic collectives, those who seek to take advantage of the native peoples—native peoples whom they do not respect or regard as their equals.
+<a id="p24"></a>Though there are great perils facing humanity regarding the deterioration of your environments, climate change, decline of life-giving resources and so forth, the greatest peril—the peril that could end human sovereignty forever in this world—lurks in the background, awaiting the moment when humanity will bring itself to its knees through conflict, through deprivation, through war and through further decline of the world’s environment.
 
-<a id="p25"></a>Indeed, at this moment humanity assumes its pre-eminence in the world. It feels it has a God-given right to be in this pre-eminent position within the world. But within this Greater Community, humanity is a weak, divided and self-obsessed race occupying and stewarding a planet of immense value and importance to others.
+<a id="p25"></a>God has given this world to humanity as a splendid place, as a paradise in a universe full of barren worlds. If you should ruin it, if you should exhaust its life-giving resources, if you should exhaust its biological diversity, then you will have to face the consequences, which will be far more terrible and far more longlasting than anything humanity as a whole has ever faced before.
 
-<a id="p26"></a>It is important, therefore, that you gain a Greater Community perspective on these things, for if you do, your understanding of the environment and your understanding of its importance to your future gain a whole new emphasis. It is an entirely practical emphasis.
+<a id="p26"></a>Your real destiny is to emerge within this Greater Community of intelligent life as a free and sovereign race, but this requires that you meet the three requirements that are essential for any race to have such a privileged position in the universe. You must be self-sufficient. You must be united. And you must be extremely discreet.
 
-<a id="p27"></a>For never think that you can go into space and just claim whatever resources that you have wasted here upon the Earth, for those resources are owned by others. Never assume that the universe is just a vast empty place awaiting human exploration and human exploitation. For you are not alone in the universe or even within your own world at this time.
+<a id="p27"></a>Without this, humanity is but awaiting its own self-destruction. It is but awaiting the growing influence of foreign powers here, who seek to take control of the world and the world’s peoples.
 
-<a id="p28"></a>The ignorance and the arrogance of such assumptions must be corrected, or humanity will make fatal mistakes that even God and God’s Angels will not be able to offset.
+<a id="p28"></a>This is revealed through the New Message from God. This is part of what has brought the New Message from God into the world. For you live at a time of great urgency, not only for life at this moment but for the prospects for your future, which every day grow a little dimmer.
 
-<a id="p29"></a>That is why there is a New Message from God in the world because humanity is destroying its self-sufficiency, humanity is standing at the edge of space, and humanity is already experiencing forces that are intervening in its world, without its control and without its permission.
+<a id="p29"></a>Some people believe the world is like a cornucopia that just provides endlessly. They just need the technology to gain more and more and more. But the world is a finite place with finite resources. If you exhaust it, you face the perils that such exhaustion will bring to you. This is a truth of life in the physical universe. You cannot escape it, whether you are a human being or whether you are a race living in another world, for the laws of nature hold true everywhere.
 
-<a id="p30"></a>Though there are great perils facing humanity regarding the deterioration of your environments, climate change, decline of life-giving resources and so forth, the greatest peril—the peril that could end human sovereignty forever in this world—lurks in the background, awaiting the moment when humanity will bring itself to its knees through conflict, through deprivation, through war and through further decline of the world’s environment.
+<a id="p30"></a>Therefore, the New Message from God emphasizes the importance of this self-sufficiency, the importance of human unity and the importance of learning to be discreet by understanding the nature of thought and power within the mental environment in which you live.
 
-<a id="p31"></a>God has given this world to humanity as a splendid place, as a paradise in a universe full of barren worlds. If you should ruin it, if you should exhaust its life-giving resources, if you should exhaust its biological diversity, then you will have to face the consequences, which will be far more terrible and far more longlasting than anything humanity as a whole has ever faced before.
+<a id="p31"></a>It is this mental environment, this environment of thought and influence, that humanity knows so little about and which you will need to understand with greater skill and potency in the future if you are to interact with other races successfully, other races who have gained skill in the mental environment.
 
-<a id="p32"></a>Your real destiny is to emerge within this Greater Community of intelligent life as a free and sovereign race, but this requires that you meet the three requirements that are essential for any race to have such a privileged position in the universe. You must be self-sufficient. You must be united. And you must be extremely discreet.
+<a id="p32"></a>The New Message from God emphasizes this tremendously, for God wills that humanity have a great future, a future greater than its past. But the prospect of gaining such a future is now in your hands, individually and collectively.
 
-<a id="p33"></a>Without this, humanity is but awaiting its own self-destruction. It is but awaiting the growing influence of foreign powers here, who seek to take control of the world and the world’s peoples.
+<a id="p33"></a>You are determining your future and the future of your children and of all people at this moment by what you think, by how you live, by what you promote and advocate and by how you identify yourself as a human being within this world.
 
-<a id="p34"></a>This is revealed through the New Message from God. This is part of what has brought the New Message from God into the world. For you live at a time of great urgency, not only for life at this moment but for the prospects for your future, which every day grow a little dimmer.
+<a id="p34"></a>If you believe you are only a member of one tribe or group or nation, you will not be able to support a greater movement towards human unity and cooperation. You will merely be one side competing with other sides—draining the world of its remaining resources, fighting over those resources, struggling over those resources.
 
-<a id="p35"></a>Some people believe the world is like a cornucopia that just provides endlessly. They just need the technology to gain more and more and more. But the world is a finite place with finite resources. If you exhaust it, you face the perils that such exhaustion will bring to you. This is a truth of life in the physical universe. You cannot escape it, whether you are a human being or whether you are a race living in another world, for the laws of nature hold true everywhere.
+<a id="p35"></a>The great hope for humanity lies in the mysterious power of Knowledge that the Creator has given to each person, that each person carries within themselves. It is this great spiritual power that goes unrecognized and unheard by the vast majority of people in the world today.
 
-<a id="p36"></a>Therefore, the New Message from God emphasizes the importance of this self-sufficiency, the importance of human unity and the importance of learning to be discreet by understanding the nature of thought and power within the mental environment in which you live.
+<a id="p36"></a>This power, then—should it be recognized, should it be understood, should it be received—will teach you how to live, will teach you how to relate to other people and to other nations and to other groups. It will teach you the importance of your thoughts and behavior. It will teach you everything you need to navigate the difficult times ahead and to navigate these times in such a way that you promote human freedom and unity in everything you do.
 
-<a id="p37"></a>It is this mental environment, this environment of thought and influence, that humanity knows so little about and which you will need to understand with greater skill and potency in the future if you are to interact with other races successfully, other races who have gained skill in the mental environment.
+<a id="p37"></a>There is no human belief system or philosophy that could achieve this because they are human inventions. But this Knowledge is a God invention. It is God’s Wisdom that has been placed within you.
 
-<a id="p38"></a>The New Message from God emphasizes this tremendously, for God wills that humanity have a great future, a future greater than its past. But the prospect of gaining such a future is now in your hands, individually and collectively.
+<a id="p38"></a>But you must bring your mind and your thoughts in service to this power and to this greater intelligence if you are to receive its guidance, its protection and its benefits. That is why the New Message from God contains the teaching in The Way of Knowledge and shows how to take the Steps to Knowledge.
 
-<a id="p39"></a>You are determining your future and the future of your children and of all people at this moment by what you think, by how you live, by what you promote and advocate and by how you identify yourself as a human being within this world.
+<a id="p39"></a>It begins then within the individual. For an individual guided by Knowledge is a powerful force—far more powerful than laws or legislation or social movements, though these things may emanate from the actions of such individuals. Then it becomes everyone’s responsibility to make a difference—not only for themselves, not only to bring greater happiness and fulfillment into their lives, but to build a strong foundation for humanity’s future.
 
-<a id="p40"></a>If you believe you are only a member of one tribe or group or nation, you will not be able to support a greater movement towards human unity and cooperation. You will merely be one side competing with other sides—draining the world of its remaining resources, fighting over those resources, struggling over those resources.
+<a id="p40"></a>For at every moment, you are living in the moment and building the future. And future generations will thank you or curse you depending on what you contribute today and the strength of your convictions to support human unity and freedom today.
 
-<a id="p41"></a>The great hope for humanity lies in the mysterious power of Knowledge that the Creator has given to each person, that each person carries within themselves. It is this great spiritual power that goes unrecognized and unheard by the vast majority of people in the world today.
+<a id="p41"></a>This includes the sharing of resources. This includes extending wealth to people who need it. And also teaching how to live in such a way that people’s environments and where they live can be sustained and can be productive.
 
-<a id="p42"></a>This power, then—should it be recognized, should it be understood, should it be received—will teach you how to live, will teach you how to relate to other people and to other nations and to other groups. It will teach you the importance of your thoughts and behavior. It will teach you everything you need to navigate the difficult times ahead and to navigate these times in such a way that you promote human freedom and unity in everything you do.
+<a id="p42"></a>With war and conflict, humanity will weaken and further its own decline. Should this be continued, there will be no winners. There will be no victorious nations or groups, for the world will decline. Then everyone will lose security. Then everyone will become weaker and more vulnerable to powers and influences from beyond the world who are determined to gain access and control here.
 
-<a id="p43"></a>There is no human belief system or philosophy that could achieve this because they are human inventions. But this Knowledge is a God invention. It is God’s Wisdom that has been placed within you.
+<a id="p43"></a>This is the great moment. This is the great time in which you live. This is a great calling for Knowledge within you to emerge in your awareness. This is a great calling for you to take the Steps to Knowledge, for you live at a great turning point.
 
-<a id="p44"></a>But you must bring your mind and your thoughts in service to this power and to this greater intelligence if you are to receive its guidance, its protection and its benefits. That is why the New Message from God contains the teaching in [The Way of Knowledge](https://www.newmessage.org/the-message/volume-3/living-way-knowledge) and shows how to take the [Steps to Knowledge](https://www.newmessage.org/stk).
+<a id="p44"></a>It is a greater turning point than any of your ancestors ever faced. The future of humanity is being decided and will be decided in the next ten to fifteen years. That is how significant this time is.
 
-<a id="p45"></a>It begins then within the individual. For an individual guided by Knowledge is a powerful force—far more powerful than laws or legislation or social movements, though these things may emanate from the actions of such individuals. Then it becomes everyone’s responsibility to make a difference—not only for themselves, not only to bring greater happiness and fulfillment into their lives, but to build a strong foundation for humanity’s future.
+<a id="p45"></a>Perhaps you yourself feel that your life is for a greater purpose, that you are here in the world to do something important—to make a difference, to contribute something of value here. If this is your experience, then you are responding to the great times in which you live and to the great needs of humanity. You are looking beyond your own personal needs and desires and responding to a greater power and a greater need in the world. This then is the evidence of Knowledge. It is very important that you respond to this.
 
-<a id="p46"></a>For at every moment, you are living in the moment and building the future. And future generations will thank you or curse you depending on what you contribute today and the strength of your convictions to support human unity and freedom today.
+<a id="p46"></a>The New Message from God is for this. It speaks to this awareness, to this need, to this inner understanding. It speaks to the need of the individual to discover the power and presence of Knowledge for themselves. And it speaks to the need of all humanity to build a foundation for the future, a future where you will realize you are not alone in the universe and that you must protect and safeguard this world.
 
-<a id="p47"></a>This includes the sharing of resources. This includes extending wealth to people who need it. And also teaching how to live in such a way that people’s environments and where they live can be sustained and can be productive.
+<a id="p47"></a>To do this in whatever individual way you can means that you are fulfilling your greater purpose for coming into the world. This greater purpose is not based upon religious belief or ideology. It is based upon a fundamental responsibility, a responsibility of being true to the greater intelligence that the Creator has placed within you, which you are here to serve and to express.
 
-<a id="p48"></a>With war and conflict, humanity will weaken and further its own decline. Should this be continued, there will be no winners. There will be no victorious nations or groups, for the world will decline. Then everyone will lose security. Then everyone will become weaker and more vulnerable to powers and influences from beyond the world who are determined to gain access and control here.
+<a id="p48"></a>You can be a person within a religion or a person without a religion and still respond to this great power within you and allow this great power to express itself and to contribute to the world through your thoughts and actions.
 
-<a id="p49"></a>This is the great moment. This is the great time in which you live. This is a great calling for Knowledge within you to emerge in your awareness. This is a great calling for you to take the Steps to Knowledge, for you live at a great turning point.
+<a id="p49"></a>That is why the New Message from God is not just another belief system. It is a Message for all the peoples and all the religions of the world. It is a calling for human awareness, human unity and human responsibility. It holds true for all peoples, all nations and all faith traditions.
 
-<a id="p50"></a>It is a greater turning point than any of your ancestors ever faced. The future of humanity is being decided and will be decided in the next ten to fifteen years. That is how significant this time is.
+<a id="p50"></a>For this is the great time in which you live. This is the great turning point for which you have come. It is a great turning point that involves your life completely. It is a great turning point to which you are responsible.
 
-<a id="p51"></a>Perhaps you yourself feel that your life is for a greater purpose, that you are here in the world to do something important—to make a difference, to contribute something of value here. If this is your experience, then you are responding to the great times in which you live and to the great needs of humanity. You are looking beyond your own personal needs and desires and responding to a greater power and a greater need in the world. This then is the evidence of Knowledge. It is very important that you respond to this.
+<a id="p51"></a>No one from the outside, no one from the Greater Community, is going to come and rescue humanity. No technology is going to rescue humanity. No magic power from the Creator is going to come at the last hour and make all the difficulties go away.
 
-<a id="p52"></a>The New Message from God is for this. It speaks to this awareness, to this need, to this inner understanding. It speaks to the need of the individual to discover the power and presence of Knowledge for themselves. And it speaks to the need of all humanity to build a foundation for the future, a future where you will realize you are not alone in the universe and that you must protect and safeguard this world.
+<a id="p52"></a>God has already given you the answer. The answer is within Knowledge within you. This answer is not merely an idea or a prescription. It is a guiding power and influence. It is not bound by human religions or ideologies or philosophies because it is born of God. It is not a human creation. It is a God creation. And whether you believe in God or not, this power and this presence is available to you, and you need it so very greatly.
 
-<a id="p53"></a>To do this in whatever individual way you can means that you are fulfilling your greater purpose for coming into the world. This greater purpose is not based upon religious belief or ideology. It is based upon a fundamental responsibility, a responsibility of being true to the greater intelligence that the Creator has placed within you, which you are here to serve and to express.
+<a id="p53"></a>Recognize, then, that your environment is immensely important. Whatever you can do—whatever small action you can take, whatever is within the range of your personal skill, power and responsibility to enhance and to keep this environment healthy—is fundamental to your success.
 
-<a id="p54"></a>You can be a person within a religion or a person without a religion and still respond to this great power within you and allow this great power to express itself and to contribute to the world through your thoughts and actions.
-
-<a id="p55"></a>That is why the New Message from God is not just another belief system. It is a Message for all the peoples and all the religions of the world. It is a calling for human awareness, human unity and human responsibility. It holds true for all peoples, all nations and all faith traditions.
-
-<a id="p56"></a>For this is the great time in which you live. This is the great turning point for which you have come. It is a great turning point that involves your life completely. It is a great turning point to which you are responsible.
-
-<a id="p57"></a>No one from the outside, no one from the Greater Community, is going to come and rescue humanity. No technology is going to rescue humanity. No magic power from the Creator is going to come at the last hour and make all the difficulties go away.
-
-<a id="p58"></a>God has already given you the answer. The answer is within Knowledge within you. This answer is not merely an idea or a prescription. It is a guiding power and influence. It is not bound by human religions or ideologies or philosophies because it is born of God. It is not a human creation. It is a God creation. And whether you believe in God or not, this power and this presence is available to you, and you need it so very greatly.
-
-<a id="p59"></a>Recognize, then, that your environment is immensely important. Whatever you can do—whatever small action you can take, whatever is within the range of your personal skill, power and responsibility to enhance and to keep this environment healthy—is fundamental to your success.
-
-<a id="p60"></a>You will feel within yourself that whatever you can do will generate a sense of satisfaction and a sense of value for you. This is entirely natural for you to feel this way, for this is why you have come into the world—to support human freedom and humanity’s future and to care for the world that has been given to you to make this possible.
+<a id="p54"></a>You will feel within yourself that whatever you can do will generate a sense of satisfaction and a sense of value for you. This is entirely natural for you to feel this way, for this is why you have come into the world—to support human freedom and humanity’s future and to care for the world that has been given to you to make this possible.

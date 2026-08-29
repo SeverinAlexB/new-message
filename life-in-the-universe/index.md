@@ -2,11 +2,11 @@
 
 Volume 5
 
-Source: [Life in the Universe](https://www.newmessage.org/the-message/volume-5/life-universe/)
+Source: [Life in the Universe](https://newmessage.org/the-message/volume-5/life-universe/)
 
-## Chapters
+## Contents
 
-- **`00-front-matter.md`** — Front Matter
+- **`00-front-matter.md`** — Overview
 - **`01-facing-a-greater-community-of-life.md`** — Facing a Greater Community of Life
 - **`02-a-brief-history-of-visitation-to-earth.md`** — A Brief History of Visitation to Earth
 - **`03-the-limits-of-space-travel.md`** — The Limits of Space Travel

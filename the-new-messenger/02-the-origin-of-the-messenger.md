@@ -1,166 +1,154 @@
 ---
 volume: 1
 book: "The New Messenger"
-chapter: "02"
+chapter: "2"
 title: "The Origin of the Messenger"
 type: chapter
-source_url: "https://www.newmessage.org/the-message/volume-1/new-messenger/origin-messenger/"
+source_url: "https://newmessage.org/the-message/volume-1/new-messenger/origin-messenger/"
+received_date: "August 1, 2012"
+received_location: "Boulder, Colorado"
 ---
 
 # The Origin of the Messenger
 
-<a id="p1"></a>- Listen
-- Info
-- Watch
+<a id="p1"></a>People have no idea what it means to be a Messenger or how Messengers are selected or prepared. They want to worship heroes or deny them altogether.
 
-<a id="p2"></a>Hear the original spoken revelation:
+<a id="p2"></a>They want to believe the Messenger is the Message, but the Message is always greater than the Messenger. People will base their whole view and approach on their attitude towards the Messenger, but the Message is always more important.
 
-<a id="p3"></a>[Download](https://www.newmessage.org/av/origin-of-the-messenger.mp3) (Right-click to download)
+<a id="p3"></a>People cannot live with the Message, so they obsess over the Messenger. But they do not understand the Messenger. They have no idea where the Messenger comes from and how the Messenger is selected above and beyond everyone else. Many people think there cannot be one Messenger. There must be many Messengers, or they themselves should be a Messenger.
 
-<a id="p4"></a>As received
+<a id="p4"></a>Into a world of Separation, one representing a greater union will be misconstrued and misperceived. It cannot be avoided.
 
-<a id="p5"></a>on August 1, 2012
+<a id="p5"></a>The Angelic Host, the Angelic Assembly, selects the Messenger for every particular world where a Messenger is required. And a Messenger is only selected at times of great change, difficulty and opportunity for a race, for a given world. Such great turning points only come very infrequently.
 
-<a id="p6"></a>in Boulder, Colorado
+<a id="p6"></a>Despite the great events that are occurring in your world at any given time, Messengers will only come very infrequently. In the interim, there will be prophets—giving warnings or setting standards for behavior. There will be visionaries. There will be reformers. There will be advocates.
 
-<a id="p7"></a>People have no idea what it means to be a Messenger or how Messengers are selected or prepared. They want to worship heroes or deny them altogether.
+<a id="p7"></a>But the Messenger brings a whole new reality. This individual is not simply one who gives warning of the great hazards of the future or the present day, or provides higher standards or a greater vision of peace, cooperation and equanimity amongst the human family, for there are many who can do this. But only a Messenger from God can bring an entire new reality and change over time the awareness and the consciousness of large numbers of people, even affecting the attitudes of the entire human race.
 
-<a id="p8"></a>They want to believe the Messenger is the Message, but the Message is always greater than the Messenger. People will base their whole view and approach on their attitude towards the Messenger, but the Message is always more important.
+<a id="p8"></a>A prophet cannot do this, for prophets speak of what is occurring now or in the near future. Their prophecies are not for all time and all peoples. They are specific to certain peoples and places and events.
 
-<a id="p9"></a>People cannot live with the Message, so they obsess over the Messenger. But they do not understand the Messenger. They have no idea where the Messenger comes from and how the Messenger is selected above and beyond everyone else. Many people think there cannot be one Messenger. There must be many Messengers, or they themselves should be a Messenger.
+<a id="p9"></a>Those who teach a higher standard, they must reinforce a standard that has already been given, many times over, by others who were called to such a valuable service.
 
-<a id="p10"></a>Into a world of [Separation](https://www.newmessage.org/the-message/volume-1/one-god/the-separation), one representing a greater union will be misconstrued and misperceived. It cannot be avoided.
+<a id="p10"></a>But the Messenger brings a whole new reality. They are not charged with meeting every need of the day or resolving every problem or crisis of the hour. They are bringing something to change the whole approach and future of humanity.
 
-<a id="p11"></a>The Angelic Host, the [Angelic Assembly](https://www.newmessage.org/the-message/volume-1/god-spoken-again/the-assembly), selects the Messenger for every particular world where a Messenger is required. And a Messenger is only selected at times of great change, difficulty and opportunity for a race, for a given world. Such great turning points only come very infrequently.
+<a id="p11"></a>Messengers are condemned and crucified and destroyed because people do not get what they want from the Messenger. They do not get wealth or greater security or advantages or special favors—endowments from God.
 
-<a id="p12"></a>Despite the great events that are occurring in your world at any given time, Messengers will only come very infrequently. In the interim, there will be prophets—giving warnings or setting standards for behavior. There will be visionaries. There will be reformers. There will be advocates.
+<a id="p12"></a>The Messenger points to the present and to the future and brings a new reality into the world. People who are needy and ambitious do not get what they want in the moment from this, and so they turn away from the Messenger. They deny the Messenger. They condemn the Messenger. They are looking for someone who is going to benefit them right now in the ways that they want and prescribe. They have no idea what they are looking at. They have no idea what they are judging. They have no idea what their greater needs really are—the need of their soul.
 
-<a id="p13"></a>But the Messenger brings a whole new reality. This individual is not simply one who gives warning of the great hazards of the future or the present day, or provides higher standards or a greater vision of peace, cooperation and equanimity amongst the human family, for there are many who can do this. But only a Messenger from God can bring an entire new reality and change over time the awareness and the consciousness of large numbers of people, even affecting the attitudes of the entire human race.
+<a id="p13"></a>This is a dilemma for all peoples in the world—rich or poor, from any nation or culture or religious affiliation. They are not yet aware of the great need of the soul. Those few who are, are reaching within their traditions or beyond their traditions. They are reaching to find this connection inside, this connection with God, and this connection with their future and their destiny and their purpose for being in the world. Everyone else is like cattle grazing in the field, only content to have feed for the day and more pleasures for tomorrow and to be protected, either legitimately or illegitimately, from the hazards of the world.
 
-<a id="p14"></a>A prophet cannot do this, for prophets speak of what is occurring now or in the near future. Their prophecies are not for all time and all peoples. They are specific to certain peoples and places and events.
+<a id="p14"></a>God speaks to those who have and those who have not. God speaks to those who rule and those who are ruled. God speaks to those who are honest and those who are dishonest. God speaks to those who are rich and those who are very poor.
 
-<a id="p15"></a>Those who teach a higher standard, they must reinforce a standard that has already been given, many times over, by others who were called to such a valuable service.
+<a id="p15"></a>The Messenger brings a Message for them all. He is not a reformer. He is not just an advocate. He is not just a visionary. He is not just a prophet warning of the consequences of hazards in the world today. He brings a reality for everyone who can receive him, in humility and honesty. And his presence in the world will cast in contrast everything else that is deceptive and manipulative and self-serving and grievous and unforgiving and angry.
 
-<a id="p16"></a>But the Messenger brings a whole new reality. They are not charged with meeting every need of the day or resolving every problem or crisis of the hour. They are bringing something to change the whole approach and future of humanity.
+<a id="p16"></a>But the Messenger is not perfect, for none of the great Messengers have been perfect. And the Messenger is not a god, for none of the great Messengers have been gods.
 
-<a id="p17"></a>Messengers are condemned and crucified and destroyed because people do not get what they want from the Messenger. They do not get wealth or greater security or advantages or special favors—endowments from God.
+<a id="p17"></a>His origin is from beyond the world. He was selected and prepared by the Angelic Presence to enter into the world at a certain place and a certain time.
 
-<a id="p18"></a>The Messenger points to the present and to the future and brings a new reality into the world. People who are needy and ambitious do not get what they want in the moment from this, and so they turn away from the Messenger. They deny the Messenger. They condemn the Messenger. They are looking for someone who is going to benefit them right now in the ways that they want and prescribe. They have no idea what they are looking at. They have no idea what they are judging. They have no idea what their greater needs really are—the need of their soul.
+<a id="p18"></a>His destiny was to become basically educated about humanity and the human condition and to be insulated from the world sufficiently that his greater promise and calling could occur later in his life when he reached a point of maturity.
 
-<a id="p19"></a>This is a dilemma for all peoples in the world—rich or poor, from any nation or culture or religious affiliation. They are not yet aware of the great need of the soul. Those few who are, are reaching within their traditions or beyond their traditions. They are reaching to find this connection inside, this connection with God, and this connection with their future and their destiny and their purpose for being in the world. Everyone else is like cattle grazing in the field, only content to have feed for the day and more pleasures for tomorrow and to be protected, either legitimately or illegitimately, from the hazards of the world.
+<a id="p19"></a>His life was planned out, you see, unlike everyone around him. His life was really planned out and watched over. This is the reality of all the Messengers. And it is the reality of the Messenger who is in the world today, bringing a New Revelation from God.
 
-<a id="p20"></a>God speaks to those who have and those who have not. God speaks to those who rule and those who are ruled. God speaks to those who are honest and those who are dishonest. God speaks to those who are rich and those who are very poor.
+<a id="p20"></a>For God has spoken again to prepare humanity for the hazards of living in a diminishing and declining world and the great and unseen dangers of contact with invasive forces from the universe, who are here to take advantage of human weakness, ambition and disunity.
 
-<a id="p21"></a>The Messenger brings a Message for them all. He is not a reformer. He is not just an advocate. He is not just a visionary. He is not just a prophet warning of the consequences of hazards in the world today. He brings a reality for everyone who can receive him, in humility and honesty. And his presence in the world will cast in contrast everything else that is deceptive and manipulative and self-serving and grievous and unforgiving and angry.
+<a id="p21"></a>The Messenger was given the Message beyond the world, not intellectually, but imbued at a deeper level of the mind, beyond the realm and the reach of the intellect. Who can understand this? Who in the world today can understand this, but a very few?
 
-<a id="p22"></a>But the Messenger is not perfect, for none of the great Messengers have been perfect. And the Messenger is not a god, for none of the great Messengers have been gods.
+<a id="p22"></a>He would be a humble man. He would be educated, but not highly educated. He would be influenced by the world, but not highly influenced by the world. He would be observant of others, but not captivated by others. He would have to remain available, open and receptive through all the formative years of his life.
 
-<a id="p23"></a>His origin is from beyond the world. He was selected and prepared by the Angelic Presence to enter into the world at a certain place and a certain time.
+<a id="p23"></a>Very difficult to achieve, this is, without Divine oversight. Held back from great careers. Held back from committing in relationships until he met his true partner. Held back from interests and hobbies. Held back from becoming an advocate or a reformer. Held back for years and years, failing the standards of society, failing the expectations of society, failing the expectations of family—waiting, preparing for the moment of Initiation.
 
-<a id="p24"></a>His destiny was to become basically educated about humanity and the human condition and to be insulated from the world sufficiently that his greater promise and calling could occur later in his life when he reached a point of maturity.
+<a id="p24"></a>For God’s Messenger this time, it happened at the age of 33. He would have to wait a long time. The Message was within him, but beyond his awareness. He was carrying it like a secret cargo. For the cargo must be secret so it cannot be tampered with. It cannot be revealed prematurely. It cannot be misused, misallocated and misunderstood. It must wait for the Initiation, the Great Rays of Initiation, which would strike him so forcibly that it would shatter his life and send him in a new direction entirely.
 
-<a id="p25"></a>His life was planned out, you see, unlike everyone around him. His life was really planned out and watched over. This is the reality of all the Messengers. And it is the reality of the Messenger who is in the world today, bringing [a New Revelation](https://www.newmessage.org/aboutnmg) from God.
+<a id="p25"></a>People think that the great Messengers are all very saintly, very pure, never having made an error in life. This is foolishness. Of course they all made errors in life. Some of them have suffered greatly for it.
 
-<a id="p26"></a>For God has spoken again to prepare humanity for the hazards of living in a diminishing and declining world and the great and unseen dangers of contact with invasive forces from the universe, who are here to take advantage of human weakness, ambition and disunity.
+<a id="p26"></a>What made them Messengers was the power of the Message imbued in them and their ability to withstand the seductions, the tragedies and the pressures of the world to such a time where their Initiation could begin. And this could not have happened without Divine oversight and careful management of their lives. People think this oversight is available to everyone, but that is not the case.
 
-<a id="p27"></a>The Messenger was given the Message beyond the world, not intellectually, but imbued at a deeper level of the mind, beyond the realm and the reach of the intellect. Who can understand this? Who in the world today can understand this, but a very few?
+<a id="p27"></a>In all cases, the Messengers did not know who they were or what they were carrying or what it would mean for the future until the point of Initiation and the process of Initiation that would ensue that would carry them forward through many thresholds into the future. Time and place were very important here, and the degree of support they received from certain individuals was very important here.
 
-<a id="p28"></a>He would be a humble man. He would be educated, but not highly educated. He would be influenced by the world, but not highly influenced by the world. He would be observant of others, but not captivated by others. He would have to remain available, open and receptive through all the formative years of his life.
+<a id="p28"></a>This is truly a unique individual in the world, and always has been. Though their [worldly] origins are ordinary and humble in most cases, they end up being the most important people in the world.
 
-<a id="p29"></a>Very difficult to achieve, this is, without Divine oversight. Held back from great careers. Held back from committing in relationships until he met his true partner. Held back from interests and hobbies. Held back from becoming an advocate or a reformer. Held back for years and years, failing the standards of society, failing the expectations of society, failing the expectations of family—waiting, preparing for the moment of Initiation.
+<a id="p29"></a>They are sent by the Angelic Presence. They are imbued with the Message, which is greater than them, which is greater than their understanding, which is greater than anything they could conceive of themselves. It has the Power of God within it. It has the power of Initiation.
 
-<a id="p30"></a>For God’s Messenger this time, it happened at the age of 33. He would have to wait a long time. The Message was within him, but beyond his awareness. He was carrying it like a secret cargo. For the cargo must be secret so it cannot be tampered with. It cannot be revealed prematurely. It cannot be misused, misallocated and misunderstood. It must wait for the Initiation, the Great Rays of Initiation, which would strike him so forcibly that it would shatter his life and send him in a new direction entirely.
+<a id="p30"></a>No Messenger could think this up. No Messenger could conceive of this and construct this. This is not a teaching based upon an eclectic approach or a revised version of existing traditions. Spiritual teachers around the world in all traditions do this, but the Messenger brings something greater.
 
-<a id="p31"></a>People think that the great Messengers are all very saintly, very pure, never having made an error in life. This is foolishness. Of course they all made errors in life. Some of them have suffered greatly for it.
+<a id="p31"></a>The Messenger is not magnificent. The Messenger is not so awe inspiring that everyone around him immediately recognizes this person’s importance and uniqueness.
 
-<a id="p32"></a>What made them Messengers was the power of the Message imbued in them and their ability to withstand the seductions, the tragedies and the pressures of the world to such a time where their Initiation could begin. And this could not have happened without Divine oversight and careful management of their lives. People think this oversight is available to everyone, but that is not the case.
+<a id="p32"></a>This has never been the case for God’s Messengers. They were treated very poorly. They were ignored, or denied, or brutally treated—hardly recognized by those around them. Only a very few had this recognition, and they would play an important part in the Messenger’s development and early ministry and later successes.
 
-<a id="p33"></a>In all cases, the Messengers did not know who they were or what they were carrying or what it would mean for the future until the point of Initiation and the process of Initiation that would ensue that would carry them forward through many thresholds into the future. Time and place were very important here, and the degree of support they received from certain individuals was very important here.
+<a id="p33"></a>Now for the first time, the power of Revelation is being given around the world all at once—not in one tribe, not in one specific region, not in one important place in the world. For the world now is connected, and the Messenger will speak to the whole world, and the whole world can turn against him as well. The opportunity is immense, but so are the hazards involved.
 
-<a id="p34"></a>This is truly a unique individual in the world, and always has been. Though their [worldly] origins are ordinary and humble in most cases, they end up being the most important people in the world.
+<a id="p34"></a>As always, religious figures will be threatened once his voice becomes heard, once the impact upon people grows, once his Message begins to take hold. And though he is not here to attack governments or overturn brutal dictatorships or to be revolutionary in this way at all; though he brings peace, cooperation and equanimity, he will be treated like an enemy by those who claim to be religious, by those who claim to represent God and God’s Will, by the followers of all the previous Messengers.
 
-<a id="p35"></a>They are sent by the Angelic Presence. They are imbued with the Message, which is greater than them, which is greater than their understanding, which is greater than anything they could conceive of themselves. It has the Power of God within it. It has the power of Initiation.
+<a id="p35"></a>Many will consider him an enemy and a threat. This shows you how far they really are from the Source of their own traditions and how weak is Knowledge within them, the greater mind that God has given to all people.
 
-<a id="p36"></a>No Messenger could think this up. No Messenger could conceive of this and construct this. This is not a teaching based upon an eclectic approach or a revised version of existing traditions. Spiritual teachers around the world in all traditions do this, but the Messenger brings something greater.
+<a id="p36"></a>It will be easier for the ordinary person to recognize the Messenger. It will be easier for the person who has few preconceived notions and no investment in their position in society to recognize the Messenger.
 
-<a id="p37"></a>The Messenger is not magnificent. The Messenger is not so awe inspiring that everyone around him immediately recognizes this person’s importance and uniqueness.
+<a id="p37"></a>You can deny him. You can disclaim him. But he has the Message, and he is bringing it forth, in the purest form possible.
 
-<a id="p38"></a>This has never been the case for God’s Messengers. They were treated very poorly. They were ignored, or denied, or brutally treated—hardly recognized by those around them. Only a very few had this recognition, and they would play an important part in the Messenger’s development and early ministry and later successes.
+<a id="p38"></a>You can even hear the Voice of Revelation now, which was never possible before and which has never happened before. Yes, Angelic Voices have been heard speaking to very specific things, and this has been recorded at times, but a New Message from God has never been recorded in its pure form.
 
-<a id="p39"></a>Now for the first time, the power of Revelation is being given around the world all at once—not in one tribe, not in one specific region, not in one important place in the world. For the world now is connected, and the Messenger will speak to the whole world, and the whole world can turn against him as well. The opportunity is immense, but so are the hazards involved.
+<a id="p39"></a>To recognize the Messenger, you must have the eyes to see and the ears to hear. You must be willing to set aside your preconceived notions and your grievances against religion and your firm beliefs about God, religion and spirituality to have a pure and real experience.
 
-<a id="p40"></a>As always, religious figures will be threatened once his voice becomes heard, once the impact upon people grows, once his Message begins to take hold. And though he is not here to attack governments or overturn brutal dictatorships or to be revolutionary in this way at all; though he brings peace, cooperation and equanimity, he will be treated like an enemy by those who claim to be religious, by those who claim to represent God and God’s Will, by the followers of all the previous Messengers.
+<a id="p40"></a>The Messenger will not condemn religions of the world, but he will provide in contrast the very essence of their Teachings that has been lost, forgotten or denied.
 
-<a id="p41"></a>Many will consider him an enemy and a threat. This shows you how far they really are from the Source of their own traditions and how weak is Knowledge within them, the greater mind that God has given to all people.
+<a id="p41"></a>He will bring a new reality into the world that will require all religions to reassess their primary and fundamental ideas and beliefs. Though he has no violence within him, he will turn the tables upside down by his proclamation, by his presence in the world and by the Revelation itself.
 
-<a id="p42"></a>It will be easier for the ordinary person to recognize the Messenger. It will be easier for the person who has few preconceived notions and no investment in their position in society to recognize the Messenger.
+<a id="p42"></a>People will become obsessed about who he thinks he is or says he is or who he could be because they are afraid of the Revelation. They cannot deal with the Message, so they will become preoccupied with the Messenger. They will complain. They will accuse him of things. They will think that for the Message to be true, the Messenger has to meet their criteria. They will complain, as if they know what the criteria for the Messenger are. Such foolishness and arrogance, but many people hold these views and base their ideas upon them.
 
-<a id="p43"></a>You can deny him. You can disclaim him. But he has the Message, and he is bringing it forth, in the purest form possible.
+<a id="p43"></a>Oh, he must give people what they want, or they will not want him. All Messengers have faced this fundamental and unavoidable dilemma.
 
-<a id="p44"></a>You can even hear the Voice of Revelation now, which was never possible before and which has never happened before. Yes, Angelic Voices have been heard speaking to very specific things, and this has been recorded at times, but a New Message from God has never been recorded in its pure form.
+<a id="p44"></a>He is not here to give you what you want. He may not even give you what you think you need in the moment. But he is giving you the pathway to your own personal revelation, to your restoration and your redemption. And he is bringing it to you in the clearest possible terms.
 
-<a id="p45"></a>To recognize the Messenger, you must have the eyes to see and the ears to hear. You must be willing to set aside your preconceived notions and your grievances against religion and your firm beliefs about God, religion and spirituality to have a pure and real experience.
+<a id="p45"></a>He is speaking to a literate world now, so the Teaching is not clothed and concealed in pastoral terms, or anecdotes or stories that have to require human commentary for people to understand their meaning.
 
-<a id="p46"></a>The Messenger will not condemn religions of the world, but he will provide in contrast the very essence of their Teachings that has been lost, forgotten or denied.
+<a id="p46"></a>The Revelation is given pure and simple. But it is so deep that people will have to be with it in a new way, for it is not an intellectual enterprise. It is a matter of the heart and of the soul.
 
-<a id="p47"></a>He will bring a new reality into the world that will require all religions to reassess their primary and fundamental ideas and beliefs. Though he has no violence within him, he will turn the tables upside down by his proclamation, by his presence in the world and by the Revelation itself.
+<a id="p47"></a>The Angelic Assembly understands the predicament of bringing something this powerful and pure into the world, and the crisis it will create for people as to whether they can receive and accept this, and the challenge it will give to them to reform their own lives and to establish their connection with Knowledge, the greater intelligence that God has given them, which waits to be discovered.
 
-<a id="p48"></a>People will become obsessed about who he thinks he is or says he is or who he could be because they are afraid of the Revelation. They cannot deal with the Message, so they will become preoccupied with the Messenger. They will complain. They will accuse him of things. They will think that for the Message to be true, the Messenger has to meet their criteria. They will complain, as if they know what the criteria for the Messenger are. Such foolishness and arrogance, but many people hold these views and base their ideas upon them.
+<a id="p48"></a>It is for this reason that the Revelation has provided the Steps to Knowledge at the very beginning of the Revelation that the pathway would be established and not created later by imaginative peoples, and that the clarity and purpose would be established clearly, and not re-established later by those who did not know the Messenger.
 
-<a id="p49"></a>Oh, he must give people what they want, or they will not want him. All Messengers have faced this fundamental and unavoidable dilemma.
+<a id="p49"></a>The risk of corruption is so great. The risk of misinterpretation is so great. The risk of misunderstanding is so great. That is why the Revelation is repetitive—repeating over and over again its purpose, its aim, its pathway and the obstacles and problems that people will have to face to begin to gain a true relationship with their deeper nature, and to have the chance of discovering their greater purpose in the world, and all the forgiveness and reconsideration that this will require, given how they view themselves and the world today.
 
-<a id="p50"></a>He is not here to give you what you want. He may not even give you what you think you need in the moment. But he is giving you the pathway to your own personal revelation, to your restoration and your redemption. And he is bringing it to you in the clearest possible terms.
+<a id="p50"></a>The Messenger does not bring peace. He brings challenge. He brings opportunity. He brings restoration. He brings work. He brings true relationship. He brings the Divine Will and Purpose into the world.
 
-<a id="p51"></a>He is speaking to a literate world now, so the Teaching is not clothed and concealed in pastoral terms, or anecdotes or stories that have to require human commentary for people to understand their meaning.
+<a id="p51"></a>He brings the Revelation that can save humanity from collapse within the world and from the risk of subjugation from beyond the world. He brings things that are so great that people have never even thought of them before.
 
-<a id="p52"></a>The Revelation is given pure and simple. But it is so deep that people will have to be with it in a new way, for it is not an intellectual enterprise. It is a matter of the heart and of the soul.
+<a id="p52"></a>He speaks to the needs of the future as well as the present. He speaks to the needs of the people a century from now who are facing a world catastrophically changed. He speaks to those who will have to face the Greater Community of life in the future and even those who are experiencing contact at this moment.
 
-<a id="p53"></a>The Angelic Assembly understands the predicament of bringing something this powerful and pure into the world, and the crisis it will create for people as to whether they can receive and accept this, and the challenge it will give to them to reform their own lives and to establish their connection with Knowledge, the greater intelligence that God has given them, which waits to be discovered.
+<a id="p53"></a>He brings the solution to a thousand questions and problems, beyond what people know of today—what will secure and create human freedom and sovereignty in the universe, where freedom is rare, where everything will be done short of invasion to take advantage of a weak and unsuspecting humanity.
 
-<a id="p54"></a>It is for this reason that the Revelation has provided the [Steps to Knowledge](https://www.newmessage.org/stk) at the very beginning of the Revelation that the pathway would be established and not created later by imaginative peoples, and that the clarity and purpose would be established clearly, and not re-established later by those who did not know the Messenger.
+<a id="p54"></a>People know nothing of this. People know nothing of the real hazards facing the world today. They are living in their own little dream, preoccupied with their needs and problems. They have no idea what is going to threaten human civilization, both from within and from without. But the Revelation brings this awareness.
 
-<a id="p55"></a>The risk of corruption is so great. The risk of misinterpretation is so great. The risk of misunderstanding is so great. That is why the Revelation is repetitive—repeating over and over again its purpose, its aim, its pathway and the obstacles and problems that people will have to face to begin to gain a true relationship with their deeper nature, and to have the chance of discovering their greater purpose in the world, and all the forgiveness and reconsideration that this will require, given how they view themselves and the world today.
+<a id="p55"></a>For only God can reveal what life is like in the universe, and this is part of the Revelation. Only God can reveal what is coming over the horizon for humanity, and this is revealed in the Revelation. Only God can speak to the deeper needs of the heart and the soul, and this is the center of the Revelation. From the needs of the whole world, both now and in the future, to the fundamental and core needs of you the individual, at this moment, the Revelation speaks of all these things, for they are all connected, you see.
 
-<a id="p56"></a>The Messenger does not bring peace. He brings challenge. He brings opportunity. He brings restoration. He brings work. He brings true relationship. He brings the Divine Will and Purpose into the world.
+<a id="p56"></a>The Messenger speaks of living a greater life in service to a world in need. Surely, this need is growing with each passing day and will escalate beyond what people estimate today.
 
-<a id="p57"></a>He brings the Revelation that can save humanity from collapse within the world and from the risk of subjugation from beyond the world. He brings things that are so great that people have never even thought of them before.
+<a id="p57"></a>He calls people out of their miserable attempt at self-fulfillment, their tragedies, their predicaments, their entrapment, [calling] people out of political and social and religious oppression to find the voice that God has put within them to find and to follow.
 
-<a id="p58"></a>He speaks to the needs of the future as well as the present. He speaks to the needs of the people a century from now who are facing a world catastrophically changed. He speaks to those who will have to face the [Greater Community](https://www.newmessage.org/aboutgc) of life in the future and even those who are experiencing contact at this moment.
+<a id="p58"></a>For this, he will be denied and condemned by those who have invested in other things, by those whose views are threatened; whose position in life is questioned; whose values, ethics and firm beliefs are thrown into doubt by his proclamation and by the nature of the Revelation itself.
 
-<a id="p59"></a>He brings the solution to a thousand questions and problems, beyond what people know of today—what will secure and create human freedom and sovereignty in the universe, where freedom is rare, where everything will be done short of invasion to take advantage of a weak and unsuspecting humanity.
+<a id="p59"></a>The Angelic Presence knows that if he can reach enough people within the span of his time, the Revelation will take hold in the world. But many things have delayed the Messenger. People have not responded who were destined to do so. There have been financial setbacks, grave serious illness and the great challenge of penetrating the ignorance and preoccupations of humanity.
 
-<a id="p60"></a>People know nothing of this. People know nothing of the real hazards facing the world today. They are living in their own little dream, preoccupied with their needs and problems. They have no idea what is going to threaten human civilization, both from within and from without. But the Revelation brings this awareness.
+<a id="p60"></a>That is why anyone who can respond to the Messenger must truly respond. And time is of the essence, for he is an older man, and his presence in the world is of critical importance for the future of humanity.
 
-<a id="p61"></a>For only God can reveal what life is like in the universe, and this is part of the Revelation. Only God can reveal what is coming over the horizon for humanity, and this is revealed in the Revelation. Only God can speak to the deeper needs of the heart and the soul, and this is the center of the Revelation. From the needs of the whole world, both now and in the future, to the fundamental and core needs of you the individual, at this moment, the Revelation speaks of all these things, for they are all connected, you see.
+<a id="p61"></a>This time, the Angelic Presence presented the Message first before the Messenger would even proclaim himself. In that way, the Message has been preserved. It has been printed. It has been established. Even if the Messenger should meet calamity tomorrow, the Message is here, and there are enough people now to speak for it and carry it forward. This is to prevent usurpation and corruption, for the Message speaks clearly, without a great need for human commentary or intervention.
 
-<a id="p62"></a>The Messenger speaks of living a greater life in service to a world in need. Surely, this need is growing with each passing day and will escalate beyond what people estimate today.
+<a id="p62"></a>Yet the Messenger contains more than what is in print and what has been recorded. That is why if you can reach the Messenger and hear the Messenger, you will hear things beyond what has been printed and recorded.
 
-<a id="p63"></a>He calls people out of their miserable attempt at self-fulfillment, their tragedies, their predicaments, their entrapment, [calling] people out of political and social and religious oppression to find the voice that God has put within them to find and to follow.
+<a id="p63"></a>For he carries the Message within him like a fire. It burns. But it warms the soul and illuminates the landscape. The Fire of Knowledge within the Messenger is unlike any fire in the world. It is so powerful even he can barely stand it for long periods of time.
 
-<a id="p64"></a>For this, he will be denied and condemned by those who have invested in other things, by those whose views are threatened; whose position in life is questioned; whose values, ethics and firm beliefs are thrown into doubt by his proclamation and by the nature of the Revelation itself.
+<a id="p64"></a>Your relationship with him is important. You do not yet realize its importance. But he must be seen correctly. He must be seen from the soul and the heart. He must be heard, and the nature of Revelation must be understood sufficiently so that you can understand the great opportunity this is giving to you and to the world.
 
-<a id="p65"></a>The Angelic Presence knows that if he can reach enough people within the span of his time, the Revelation will take hold in the world. But many things have delayed the Messenger. People have not responded who were destined to do so. There have been financial setbacks, grave serious illness and the great challenge of penetrating the ignorance and preoccupations of humanity.
+<a id="p65"></a>For it will be centuries before another Messenger is sent. This is it. This is the one. This is the real Message for the world for this time and the times to come.
 
-<a id="p66"></a>That is why anyone who can respond to the Messenger must truly respond. And time is of the essence, for he is an older man, and his presence in the world is of critical importance for the future of humanity.
+<a id="p66"></a>Fail to respond here, and the consequences will be great for your life and for the world. You will not find your destiny. You will not find your calling. You will be lost at sea with everyone else—groping, searching, suffering. Knowledge within you will be alive, but you may never find a way to connect with it. And your grievance against the world will grow as the world diminishes. And your grief and your anguish will increase as human suffering around you increases. And you will feel helpless and hopeless regarding your position in the universe, for you have not found the power of Knowledge yet to redeem you.
 
-<a id="p67"></a>This time, the Angelic Presence presented the Message first before the Messenger would even proclaim himself. In that way, the Message has been preserved. It has been printed. It has been established. Even if the Messenger should meet calamity tomorrow, the Message is here, and there are enough people now to speak for it and carry it forward. This is to prevent usurpation and corruption, for the Message speaks clearly, without a great need for human commentary or intervention.
+<a id="p67"></a>This is the consequence of living at a time of Revelation. It is not just a matter of choosing this over that. It is not one teaching versus another teaching. It is the crucial thing that will make all the difference. Success and failure here are utterly consequential for the individual, for you.
 
-<a id="p68"></a>Yet the Messenger contains more than what is in print and what has been recorded. That is why if you can reach the Messenger and hear the Messenger, you will hear things beyond what has been printed and recorded.
+<a id="p68"></a>This is why people think that Revelation cannot happen again because they really do not want to deal with the challenge and the opportunity and the re-evaluation it will require and present. Better to live with old Revelations that have been well established, where human commentary has overlaid them so completely that it is hard to really understand what the Revelations were talking about in the first place.
 
-<a id="p69"></a>For he carries the Message within him like a fire. It burns. But it warms the soul and illuminates the landscape. The Fire of Knowledge within the Messenger is unlike any fire in the world. It is so powerful even he can barely stand it for long periods of time.
+<a id="p69"></a>They [the old Revelations] have become the establishment. They have become the institution. They have become the accepted norm. There are individuals who recognize their true value and attempt to live this value. But for most people this is simply what is expected of them in their culture and nation—to believe and to follow, to some degree at least, but never with great seriousness or real devotion.
 
-<a id="p70"></a>Your relationship with him is important. You do not yet realize its importance. But he must be seen correctly. He must be seen from the soul and the heart. He must be heard, and the nature of Revelation must be understood sufficiently so that you can understand the great opportunity this is giving to you and to the world.
+<a id="p70"></a>So into this compromised environment, God has spoken again and sent a Messenger into the world, sent from the Angelic Presence and Host to deliver a new reality, to shake people out of their complacency, to call people out of the shadows of their past, to bring clarity and resolution where there is only opinion and speculation, to take people beyond belief and their intellectual understanding to a greater reality of recognition and redemption.
 
-<a id="p71"></a>For it will be centuries before another Messenger is sent. This is it. This is the one. This is the real Message for the world for this time and the times to come.
-
-<a id="p72"></a>Fail to respond here, and the consequences will be great for your life and for the world. You will not find your destiny. You will not find your calling. You will be lost at sea with everyone else—groping, searching, suffering. Knowledge within you will be alive, but you may never find a way to connect with it. And your grievance against the world will grow as the world diminishes. And your grief and your anguish will increase as human suffering around you increases. And you will feel helpless and hopeless regarding your position in the universe, for you have not found the power of Knowledge yet to redeem you.
-
-<a id="p73"></a>This is the consequence of living at a time of Revelation. It is not just a matter of choosing this over that. It is not one teaching versus another teaching. It is the crucial thing that will make all the difference. Success and failure here are utterly consequential for the individual, for you.
-
-<a id="p74"></a>This is why people think that Revelation cannot happen again because they really do not want to deal with the challenge and the opportunity and the re-evaluation it will require and present. Better to live with old Revelations that have been well established, where human commentary has overlaid them so completely that it is hard to really understand what the Revelations were talking about in the first place.
-
-<a id="p75"></a>They [the old Revelations] have become the establishment. They have become the institution. They have become the accepted norm. There are individuals who recognize their true value and attempt to live this value. But for most people this is simply what is expected of them in their culture and nation—to believe and to follow, to some degree at least, but never with great seriousness or real devotion.
-
-<a id="p76"></a>So into this compromised environment, God has spoken again and sent a Messenger into the world, sent from the Angelic Presence and Host to deliver a new reality, to shake people out of their complacency, to call people out of the shadows of their past, to bring clarity and resolution where there is only opinion and speculation, to take people beyond belief and their intellectual understanding to a greater reality of recognition and redemption.
-
-<a id="p77"></a>If you can understand the origin of the Messenger, you will begin to understand your origin and what has called you into the world, which is an entirely different way of looking at your life—your present life, your past life and your future—and indeed a remarkable way of looking at the world. For there will be no condemnation here, only recognition and determination and great compassion for humanity as it struggles to find its real strength at a time of Revelation.
+<a id="p71"></a>If you can understand the origin of the Messenger, you will begin to understand your origin and what has called you into the world, which is an entirely different way of looking at your life—your present life, your past life and your future—and indeed a remarkable way of looking at the world. For there will be no condemnation here, only recognition and determination and great compassion for humanity as it struggles to find its real strength at a time of Revelation.

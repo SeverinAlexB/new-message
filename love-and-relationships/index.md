@@ -2,11 +2,11 @@
 
 Volume 2
 
-Source: [Love and Relationships](https://www.newmessage.org/the-message/volume-2/love-and-relationships/)
+Source: [Love and Relationships](https://newmessage.org/the-message/volume-2/love-and-relationships/)
 
-## Chapters
+## Contents
 
-- **`00-front-matter.md`** — Front Matter
+- **`00-front-matter.md`** — Overview
 - **`01-a-deeper-recognition-in-relationships.md`** — A Deeper Recognition in Relationships
 - **`02-being-alone.md`** — Being Alone
 - **`03-discernment-in-relationships.md`** — Discernment in Relationships

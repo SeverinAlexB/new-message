@@ -4,153 +4,141 @@ book: "The Power of Knowledge"
 chapter: "10"
 title: "The Greater Intelligence"
 type: chapter
-source_url: "https://www.newmessage.org/the-message/volume-1/power-of-knowledge/the-greater-intelligence/"
+source_url: "https://newmessage.org/the-message/volume-1/power-of-knowledge/the-greater-intelligence/"
+received_date: "September 4, 2015"
+received_location: "Boulder, Colorado"
 ---
 
 # The Greater Intelligence
 
-<a id="p1"></a>- Listen
-- Info
-- Watch
+<a id="p1"></a>Certainly, people have a notion of intelligence. How clever or capable a person’s mind may be in certain situations, how well educated a person may be along certain lines of work or employment, how clever one might be and artistic one might be—all these things are considered markers of intelligence. But they only bespeak one aspect of intelligence within you.
 
-<a id="p2"></a>Hear the original spoken revelation:
+<a id="p2"></a>The intellect and its development, or lack of development, is what people usually regard as intelligence. But there are different kinds of intelligence, and the greatest Intelligence within you remains hidden beneath the intellect, beneath the surface of the mind. It is as if the intellect were the visible part of the iceberg, and below the water line, the main body of the iceberg exists out of sight.
 
-<a id="p3"></a>[Download](https://www.newmessage.org/av/the-greater-intelligence.mp3) (Right-click to download)
+<a id="p3"></a>It is so much like your mind, you see. The intellect is at the surface—conditioned by the world, educated by the world, blinded by the world, fooled by the world, enraptured with the world, terrified of the world.
 
-<a id="p4"></a>As received
+<a id="p4"></a>It is like the turbulent surface of the seas, whipped every which way by the winds of the world, without any seeming direction or purpose. But like the ocean itself, deep beneath the surface, the great currents of the world are moving the world’s waters—relentlessly, purposefully—governed now by greater forces, even celestial forces.
 
-<a id="p5"></a>on September 4, 2015
+<a id="p5"></a>And so it is with you. You live at the surface of your mind. You are dominated by your intellect and your ideas. You may even believe you are your ideas, or they represent who you are, and who you are in society, who you are to yourself perhaps, even perhaps—if you are religious—who you are to God. This is defined by your religious beliefs and affiliations. But this is only a small part of intelligence.
 
-<a id="p6"></a>in Boulder, Colorado
+<a id="p6"></a>What the world will need increasingly in the future in the face of the Great Waves of change and in the face of Intervention from races from the universe who are here to take advantage of your weakness and divisions is intelligence, at every level of intelligence. It is the one resource that humanity seems to be lacking collectively.
 
-<a id="p7"></a>Certainly, people have a notion of intelligence. How clever or capable a person’s mind may be in certain situations, how well educated a person may be along certain lines of work or employment, how clever one might be and artistic one might be—all these things are considered markers of intelligence. But they only bespeak one aspect of intelligence within you.
+<a id="p7"></a>While people may be brilliant within a narrow band of application, broadly speaking, very few people have wisdom and capability.
 
-<a id="p8"></a>The intellect and its development, or lack of development, is what people usually regard as intelligence. But there are different kinds of intelligence, and the greatest Intelligence within you remains hidden beneath the intellect, beneath the surface of the mind. It is as if the intellect were the visible part of the iceberg, and below the water line, the main body of the iceberg exists out of sight.
+<a id="p8"></a>This will make it more difficult for you to adapt to a changing world, to a heating world, to a world of cataclysmic climate change and resource depletion, and competition and conflict.
 
-<a id="p9"></a>It is so much like your mind, you see. The intellect is at the surface—conditioned by the world, educated by the world, blinded by the world, fooled by the world, enraptured with the world, terrified of the world.
+<a id="p9"></a>People will feel helpless and hopeless in the face of these things because they have never brought their intelligence to bear upon these kinds of forces that have plagued humanity throughout history, to a certain degree.
 
-<a id="p10"></a>It is like the turbulent surface of the seas, whipped every which way by the winds of the world, without any seeming direction or purpose. But like the ocean itself, deep beneath the surface, the great currents of the world are moving the world’s waters—relentlessly, purposefully—governed now by greater forces, even celestial forces.
+<a id="p10"></a>But now you are facing change on a level never seen in the world before—change in your environment, change in your climate, change in your circumstances on a level never seen by all of humanity before.
 
-<a id="p11"></a>And so it is with you. You live at the surface of your mind. You are dominated by your intellect and your ideas. You may even believe you are your ideas, or they represent who you are, and who you are in society, who you are to yourself perhaps, even perhaps—if you are religious—who you are to God. This is defined by your religious beliefs and affiliations. But this is only a small part of intelligence.
+<a id="p11"></a>But people are unaware. They are unprepared. They are maladapted. They are unintelligent when it comes to these greater things. They have never given it much attention. They think it is someone else’s problems, or that someone else will fix things for them, at some level, in some way, though they have no idea how. This is an unintelligent response to real life situations.
 
-<a id="p12"></a>What the world will need increasingly in the future in the face of the [Great Waves of change](https://www.newmessage.org/aboutgwc) and in the face of Intervention from races from the universe who are here to take advantage of your weakness and divisions is intelligence, at every level of intelligence. It is the one resource that humanity seems to be lacking collectively.
+<a id="p12"></a>The richer people are, the more incapable they can become in this regard, the more fixated they are on their possessions and their goals, their hobbies, their fantasies, their predicaments. They do not look over the horizon to see what is coming. They do not assess the situation on a regular basis to see if their foundation is sound and secure.
 
-<a id="p13"></a>While people may be brilliant within a narrow band of application, broadly speaking, very few people have wisdom and capability.
+<a id="p13"></a>The poor people are living at the edge of nature, vulnerable at every turn. While their situation is far more tragic, often they are far more capable of understanding what is going on around them. And though they do not have the power or the wealth to prepare or to position themselves more favorably in the face of these things, there could be greater Intelligence here.
 
-<a id="p14"></a>This will make it more difficult for you to adapt to a changing world, to a heating world, to a world of cataclysmic climate change and resource depletion, and competition and conflict.
+<a id="p14"></a>The farmer knows the ways and the winds of the world. The sailor knows the waves and the winds of the world. Anyone who must survive in nature has a greater scope and is observing things around them at all times, just as the animals do, the intelligent animals.
 
-<a id="p15"></a>People will feel helpless and hopeless in the face of these things because they have never brought their intelligence to bear upon these kinds of forces that have plagued humanity throughout history, to a certain degree.
+<a id="p15"></a>But people are living in their own little personal reality. They are living in a dream or a nightmare of that reality.
 
-<a id="p16"></a>But now you are facing change on a level never seen in the world before—change in your environment, change in your climate, change in your circumstances on a level never seen by all of humanity before.
+<a id="p16"></a>Knowledge within them, the greater Intelligence, will give them signs, but they will not heed it or hear it, or [they will] think it is something else.
 
-<a id="p17"></a>But people are unaware. They are unprepared. They are maladapted. They are unintelligent when it comes to these greater things. They have never given it much attention. They think it is someone else’s problems, or that someone else will fix things for them, at some level, in some way, though they have no idea how. This is an unintelligent response to real life situations.
+<a id="p17"></a>What humanity will need in the future is Intelligence, but not just intellectual intelligence. It will need the greater Intelligence that God has put within each person to guide them, to prepare them, to protect them and to lead them to a greater life of service and meaning in the world, even under the radically changing circumstances of life.
 
-<a id="p18"></a>The richer people are, the more incapable they can become in this regard, the more fixated they are on their possessions and their goals, their hobbies, their fantasies, their predicaments. They do not look over the horizon to see what is coming. They do not assess the situation on a regular basis to see if their foundation is sound and secure.
+<a id="p18"></a>For you have been sent into the world to be in these circumstances, and Knowledge within you knows exactly what this means. It is not governed by the world. It is not afraid of the world. It is not governed by your attitudes and your beliefs, your condemnation of others, or your issues with life or God, whatever they may be.
 
-<a id="p19"></a>The poor people are living at the edge of nature, vulnerable at every turn. While their situation is far more tragic, often they are far more capable of understanding what is going on around them. And though they do not have the power or the wealth to prepare or to position themselves more favorably in the face of these things, there could be greater Intelligence here.
+<a id="p19"></a>God has given you the real Intelligence. It is not the only intelligence within you, for your worldly wisdom is very important, to whatever extent it has been developed and cultivated.
 
-<a id="p20"></a>The farmer knows the ways and the winds of the world. The sailor knows the waves and the winds of the world. Anyone who must survive in nature has a greater scope and is observing things around them at all times, just as the animals do, the intelligent animals.
+<a id="p20"></a>The more you can become educated intellectually, recognizing the realities of the world rather than merely human ideas about it, the more Knowledge can move through you and direct you correctly.
 
-<a id="p21"></a>But people are living in their own little personal reality. They are living in a dream or a nightmare of that reality.
+<a id="p21"></a>But be very clear that intellectual brilliance does not represent the power of Knowledge. People can be brilliant, but utterly blind in the rest of their lives and affairs—be as foolish as anyone, make the most ridiculous decisions, be convinced by the most unconvincing persuasions. Though they may be brilliant in one area, even if they are celebrated as being brilliant, the rest of their life can be a complete mess.
 
-<a id="p22"></a>Knowledge within them, the greater Intelligence, will give them signs, but they will not heed it or hear it, or [they will] think it is something else.
+<a id="p22"></a>So be very clear that We are talking about Intelligence now at a greater level—within you and within everyone, waiting to be discovered. This Intelligence must guide the intellect, or the intellect will continue to be dominated by its reactions to the world, by its ideas and fixations. When that is the case, you cannot see; you cannot know; and you cannot respond when Heaven is giving you wisdom and signs to hold you back, to keep you from moving in a direction that does not represent your destiny.
 
-<a id="p23"></a>What humanity will need in the future is Intelligence, but not just intellectual intelligence. It will need the greater Intelligence that God has put within each person to guide them, to prepare them, to protect them and to lead them to a greater life of service and meaning in the world, even under the radically changing circumstances of life.
+<a id="p23"></a>For you do have a destiny because you were sent here for a greater purpose. But if that purpose is not being realized, if you are not moving in that direction, if you are stranded somewhere in a set of circumstances that does not represent this destiny, then you will feel a restlessness and a frustration where nothing can relieve you until you come to your deeper senses and begin to take stock of your life, and to ask yourself, “Am I living the life I was truly meant to live?”
 
-<a id="p24"></a>For you have been sent into the world to be in these circumstances, and Knowledge within you knows exactly what this means. It is not governed by the world. It is not afraid of the world. It is not governed by your attitudes and your beliefs, your condemnation of others, or your issues with life or God, whatever they may be.
+<a id="p24"></a>That is an intelligent question, but it does not have an easy answer, for the answer is not an idea. The answer is a pathway to follow. Mysterious it is. It is beyond the realm of your intellect, so you cannot fully understand it. But it will feel very natural to you, and very real. And the further that you will respond to this, the more you will feel right about your life and have a sense that there is a real purpose there—not of your invention, not a purpose that someone else has invented for you, but a real purpose that God has put there.
 
-<a id="p25"></a>God has given you the real Intelligence. It is not the only intelligence within you, for your worldly wisdom is very important, to whatever extent it has been developed and cultivated.
+<a id="p25"></a>It is not a definition. People will say, “Well, just tell me what it is!” But it must be revealed to you step by step. You must prove your ability to respond to it and to follow it and to be worthy of it.
 
-<a id="p26"></a>The more you can become educated intellectually, recognizing the realities of the world rather than merely human ideas about it, the more Knowledge can move through you and direct you correctly.
+<a id="p26"></a>Great gifts, great messages, great realizations never come all at once if they come from a true source.
 
-<a id="p27"></a>But be very clear that intellectual brilliance does not represent the power of Knowledge. People can be brilliant, but utterly blind in the rest of their lives and affairs—be as foolish as anyone, make the most ridiculous decisions, be convinced by the most unconvincing persuasions. Though they may be brilliant in one area, even if they are celebrated as being brilliant, the rest of their life can be a complete mess.
+<a id="p27"></a>The way out of your dilemma will not be your invention. The way out of this jungle of your mind and circumstances will not be something you invent or someone else invents for you.
 
-<a id="p28"></a>So be very clear that We are talking about Intelligence now at a greater level—within you and within everyone, waiting to be discovered. This Intelligence must guide the intellect, or the intellect will continue to be dominated by its reactions to the world, by its ideas and fixations. When that is the case, you cannot see; you cannot know; and you cannot respond when Heaven is giving you wisdom and signs to hold you back, to keep you from moving in a direction that does not represent your destiny.
+<a id="p28"></a>For only God knows the way out of this. For only God knows what you are really here to do, whom you must meet, what you must accomplish, what you must avoid.
 
-<a id="p29"></a>For you do have a destiny because you were sent here for a greater purpose. But if that purpose is not being realized, if you are not moving in that direction, if you are stranded somewhere in a set of circumstances that does not represent this destiny, then you will feel a restlessness and a frustration where nothing can relieve you until you come to your deeper senses and begin to take stock of your life, and to ask yourself, “Am I living the life I was truly meant to live?”
+<a id="p29"></a>This is not to place you in a monastery or a convent. It is to put you out into the world, with the Power of Heaven to be your rudder, to keep you on track.
 
-<a id="p30"></a>That is an intelligent question, but it does not have an easy answer, for the answer is not an idea. The answer is a pathway to follow. Mysterious it is. It is beyond the realm of your intellect, so you cannot fully understand it. But it will feel very natural to you, and very real. And the further that you will respond to this, the more you will feel right about your life and have a sense that there is a real purpose there—not of your invention, not a purpose that someone else has invented for you, but a real purpose that God has put there.
+<a id="p30"></a>Your mind, your intellect, so proud it may be of its ideas and accomplishments, will have now to submit to a greater power within you.
 
-<a id="p31"></a>It is not a definition. People will say, “Well, just tell me what it is!” But it must be revealed to you step by step. You must prove your ability to respond to it and to follow it and to be worthy of it.
+<a id="p31"></a>Yet the greater Intelligence needs the lesser intelligence to be most effective in the world. So what you have learned; what you have accomplished; the wisdom you have developed; the clarity and certainty you have accomplished, to whatever degree, are all important. It makes your vehicle more competent. It makes your mind sharper. It makes you able to face challenge and difficulty and live with questions you cannot yet answer.
 
-<a id="p32"></a>Great gifts, great messages, great realizations never come all at once if they come from a true source.
+<a id="p32"></a>Here you do not disappear into God. You begin to regain your true relationship with God. And you become a person who was sent into the world to do something important and significant, however humble it may be and seem. It will be your greatest joy to do this.
 
-<a id="p33"></a>The way out of your dilemma will not be your invention. The way out of this jungle of your mind and circumstances will not be something you invent or someone else invents for you.
+<a id="p33"></a>Where you have been unsuccessful in finding true happiness in other things—other pursuits, other relationships, in romance, in the pursuit of wealth, or adventure—nothing but your true purpose and destiny can satisfy the deeper need of your soul.
 
-<a id="p34"></a>For only God knows the way out of this. For only God knows what you are really here to do, whom you must meet, what you must accomplish, what you must avoid.
+<a id="p34"></a>Once you come to experience this, then you have reached a real turning point in your life. And you will begin to turn to the greater power that can move you from within, and hold you back from within.
 
-<a id="p35"></a>This is not to place you in a monastery or a convent. It is to put you out into the world, with the Power of Heaven to be your rudder, to keep you on track.
+<a id="p35"></a>Now you have the greater Intelligence of Knowledge, which represents the part of you that is still connected to God. Now you have your intellect to be developed in a more appropriate and constructive manner. Now you have skills to develop.
 
-<a id="p36"></a>Your mind, your intellect, so proud it may be of its ideas and accomplishments, will have now to submit to a greater power within you.
+<a id="p36"></a>Now you have the Four Pillars of your life to build: the Pillar of Relationships, the Pillar of Work and Providership, the Pillar of Mental and Physical Health and the Pillar of Spiritual Development and Awareness. Like the four legs of a table, they must all be built, you see. And your table will only be as strong, your foundation will only be as strong, as the weakest of these Pillars. Much of your foundation work in learning and living The Way of Knowledge that God’s New Message for the world presents will be building this foundation.
 
-<a id="p37"></a>Yet the greater Intelligence needs the lesser intelligence to be most effective in the world. So what you have learned; what you have accomplished; the wisdom you have developed; the clarity and certainty you have accomplished, to whatever degree, are all important. It makes your vehicle more competent. It makes your mind sharper. It makes you able to face challenge and difficulty and live with questions you cannot yet answer.
+<a id="p37"></a>For you must be in the right place with the right people for the right purpose, or Knowledge cannot give you a greater pathway to follow. Your greater work cannot be revealed to you because you are not in a position to recognize it or to bring it into existence.
 
-<a id="p38"></a>Here you do not disappear into God. You begin to regain your true relationship with God. And you become a person who was sent into the world to do something important and significant, however humble it may be and seem. It will be your greatest joy to do this.
+<a id="p38"></a>Knowledge knows where you have to go. You must learn to follow. But as you follow, you will have to use your mind carefully to discern other people, to discern your environment, for there are many hazards along the way.
 
-<a id="p39"></a>Where you have been unsuccessful in finding true happiness in other things—other pursuits, other relationships, in romance, in the pursuit of wealth, or adventure—nothing but your true purpose and destiny can satisfy the deeper need of your soul.
+<a id="p39"></a>Here you do not abandon the intellect for some kind of grand spiritual experience. Instead, your intellect is brought into greater service and is given a greater requirement for development and constructive education.
 
-<a id="p40"></a>Once you come to experience this, then you have reached a real turning point in your life. And you will begin to turn to the greater power that can move you from within, and hold you back from within.
+<a id="p40"></a>What do We mean by this? We mean that your intellect must learn about the Great Waves of change that are coming to the world, to face this with as much courage as you can, as objectively as you can.
 
-<a id="p41"></a>Now you have the greater Intelligence of Knowledge, which represents the part of you that is still connected to God. Now you have your intellect to be developed in a more appropriate and constructive manner. Now you have skills to develop.
+<a id="p41"></a>You must learn about the condition of your community and your nation, and to a greater extent, the communities of the world.
 
-<a id="p42"></a>Now you have the [Four Pillars](https://www.newmessage.org/the-message/volume-3/living-way-knowledge/the-four-pillars-of-life) of your life to build: the Pillar of Relationships, the Pillar of Work and Providership, the Pillar of Mental and Physical Health and the Pillar of Spiritual Development and Awareness. Like the four legs of a table, they must all be built, you see. And your table will only be as strong, your foundation will only be as strong, as the weakest of these Pillars. Much of your foundation work in learning and living [The Way of Knowledge](https://www.newmessage.org/the-message/volume-3/living-way-knowledge) that God’s New Message for the world presents will be building this foundation.
+<a id="p42"></a>You must learn about humanity’s exposure and vulnerability to a universe full of intelligent life, which is revealed for the first time through God’s New Revelation for the world.
 
-<a id="p43"></a>For you must be in the right place with the right people for the right purpose, or Knowledge cannot give you a greater pathway to follow. Your greater work cannot be revealed to you because you are not in a position to recognize it or to bring it into existence.
+<a id="p43"></a>You must learn about the Greater Community of life in this part of the universe, which is being revealed for the first time through God’s Revelation for humanity.
 
-<a id="p44"></a>Knowledge knows where you have to go. You must learn to follow. But as you follow, you will have to use your mind carefully to discern other people, to discern your environment, for there are many hazards along the way.
+<a id="p44"></a>There is much to be learned. There is much to be unlearned. There is much to be reconsidered and changed. There is a lot of work to do at the level of your mind. It is full of memory and grievances and persuasions that weaken you and that trouble you, even haunt you.
 
-<a id="p45"></a>Here you do not abandon the intellect for some kind of grand spiritual experience. Instead, your intellect is brought into greater service and is given a greater requirement for development and constructive education.
+<a id="p45"></a>That is why people cannot sit still for five minutes—running all the time, chasing after everything and anything, being stimulated every moment so they will not feel their true condition. They will not come to their deeper senses.
 
-<a id="p46"></a>What do We mean by this? We mean that your intellect must learn about the Great Waves of change that are coming to the world, to face this with as much courage as you can, as objectively as you can.
+<a id="p46"></a>You cannot go into the future with a mind like that, or you will not survive. You will not succeed. You will not be safe. You will not know what to do, and you will follow others who do not know what to do. You will be terrified, frustrated and angry, turning against others. It is a prescription for disaster at a level never seen here before. That is why this Calling is so urgent, you see. That is why God has given a New Message for humanity at this critical turning point.
 
-<a id="p47"></a>You must learn about the condition of your community and your nation, and to a greater extent, the communities of the world.
+<a id="p47"></a>Already, the Great Waves of change are striking all over the world. Already, there is an Intervention underway from races who are here to take advantage of you, posing as being benign and spiritually advanced, when in fact they are nothing more than resource explorers, who are clever and who know how to persuade people.
 
-<a id="p48"></a>You must learn about humanity’s exposure and vulnerability to a universe full of intelligent life, which is revealed for the first time through [God’s New Revelation](https://www.newmessage.org/aboutnmg) for the world.
+<a id="p48"></a>These are the greater dilemmas that are coming over the horizon that most people are unaware of. And not only are they unaware, they do not want to become aware because they do not have the strength to face it. It would shatter their dreams. It would upset their plans. All of a sudden, all their ideas upon which they have built their understanding will be greatly threatened and upset. How many people in history have fallen with these same assumptions, same problems, same lack of intelligence?
 
-<a id="p49"></a>You must learn about the [Greater Community](https://www.newmessage.org/aboutgc) of life in this part of the universe, which is being revealed for the first time through God’s Revelation for humanity.
+<a id="p49"></a>This [greater] Intelligence is not fearful, but it is observant. It does not condemn others, but it does recognize errors, problems and risks. This Intelligence is not hopeless because it is born of Knowledge within you.
 
-<a id="p50"></a>There is much to be learned. There is much to be unlearned. There is much to be reconsidered and changed. There is a lot of work to do at the level of your mind. It is full of memory and grievances and persuasions that weaken you and that trouble you, even haunt you.
+<a id="p50"></a>Your mind can go from hope to hopelessness in a moment—so fragile is your certainty, so thin your layer of confidence, so easily destroyed and upset are your assumptions.
 
-<a id="p51"></a>That is why people cannot sit still for five minutes—running all the time, chasing after everything and anything, being stimulated every moment so they will not feel their true condition. They will not come to their deeper senses.
+<a id="p51"></a>It is to take you out of this pathetic and vulnerable state that God is calling to you now through the New Revelation, to build and to receive a greater Intelligence that is your inheritance here on Earth. In fact, it represents your purpose here on Earth.
 
-<a id="p52"></a>You cannot go into the future with a mind like that, or you will not survive. You will not succeed. You will not be safe. You will not know what to do, and you will follow others who do not know what to do. You will be terrified, frustrated and angry, turning against others. It is a prescription for disaster at a level never seen here before. That is why this Calling is so urgent, you see. That is why God has given a New Message for humanity at this critical turning point.
+<a id="p52"></a>For without this, you will not be able to navigate the difficult times to come. You will be helpless and hopeless. Or you will believe in some great solution. Or you will assume that technology will take care of it. Or the government will take care of it. Or some alien force will take care of it. So foolish this is, so unintelligent, so weak, so vulnerable.
 
-<a id="p53"></a>Already, the Great Waves of change are striking all over the world. Already, there is an Intervention underway from races who are here to take advantage of you, posing as being benign and spiritually advanced, when in fact they are nothing more than resource explorers, who are clever and who know how to persuade people.
+<a id="p53"></a>The Calling is for you to become strong and competent. It is not about looking good. It is not about perfection. It is not about enlightenment or glory or bliss. It is about surviving in a difficult world and becoming a force for good there, a force of contribution.
 
-<a id="p54"></a>These are the greater dilemmas that are coming over the horizon that most people are unaware of. And not only are they unaware, they do not want to become aware because they do not have the strength to face it. It would shatter their dreams. It would upset their plans. All of a sudden, all their ideas upon which they have built their understanding will be greatly threatened and upset. How many people in history have fallen with these same assumptions, same problems, same lack of intelligence?
+<a id="p54"></a>For God knows what is coming to the world. And through the Revelation, God is trying to prepare you, to warn you, to bless you, to give you the pathway to build real strength, certainty and competence while others around you continue to be foolish and live in denial.
 
-<a id="p55"></a>This [greater] Intelligence is not fearful, but it is observant. It does not condemn others, but it does recognize errors, problems and risks. This Intelligence is not hopeless because it is born of Knowledge within you.
+<a id="p55"></a>You must use all aspects of your intelligence, not just one. You must use your intellect. You must use your physical capabilities. You must use your natural responses to the world, to a certain degree. You must use your education. You must use your mistakes and your disappointments to help prepare you, for wisdom is born of these things. But most importantly, you must gain access to the greater Intelligence that lives within you, waiting to be discovered.
 
-<a id="p56"></a>Your mind can go from hope to hopelessness in a moment—so fragile is your certainty, so thin your layer of confidence, so easily destroyed and upset are your assumptions.
+<a id="p56"></a>You must know the entire iceberg, not only the tip that rests above the water line. Then you become complete. Then you really become who you are. Before that, there is no hope of you understanding who you are. It is just a nametag, or an identity, or a definition. There is nothing real or substantive about it at all.
 
-<a id="p57"></a>It is to take you out of this pathetic and vulnerable state that God is calling to you now through the New Revelation, to build and to receive a greater Intelligence that is your inheritance here on Earth. In fact, it represents your purpose here on Earth.
+<a id="p57"></a>But here you are engaging with all of your intelligence. And because Knowledge’s purpose is wholly compassionate and productive, it will not give you the power to become a tyrant, or to dominate others, or to use everyone and everything to build wealth or luxury for yourself. For Knowledge has no interest in these things.
 
-<a id="p58"></a>For without this, you will not be able to navigate the difficult times to come. You will be helpless and hopeless. Or you will believe in some great solution. Or you will assume that technology will take care of it. Or the government will take care of it. Or some alien force will take care of it. So foolish this is, so unintelligent, so weak, so vulnerable.
+<a id="p58"></a>The mind cannot use Knowledge for its purposes. But Knowledge must use the mind for its purposes. That is the true hierarchy of power within you. And that is the true relationship between your mind, your heart and your soul.
 
-<a id="p59"></a>The Calling is for you to become strong and competent. It is not about looking good. It is not about perfection. It is not about enlightenment or glory or bliss. It is about surviving in a difficult world and becoming a force for good there, a force of contribution.
+<a id="p59"></a>Look around you at people and see what they are doing. See what they are reading. See what they are concerned with. See what distracts them. And ask yourself: Is this intelligent? Not whether it is good or bad. Is it intelligent? Are they functioning in an intelligent manner? Are they recognizing the circumstances of their life truly? Are they preparing for the future? For all intelligent life must live in the moment and prepare for the future, not one without the other.
 
-<a id="p60"></a>For God knows what is coming to the world. And through the Revelation, God is trying to prepare you, to warn you, to bless you, to give you the pathway to build real strength, certainty and competence while others around you continue to be foolish and live in denial.
+<a id="p60"></a>Are they becoming weaker or stronger? Are they becoming more capable or less capable? Are they investing themselves in things that have real substance and destiny, or are they merely wasting their time, their youth and their resources?
 
-<a id="p61"></a>You must use all aspects of your intelligence, not just one. You must use your intellect. You must use your physical capabilities. You must use your natural responses to the world, to a certain degree. You must use your education. You must use your mistakes and your disappointments to help prepare you, for wisdom is born of these things. But most importantly, you must gain access to the greater Intelligence that lives within you, waiting to be discovered.
+<a id="p61"></a>Bring these same questions to bear on your life and your past, and you will see you have lived without Knowledge. You have all the evidence you need of what this was like—how unfulfilling it was, how little substance it really gave you, how really [little] benefit it gave you, how unfulfilling it was in the end.
 
-<a id="p62"></a>You must know the entire iceberg, not only the tip that rests above the water line. Then you become complete. Then you really become who you are. Before that, there is no hope of you understanding who you are. It is just a nametag, or an identity, or a definition. There is nothing real or substantive about it at all.
+<a id="p62"></a>This is the challenge of receiving a New Message from God. It is not about bliss. It is not about enlightenment. It is not about getting into Heaven or avoiding going to Hell. This is not the time to be concerned with such things. You do not even know what these things really mean. It is time to prepare, to do a deep evaluation of your life, to ask yourself the most fundamental questions.
 
-<a id="p63"></a>But here you are engaging with all of your intelligence. And because Knowledge’s purpose is wholly compassionate and productive, it will not give you the power to become a tyrant, or to dominate others, or to use everyone and everything to build wealth or luxury for yourself. For Knowledge has no interest in these things.
+<a id="p63"></a>Knowledge within you will help you in this regard if you approach this sincerely, with determination. You will feel what is right and what is not right. You will feel what has inspiration and what does not have inspiration. You will feel what has purpose for your life and future and what does not.
 
-<a id="p64"></a>The mind cannot use Knowledge for its purposes. But Knowledge must use the mind for its purposes. That is the true hierarchy of power within you. And that is the true relationship between your mind, your heart and your soul.
+<a id="p64"></a>It is only by living with real questions that the deeper answers can come to you, deeply from within you. And they will be the signs that there is a greater Intelligence living there—watching you, watching your life. It has always been there—watching you, watching your life, watching your mistakes, watching your indulgences, watching how you have harmed yourself and others in subtle and obvious ways.
 
-<a id="p65"></a>Look around you at people and see what they are doing. See what they are reading. See what they are concerned with. See what distracts them. And ask yourself: Is this intelligent? Not whether it is good or bad. Is it intelligent? Are they functioning in an intelligent manner? Are they recognizing the circumstances of their life truly? Are they preparing for the future? For all intelligent life must live in the moment and prepare for the future, not one without the other.
+<a id="p65"></a>You need not fear God’s punishment, for God has given you the blessing, the warning and the preparation. God’s intention is to save humanity from its current trajectory and path, which will only lead to destruction of life in this world.
 
-<a id="p66"></a>Are they becoming weaker or stronger? Are they becoming more capable or less capable? Are they investing themselves in things that have real substance and destiny, or are they merely wasting their time, their youth and their resources?
-
-<a id="p67"></a>Bring these same questions to bear on your life and your past, and you will see you have lived without Knowledge. You have all the evidence you need of what this was like—how unfulfilling it was, how little substance it really gave you, how really [little] benefit it gave you, how unfulfilling it was in the end.
-
-<a id="p68"></a>This is the challenge of receiving a New Message from God. It is not about bliss. It is not about enlightenment. It is not about getting into Heaven or avoiding going to Hell. This is not the time to be concerned with such things. You do not even know what these things really mean. It is time to prepare, to do a deep evaluation of your life, to ask yourself the most fundamental questions.
-
-<a id="p69"></a>Knowledge within you will help you in this regard if you approach this sincerely, with determination. You will feel what is right and what is not right. You will feel what has inspiration and what does not have inspiration. You will feel what has purpose for your life and future and what does not.
-
-<a id="p70"></a>It is only by living with real questions that the deeper answers can come to you, deeply from within you. And they will be the signs that there is a greater Intelligence living there—watching you, watching your life. It has always been there—watching you, watching your life, watching your mistakes, watching your indulgences, watching how you have harmed yourself and others in subtle and obvious ways.
-
-<a id="p71"></a>You need not fear God’s punishment, for God has given you the blessing, the warning and the preparation. God’s intention is to save humanity from its current trajectory and path, which will only lead to destruction of life in this world.
-
-<a id="p72"></a>Be intelligent. Build Intelligence. Exercise Intelligence and it will grow. Your intellect will become stronger, more certain. Your energy will grow because it is not being wasted on people, places and things that have no meaning and value. Your body will become stronger because you will take care of it now, realizing its importance as your vehicle in this world. Your emotions will become clearer as they are truly directed. You will see a way out of the impasse of your life. For there is a door waiting for you, and it has already been opened.
+<a id="p66"></a>Be intelligent. Build Intelligence. Exercise Intelligence and it will grow. Your intellect will become stronger, more certain. Your energy will grow because it is not being wasted on people, places and things that have no meaning and value. Your body will become stronger because you will take care of it now, realizing its importance as your vehicle in this world. Your emotions will become clearer as they are truly directed. You will see a way out of the impasse of your life. For there is a door waiting for you, and it has already been opened.

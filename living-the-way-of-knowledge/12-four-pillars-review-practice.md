@@ -3,13 +3,13 @@ volume: 3
 book: "Living The Way of Knowledge"
 chapter: "12"
 title: "Four Pillars Review Practice"
-type: chapter
-source_url: "https://www.newmessage.org/backmatter/four-pillars-review-practice/"
+type: back-matter
+source_url: "https://newmessage.org/the-message/volume-3/living-way-knowledge/four-pillars-review-practice/"
 ---
 
 # Four Pillars Review Practice
 
-<a id="p1"></a>As the second great practice of Living The Way of Knowledge, it is recommended that a Four Pillars Review Practice be included along with each REVIEW in [STEPS TO KNOWLEDGE](https://www.newmessage.org/the-message/volume-3/steps-knowledge/). In your Reviews, it is important to focus on the Four Pillars of your life. This is “checking in” so to speak while building the foundation that you need to build each day.
+<a id="p1"></a>As the second great practice of Living The Way of Knowledge, it is recommended that a Four Pillars Review Practice be included along with each REVIEW in [STEPS TO KNOWLEDGE](https://newmessage.org/the-message/volume-3/steps-knowledge/). In your Reviews, it is important to focus on the Four Pillars of your life. This is “checking in” so to speak while building the foundation that you need to build each day.
 
 <a id="p2"></a>Each REVIEW in STEPS will consist of two parts. Review all the former lessons. Read through them, and if you have kept a journal, which is recommended, recall what happened to you on those days. See what has occurred. Begin to see where you were present and where you were not present. See how things influenced you, and how you influenced them. Begin to see these kinds of relationships in action.
 

@@ -2,17 +2,17 @@
 
 Volume 1
 
-Source: [The Pure Religion](https://www.newmessage.org/the-message/volume-1/pure-religion/)
+Source: [The Pure Religion](https://newmessage.org/the-message/volume-1/pure-religion/)
 
-## Chapters
+## Contents
 
-- **`00-front-matter.md`** — Front Matter
+- **`00-front-matter.md`** — Overview
 - **`01-the-pure-religion.md`** — The Pure Religion
 - **`02-the-great-faith.md`** — The Great Faith
 - **`03-the-sacred.md`** — The Sacred
-- **`04-god-s-ancient-covenant-with-humanity.md`** — God’s Ancient Covenant With Humanity
+- **`04-gods-ancient-covenant-with-humanity.md`** — God’s Ancient Covenant With Humanity
 - **`05-the-purpose-of-religion.md`** — The Purpose of Religion
-- **`06-god-s-new-message-for-the-world-s-religions.md`** — God’s New Message for the World’s Religions
+- **`06-gods-new-message-for-the-worlds-religions.md`** — God’s New Message for the World’s Religions
 - **`07-religious-fundamentalism.md`** — Religious Fundamentalism
 - **`08-religious-violence.md`** — Religious Violence
 - **`09-heaven-and-hell.md`** — Heaven and Hell

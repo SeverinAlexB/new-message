@@ -2,11 +2,11 @@
 
 Volume 1
 
-Source: [The New Messenger](https://www.newmessage.org/the-message/volume-1/new-messenger/)
+Source: [The New Messenger](https://newmessage.org/the-message/volume-1/new-messenger/)
 
-## Chapters
+## Contents
 
-- **`00-front-matter.md`** — Front Matter
+- **`00-front-matter.md`** — Overview
 - **`01-the-will-of-heaven.md`** — The Will of Heaven
 - **`02-the-origin-of-the-messenger.md`** — The Origin of the Messenger
 - **`03-the-lineage-of-the-messenger.md`** — The Lineage of the Messenger
@@ -18,5 +18,5 @@ Source: [The New Messenger](https://www.newmessage.org/the-message/volume-1/new-
 - **`09-the-journey-of-the-messenger.md`** — The Journey of the Messenger
 - **`10-the-prophet.md`** — The Prophet
 - **`11-the-consequence-of-revelation.md`** — The Consequence of Revelation
-- **`12-the-messenger-s-calling.md`** — The Messenger’s Calling
+- **`12-the-messengers-calling.md`** — The Messenger’s Calling
 - **`13-walking-with-the-messenger.md`** — Walking With the Messenger

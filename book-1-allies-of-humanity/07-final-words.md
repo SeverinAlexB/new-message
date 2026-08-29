@@ -3,6 +3,7 @@ book: 1
 chapter: "07"
 title: "Final Words"
 type: final-words
+source_url: "https://www.alliesofhumanity.org/the-briefings/book-one/final-words/"
 key_concepts:
   - "Allies of Humanity"
   - "Unseen Ones"
@@ -10,7 +11,6 @@ key_concepts:
   - "Sacred Covenant"
   - "Trust"
 ---
-
 
 # Final Words
 

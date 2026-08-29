@@ -1,57 +1,33 @@
-# The Allies of Humanity — Corpus
+# Allies of Humanity and New Message Corpus
 
-Full text of the four-book *Allies of Humanity* Briefings plus related Greater Community teachings by Marshall Vian Summers, organized for fast lookup by humans and AI tools alike.
+Markdown representations of the official *Allies of Humanity* Briefings and the web-accessible New Message library by Marshall Vian Summers.
 
-## What is this?
+## Sources
 
-A corpus centered on the *Allies of Humanity* Briefings, framed as transmissions from a covert multi-racial extraterrestrial expedition sent to warn humanity about an ongoing alien Intervention seeking Earth's resources and allegiance through persuasion rather than force. The related Greater Community texts expand the same vocabulary — Greater Community, Knowledge, Mental Environment, Pacification Program, Collectives, Unseen Ones, Networks of the Wise, Spiritual Family — across spiritual teaching and practice.
+- Chapter text follows the current official page when full text is published on `alliesofhumanity.org` or `newmessage.org`.
+- An officially linked PDF is used only where the official web page does not expose the corresponding text. This currently applies to portions of *Secrets of Heaven*.
+- Unsupported print-only additions, site controls and obsolete duplicate editions are not included.
+- *Steps to Knowledge: Continuation Training* contains only its official web overview because its full text is not available through the selected sources.
 
-## Books
+## Navigation
 
-| | Title | Year | Files | Open |
-|---|---|---|---|---|
-| **B1** | The Allies of Humanity | 2001 | 9 | [`book-1-allies-of-humanity/`](book-1-allies-of-humanity/index.md) |
-| **B2** | Book Two — Human Unity & Freedom | 2005 | 11 | [`book-2-human-unity-and-freedom/`](book-2-human-unity-and-freedom/index.md) |
-| **B3** | Book Three — A Message to Earth | 2008 | 9 | [`book-3-a-message-to-earth/`](book-3-a-message-to-earth/index.md) |
-| **B4** | Book Four — Freedom in the Universe | 2016 | 8 | [`book-4-freedom-in-the-universe/`](book-4-freedom-in-the-universe/index.md) |
-| **GCS** | Greater Community Spirituality: A New Revelation | 1994 | 29 | [`greater-community-spirituality-a-new-relevation/`](greater-community-spirituality-a-new-relevation/index.md) |
-| **WFGC1** | Wisdom From the Greater Community, Volume I | 1993 | 36 | [`wisdom-from-the-greater-community-volume-1/`](wisdom-from-the-greater-community-volume-1/index.md) |
-
-Each book is one directory; each chapter is one markdown file (`00-front-matter.md`, `01-first-briefing-…`, …, back-matter or numbered chapters).
-
-## Where to start
-
-| If you want to… | Go to |
+| Resource | Purpose |
 |---|---|
-| Find which chapter discusses a topic | [`index.md`](index.md) — master cross-book concept index |
-| Read a chapter summary | per-book `index.md` (linked above) |
-| Look up a specialized term | [`GLOSSARY.md`](GLOSSARY.md) |
-| Read the source text | the chapter `.md` files in each book directory |
+| [`index.md`](index.md) | Complete book inventory and per-book indexes |
+| [`GLOSSARY.md`](GLOSSARY.md) | Source-backed guide to recurring Allies terminology |
+| `*/index.md` | Chapter list for one book |
 
-## Citation format
+## Citation Format
 
-- Books: **B1**, **B2**, **B3**, **B4**, **GCS**, **WFGC1**.
-- Chapters: two-digit prefix (e.g. **B2/03** = Book 2's `03-third-briefing-…md`).
-- Paragraphs: appended `#pN` (e.g. **B2/03#p17**) — anchored via `<a id="pN"></a>` at each paragraph start.
+- Cite a chapter by its repository path, such as `book-2-human-unity-and-freedom/03-third-briefing-the-influence-upon-humanity.md`.
+- Add the paragraph anchor for a stable passage reference, such as `#p17`.
+- Compact Allies references use `B1` through `B4` plus the chapter prefix: `B2/03#p17`.
 
-## File-level conventions
+## File Conventions
 
-- Every chapter file begins with YAML frontmatter: `book`, `chapter`, `title`, `type`, `key_concepts`. The H1 follows.
-- Paragraph anchors (`<a id="pN"></a>`) precede each paragraph for stable cross-references.
-- Source punctuation (curly quotes, em-dashes) is preserved as-published.
+- Every content file begins with YAML frontmatter and an H1 title.
+- `source_url` identifies the official page represented by the file.
+- Paragraphs use inline anchors in the form `<a id="pN"></a>`.
+- Each directory's `index.md` lists every included content file.
 
-## Working with the corpus
-
-Direct grep against the source is the fastest path for verbatim phrase search:
-
-```bash
-grep -ril "Pacification Program" book-*/        # any book
-grep -in  "hybrid"                book-2-*/*.md # one book, with line numbers
-grep -l   "Septa Varne"           book-*/*.md   # which chapters mention it
-```
-
-For concept-level lookup ("which chapters discuss X?"), open [`index.md`](index.md) first, then drill into the per-book index for chapter summaries before reading source.
-
-## For AI agents
-
-See [`CLAUDE.md`](CLAUDE.md) for the recommended workflow and conventions when answering questions about this corpus.
+For exact wording, search chapter files directly. Indexes and this glossary are navigation aids, not substitutes for the source text.

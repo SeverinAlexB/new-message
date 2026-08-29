@@ -1,100 +1,88 @@
 ---
 volume: 1
 book: "The New World"
-chapter: "06"
+chapter: "6"
 title: "Standing at the Precipice"
 type: chapter
-source_url: "https://www.newmessage.org/the-message/volume-1/new-world/standing-precipice-world-decline/"
+source_url: "https://newmessage.org/the-message/volume-1/new-world/standing-precipice-world-decline/"
+received_date: "April 10, 2014"
+received_location: "Boulder, Colorado"
 ---
 
 # Standing at the Precipice
 
-<a id="p1"></a>- Listen
-- Info
-- Watch
+<a id="p1"></a>Without a New Message from God, the world’s decline becomes predictable, devastating and tragic. Without a New Revelation from God to prepare humanity for the Great Waves of change that are coming, and for humanity’s encounter with other races in the universe, which it is now facing, the decline of humanity becomes predictable. If enough people cannot receive God’s New Revelation, this decline will continue. It is entirely preventable, but the hour is late.
 
-<a id="p2"></a>Hear the original spoken revelation:
+<a id="p2"></a>Yet God’s Revelation is in the world, given to prepare humanity for these two great thresholds; given to incite a deeper awareness, a deeper conscience, a deeper purpose in enough people to turn the tide, to give humanity the opportunity to prepare for a new world experience.
 
-<a id="p3"></a>[Download](https://www.newmessage.org/av/standing-at-the-precipice.mp3) (Right-click to download)
+<a id="p3"></a>God knows this, of course, but people are unprepared. Beyond being unprepared, they are also ignorant and unwilling to learn—thinking that they know what reality is, relying upon their experience from the past, not realizing they stand at the threshold of great change.
 
-<a id="p4"></a>As received
+<a id="p4"></a>The prophecy of the Great Waves of change has been given as part of the New Revelation. The preparation for this, for the individual, has been given as part of the Revelation. A clear picture must now be made of this future world should this preparation not be heeded sufficiently, should God’s New Revelation be ignored or denied. You must understand here what you will be looking at and facing in the times to come and what your children will have to face as a consequence, and the generations beyond them.
 
-<a id="p5"></a>on April 10, 2014
+<a id="p5"></a>God only speaks to humanity at times of great opportunity, times of great change, times where the history of the world can be altered—the seeds being planted in enough people to set in motion greater forces, greater powers, to be used for either good or ill. But now humanity stands at a threshold unlike any it has ever had to face—a changing environment, a changing climate, a world of diminishing resources, a world of growing economic and political instability.
 
-<a id="p6"></a>in Boulder, Colorado
+<a id="p6"></a>If humanity were a wise race, they would have been preparing for decades for this. It would have been recognized. It would have been foreseen sufficiently, and sacrifices would have been made and preparations long established.
 
-<a id="p7"></a>Without a [New Message from God](https://www.newmessage.org/aboutnmg), the world’s decline becomes predictable, devastating and tragic. Without a New Revelation from God to prepare humanity for the [Great Waves of change](https://www.newmessage.org/aboutgwc) that are coming, and for humanity’s encounter with other races in the universe, which it is now facing, the decline of humanity becomes predictable. If enough people cannot receive God’s New Revelation, this decline will continue. It is entirely preventable, but the hour is late.
+<a id="p7"></a>But humanity is not yet a wise race. It does not understand the world it lives in and the limits of this world. It does not understand it lives within a Greater Community of life in the universe, where freedom is rare and where worlds such as this are highly valued by others. It is a race preoccupied with its past and with its current difficulties and obsessions.
 
-<a id="p8"></a>Yet God’s Revelation is in the world, given to prepare humanity for these two great thresholds; given to incite a deeper awareness, a deeper conscience, a deeper purpose in enough people to turn the tide, to give humanity the opportunity to prepare for a new world experience.
+<a id="p8"></a>Here those who are prescient, who can see and understand, who can recognize the forces that are moving the world, will feel alone and isolated for the most part and are able to understand what must be done in these times, in the great times of preparation that you have remaining.
 
-<a id="p9"></a>God knows this, of course, but people are unprepared. Beyond being unprepared, they are also ignorant and unwilling to learn—thinking that they know what reality is, relying upon their experience from the past, not realizing they stand at the threshold of great change.
+<a id="p9"></a>God understands this, of course, and that is why the Revelation is in the world. It will give you everything you need if you can respond, if you can prepare, if you can alter your understanding and your priorities sufficiently to undertake this preparation with success. But you must understand the alternative should you neglect this, should you avoid this. It is not an easy picture, but it must be understood.
 
-<a id="p10"></a>The prophecy of the Great Waves of change has been given as part of the New Revelation. The preparation for this, for the individual, has been given as part of the Revelation. A clear picture must now be made of this future world should this preparation not be heeded sufficiently, should God’s New Revelation be ignored or denied. You must understand here what you will be looking at and facing in the times to come and what your children will have to face as a consequence, and the generations beyond them.
+<a id="p10"></a>In the coming decades, the climate will change more dramatically than is currently forecast. Nations will run out of resources. Food production will be curtailed because of great environmental impacts. Regional wars and revolutions will erupt but without resolution, leaving nations incapacitated to deal with even their current circumstances, let alone the demands of the future. Religions will become more fractured and divided as people feel threatened and only want to associate with their group—their ethnic group, their social group, their religious group, in opposition to others, who also become polarized in the face of great change and uncertainty.
 
-<a id="p11"></a>God only speaks to humanity at times of great opportunity, times of great change, times where the history of the world can be altered—the seeds being planted in enough people to set in motion greater forces, greater powers, to be used for either good or ill. But now humanity stands at a threshold unlike any it has ever had to face—a changing environment, a changing climate, a world of diminishing resources, a world of growing economic and political instability.
+<a id="p11"></a>This begins a long period of decline and disintegration as nations now become more isolated, seeking alliances perhaps, but more regionally isolated, and unwilling or unable to assist one another through the great challenges to come. A growing humanity will face the loss in many places of food, water and energy necessary to sustain civilization as they have known it.
 
-<a id="p12"></a>If humanity were a wise race, they would have been preparing for decades for this. It would have been recognized. It would have been foreseen sufficiently, and sacrifices would have been made and preparations long established.
+<a id="p12"></a>This is not a set of problems and converging situations that technology alone can resolve, for technology will be overwhelmed. These are the great converging waves of change, change happening on every level conceivable, all at once. This is the vulnerability that humanity has created over decades of neglect and irresponsibility.
 
-<a id="p13"></a>But humanity is not yet a wise race. It does not understand the world it lives in and the limits of this world. It does not understand it lives within a [Greater Community](https://www.newmessage.org/aboutgc) of life in the universe, where freedom is rare and where worlds such as this are highly valued by others. It is a race preoccupied with its past and with its current difficulties and obsessions.
+<a id="p13"></a>Yet the Revelation is in the world. God has spoken again, for the first time in over a thousand years. The warning has been established. The blessing has been given to the real power that humanity has to navigate the difficult times ahead and what this could mean to build human unity and cooperation at a level never seen before in this world—built now out of sheer necessity, built now out of compassion and responsibility, built now in such a way that humanity has a chance, a great chance, but not a chance that will last forever.
 
-<a id="p14"></a>Here those who are prescient, who can see and understand, who can recognize the forces that are moving the world, will feel alone and isolated for the most part and are able to understand what must be done in these times, in the great times of preparation that you have remaining.
+<a id="p14"></a>For the outcome will be decided in the decades to come as to the kind of world humanity will face, and whether it will be able to withstand persuasion and intervention from the universe around it, which so often happens in times such as these when the native peoples become weak and conflicted.
 
-<a id="p15"></a>God understands this, of course, and that is why the Revelation is in the world. It will give you everything you need if you can respond, if you can prepare, if you can alter your understanding and your priorities sufficiently to undertake this preparation with success. But you must understand the alternative should you neglect this, should you avoid this. It is not an easy picture, but it must be understood.
+<a id="p15"></a>Do not think you are here by accident, for you were sent into the world to face these situations, to add your necessary but small part. This is true for everyone in the world. And though half of humanity is so oppressed by poverty and religious and political oppression, they can seem to do very little, the calling is still there for all those who are able and free enough to respond.
 
-<a id="p16"></a>In the coming decades, the climate will change more dramatically than is currently forecast. Nations will run out of resources. Food production will be curtailed because of great environmental impacts. Regional wars and revolutions will erupt but without resolution, leaving nations incapacitated to deal with even their current circumstances, let alone the demands of the future. Religions will become more fractured and divided as people feel threatened and only want to associate with their group—their ethnic group, their social group, their religious group, in opposition to others, who also become polarized in the face of great change and uncertainty.
+<a id="p16"></a>If the situation were not so very dire, then God would not need to speak again. Humanity would have time and resources to understand the situation and to prepare accordingly. But you passed that threshold some time ago—unknowingly, unwittingly—and now it will be a race to the finish, the race to save human civilization.
 
-<a id="p17"></a>This begins a long period of decline and disintegration as nations now become more isolated, seeking alliances perhaps, but more regionally isolated, and unwilling or unable to assist one another through the great challenges to come. A growing humanity will face the loss in many places of food, water and energy necessary to sustain civilization as they have known it.
+<a id="p17"></a>If your environment becomes uninhabitable, all would be lost. This is a consequence of humanity’s use of the world, its attempt to dominate nature and turn it to its will and ends. It is not a curse from God. It is a product of lack of vision, responsibility and cooperation here on Earth.
 
-<a id="p18"></a>This is not a set of problems and converging situations that technology alone can resolve, for technology will be overwhelmed. These are the great converging waves of change, change happening on every level conceivable, all at once. This is the vulnerability that humanity has created over decades of neglect and irresponsibility.
+<a id="p18"></a>Therefore, God does not speak with condemnation, but with power and promise. For the hour is late, and humanity cannot be negligent. It cannot be foolish. It cannot be self-destructive in the face of such greater forces of change.
 
-<a id="p19"></a>Yet the Revelation is in the world. God has spoken again, for the first time in over a thousand years. The warning has been established. The blessing has been given to the real power that humanity has to navigate the difficult times ahead and what this could mean to build human unity and cooperation at a level never seen before in this world—built now out of sheer necessity, built now out of compassion and responsibility, built now in such a way that humanity has a chance, a great chance, but not a chance that will last forever.
+<a id="p19"></a>If you had the courage and the humility to face what is coming squarely, you would see that God must speak again. For the world’s religions were not established to deal with these great thresholds. And they are so divided between themselves, and even within themselves, that they can never lead humanity forward. Their prescriptions were for ancient times, a world that really no longer exists. And though their wisdom is great and their ethics are important, God must speak again, or humanity will surely fail.
 
-<a id="p20"></a>For the outcome will be decided in the decades to come as to the kind of world humanity will face, and whether it will be able to withstand persuasion and intervention from the universe around it, which so often happens in times such as these when the native peoples become weak and conflicted.
+<a id="p20"></a>The Revelation will restore that which is wise within the individual, enough individuals who will then be able to exert their influence in the world and to prepare and to survive the Great Waves of change and to build a greater future beyond the thresholds that are to come.
 
-<a id="p21"></a>Do not think you are here by accident, for you were sent into the world to face these situations, to add your necessary but small part. This is true for everyone in the world. And though half of humanity is so oppressed by poverty and religious and political oppression, they can seem to do very little, the calling is still there for all those who are able and free enough to respond.
+<a id="p21"></a>It is great challenge that will unite humanity now, nothing less than this. It is great consequences, great times, that will lift people out of self-obsession and misery to higher levels of service in the world.
 
-<a id="p22"></a>If the situation were not so very dire, then God would not need to speak again. Humanity would have time and resources to understand the situation and to prepare accordingly. But you passed that threshold some time ago—unknowingly, unwittingly—and now it will be a race to the finish, the race to save human civilization.
+<a id="p22"></a>For each of you were sent into the world to live at these times, and the contribution that you have been given to give is within you now, but it exists beyond the realm of the intellect. It must be called forth from a Greater Power—the greater power within you and the Greater Power beyond you.
 
-<a id="p23"></a>If your environment becomes uninhabitable, all would be lost. This is a consequence of humanity’s use of the world, its attempt to dominate nature and turn it to its will and ends. It is not a curse from God. It is a product of lack of vision, responsibility and cooperation here on Earth.
+<a id="p23"></a>This is the time of Revelation. This is the great time of decision. This is a great time where humanity will have to choose the kind of future it wants, fully understanding the great risks that it now faces.
 
-<a id="p24"></a>Therefore, God does not speak with condemnation, but with power and promise. For the hour is late, and humanity cannot be negligent. It cannot be foolish. It cannot be self-destructive in the face of such greater forces of change.
+<a id="p24"></a>You cannot be idle in these times. You cannot be ambivalent, or reality will overwhelm you and bring great misfortune to your life.
 
-<a id="p25"></a>If you had the courage and the humility to face what is coming squarely, you would see that God must speak again. For the world’s religions were not established to deal with these great thresholds. And they are so divided between themselves, and even within themselves, that they can never lead humanity forward. Their prescriptions were for ancient times, a world that really no longer exists. And though their wisdom is great and their ethics are important, God must speak again, or humanity will surely fail.
+<a id="p25"></a>The Messenger is in the world, but he remains unrecognized and unknown. He is doing everything he can to bring the Message forth, to speak to people, but they must have the eyes to see and the ears to hear, or they will be deaf and blind, unable to respond.
 
-<a id="p26"></a>The Revelation will restore that which is wise within the individual, enough individuals who will then be able to exert their influence in the world and to prepare and to survive the Great Waves of change and to build a greater future beyond the thresholds that are to come.
+<a id="p26"></a>God now brings not merely an improvement to the human family, not merely a new message of hope and inspiration, but the very thing that will save the human family itself—from collapse within this world and from subjugation from forces from beyond. It is only dire circumstances that would bring such a Revelation into the world. And you are facing such circumstances at this moment.
 
-<a id="p27"></a>It is great challenge that will unite humanity now, nothing less than this. It is great consequences, great times, that will lift people out of self-obsession and misery to higher levels of service in the world.
+<a id="p27"></a>Do not wait for the hard rain to fall or for the great drought or for the great storm to convince you that you are living at such a time, for those with the eyes to see can see over the horizon the great storms building there. They can hear the voice of Knowledge within themselves, the deeper Mind that God has put within them to guide them, to protect them and to lead them to a greater life of service and fulfillment in a world undergoing a great change.
 
-<a id="p28"></a>For each of you were sent into the world to live at these times, and the contribution that you have been given to give is within you now, but it exists beyond the realm of the intellect. It must be called forth from a Greater Power—the greater power within you and the Greater Power beyond you.
+<a id="p28"></a>To see the answer, you must recognize the need. It is shocking. It will be difficult to face at first. You will feel helpless and hopeless. But God’s New Revelation is in the world, and God has sent you with the power to respond, waiting to be discovered within you.
 
-<a id="p29"></a>This is the time of Revelation. This is the great time of decision. This is a great time where humanity will have to choose the kind of future it wants, fully understanding the great risks that it now faces.
+<a id="p29"></a>You must then face the shock of the future, for you stand at the precipice of determining the kind of future it will really be. Without great cooperation between the nations now, humanity will fall into a cycle of endless conflict over who has access to the remaining resources. These conflicts will be desperate and far more destructive than anything you have seen thus far.
 
-<a id="p30"></a>You cannot be idle in these times. You cannot be ambivalent, or reality will overwhelm you and bring great misfortune to your life.
+<a id="p30"></a>There must be great compassion, great acceptance, great tolerance for other peoples. For you will not merely help yourself in this situation. You will be called to assist others whose needs are profound and overwhelming. It is a time of great cooperation. It is a time of great service.
 
-<a id="p31"></a>The Messenger is in the world, but he remains unrecognized and unknown. He is doing everything he can to bring the Message forth, to speak to people, but they must have the eyes to see and the ears to hear, or they will be deaf and blind, unable to respond.
+<a id="p31"></a>People are still trying to be happy and to have what they want, beyond meeting their basic needs in life. But there is a greater calling for them, and for you. The world is giving that calling now. Do not think of your future in terms of what would make you happy or be a pleasant vocation, but what the world needs that you could provide, where your talents, whatever they may be, may be of real service to people.
 
-<a id="p32"></a>God now brings not merely an improvement to the human family, not merely a new message of hope and inspiration, but the very thing that will save the human family itself—from collapse within this world and from subjugation from forces from beyond. It is only dire circumstances that would bring such a Revelation into the world. And you are facing such circumstances at this moment.
+<a id="p32"></a>This will change your life. This will change your relationship with yourself—how you feel about yourself and others. It will change everything in the way that you see your life—its value and its meaning. For this is how God will restore you, through preparation and then great service to others—restoring your worldly mind through service to the deeper Mind within you, which is called Knowledge.
 
-<a id="p33"></a>Do not wait for the hard rain to fall or for the great drought or for the great storm to convince you that you are living at such a time, for those with the eyes to see can see over the horizon the great storms building there. They can hear the voice of Knowledge within themselves, the deeper Mind that God has put within them to guide them, to protect them and to lead them to a greater life of service and fulfillment in a world undergoing a great change.
+<a id="p33"></a>Those who have the eyes to see will see, and they will hear Our words and take them to heart deeply. Others will forget or dismiss them, thinking this is too radical, too challenging, too impossible, thinking life cannot really be like that. Pray for them, for they are weak and cannot yet respond.
 
-<a id="p34"></a>To see the answer, you must recognize the need. It is shocking. It will be difficult to face at first. You will feel helpless and hopeless. But God’s New Revelation is in the world, and God has sent you with the power to respond, waiting to be discovered within you.
+<a id="p34"></a>It is those who can respond who will make all the difference, but they must respond fully. This is not a casual engagement. This is not a few simple things to do. This is something that will alter the course of your life, but so much better that you alter the course of your life rather than your circumstances overwhelm you and change your life beyond your control.
 
-<a id="p35"></a>You must then face the shock of the future, for you stand at the precipice of determining the kind of future it will really be. Without great cooperation between the nations now, humanity will fall into a cycle of endless conflict over who has access to the remaining resources. These conflicts will be desperate and far more destructive than anything you have seen thus far.
+<a id="p35"></a>This is the Wisdom that comes from the great Love of the Creator, for God loves humanity and does not want to see the human family disintegrate and fail for reasons that it cannot yet see. This is the toughness and the durability of God’s Love now being given to a whole world to rescue it from failure and collapse, and to prepare it for engaging in a universe full of intelligent life, of which humanity knows nothing at all.
 
-<a id="p36"></a>There must be great compassion, great acceptance, great tolerance for other peoples. For you will not merely help yourself in this situation. You will be called to assist others whose needs are profound and overwhelming. It is a time of great cooperation. It is a time of great service.
+<a id="p36"></a>Only a New Message from God could provide these things, for only God knows the nature of your heart and soul. Only God knows what life is like in the universe everywhere. Only God could prepare you—emotionally, mentally and practically—for the road ahead.
 
-<a id="p37"></a>People are still trying to be happy and to have what they want, beyond meeting their basic needs in life. But there is a greater calling for them, and for you. The world is giving that calling now. Do not think of your future in terms of what would make you happy or be a pleasant vocation, but what the world needs that you could provide, where your talents, whatever they may be, may be of real service to people.
+<a id="p37"></a>It is only by coming to the Revelation that you will come to see these things We speak of here today. You must make that approach. God wills to rescue you and your life, but you must make the approach.
 
-<a id="p38"></a>This will change your life. This will change your relationship with yourself—how you feel about yourself and others. It will change everything in the way that you see your life—its value and its meaning. For this is how God will restore you, through preparation and then great service to others—restoring your worldly mind through service to the deeper Mind within you, which is called Knowledge.
-
-<a id="p39"></a>Those who have the eyes to see will see, and they will hear Our words and take them to heart deeply. Others will forget or dismiss them, thinking this is too radical, too challenging, too impossible, thinking life cannot really be like that. Pray for them, for they are weak and cannot yet respond.
-
-<a id="p40"></a>It is those who can respond who will make all the difference, but they must respond fully. This is not a casual engagement. This is not a few simple things to do. This is something that will alter the course of your life, but so much better that you alter the course of your life rather than your circumstances overwhelm you and change your life beyond your control.
-
-<a id="p41"></a>This is the Wisdom that comes from the great Love of the Creator, for God loves humanity and does not want to see the human family disintegrate and fail for reasons that it cannot yet see. This is the toughness and the durability of God’s Love now being given to a whole world to rescue it from failure and collapse, and to prepare it for engaging in a universe full of intelligent life, of which humanity knows nothing at all.
-
-<a id="p42"></a>Only a New Message from God could provide these things, for only God knows the nature of your heart and soul. Only God knows what life is like in the universe everywhere. Only God could prepare you—emotionally, mentally and practically—for the road ahead.
-
-<a id="p43"></a>It is only by coming to the Revelation that you will come to see these things We speak of here today. You must make that approach. God wills to rescue you and your life, but you must make the approach.
-
-<a id="p44"></a>The blessing is upon the world now, for God has spoken again. A great preparation has been given to the world, a great inspiration, and the foundation for true cooperation between peoples and nations—born of necessity, born of reality, born of the truth of why you are really in the world and what you are here to serve beyond your own personal interests and needs.
+<a id="p38"></a>The blessing is upon the world now, for God has spoken again. A great preparation has been given to the world, a great inspiration, and the foundation for true cooperation between peoples and nations—born of necessity, born of reality, born of the truth of why you are really in the world and what you are here to serve beyond your own personal interests and needs.

@@ -1,94 +1,9 @@
-# Steps to Knowledge: Continuation Training — Index
+# Steps to Knowledge Continuation Training — Index
 
 Volume 3
 
-Source PDF: [Steps To knowledge Continuation Training -- Marshall Vian Summers -- 2013 -- a913f12bfb5222a19d14b917386c193c -- Anna’s Archive.pdf](../sources/pdf/Steps To knowledge Continuation Training -- Marshall Vian Summers -- 2013 -- a913f12bfb5222a19d14b917386c193c -- Anna’s Archive.pdf)
+Source: [Steps to Knowledge Continuation Training](https://newmessage.org/the-message/volume-3/steps-knowledge-continuation-training/)
 
-## Chapters
+## Contents
 
-- **`00-front-matter.md`** — Front Matter
-- **`001-introduction-and-contents.md`** — Introduction and Contents
-- **`002-step-1-knowledge-is-with-me-but-where-am-i.md`** — Step 1: Knowledge is with Me, but Where Am I?
-- **`003-step-2-the-gift-of-knowledge-is-given-me-today.md`** — Step 2: The Gift of Knowledge is Given me Today.
-- **`004-step-3-i-must-be-patient-in-order-to-proceed.md`** — Step 3: I Must Be Patient in Order to Proceed.
-- **`005-step-4-if-i-understand-the-world-i-will-understand-myself.md`** — Step 4: If I Understand the World, I Will Understand Myself.
-- **`006-step-5-i-must-find-my-true-relationships-in-order-to-know-my-direction.md`** — Step 5: I Must Find my True Relationships in Order to Know my Direction.
-- **`007-step-6-my-mind-is-here-to-serve-knowledge.md`** — Step 6: My Mind is Here to Serve Knowledge.
-- **`008-step-7-the-difficulties-i-see-in-the-world-today-are-the-opportunities-for-me-to-develop-discernment.md`** — Step 7: The Difficulties I See in the World Today Are the Opportunities for me to Develop Discernment.
-- **`009-step-8-there-is-a-greater-harmony-in-the-world.md`** — Step 8: There is a Greater Harmony in the World.
-- **`010-step-9-the-greater-community-is-in-the-world.md`** — Step 9: The Greater Community is in the World.
-- **`011-step-10-i-will-forgive-my-past-today.md`** — Step 10: I Will Forgive my Past Today.
-- **`012-step-11-i-will-remember-those-who-have-given-to-me.md`** — Step 11: I Will Remember Those Who Have Given to Me.
-- **`013-step-12-today-i-will-not-try-to-be-happy.md`** — Step 12: Today I Will Not Try to Be Happy.
-- **`014-step-13-i-give-myself-to-my-practice-today.md`** — Step 13: I Give Myself to my Practice Today.
-- **`015-step-14-review.md`** — Step 14: Review
-- **`016-step-15-let-me-look-towards-the-greater-community-to-understand-where-my-life-is-going.md`** — Step 15: Let me Look Towards the Greater Community to Understand Where my Life is Going.
-- **`017-step-16-there-are-greater-forces-at-work-in-the-world.md`** — Step 16: There Are Greater Forces at Work in the World.
-- **`018-step-17-today-i-will-not-let-anything-prevent-me-from-my-practice.md`** — Step 17: Today I Will Not Let Anything Prevent me from my Practice.
-- **`019-step-18-today-i-wish-to-know.md`** — Step 18: Today I Wish to Know.
-- **`020-step-19-i-will-observe-the-world-today.md`** — Step 19: I Will Observe the World Today.
-- **`021-step-20-today-i-will-not-forget-that-i-am-here-for-a-greater-purpose.md`** — Step 20: Today I Will Not Forget That I Am Here for a Greater Purpose.
-- **`022-step-21-review.md`** — Step 21: Review
-- **`023-step-22-i-must-understand-the-greater-movement-of-the-world.md`** — Step 22: I Must Understand the Greater Movement of the World.
-- **`024-step-23-today-i-will-use-conflict-to-deepen-my-experience-of-knowledge.md`** — Step 23: Today I Will Use Conflict to Deepen my Experience of Knowledge.
-- **`025-step-24-the-unseen-ones-are-with-me.md`** — Step 24: The Unseen Ones Are with Me.
-- **`026-step-25-there-is-a-new-hope-in-the-world.md`** — Step 25: There is a New Hope in the World.
-- **`027-step-26-today-i-will-learn-of-the-greater-community.md`** — Step 26: Today I Will Learn of the Greater Community.
-- **`028-step-27-i-must-learn-to-be-discrete-today.md`** — Step 27: I Must Learn to Be Discrete Today.
-- **`029-step-28-review.md`** — Step 28: Review
-- **`030-step-29-i-wish-to-know-my-own-strength.md`** — Step 29: I Wish to Know my Own Strength.
-- **`031-step-30-to-realize-my-strength-i-must-exercise-my-authority.md`** — Step 30: To REALIZE MY STRENGTH, I MUST EXERCISE MY AUTHORITY.
-- **`032-step-31-i-must-learn-to-use-the-power-that-has-been-given-to-me.md`** — Step 31: I Must Learn to Use the Power That Has Been Given to Me.
-- **`033-step-32-the-wise-depend-upon-me.md`** — Step 32: The Wise Depend Upon Me.
-- **`034-step-33-i-practice-for-myself-and-for-all-others-who-seek-to-be-free.md`** — Step 33: I Practice for Myself and for All Others Who Seek to Be Free.
-- **`035-step-34-my-life-is-a-mystery-to-explore.md`** — Step 34: My Life is a Mystery to Explore.
-- **`036-step-35-review.md`** — Step 35: Review
-- **`037-step-36-nasi-novare-coram.md`** — Step 36: Nasi Novare Coram
-- **`038-step-37-let-me-remember-that-i-am-not-alone.md`** — Step 37: Let me Remember That I Am Not Alone
-- **`039-step-38-i-wish-to-strengthen-freedom-in-others.md`** — Step 38: I Wish to Strengthen Freedom in Others.
-- **`040-step-39-let-me-understand-my-relationships-today.md`** — Step 39: Let me Understand my Relationships Today.
-- **`041-step-40-who-i-am-with-will-determine-what-i-will-be-able-to-do.md`** — Step 40: Who I Am with Will Determine What I Will Be Able to Do.
-- **`042-step-41-my-relationships-are-an-expression-of-how-i-view-myself.md`** — Step 41: My Relationships Are an Expression of How I View Myself.
-- **`043-step-42-review.md`** — Step 42: Review
-- **`044-step-43-my-responsibility-is-to-knowledge.md`** — Step 43: My Responsibility is to Knowledge.
-- **`045-step-44-if-i-understand-my-relationships-i-will-understand-my-priorities.md`** — Step 44: If I Understand my Relationships, I Will Understand my Priorities.
-- **`046-step-45-there-are-greater-relationships-awaiting-me-i-must-prepare.md`** — Step 45: There Are Greater Relationships Awaiting Me. I Must Prepare.
-- **`047-step-46-i-must-have-courage-to-choose-my-freedom.md`** — Step 46: I Must Have Courage to Choose my Freedom.
-- **`048-step-47-my-power-is-needed-in-the-world.md`** — Step 47: My Power is Needed in the World.
-- **`049-step-48-in-the-greater-community-you-will-not-be-free.md`** — Step 48: In the Greater Community, You Will Not Be Free.
-- **`050-step-49-review.md`** — Step 49: Review
-- **`051-step-50-i-must-learn-to-use-my-body-as-a-vehicle-for-knowledge.md`** — Step 50: I Must Learn to Use my Body as a Vehicle for Knowledge.
-- **`052-step-51-my-work-is-an-expression-of-my-life.md`** — Step 51: My Work is an Expression of my Life.
-- **`053-step-52-my-spiritual-advancement-will-fail-if-my-other-pillars-are-not-built.md`** — Step 52: My Spiritual Advancement Will Fail If my Other Pillars Are Not Built.
-- **`054-step-53-the-greater-community-is-a-greater-reality-i-must-be-prepared.md`** — Step 53: The Greater Community is a Greater Reality. I Must Be Prepared.
-- **`055-step-54-the-fire-of-knowledge-is-burning-within-me-now.md`** — Step 54: The Fire of Knowledge is Burning Within me Now.
-- **`056-step-55-there-are-forces-in-the-world-which-i-must-comprehend.md`** — Step 55: There Are Forces in the World Which I Must Comprehend.
-- **`057-step-56-review.md`** — Step 56: Review
-- **`058-step-57-let-me-be-attentive-today.md`** — Step 57: Let me Be Attentive Today.
-- **`059-step-58-today-i-will-be-attentive-to-what-i-tell-myself.md`** — Step 58: Today I Will Be Attentive to What I Tell Myself.
-- **`060-step-59-today-i-will-be-attentive-to-others.md`** — Step 59: Today I Will Be Attentive to Others.
-- **`061-step-60-today-i-will-listen-to-the-world.md`** — Step 60: Today I Will Listen to the World.
-- **`062-step-61-today-i-will-be-discrete.md`** — Step 61: Today I Will Be Discrete.
-- **`063-step-62-the-greater-community-is-in-the-world-i-must-be-attentive.md`** — Step 62: The Greater Community is in the World. I Must Be Attentive.
-- **`064-step-63-review.md`** — Step 63: Review
-- **`065-step-64-the-world-is-emerging-into-the-greater-community-i-can-know-this.md`** — Step 64: The World is Emerging Into the Greater Community. I Can Know This.
-- **`066-step-65-i-surround-and-protect-myself-with-the-love-and-the-grace-of-god.md`** — Step 65: I Surround and Protect Myself with the Love and the Grace of God.
-- **`067-step-66-my-freedom-is-my-gift-to-others.md`** — Step 66: My Freedom is my Gift to Others.
-- **`068-step-67-my-freedom-is-awaiting-me.md`** — Step 67: My Freedom is Awaiting Me.
-- **`069-step-68-the-world-needs-freedom.md`** — Step 68: The World Needs Freedom.
-- **`070-step-69-i-will-not-take-my-freedom-for-granted.md`** — Step 69: I Will Not Take my Freedom for Granted.
-- **`071-step-70-review.md`** — Step 70: Review
-- **`072-step-71-let-me-become-aware-of-the-mental-environment-in-which-i-live.md`** — Step 71: Let me Become Aware of the Mental Environment in Which I Live.
-- **`073-step-72-i-am-influenced-by-the-mental-environments-around-me.md`** — Step 72: I Am Influenced by the Mental Environments Around Me.
-- **`074-step-73-the-mental-environment-of-the-world-is-changing.md`** — Step 73: The Mental Environment of the World is Changing.
-- **`075-step-74-i-seek-to-be-a-force-for-good-in-the-world.md`** — Step 74: I Seek to Be a Force for Good in the World.
-- **`076-step-75-i-will-not-be-deterred-by-others-opinions.md`** — Step 75: I Will Not Be Deterred by Others’ Opinions.
-- **`077-step-76-i-am-here-to-serve-the-world.md`** — Step 76: I Am Here to Serve the World.
-- **`078-step-77-review.md`** — Step 77: Review
-- **`079-step-78-my-strength-is-called-for-in-the-world.md`** — Step 78: My Strength is Called for in the World.
-- **`080-step-79-i-have-a-mission-in-my-life-to-fulfill.md`** — Step 79: I Have a Mission in my Life to Fulfill.
-- **`081-step-80-i-have-a-gift-that-i-share-with-others.md`** — Step 80: I Have a Gift That I Share with Others.
-- **`082-step-81-i-will-not-be-afraid-of-conflict-today.md`** — Step 81: I Will Not Be Afraid of Conflict Today.
-- **`083-step-82-great-joy-is-with-me-today.md`** — Step 82: Great Joy is with me Today.
-- **`084-step-83-let-peace-be-with-me-today.md`** — Step 83: Let Peace Be with me Today.
-- **`085-step-84-review.md`** — Step 84: Review
+- **`00-front-matter.md`** — Overview

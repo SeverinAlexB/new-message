@@ -2,11 +2,11 @@
 
 Volume 4
 
-Source: [Greater Community Spirituality](https://www.newmessage.org/the-message/volume-4/greater-community-spirituality/)
+Source: [Greater Community Spirituality](https://newmessage.org/the-message/volume-4/greater-community-spirituality/)
 
-## Chapters
+## Contents
 
-- **`00-front-matter.md`** — Front Matter
+- **`00-front-matter.md`** — Overview
 - **`01-what-is-god.md`** — What is God?
 - **`02-what-is-the-world.md`** — What is the World?
 - **`03-what-is-life-force.md`** — What is Life Force?

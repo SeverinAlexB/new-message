@@ -2,27 +2,31 @@
 volume: 1
 book: "The Journey to a New Life"
 chapter: "00"
-title: "Front Matter"
-type: front-matter
-source_url: "https://www.newmessage.org/the-message/volume-1/journey-new-life/"
+title: "Overview"
+type: overview
+source_url: "https://newmessage.org/the-message/volume-1/journey-new-life/"
 ---
 
-# Front Matter
+# Overview
 
-<a id="p1"></a>Source: [The Journey to a New Life](https://www.newmessage.org/the-message/volume-1/journey-new-life/)
+<a id="p1"></a>The Journey to a New Life invites you to build the bridge to a new life of purpose and contribution. The Journey to a New Life reveals the underlying cause of the inner confusion, isolation and suffering felt by people around the world and provides a way to resolve these internal conflicts.
+
+<a id="p2"></a>Here you begin a journey to a new life through discovering and building your connection to Knowledge, the deeper spiritual mind within. This deeper mind has the power to guide and protect you as you confront a Greater Community of intelligent life and a world of accelerating decline. This journey of awakening and return brings you back to your original purpose for entering the world, the courage and self-confidence to prepare for these world changes and the strength to bring forth the contribution you are meant to give here.
+
+<a id="p3"></a>The Journey to a New Life is the sixth book in Volume 1 of The New Message.
 
 ## Contents
-- 01. [The Awakening](https://www.newmessage.org/the-message/volume-1/journey-new-life/the-awakening/)
-- 02. [The Freedom Journey](https://www.newmessage.org/the-message/volume-1/journey-new-life/freedom-journey/)
-- 03. [The Prison](https://www.newmessage.org/the-message/volume-1/journey-new-life/prison-escape-your-mind/)
-- 04. [The Revolution](https://www.newmessage.org/the-message/volume-1/journey-new-life/spiritual-revolution/)
-- 05. [The Turning Point](https://www.newmessage.org/the-message/volume-1/journey-new-life/the-turning-point/)
-- 06. [The Gift of a New Life](https://www.newmessage.org/the-message/volume-1/journey-new-life/the-gift-of-a-new-life/)
-- 07. [The Journey to a New Life](https://www.newmessage.org/the-message/volume-1/journey-new-life/the-journey-to-a-new-life/)
-- 08. [Your Purpose and Destiny](https://www.newmessage.org/the-message/volume-1/journey-new-life/greater-purpose-life/)
-- 09. [Building the Bridge to a New Life](https://www.newmessage.org/the-message/volume-1/journey-new-life/building-the-bridge-to-a-new-life/)
-- 10. [Courage and the Will to Prepare](https://www.newmessage.org/the-message/volume-1/journey-new-life/courage-and-the-will-to-prepare/)
-- 11. [Building Strength and Resilience](https://www.newmessage.org/the-message/volume-1/journey-new-life/building-strength-resilience/)
-- 12. [Preparing for a Greater Role in the World](https://www.newmessage.org/the-message/volume-1/journey-new-life/my-role-greater-purpose/)
-- 13. [The Great Truth](https://www.newmessage.org/the-message/volume-1/journey-new-life/great-truth-god/)
-- 14. [You Are Here for a Greater Purpose](https://www.newmessage.org/the-message/volume-1/journey-new-life/here-unique-contribution/)
+- [The Awakening](https://newmessage.org/the-message/volume-1/journey-new-life/the-awakening/)
+- [The Freedom Journey](https://newmessage.org/the-message/volume-1/journey-new-life/freedom-journey/)
+- [The Prison](https://newmessage.org/the-message/volume-1/journey-new-life/prison-escape-your-mind/)
+- [The Revolution](https://newmessage.org/the-message/volume-1/journey-new-life/spiritual-revolution/)
+- [The Turning Point](https://newmessage.org/the-message/volume-1/journey-new-life/the-turning-point/)
+- [The Gift of a New Life](https://newmessage.org/the-message/volume-1/journey-new-life/the-gift-of-a-new-life/)
+- [The Journey to a New Life](https://newmessage.org/the-message/volume-1/journey-new-life/the-journey-to-a-new-life/)
+- [Your Purpose and Destiny](https://newmessage.org/the-message/volume-1/journey-new-life/greater-purpose-life/)
+- [Building the Bridge to a New Life](https://newmessage.org/the-message/volume-1/journey-new-life/building-the-bridge-to-a-new-life/)
+- [Courage and the Will to Prepare](https://newmessage.org/the-message/volume-1/journey-new-life/courage-and-the-will-to-prepare/)
+- [Building Strength and Resilience](https://newmessage.org/the-message/volume-1/journey-new-life/building-strength-resilience/)
+- [Preparing for a Greater Role in the World](https://newmessage.org/the-message/volume-1/journey-new-life/my-role-greater-purpose/)
+- [The Great Truth](https://newmessage.org/the-message/volume-1/journey-new-life/great-truth-god/)
+- [You Are Here for a Greater Purpose](https://newmessage.org/the-message/volume-1/journey-new-life/here-unique-contribution/)
