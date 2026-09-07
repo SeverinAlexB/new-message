@@ -23,7 +23,7 @@ received_location: "Rocky Mountain Park, Colorado"
 
 <a id="p6"></a>In facing the Great Waves of change that are coming to the world, which will create great pressure on people and great difficulty, even in the wealthy nations, the veneer of civility will wash away, revealing the deeper and more genuine state of people at this time.
 
-<a id="p7"></a>People who are cultured and polite will become angry and vengeful. People who seem sophisticated will act like animals. The Great Waves of change­— which will bring violent weather, the depletion of resources, increasing economic and political instability and the growing risk of conflict and war—the darkening of the world, will push people over the edge.
+<a id="p7"></a>People who are cultured and polite will become angry and vengeful. People who seem sophisticated will act like animals. The Great Waves of change—which will bring violent weather, the depletion of resources, increasing economic and political instability and the growing risk of conflict and war—the darkening of the world, will push people over the edge.
 
 <a id="p8"></a>They cannot be tolerant any further because they are losing their jobs. They are losing their homes. They are losing their social and political power. They are facing ever greater uncertainty. Vast networks of corruption will be revealed. Human incompetence will come to the surface in governments, religions and commerce.
 
