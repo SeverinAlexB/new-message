@@ -1,0 +1,376 @@
+# Schritte zum Inneren Wissen — Index
+
+Volume 3
+
+Quelle: [Steps to Knowledge](https://newmessage.org/the-message/volume-3/steps-knowledge/)
+
+## Contents
+
+- **`00-front-matter.md`** — Überblick
+- **`001-introduction.md`** — Einführung
+- **`002-step-1-i-am-without-knowledge-now.md`** — Ich bin jetzt ohne Inneres Wissen.
+- **`003-step-2-knowledge-is-with-me-where-am-i.md`** — Das Innere Wissen ist bei mir. Wo bin ich?
+- **`004-step-3-what-do-i-really-know.md`** — Was weiß ich wirklich?
+- **`005-step-4-i-want-what-i-think-i-know.md`** — Ich will, was ich zu wissen glaube.
+- **`006-step-5-i-believe-what-i-want-to-believe.md`** — Ich glaube, was ich glauben will.
+- **`007-step-6-i-have-a-true-foundation-in-the-world.md`** — Ich besitze ein wahres Fundament in der Welt.
+- **`008-step-7-review.md`** — RÜCKBLICK
+- **`009-step-8-today-i-will-be-still.md`** — Heute werde ich still sein.
+- **`010-step-9-in-stillness-all-things-can-be-known.md`** — In der Stille können alle Dinge erkannt werden.
+- **`010a-why-am-i-doing-this-anyway.md`** — Warum tue ich das überhaupt?
+- **`011-step-10-what-is-knowledge.md`** — Was ist Inneres Wissen?
+- **`012-step-11-i-am-not-apart-from-life.md`** — Ich bin nicht vom Leben getrennt.
+- **`013-step-12-my-individuality-is-to-express-life-itself.md`** — Meine Individualität soll das Leben selbst ausdrücken.
+- **`014-step-13-i-want-to-be-separate-to-be-unique.md`** — Ich will getrennt sein, um einzigartig zu sein.
+- **`015-step-14-review.md`** — RÜCKBLICK
+- **`016-step-15-i-shall-listen-to-my-experience-today.md`** — Heute werde ich auf meine Erfahrung hören.
+- **`017-step-16-beyond-my-mind-is-knowledge.md`** — Jenseits meines Verstandes liegt das Innere Wissen.
+- **`018-step-17-today-i-want-to-hear-the-truth.md`** — Heute will ich die Wahrheit hören.
+- **`019-step-18-today-i-feel-the-truth-arising-within-myself.md`** — Heute fühle ich, wie die Wahrheit in mir hervortritt.
+- **`020-step-19-today-i-wish-to-see.md`** — Heute möchte ich sehen.
+- **`021-step-20-i-will-not-let-doubt-and-confusion-slow-my-progress.md`** — Ich werde meinen Fortschritt nicht durch Zweifel und Verwirrung verlangsamen lassen.
+- **`022-step-21-review.md`** — RÜCKBLICK
+- **`023-step-22-i-am-surrounded-by-the-teachers-of-god.md`** — Ich bin von den Lehrern Gottes umgeben.
+- **`024-step-23-i-am-loved-surrounded-and-supported-by-the-teachers-of-god.md`** — Ich werde von den Lehrern Gottes geliebt, umgeben und unterstützt.
+- **`025-step-24-i-am-worthy-of-gods-love.md`** — Ich bin der Liebe Gottes würdig.
+- **`026-step-25-i-am-at-one-with-the-greatest-truth-of-life.md`** — Ich bin eins mit der größten Wahrheit des Lebens.
+- **`027-step-26-my-errors-give-birth-to-my-knowledge.md`** — Meine Irrtümer bringen mein Inneres Wissen hervor.
+- **`028-step-27-i-have-a-wisdom-that-i-wish-to-discover.md`** — Ich besitze eine Weisheit, die ich entdecken möchte.
+- **`029-step-28-review.md`** — RÜCKBLICK
+- **`030-step-29-i-will-observe-myself-today-to-learn-of-knowledge.md`** — Heute werde ich mich selbst beobachten, um etwas über das Innere Wissen zu lernen.
+- **`031-step-30-today-i-will-observe-my-world.md`** — Heute werde ich meine Welt beobachten.
+- **`032-step-31-i-wish-to-see-a-world-i-have-never-seen-before.md`** — Ich möchte eine Welt sehen, die ich noch nie zuvor gesehen habe.
+- **`033-step-32-the-truth-is-with-me-i-can-feel-it.md`** — Die Wahrheit ist bei mir. Ich kann sie fühlen.
+- **`034-step-33-i-have-a-mission-in-my-life-to-fulfill.md`** — Ich habe in meinem Leben eine Mission zu erfüllen.
+- **`035-step-34-i-am-a-beginning-student-of-knowledge.md`** — Ich bin ein beginnender Schüler des Inneren Wissens.
+- **`036-step-35-review.md`** — RÜCKBLICK
+- **`037-step-36-my-life-is-a-mystery-to-explore.md`** — Mein Leben ist ein Mysterium, das es zu erforschen gilt.
+- **`038-step-37-there-is-a-way-to-knowledge.md`** — Es gibt einen Weg zum Inneren Wissen.
+- **`039-step-38-god-knows-the-way-to-knowledge.md`** — Gott kennt den Weg zum Inneren Wissen.
+- **`040-step-39-the-power-of-god-is-with-me.md`** — Die Kraft Gottes ist bei mir.
+- **`041-step-40-today-i-will-feel-the-power-of-god.md`** — Heute werde ich die Kraft Gottes fühlen.
+- **`042-step-41-i-am-not-afraid-of-the-power-of-god.md`** — Ich habe keine Angst vor der Kraft Gottes.
+- **`043-step-42-review.md`** — RÜCKBLICK
+- **`044-step-43-my-will-is-to-know-god.md`** — Mein Wille ist es, Gott zu kennen.
+- **`045-step-44-i-wish-to-know-my-own-strength.md`** — Ich möchte meine eigene Stärke kennen.
+- **`046-step-45-alone-i-can-do-nothing.md`** — Allein kann ich nichts tun.
+- **`047-step-46-i-must-be-small-to-be-great.md`** — Ich muss klein sein, um groß zu sein.
+- **`048-step-47-why-do-i-need-teachers.md`** — Warum brauche ich Lehrer?
+- **`049-step-48-true-instruction-is-available-to-me.md`** — Wahre Unterweisung steht mir zur Verfügung.
+- **`050-step-49-review.md`** — RÜCKBLICK
+- **`051-step-50-today-i-will-be-with-knowledge.md`** — Heute werde ich beim Inneren Wissen sein.
+- **`052-step-51-let-me-recognize-my-fears-so-that-i-may-see-the-truth-beyond-them.md`** — Lass mich meine Ängste erkennen, damit ich die Wahrheit jenseits von ihnen sehen kann.
+- **`053-step-52-i-am-free-to-find-the-source-of-my-knowledge.md`** — Es steht mir frei, die Quelle meines Inneren Wissens zu finden.
+- **`054-step-53-my-gifts-are-for-others.md`** — Meine Gaben sind für andere bestimmt.
+- **`055-step-54-i-will-not-live-in-idealism.md`** — Ich werde nicht im Idealismus leben.
+- **`056-step-55-i-will-accept-the-world-as-it-is.md`** — Ich werde die Welt so annehmen, wie sie ist.
+- **`057-step-56-review.md`** — RÜCKBLICK
+- **`058-step-57-freedom-is-with-me.md`** — Die Freiheit ist bei mir.
+- **`059-step-58-knowledge-is-with-me.md`** — Das Innere Wissen ist bei mir.
+- **`060-step-59-today-i-will-learn-patience.md`** — Heute werde ich Geduld lernen.
+- **`061-step-60-i-will-not-judge-the-world-today.md`** — Heute werde ich die Welt nicht beurteilen.
+- **`062-step-61-love-gives-of-itself-through-me.md`** — Die Liebe gibt sich durch mich.
+- **`063-step-62-today-i-will-learn-to-listen-to-life.md`** — Heute werde ich lernen, auf das Leben zu hören.
+- **`064-step-63-review.md`** — RÜCKBLICK
+- **`065-step-64-today-i-will-listen-to-another.md`** — Heute werde ich einem anderen Menschen zuhören.
+- **`066-step-65-i-have-come-to-work-in-the-world.md`** — Ich bin in die Welt gekommen, um zu arbeiten.
+- **`067-step-66-i-will-stop-complaining-about-the-world.md`** — Ich werde aufhören, mich über die Welt zu beklagen.
+- **`068-step-67-i-do-not-know-what-i-want-for-the-world.md`** — Ich weiß nicht, was ich für die Welt will.
+- **`069-step-68-i-will-not-lose-faith-in-myself-today.md`** — Heute werde ich den Glauben an mich selbst nicht verlieren.
+- **`070-step-69-today-i-will-practice-stillness.md`** — Heute werde ich Stille üben.
+- **`071-step-70-review.md`** — RÜCKBLICK
+- **`072-step-71-i-am-here-to-serve-a-greater-purpose.md`** — Ich bin hier, um einem größeren Zweck zu dienen.
+- **`073-step-72-i-will-trust-my-deepest-inclinations-today.md`** — Heute werde ich meinen tiefsten Neigungen vertrauen.
+- **`074-step-73-i-will-allow-my-errors-to-teach-me.md`** — Ich werde meinen Irrtümern erlauben, mich zu lehren.
+- **`075-step-74-peace-abides-with-me-today.md`** — Der Frieden ist heute bei mir.
+- **`076-step-75-today-i-will-listen-to-my-self.md`** — Heute werde ich auf mein Selbst hören.
+- **`077-step-76-today-i-will-not-judge-another.md`** — Heute werde ich keinen anderen Menschen beurteilen.
+- **`078-step-77-review.md`** — RÜCKBLICK
+- **`079-step-78-i-can-do-nothing-alone.md`** — Allein kann ich nichts tun.
+- **`080-step-79-i-will-allow-uncertainty-to-exist-today.md`** — Heute werde ich Ungewissheit bestehen lassen.
+- **`081-step-80-i-can-only-practice.md`** — Ich kann nur üben.
+- **`082-step-81-i-will-not-deceive-myself-today.md`** — Heute werde ich mich nicht selbst täuschen.
+- **`083-step-82-i-will-not-judge-another-today.md`** — Heute werde ich keinen anderen Menschen beurteilen.
+- **`084-step-83-i-value-knowledge-beyond-all-things.md`** — Ich schätze das Innere Wissen über alle Dinge.
+- **`085-step-84-review.md`** — RÜCKBLICK
+- **`086-step-85-i-find-happiness-in-small-things-today.md`** — Heute finde ich Glück in kleinen Dingen.
+- **`087-step-86-i-honor-those-who-have-given-to-me.md`** — Ich ehre jene, die mir gegeben haben.
+- **`088-step-87-i-will-not-be-afraid-of-what-i-know.md`** — Ich werde keine Angst vor dem haben, was ich weiß.
+- **`089-step-88-my-higher-self-is-not-an-individual.md`** — Mein Höheres Selbst ist kein Individuum.
+- **`090-step-89-my-emotions-cannot-dissuade-my-knowledge.md`** — Meine Gefühle können mein Inneres Wissen nicht abbringen.
+- **`091-step-90-today-i-will-make-no-assumptions.md`** — Heute werde ich keine Annahmen treffen.
+- **`092-step-91-review.md`** — RÜCKBLICK
+- **`093-step-92-there-is-a-role-for-me-to-play-in-the-world.md`** — Es gibt eine Rolle, die ich in der Welt zu spielen habe.
+- **`094-step-93-i-am-sent-here-for-a-purpose.md`** — Ich wurde für einen Zweck hierhergesandt.
+- **`095-step-94-my-freedom-is-to-find-my-purpose.md`** — Meine Freiheit besteht darin, meinen Zweck zu finden.
+- **`096-step-95-how-can-i-possibly-fulfill-myself.md`** — Wie könnte ich mich selbst erfüllen?
+- **`097-step-96-gods-will-is-for-me-to-be-unburdened.md`** — Gottes Wille ist es, mich von meinen Lasten zu befreien.
+- **`098-step-97-i-do-not-know-what-fulfillment-is.md`** — Ich weiß nicht, was Erfüllung ist.
+- **`099-step-98-review.md`** — RÜCKBLICK
+- **`100-step-99-i-will-not-blame-the-world-today.md`** — Heute werde ich der Welt nicht die Schuld geben.
+- **`101-step-100-today-i-am-a-beginning-student-of-knowledge.md`** — Heute bin ich ein beginnender Schüler des Inneren Wissens.
+- **`102-step-101-the-world-needs-me-but-i-will-wait.md`** — Die Welt braucht mich, doch ich werde warten.
+- **`103-step-102-there-is-much-i-must-unlearn.md`** — Es gibt vieles, das ich verlernen muss.
+- **`104-step-103-i-am-honored-by-god.md`** — Ich werde von Gott geehrt.
+- **`105-step-104-god-knows-more-about-me-than-i-do.md`** — Gott weiß mehr über mich als ich selbst.
+- **`106-step-105-review.md`** — RÜCKBLICK
+- **`107-step-106-there-are-no-masters-living-in-the-world.md`** — Es gibt keine Meister, die in der Welt leben.
+- **`108-step-107-today-i-will-learn-to-be-happy.md`** — Heute werde ich lernen, glücklich zu sein.
+- **`109-step-108-happiness-is-something-i-must-learn-again.md`** — Glück ist etwas, das ich erneut lernen muss.
+- **`110-step-109-i-will-not-be-in-a-hurry-today.md`** — Heute werde ich mich nicht beeilen.
+- **`111-step-110-i-will-be-honest-with-myself-today.md`** — Heute werde ich ehrlich zu mir selbst sein.
+- **`112-step-111-today-i-will-be-at-ease.md`** — Heute werde ich entspannt sein.
+- **`113-step-112-review.md`** — RÜCKBLICK
+- **`114-step-113-i-will-not-be-persuaded-by-others.md`** — Ich werde mich nicht von anderen überreden lassen.
+- **`115-step-114-my-true-friends-are-with-me-i-am-not-alone.md`** — Meine wahren Freunde sind bei mir. Ich bin nicht allein.
+- **`116-step-115-today-i-will-listen-to-the-power-of-knowledge.md`** — Heute werde ich auf die Kraft des Inneren Wissens hören.
+- **`117-step-116-today-i-shall-be-patient-with-knowledge.md`** — Heute werde ich mit dem Inneren Wissen geduldig sein.
+- **`118-step-117-it-is-better-to-be-simple-than-to-be-poor.md`** — Es ist besser, einfach als arm zu sein.
+- **`119-step-118-i-will-not-avoid-the-world-today.md`** — Heute werde ich der Welt nicht ausweichen.
+- **`120-step-119-review.md`** — RÜCKBLICK
+- **`121-step-120-i-will-remember-my-knowledge-today.md`** — Heute werde ich mich an mein Inneres Wissen erinnern.
+- **`122-step-121-today-i-am-free-to-give.md`** — Heute bin ich frei zu geben.
+- **`123-step-122-i-give-without-loss-today.md`** — Schritt 122: Heute gebe ich, ohne etwas zu verlieren.
+- **`124-step-123-i-will-not-pity-myself-today.md`** — Heute werde ich kein Mitleid mit mir selbst haben.
+- **`125-step-124-today-i-will-not-pretend-i-am-happy.md`** — Heute werde ich nicht so tun, als wäre ich glücklich.
+- **`126-step-125-i-do-not-need-to-be-someone-today.md`** — Heute muss ich nicht versuchen, jemand zu sein.
+- **`127-step-126-review.md`** — RÜCKBLICK
+- **`128-step-127-today-i-will-not-try-to-get-even-with-god.md`** — Heute werde ich nicht versuchen, es Gott heimzuzahlen.
+- **`129-step-128-my-teachers-are-with-me-i-need-not-fear.md`** — Meine Lehrer sind bei mir. Ich brauche mich nicht zu fürchten.
+- **`130-step-129-my-teachers-are-with-me-i-will-be-with-them.md`** — Meine Lehrer sind bei mir. Ich werde bei ihnen sein.
+- **`131-step-130-relationships-will-come-to-me-when-i-am-prepared.md`** — Beziehungen werden zu mir kommen, wenn ich vorbereitet bin.
+- **`132-step-131-today-i-will-seek-the-experience-of-true-purpose-in-life.md`** — Heute werde ich die Erfahrung eines wahren Zwecks im Leben suchen.
+- **`133-step-132-let-me-learn-to-be-free-so-that-i-may-join.md`** — Lass mich lernen, frei zu sein, damit ich mich verbinden kann.
+- **`134-step-133-review.md`** — RÜCKBLICK
+- **`135-step-134-i-will-not-define-my-purpose-for-myself.md`** — Ich werde meinen Zweck nicht selbst bestimmen.
+- **`136-step-135-i-will-not-define-my-destiny-today.md`** — Heute werde ich meine Bestimmung nicht festlegen.
+- **`137-step-136-my-purpose-is-to-reclaim-my-knowledge-and-to-allow-it-to-express-itself-in-the-world.md`** — Mein Zweck ist es, mein Inneres Wissen wiederzugewinnen und ihm zu erlauben, sich in der Welt auszudrücken.
+- **`138-step-137-i-will-accept-the-mystery-of-my-life.md`** — Ich werde das Geheimnis meines Lebens annehmen.
+- **`139-step-138-i-need-only-follow-the-steps-as-they-are-given.md`** — Ich brauche die Schritte nur so zu befolgen, wie sie gegeben werden.
+- **`140-step-139-i-have-come-to-the-world-to-serve.md`** — Ich bin in die Welt gekommen, um zu dienen.
+- **`141-step-140-review.md`** — RÜCKBLICK
+- **`142-step-141-i-will-be-confident-this-day.md`** — An diesem Tag werde ich zuversichtlich sein.
+- **`143-step-142-i-will-be-consistent-today.md`** — Heute werde ich beständig sein.
+- **`144-step-143-today-i-will-be-still.md`** — Heute werde ich still sein.
+- **`145-step-144-i-will-honor-myself-today.md`** — Heute werde ich mich selbst ehren.
+- **`146-step-145-i-will-honor-the-world-today.md`** — Heute werde ich die Welt ehren.
+- **`147-step-146-i-will-honor-my-teachers-today.md`** — Heute werde ich meine Lehrer ehren.
+- **`148-step-147-review.md`** — RÜCKBLICK
+- **`149-step-148-my-practice-is-my-gift-to-god.md`** — Meine Übung ist mein Geschenk an Gott.
+- **`150-step-149-my-practice-is-my-gift-to-the-world.md`** — Meine Übung ist mein Geschenk an die Welt.
+- **`151-step-150-today-i-will-learn-to-learn.md`** — Heute werde ich lernen zu lernen.
+- **`152-step-151-i-will-not-use-fear-to-support-my-judgments.md`** — Ich werde meine Urteile nicht mit Angst stützen.
+- **`153-step-152-i-will-not-follow-fear-within-the-world.md`** — Ich werde der Angst in der Welt nicht folgen.
+- **`154-step-153-my-source-wishes-to-express-itself-through-me.md`** — Meine Quelle möchte sich durch mich ausdrücken.
+- **`155-step-154-review.md`** — RÜCKBLICK
+- **`156-step-155-the-world-blesses-me-as-i-receive.md`** — Die Welt segnet mich, während ich empfange.
+- **`157-step-156-i-will-not-be-concerned-about-myself-today.md`** — Heute werde ich mir keine Sorgen um mich selbst machen.
+- **`158-step-157-i-am-not-alone-in-the-universe.md`** — Ich bin im Universum nicht allein.
+- **`159-step-158-i-am-rich-so-i-can-give.md`** — Ich bin reich, deshalb kann ich geben.
+- **`160-step-159-the-poor-cannot-give-i-am-not-poor.md`** — Die Armen können nicht geben. Ich bin nicht arm.
+- **`161-step-160-the-world-is-poor-but-i-am-not.md`** — Die Welt ist arm, aber ich bin es nicht.
+- **`162-step-161-review.md`** — RÜCKBLICK
+- **`163-step-162-i-will-not-be-afraid-today.md`** — Heute werde ich keine Angst haben.
+- **`164-step-163-i-will-feel-knowledge-today.md`** — Heute werde ich das Innere Wissen spüren.
+- **`165-step-164-today-i-will-honor-what-i-know.md`** — Heute werde ich ehren, was ich weiß.
+- **`166-step-165-my-duties-are-small-my-mission-is-great.md`** — Meine Pflichten sind klein. Meine Mission ist groß.
+- **`167-step-166-my-mission-is-great-therefore-i-am-free-to-do-small-things.md`** — Meine Mission ist groß. Daher bin ich frei, kleine Dinge zu tun.
+- **`168-step-167-with-knowledge-i-am-free-in-the-world.md`** — Mit dem Inneren Wissen bin ich frei in der Welt.
+- **`169-step-168-review.md`** — RÜCKBLICK
+- **`170-step-169-the-world-is-within-me-this-i-know.md`** — Die Welt ist in mir. Das weiß ich.
+- **`171-step-170-i-am-following-the-ancient-rite-of-preparation-today.md`** — Heute folge ich dem Uralten Ritus der Vorbereitung.
+- **`172-step-171-my-giving-is-an-affirmation-of-my-wealth.md`** — Mein Geben ist eine Bestätigung meines Reichtums.
+- **`173-step-172-i-must-reclaim-my-knowledge.md`** — Ich muss mein Inneres Wissen wiedergewinnen.
+- **`174-step-173-today-i-will-do-what-is-necessary.md`** — Heute werde ich tun, was notwendig ist.
+- **`175-step-174-my-life-is-necessary.md`** — Mein Leben ist notwendig.
+- **`176-step-175-review.md`** — RÜCKBLICK
+- **`177-step-176-i-will-follow-knowledge-today.md`** — Heute werde ich dem Inneren Wissen folgen.
+- **`178-step-177-i-will-learn-to-be-honest-today.md`** — Heute werde ich lernen, ehrlich zu sein.
+- **`179-step-178-i-will-remember-those-who-have-given-to-me-today.md`** — Heute werde ich mich an jene erinnern, die mir gegeben haben.
+- **`180-step-179-today-i-will-thank-the-world-for-teaching-me-what-is-true.md`** — Heute werde ich der Welt dafür danken, dass sie mich lehrt, was wahr ist.
+- **`181-step-180-i-complain-because-i-am-lacking-knowledge.md`** — Ich beklage mich, weil mir Inneres Wissen fehlt.
+- **`182-step-181-today-i-receive-the-love-of-knowledge.md`** — Heute empfange ich die Liebe des Inneren Wissens.
+- **`183-step-182-review.md`** — RÜCKBLICK
+- **`184-step-183-i-seek-experience-not-answers.md`** — Ich suche Erfahrung, nicht Antworten.
+- **`185-step-184-my-questions-are-greater-than-i-had-realized-before.md`** — Meine Fragen sind größer, als ich zuvor erkannt hatte.
+- **`186-step-185-i-have-come-into-the-world-for-a-purpose.md`** — Ich bin zu einem Zweck in die Welt gekommen.
+- **`187-step-186-i-am-born-of-an-ancient-heritage.md`** — Ich entstamme einem Uralten Erbe.
+- **`188-step-187-i-am-a-citizen-of-the-greater-community-of-worlds.md`** — Ich bin ein Bürger der Größeren Gemeinschaft der Welten.
+- **`189-step-188-my-life-in-this-world-is-more-important-than-i-had-realized-before.md`** — Mein Leben in dieser Welt ist wichtiger, als ich zuvor erkannt hatte.
+- **`190-step-189-my-spiritual-family-exists-in-all-places.md`** — Meine Spirituelle Familie besteht an allen Orten.
+- **`191-step-190-the-world-is-emerging-into-the-greater-community-of-worlds-and-that-is-why-i-have-come.md`** — Die Welt tritt in die Größere Gemeinschaft der Welten ein, und deshalb bin ich gekommen.
+- **`192-step-191-my-knowledge-is-greater-than-my-humanity.md`** — Mein Inneres Wissen ist größer als mein Menschsein.
+- **`193-step-192-i-will-not-neglect-small-things-today.md`** — Heute werde ich kleine Dinge nicht vernachlässigen.
+- **`194-step-193-i-shall-listen-to-others-without-judgment-today.md`** — Heute werde ich anderen ohne Urteil zuhören.
+- **`195-step-194-i-will-go-where-i-am-needed-today.md`** — Heute werde ich dorthin gehen, wo ich gebraucht werde.
+- **`196-step-195-knowledge-is-more-powerful-than-i-realize.md`** — Das Innere Wissen ist mächtiger, als ich erkenne.
+- **`197-step-196-review.md`** — RÜCKBLICK
+- **`198-step-197-knowledge-must-be-experienced-to-be-realized.md`** — Das Innere Wissen muss erfahren werden, um erkannt zu werden.
+- **`199-step-198-today-i-will-be-strong.md`** — Heute werde ich stark sein.
+- **`200-step-199-the-world-i-see-is-emerging-into-the-greater-community-of-worlds.md`** — Die Welt, die ich sehe, tritt in die Größere Gemeinschaft der Welten ein.
+- **`201-step-200-my-thoughts-are-too-small-to-contain-knowledge.md`** — Meine Gedanken sind zu klein, um das Innere Wissen zu fassen.
+- **`202-step-201-my-mind-was-made-to-serve-knowledge.md`** — Mein Verstand wurde geschaffen, um dem Inneren Wissen zu dienen.
+- **`203-step-202-i-behold-the-greater-community-today.md`** — Heute betrachte ich die Größere Gemeinschaft.
+- **`204-step-203-the-greater-community-is-influencing-the-world-i-see.md`** — Die Größere Gemeinschaft beeinflusst die Welt, die ich sehe.
+- **`205-step-204-i-will-be-at-peace-today.md`** — Heute werde ich im Frieden sein.
+- **`206-step-205-i-will-not-judge-the-world-today.md`** — Heute werde ich die Welt nicht beurteilen.
+- **`207-step-206-love-is-flowing-from-me-now.md`** — Jetzt fließt Liebe aus mir.
+- **`208-step-207-i-forgive-those-whom-i-think-have-hurt-me.md`** — Ich vergebe jenen, von denen ich glaube, dass sie mich verletzt haben.
+- **`209-step-208-all-things-i-truly-value-will-be-expressed-from-knowledge.md`** — Alles, was ich wirklich schätze, wird aus dem Inneren Wissen ausgedrückt werden.
+- **`210-step-209-i-will-not-be-cruel-with-myself-today.md`** — Heute werde ich nicht grausam zu mir selbst sein.
+- **`211-step-210-review.md`** — RÜCKBLICK
+- **`212-step-211-i-have-great-friends-beyond-this-world.md`** — Ich habe große Freunde jenseits dieser Welt.
+- **`213-step-212-i-gain-strength-from-all-who-practice-with-me.md`** — Ich erhalte Stärke von allen, die mit mir üben.
+- **`214-step-213-i-do-not-understand-the-world.md`** — Ich verstehe die Welt nicht.
+- **`215-step-214-i-do-not-understand-myself.md`** — Ich verstehe mich selbst nicht.
+- **`216-step-215-my-teachers-are-with-me-i-am-not-alone.md`** — Meine Lehrer sind bei mir. Ich bin nicht allein.
+- **`217-step-216-there-is-a-spiritual-presence-in-my-life.md`** — In meinem Leben gibt es eine Spirituelle Gegenwart.
+- **`218-step-217-i-give-myself-to-knowledge-today.md`** — Heute gebe ich mich dem Inneren Wissen hin.
+- **`219-step-218-i-will-hold-knowledge-within-myself-today.md`** — Heute werde ich das Innere Wissen in mir bewahren.
+- **`220-step-219-i-will-not-let-ambition-deceive-me-today.md`** — Heute werde ich mich nicht von Ehrgeiz täuschen lassen.
+- **`221-step-220-i-will-use-restraint-today-so-that-greatness-may-grow-within-me.md`** — Heute werde ich Zurückhaltung üben, damit Größe in mir wachsen kann.
+- **`222-step-221-i-am-free-to-be-confused-today.md`** — Heute bin ich frei, verwirrt zu sein.
+- **`223-step-222-the-world-is-confused-i-will-judge-it-not.md`** — Die Welt ist verwirrt. Ich werde sie nicht beurteilen.
+- **`224-step-223-i-will-receive-knowledge-this-day.md`** — An diesem Tag werde ich Inneres Wissen empfangen.
+- **`225-step-224-review.md`** — RÜCKBLICK
+- **`226-step-225-today-i-will-be-serious-and-lighthearted-all-at-once.md`** — Heute werde ich zugleich ernst und unbeschwert sein.
+- **`227-step-226-knowledge-is-with-me-i-will-not-be-afraid.md`** — Das Innere Wissen ist bei mir. Ich werde keine Angst haben.
+- **`228-step-227-i-will-not-think-that-i-know-today.md`** — Heute werde ich nicht glauben, dass ich weiß.
+- **`229-step-228-i-will-not-be-poor-today.md`** — Heute werde ich nicht arm sein.
+- **`230-step-229-i-will-not-blame-another-for-my-pain.md`** — Ich werde keinem anderen die Schuld an meinem Schmerz geben.
+- **`231-step-230-my-suffering-is-born-of-confusion.md`** — Mein Leiden entsteht aus Verwirrung.
+- **`232-step-231-i-have-a-calling-in-this-world.md`** — Ich habe eine Berufung in dieser Welt.
+- **`233-step-232-my-calling-in-life-requires-the-development-of-others.md`** — Meine Berufung im Leben erfordert die Entwicklung anderer.
+- **`234-step-233-i-am-part-of-a-greater-force-for-good-in-the-world.md`** — Ich bin Teil einer Größeren Kraft für das Gute in der Welt.
+- **`235-step-234-knowledge-serves-humanity-in-all-ways.md`** — Das Innere Wissen dient der Menschheit in jeder Hinsicht.
+- **`236-step-235-the-power-of-knowledge-is-becoming-evident-to-me.md`** — Die Kraft des Inneren Wissens wird für mich sichtbar.
+- **`237-step-236-with-knowledge-i-will-know-what-to-do.md`** — Mit dem Inneren Wissen werde ich wissen, was zu tun ist.
+- **`238-step-237-i-am-only-beginning-to-comprehend-the-meaning-of-my-life.md`** — Ich beginne erst, die Bedeutung meines Lebens zu verstehen.
+- **`239-step-238-review.md`** — RÜCKBLICK
+- **`240-step-239-freedom-is-mine-today.md`** — Heute gehört die Freiheit mir.
+- **`241-step-240-small-ideas-cannot-fulfill-my-need-for-knowledge.md`** — Kleine Gedanken können mein Bedürfnis nach Innerem Wissen nicht erfüllen.
+- **`242-step-241-my-anger-is-unjustified.md`** — Mein Zorn ist nicht gerechtfertigt.
+- **`243-step-242-my-greatest-gift-to-the-world-is-my-knowledge.md`** — Meine größte Gabe an die Welt ist mein Inneres Wissen.
+- **`244-step-243-i-do-not-need-to-be-special-to-give.md`** — Ich muss nicht besonders sein, um zu geben.
+- **`245-step-244-i-am-honored-when-others-are-strong.md`** — Ich werde geehrt, wenn andere stark sind.
+- **`246-step-245-when-others-fail-i-am-reminded-of-the-need-for-knowledge.md`** — Wenn andere scheitern, werde ich an den Bedarf an Innerem Wissen erinnert.
+- **`247-step-246-there-is-no-justification-for-failing-to-reclaim-knowledge.md`** — Es gibt keine Rechtfertigung dafür, das Innere Wissen nicht wiederzugewinnen.
+- **`248-step-247-i-will-listen-to-my-inner-teachers-today.md`** — Heute werde ich auf meine Inneren Lehrer hören.
+- **`249-step-248-i-will-rely-upon-the-wisdom-of-the-universe-to-instruct-me.md`** — Ich werde mich darauf verlassen, dass die Weisheit des Universums mich unterweist.
+- **`250-step-249-alone-i-can-do-nothing.md`** — Allein kann ich nichts tun.
+- **`251-step-250-i-will-not-hold-myself-apart-today.md`** — Heute werde ich mich nicht absondern.
+- **`252-step-251-if-i-abide-with-knowledge-there-will-be-no-confusion-in-my-relationships.md`** — Wenn ich beim Inneren Wissen bleibe, wird es in meinen Beziehungen keine Verwirrung geben.
+- **`253-step-252-review.md`** — RÜCKBLICK
+- **`254-step-253-all-things-i-truly-need-will-be-provided-for-me.md`** — Alles, was ich wirklich brauche, wird mir gegeben werden.
+- **`255-step-254-i-trust-my-teachers-who-abide-with-me.md`** — Ich vertraue meinen Lehrern, die bei mir bleiben.
+- **`256-step-255-the-errors-of-this-world-will-not-dissuade-me.md`** — Die Fehler dieser Welt werden mich nicht abbringen.
+- **`257-step-256-the-world-is-emerging-into-the-greater-community-of-worlds.md`** — Die Welt tritt in die Größere Gemeinschaft der Welten ein.
+- **`258-step-257-life-is-greater-than-i-had-ever-realized.md`** — Das Leben ist größer, als ich je erkannt hatte.
+- **`259-step-258-who-are-my-friends-today.md`** — Wer sind heute meine Freunde?
+- **`260-step-259-i-have-come-to-teach-in-the-world.md`** — Ich bin gekommen, um in der Welt zu lehren.
+- **`261-step-260-i-am-a-friend-of-the-world-today.md`** — Heute bin ich ein Freund der Welt.
+- **`262-step-261-i-must-learn-to-give-with-discernment.md`** — Ich muss lernen, mit Unterscheidungsvermögen zu geben.
+- **`263-step-262-how-can-i-judge-myself-when-i-do-not-know-who-i-am.md`** — Wie kann ich mich beurteilen, wenn ich nicht weiß, wer ich bin?
+- **`264-step-263-with-knowledge-all-things-become-clear.md`** — Mit dem Inneren Wissen wird alles klar.
+- **`265-step-264-i-will-learn-of-freedom-this-day.md`** — An diesem Tag werde ich etwas über Freiheit lernen.
+- **`266-step-265-there-is-a-greater-freedom-awaiting-me.md`** — Eine größere Freiheit wartet auf mich.
+- **`267-step-266-review.md`** — RÜCKBLICK
+- **`268-step-267-there-is-a-simple-solution-to-all-problems-that-face-me-today.md`** — Für alle Probleme, denen ich heute gegenüberstehe, gibt es eine einfache Lösung.
+- **`269-step-268-i-will-not-be-deceived-by-complexity-today.md`** — Heute werde ich mich nicht von Komplexität täuschen lassen.
+- **`270-step-269-the-power-of-knowledge-will-extend-itself-from-me.md`** — Die Kraft des Inneren Wissens wird sich von mir aus verbreiten.
+- **`271-step-270-with-power-comes-responsibility.md`** — Mit Macht geht Verantwortung einher.
+- **`272-step-271-i-will-accept-responsibility-today.md`** — Heute werde ich Verantwortung annehmen.
+- **`273-step-272-my-teachers-will-guide-me-as-i-proceed.md`** — Meine Lehrer werden mich führen, während ich voranschreite.
+- **`274-step-273-my-teachers-hold-the-memory-of-my-ancient-home-for-me.md`** — Meine Lehrer bewahren für mich die Erinnerung an meine Uralte Heimat.
+- **`275-step-274-i-seek-freedom-from-ambivalence-today.md`** — Heute suche ich Freiheit von Ambivalenz.
+- **`276-step-275-today-i-seek-freedom-from-uncertainty.md`** — Heute suche ich Freiheit von Unsicherheit.
+- **`277-step-276-knowledge-is-my-salvation.md`** — Inneres Wissen ist meine Erlösung.
+- **`278-step-277-my-ideas-are-small-but-knowledge-is-great.md`** — Meine Vorstellungen sind klein, doch Inneres Wissen ist groß.
+- **`279-step-278-what-is-changeless-will-express-itself-through-me.md`** — Was unveränderlich ist, wird sich durch mich ausdrücken.
+- **`280-step-279-i-must-experience-my-freedom-to-realize-it.md`** — Ich muss meine Freiheit erfahren, um sie zu erkennen.
+- **`281-step-280-review.md`** — RÜCKBLICK
+- **`282-step-281-above-all-else-i-seek-knowledge.md`** — Vor allem anderen suche ich Inneres Wissen.
+- **`283-step-282-i-will-learn-to-accept-the-responsibility-of-carrying-knowledge-in-the-world.md`** — Ich werde lernen, die Verantwortung dafür anzunehmen, Inneres Wissen in der Welt zu tragen.
+- **`284-step-283-the-world-is-ambivalent-but-i-am-not.md`** — Die Welt ist ambivalent, doch ich bin es nicht.
+- **`285-step-284-stillness-is-my-gift-to-the-world.md`** — Stille ist meine Gabe an die Welt.
+- **`286-step-285-in-stillness-all-things-can-be-known.md`** — In der Stille können alle Dinge erkannt werden.
+- **`287-step-286-i-carry-stillness-into-the-world-with-me-today.md`** — Heute trage ich Stille mit mir in die Welt.
+- **`288-step-287-with-knowledge-i-cannot-be-at-war.md`** — Mit Innerem Wissen kann ich mich nicht im Krieg befinden.
+- **`289-step-288-enemies-are-only-friends-who-have-not-learned-to-join.md`** — Feinde sind nur Freunde, die noch nicht gelernt haben, sich zu verbinden.
+- **`290-step-289-today-i-am-a-student-of-knowledge.md`** — Heute bin ich ein Schüler des Inneren Wissens.
+- **`291-step-290-i-can-only-be-a-student-therefore-i-will-be-a-student-of-knowledge.md`** — Ich kann nur ein Schüler sein. Daher werde ich ein Schüler des Inneren Wissens sein.
+- **`292-step-291-i-am-grateful-to-my-brothers-and-my-sisters-who-err-against-me.md`** — Ich bin meinen Brüdern und Schwestern dankbar, die mir gegenüber Fehler machen.
+- **`293-step-292-how-can-i-be-angry-with-the-world-when-it-only-serves-me.md`** — Wie kann ich auf die Welt wütend sein, wenn sie mir nur dient?
+- **`294-step-293-i-do-not-wish-to-suffer-today.md`** — Heute möchte ich nicht leiden.
+- **`295-step-294-review.md`** — RÜCKBLICK
+- **`296-step-295-i-am-now-penetrating-the-mystery-of-my-life.md`** — Jetzt dringe ich in das Mysterium meines Lebens ein.
+- **`297-step-296-nasi-novare-coram.md`** — Nasi Novare Coram
+- **`298-step-297-novre-novre-comey-na-vera-te-novre.md`** — Novre Novre Comey Na Vera Te Novre
+- **`299-step-298-mavran-mavran-conay-mavran.md`** — Mavran Mavran Conay Mavran
+- **`300-step-299-nome-nome-cono-na-vera-te-nome.md`** — Nome Nome Cono Na Vera Te Nome
+- **`301-step-300-i-receive-all-those-who-are-my-spiritual-family-today.md`** — Heute empfange ich alle, die zu meiner Spirituellen Familie gehören.
+- **`302-step-301-i-will-not-lose-myself-in-anxiety-today.md`** — Heute werde ich mich nicht in Unruhe verlieren.
+- **`303-step-302-i-will-not-resist-the-world-today.md`** — Heute werde ich mich der Welt nicht widersetzen.
+- **`304-step-303-i-will-step-back-from-the-worlds-persuasions-today.md`** — Heute werde ich von den Verlockungen der Welt zurücktreten.
+- **`305-step-304-i-will-not-be-a-student-of-fear-today.md`** — Heute werde ich kein Schüler der Angst sein.
+- **`306-step-305-i-feel-the-power-of-love-today.md`** — Heute spüre ich die Macht der Liebe.
+- **`307-step-306-i-will-rest-in-knowledge-today.md`** — Heute werde ich im Inneren Wissen ruhen.
+- **`308-step-307-knowledge-is-living-within-me-now.md`** — Inneres Wissen lebt jetzt in mir.
+- **`309-step-308-review.md`** — RÜCKBLICK
+- **`310-step-309-the-world-i-see-is-attempting-to-become-one-community.md`** — Die Welt, die ich sehe, versucht, zu einer Gemeinschaft zu werden.
+- **`311-step-310-i-am-free-because-i-desire-to-give.md`** — Ich bin frei, weil ich zu geben wünsche.
+- **`312-step-311-the-world-is-calling-me-i-must-prepare-to-serve-it.md`** — Die Welt ruft mich. Ich muss mich darauf vorbereiten, ihr zu dienen.
+- **`313-step-312-there-are-greater-problems-for-me-to-solve-in-the-world.md`** — In der Welt gibt es größere Probleme, die ich lösen soll.
+- **`314-step-313-let-me-recognize-that-what-is-complex-is-simple.md`** — Lass mich erkennen, dass das Komplexe einfach ist.
+- **`315-step-314-i-will-not-be-afraid-to-follow-today.md`** — Heute werde ich keine Angst haben zu folgen.
+- **`316-step-315-today-i-will-not-be-alone.md`** — Heute werde ich nicht allein sein.
+- **`317-step-316-i-will-trust-my-deepest-inclinations-today.md`** — Heute werde ich meinen tiefsten Neigungen vertrauen.
+- **`318-step-317-i-need-but-relinquish-my-ambivalence-to-know-the-truth.md`** — Ich muss nur meine Ambivalenz aufgeben, um die Wahrheit zu erkennen.
+- **`319-step-318-there-is-a-greater-power-at-work-in-the-world.md`** — Eine Größere Macht ist in der Welt am Werk.
+- **`320-step-319-why-should-i-be-afraid-when-a-greater-power-is-in-the-world.md`** — Warum sollte ich Angst haben, wenn eine Größere Macht in der Welt ist?
+- **`321-step-320-i-am-free-to-work-within-the-world.md`** — Ich bin frei, in der Welt zu arbeiten.
+- **`322-step-321-the-world-is-awaiting-my-contribution.md`** — Die Welt wartet auf meinen Beitrag.
+- **`323-step-322-review.md`** — RÜCKBLICK
+- **`324-step-323-my-role-in-the-world-is-too-important-to-neglect.md`** — Meine Rolle in der Welt ist zu wichtig, um sie zu vernachlässigen.
+- **`325-step-324-i-will-not-judge-another-today.md`** — Heute werde ich keinen anderen Menschen beurteilen.
+- **`326-step-325-the-world-is-emerging-into-the-greater-community-of-worlds-therefore-i-must-be-attentive.md`** — Die Welt tritt in die Größere Gemeinschaft der Welten ein. Daher muss ich aufmerksam sein.
+- **`327-step-326-the-greater-community-is-something-i-can-feel-but-cannot-understand.md`** — Die Größere Gemeinschaft ist etwas, das ich spüren, aber nicht verstehen kann.
+- **`328-step-327-i-will-be-at-peace-today.md`** — Heute werde ich in Frieden sein.
+- **`329-step-328-today-i-will-honor-those-who-have-given-to-me.md`** — Heute werde ich jene ehren, die mir gegeben haben.
+- **`330-step-329-i-am-free-to-love-the-world-today.md`** — Heute bin ich frei, die Welt zu lieben.
+- **`331-step-330-i-will-not-neglect-the-small-things-in-my-life.md`** — Ich werde die kleinen Dinge in meinem Leben nicht vernachlässigen.
+- **`332-step-331-what-is-small-expresses-that-which-is-great.md`** — Das Kleine drückt das Große aus.
+- **`333-step-332-i-am-only-beginning-to-comprehend-the-meaning-of-knowledge-in-my-life.md`** — Ich beginne erst, die Bedeutung des Inneren Wissens in meinem Leben zu verstehen.
+- **`334-step-333-there-is-a-presence-with-me-i-can-feel-it.md`** — Eine Gegenwart ist bei mir. Ich kann sie spüren.
+- **`335-step-334-the-presence-of-my-teachers-is-with-me-every-day.md`** — Die Gegenwart meiner Lehrer ist jeden Tag bei mir.
+- **`336-step-335-the-fire-of-knowledge-is-with-me-every-day.md`** — Das Feuer des Inneren Wissens ist jeden Tag bei mir.
+- **`337-step-336-review.md`** — RÜCKBLICK
+- **`338-step-337-alone-i-can-do-nothing.md`** — Allein kann ich nichts tun.
+- **`339-step-338-today-i-will-be-attentive.md`** — Heute werde ich aufmerksam sein.
+- **`340-step-339-the-presence-of-love-is-with-me-now.md`** — Die Gegenwart der Liebe ist jetzt bei mir.
+- **`341-step-340-my-practice-is-my-contribution-to-the-world.md`** — Meine Übung ist mein Beitrag zur Welt.
+- **`342-step-341-i-am-happy-for-i-can-now-receive.md`** — Ich bin glücklich, denn jetzt kann ich empfangen.
+- **`343-step-342-i-am-a-student-of-knowledge-today.md`** — Heute bin ich ein Schüler des Inneren Wissens.
+- **`344-step-343-today-i-will-honor-the-source-of-my-preparation.md`** — Heute werde ich die Quelle meiner Vorbereitung ehren.
+- **`345-step-344-my-knowledge-is-the-gift-i-give-unto-the-world.md`** — Mein Inneres Wissen ist die Gabe, die ich der Welt gebe.
+- **`346-step-345-my-knowledge-is-my-gift-to-my-spiritual-family.md`** — Mein Inneres Wissen ist meine Gabe an meine Spirituelle Familie.
+- **`347-step-346-i-am-in-the-world-to-work.md`** — Ich bin in der Welt, um zu arbeiten.
+- **`348-step-347-i-allow-my-life-to-unfold-today.md`** — Heute erlaube ich meinem Leben, sich zu entfalten.
+- **`349-step-348-today-i-will-witness-the-world-unfolding.md`** — Heute werde ich die Entfaltung der Welt bezeugen.
+- **`350-step-349-i-am-happy-that-i-can-finally-serve-the-truth.md`** — Ich bin glücklich, dass ich endlich der Wahrheit dienen kann.
+- **`351-step-350-review.md`** — RÜCKBLICK
+- **`352-step-351-i-serve-a-greater-purpose-which-i-am-now-beginning-to-experience.md`** — Ich diene einem größeren Zweck, den ich jetzt zu erfahren beginne.
+- **`353-step-352-i-am-a-true-student-of-knowledge-today.md`** — Heute bin ich ein wahrer Schüler des Inneren Wissens.
+- **`354-step-353-my-true-home-is-in-god.md`** — Meine Wahre Heimat ist in Gott.
+- **`355-step-354-i-must-experience-my-true-home-while-i-am-in-the-world.md`** — Ich muss meine Wahre Heimat erfahren, während ich in der Welt bin.
+- **`356-step-355-i-can-be-at-peace-in-the-world.md`** — Ich kann in der Welt in Frieden sein.
+- **`357-step-356-i-will-find-my-self-today.md`** — Heute werde ich mein Selbst finden.
+- **`358-step-357-i-am-in-the-world-to-express-my-self.md`** — Ich bin in der Welt, um mein Selbst auszudrücken.
+- **`359-step-358-i-wish-to-be-at-home-in-the-world.md`** — Ich möchte in der Welt zu Hause sein.
+- **`360-step-359-i-am-present-to-serve-the-world.md`** — Ich bin gegenwärtig, um der Welt zu dienen.
+- **`361-step-360-i-must-learn-how-to-reveal-greatness-in-the-world.md`** — Ich muss lernen, wie man Größe in der Welt offenbart.
+- **`362-step-361-i-am-being-led-into-the-light-of-knowledge-today.md`** — Heute werde ich in das Licht des Inneren Wissens geführt.
+- **`363-step-362-i-am-learning-to-learn-because-i-carry-knowledge-within-me-today.md`** — Ich lerne zu lernen, weil ich heute Inneres Wissen in mir trage.
+- **`364-step-363-knowledge-is-my-true-desire-because-i-am-a-student-of-knowledge.md`** — Inneres Wissen ist mein wahres Verlangen, weil ich ein Schüler des Inneren Wissens bin.
+- **`365-step-364-knowledge-carries-me-because-i-am-a-student-of-knowledge.md`** — Inneres Wissen trägt mich, weil ich ein Schüler des Inneren Wissens bin.
+- **`366-step-365-i-am-committed-to-learn-to-learn-i-am-committed-to-give-what-i-am-meant-to-give-i-am-committed-because-i-am-part-of-life-i-am-part-of-life-because-i-am-one-with-knowledge.md`** — Ich verpflichte mich, zu lernen, wie man lernt. Ich verpflichte mich, das zu geben, was ich geben soll. Ich verpflichte mich, weil ich Teil des Lebens bin. Ich bin Teil des Lebens, weil ich eins mit dem Inneren Wissen bin.

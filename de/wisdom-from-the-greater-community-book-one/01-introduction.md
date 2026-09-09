@@ -6,7 +6,7 @@ title: "Einleitung"
 type: introduction
 source_url: "https://newmessage.org/the-message/volume-6/wisdom-greater-community-book-1/introduction/"
 language: de
-translation_of: "../../wisdom-from-the-greater-community-book-one/01-introduction.md"
+translation_of: "wisdom-from-the-greater-community-book-one/01-introduction.md"
 ---
 
 # Einleitung

@@ -6,7 +6,7 @@ title: "Ich bin jetzt ohne Inneres Wissen."
 type: chapter
 source_url: "https://newmessage.org/the-message/volume-3/steps-knowledge/step-1-i-am-without-knowledge-now/"
 language: de
-translation_of: "../../steps-to-knowledge/002-step-1-i-am-without-knowledge-now.md"
+translation_of: "steps-to-knowledge/002-step-1-i-am-without-knowledge-now.md"
 ---
 
 # Ich bin jetzt ohne Inneres Wissen.
