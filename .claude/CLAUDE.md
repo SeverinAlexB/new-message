@@ -12,7 +12,7 @@ Use the lookup files before scanning raw source text.
 |---|---|
 | `README.md` | Human-facing source policy, navigation and citation conventions. |
 | `index.md` | Canonical inventory for the four Allies books and New Message Volumes 0-7. Start here for broad navigation. |
-| `<book-folder>/index.md` | Complete chapter or section list for one book. |
+| `en/<book-folder>/index.md` | Complete chapter or section list for one book. |
 | `GLOSSARY.md` | Source-backed guide to specialized Allies terminology. Start here for term-definition questions. |
 
 ## Generated Corpus Scope
@@ -127,3 +127,8 @@ Useful validation checks:
 - Keep filenames kebab-case and order-prefixed (`00-`, `001-`, `002-`, etc.).
 - Use the books' own terminology when discussing content.
 - Be precise about whether a claim is explicitly stated, absent from searched text, or an interpretation.
+
+
+## Languages
+
+The original corpus in English is stored in the `en/` folder. Other translations like `de/` are in their own language folder.
