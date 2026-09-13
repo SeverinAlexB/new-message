@@ -1,0 +1,240 @@
+---
+volume: 5
+book: "Die außerirdische Intervention"
+chapter: "05"
+title: "Das Problem menschlicher Verleugnung"
+type: chapter
+source_url: "https://newmessage.org/the-message/volume-5/the-alien-intervention/the-problem-of-human-denial/"
+received_date: "9. April 2000"
+received_location: "Boulder, Colorado"
+language: de
+translation_of: "../../en/V5B04_the-alien-intervention/05-the-problem-of-human-denial.md"
+---
+
+# Das Problem menschlicher Verleugnung
+
+<a id="p1"></a>Viele Menschen werden beim Lesen der Briefings der Verbündeten der Menschheit Angst bekommen. Sie werden den Text so lesen, als hielten sie ihn für wirklich und echt – was er ist –, werden sich fürchten und zurückziehen wollen. Sie werden ihn auf irgendeine Weise verleugnen wollen.
+
+<a id="p2"></a>In gewisser Hinsicht legt das Material der Verbündeten der Menschheit eure Schwächen offen. Es ruft eure Stärke, eure inhärente Weisheit und das Innere Wissen auf – den Geistigen Verstand in euch. Doch es zeigt zugleich eure Schwächen: eure Verwundbarkeit, eure mangelnde Kontrolle über euer eigenes Bewusstsein, eure ungeschützten Grenzen zum Weltraum, eure Annahmen und Beschäftigungen und insgesamt eure Unkenntnis des Lebens im Universum.
+
+<a id="p3"></a>Hier müsst ihr euch fragen, ob die Menschheit jemals intelligentem Leben von jenseits ihrer Welt begegnen wird. Und wenn es geschieht: Wie wird die Menschheit reagieren? Wie wird sie erkennen, ob ihre neuen Besucher freundlich sind? Wie wird sie die Motive und das Bewusstsein der Besucher, ihre Organisation und ihre Methoden unterscheiden können?
+
+<a id="p4"></a>Wenn ihr diese Fragen ernsthaft bedenkt, werdet ihr erkennen, dass ihr nur sehr wenige Antworten besitzt. Ohne Antworten werdet ihr vielleicht Angst bekommen. Ihr werdet eure eigene Verwundbarkeit empfinden und spüren, wie unvorbereitet die Menschen auf eine solche Begegnung wirklich sind.
+
+<a id="p5"></a>Die meisten Menschen glauben noch immer, sie seien im Universum allein, seien es immer gewesen und würden es immer bleiben. Daher wird diese bedeutende Reihe von Fragen nur von sehr wenigen erwogen. Selbst jene, die darüber nachdenken, stellen sich das Leben im Universum, seine Gaben an die Menschheit und deren möglichen Gewinn aus einer Begegnung oft sehr romantisch vor. Sie denken daran, wie sehr sich die Besucher für menschliche Kunst und Kultur, Geschichte und Wesensart interessieren werden.
+
+<a id="p6"></a>Selbst unter den sehr wenigen Menschen, die diese Fragen wirklich bedenken und für wichtig halten, gibt es daher häufig viele romantische Spekulationen. Die Menschen fürchten sich davor, das Leben im Universum realistisch zu betrachten, weil dies ihre Schwächen offenlegt. Damit meinen Wir nicht euren Mangel an Technologie, sondern euren Mangel an Bewusstsein und Ausrichtung im Leben sowie den fehlenden gesellschaftlichen Zusammenhalt in euren Nationen und Kulturen.
+
+<a id="p7"></a>Die Menschheit ist gespalten und liegt mit sich selbst im Streit. Das macht euch für äußere Kräfte verwundbar. Tatsächlich reicht eure Verwundbarkeit noch darüber hinaus, denn sie betrifft euren Geisteszustand, eure Sicht auf euch selbst und eure Welt sowie eure Annahmen, Illusionen und Beschäftigungen.
+
+<a id="p8"></a>Es ist, als würde sich ein großer Sturm zusammenbrauen und dies schon seit einiger Zeit tun, während die Menschen nicht darauf achten. Wenn er dann losbricht, trifft er sie mit solcher Wucht und Gewalt. Die Menschen werden vollkommen überrascht, empört und verängstigt. Dabei waren die Zeichen vorhanden.
+
+<a id="p9"></a>Selbst die menschliche Wissenschaft beginnt nun, die weite Verbreitung von Leben im Universum als theoretische Wahrscheinlichkeit anzuerkennen. Doch wer befasst sich damit, was eure ersten großen Begegnungen bedeuten könnten?
+
+<a id="p10"></a>Wenn die Briefings der Verbündeten veröffentlicht werden, wird es alle Arten von Verleugnung, Kritik und Zurückweisung geben. Warum? Warum wird eine Begegnung, die im Grunde alle für sehr gut möglich halten, so stark abgelehnt? Sobald sie jedoch tatsächlich beschrieben wird, werdet ihr sehr viel Verleugnung erleben. „Ungeheuerlich! Lächerlich! Das kann nicht geschehen!“ Ihr werdet Wissenschaftler sagen hören: „Nun, angesichts der Grenzen von Reisen und Geschwindigkeit und so weiter ist es keiner anderen Rasse möglich, hierherzugelangen.“
+
+<a id="p11"></a>Wie anmaßend! Wagen Menschen wirklich vorauszusetzen, was andere Nationen und Kulturen über lange Zeit entwickeln konnten? Ist das Universum durch das menschliche Verständnis begrenzt? Könnten andere Rassen menschliche technologische Leistungen nicht weit übertroffen haben?
+
+<a id="p12"></a>Ihr mögt sagen: „Natürlich!“ Doch angesichts der Aussicht auf eine wirkliche Begegnung schlagen Menschen einen ganz anderen Ton an. Ihr Idealismus verlässt sie. Ihre romantischen Vorstellungen geraten ins Wanken. Ihre herrlichen Erwartungen werden von Sorge und Unruhe überschattet.
+
+<a id="p13"></a>Wenn die Botschaft der Verbündeten der Menschheit vorgelegt wird, beginnen die Menschen daher, den eigentlichen Kern ihrer Angst, ihre mangelnde Vorbereitung und die Schwäche ihrer Lage zu spüren. Die Verbündeten geben eine sehr realistische Sicht auf das Leben im Universum. Sie sind nicht hier, um jede eurer Fragen zu beantworten, sondern um euch bewusst zu machen, was heute wirklich in der Welt geschieht, und viele der fantastischen Spekulationen über eine Begegnung der Menschheit mit anderen Formen intelligenten Lebens zu zerstreuen.
+
+<a id="p14"></a>Selbst fantastische, hoffnungsvolle Erwartungen tragen in ihrem Kern Angst, weil ihr unsicher seid, nicht wisst und unvorbereitet seid. In einem Augenblick ehrlichen Erkennens wird euch bewusst, wie verwundbar ihr wirklich seid: Ihr lebt an der Oberfläche eurer Welt, dem Universum ausgesetzt und ungeschützt.
+
+<a id="p15"></a>Stellt euch einen Augenblick vor, ihr wäret eine andere Rasse, die eure Welt besucht und menschliches Verhalten einfach nur beobachten wollte, ohne einzugreifen. Ihr könntet auf alles hinabblicken. Alles läge offen: menschliche Aktivitäten, Verbindungen, Konflikte, Beziehungen, Technologie und Kommunikation. Dem umsichtigen Beobachter steht alles zur Verfügung.
+
+<a id="p16"></a>Deshalb ist es sehr wichtig zu verstehen, warum Menschen Angst haben. Die Angst vor der Wirklichkeit des Kontakts sitzt tief. Viele Menschen besitzen die verherrlichende Vorstellung, sie stünden an der Spitze von Gottes Schöpfung und ihre Religionen beruhten auf der Vorrangstellung menschlicher Spiritualität und Identität. Was wird geschehen, wenn sie erfahren, dass die Menschheit nur eine kleine Rasse ist, die sich in einer Größeren Gemeinschaft intelligenten Lebens entwickelt? Und dass diese Rasse in der Weite der Schöpfung tatsächlich sehr schwach, gespalten und unbedeutend ist!
+
+<a id="p17"></a>Die religiösen Ansichten der Menschen können eine solche Erkenntnis nicht ertragen. Viele davon werden bereits durch wissenschaftliche Entdeckungen erschüttert, die zeigen, dass sich das Universum nicht um diese Welt dreht und diese Welt nur ein kleiner Planet ist, der in einer gewaltigen Galaxie unter vielen einen unbedeutenden Stern umkreist. Wo bleibt dann die menschliche Vorrangstellung? Wer seid ihr im Universum? Seid ihr wirklich für irgendjemanden oder irgendetwas von Bedeutung?
+
+<a id="p18"></a>Wir stellen diese Fragen, um euch zum Kern eurer Unruhe zu führen, denn ihr müsst euch ihr in euch selbst stellen. Die Unfähigkeit oder Weigerung dazu ist die eigentliche Quelle aller menschlichen Unwissenheit und Anmaßung hinsichtlich des Platzes der Menschheit im Universum und der Wirklichkeit der außerirdischen Intervention, die heute in der Welt stattfindet.
+
+<a id="p19"></a>Menschen sagen: „Hier findet doch keine Intervention statt. Wie lächerlich! Das ist alles nur die Fantasie bestimmter Menschen und entspringt ihrem Bedürfnis nach Aufmerksamkeit, ihrer Langeweile oder etwas Ähnlichem.“ Was hört ihr darin anderes als eine Ausrede? Auf diese Weise beruhigt man sich selbst und muss keine wirkliche Unruhe empfinden.
+
+<a id="p20"></a>Wenn ihr dies vernünftig und objektiv erwägen könntet, würdet ihr sagen: „Natürlich würden wir irgendwann besucht! Wenn es im Universum intelligentes Leben gibt, muss dort draußen jemand wissen, dass wir hier existieren.“ Wenn ihr euch nicht von den Grenzen der menschlichen Wissenschaft beschränken lasst, öffnet dies die Tür zu sehr viel mehr Möglichkeiten.
+
+<a id="p21"></a>Wenn ihr diese Fragen stellen könnt, werdet ihr vielleicht denken: „Ja, natürlich wird die Menschheit anderen begegnen. Ja, unsere Ressourcen werden genau untersucht werden. Ja, unsere Welt wird bewertet werden. Ja, es gibt andere Mächte im Universum, die vielleicht wollen, dass unsere Welt Teil ihrer Organisation wird. Und ja, sie würden diesen schönen Ort auf irgendeine praktische Weise ausnutzen wollen.“
+
+<a id="p22"></a>Diese Feststellungen sind so offenkundig. Diese Spekulationen, wenn man sie so nennen kann, sind so vernünftig. Doch die Menschen wollen sie nicht erwägen und sich ihnen aus Unruhe und Angst nicht stellen.
+
+<a id="p23"></a>Tatsächlich stellen die Wirklichkeit des Lebens im Universum, die Begegnung damit und die Intervention gemeinsam die heute am stärksten verleugnete Wirklichkeit der Welt dar. Menschen werden denken: „Das ist nicht wichtig. Ich habe meine Arbeit. Ich habe meine Familie und meine täglichen Probleme. Warum sollte das für mich eine Rolle spielen?“
+
+<a id="p24"></a>Wovon redet ihr? Wenn in der Welt eine Intervention stattfindet, glaubt ihr dann, sie sei für euch, euer Leben und das, was euch geschehen wird, ohne Bedeutung?
+
+<a id="p25"></a>Seht ihr es? Das ist „isolationistisches Denken“. Die Briefings der Verbündeten führen euch vor Augen, dass die Isolation der Menschheit beendet ist. Doch das isolationistische Denken besteht unvermindert fort. Wenn ihr keine unmittelbare Begegnung mit Kräften der Größeren Gemeinschaft habt, die euer Leben auf irgendeine Weise stört oder erschüttert, werdet ihr einfach weiterhin so denken wie immer. Ihr werdet auf Grundlage derselben Annahmen leben und die größeren Wirklichkeiten nicht wahrnehmen, die euer Leben und eure Bestimmung formen.
+
+<a id="p26"></a>Wie kann Gott euch erreichen und sagen, dass ihr wachsam und aufmerksam werden und auf diese größeren Wirklichkeiten antworten müsst, die euer Leben und eure Bestimmung verändern?
+
+<a id="p27"></a>Die Menschen mögen die Vorstellung eines Gottes dort draußen, der ihnen einen Rettungsring zuwirft, wenn sie ertrinken. Doch dass Gott in ihr Leben eingreift und ihnen etwas zeigt, das sie wirklich nicht sehen wollen – das ist eine echte Glaubensprüfung, nicht wahr? Genau das geschieht heute.
+
+<a id="p28"></a>Deshalb ist die Lehre der Spiritualität der Größeren Gemeinschaft in der Welt: Sie ist Gottes Botschaft, um die Menschheit auf diese größere Wirklichkeit aufmerksam zu machen und sie vorzubereiten. Bewusstsein allein genügt nicht. Wenn es vor allem Unruhe und Angst auslöst, werden die Menschen nicht wissen, was sie tun sollen. Sie werden sagen: „O mein Gott! Was sollen wir tun?“ Und sie wissen es nicht, weil sie noch nie unmittelbar darauf reagieren mussten.
+
+<a id="p29"></a>Darum bringt Gottes Botschaft auch die Vorbereitung mit sich, damit die Menschen beginnen können, so zu denken, wie es dem Leben in einer Größeren Gemeinschaft entspricht. Dann können sie sich der dort draußen bestehenden Wirklichkeiten der Größeren Gemeinschaft bewusst werden, die unmittelbare Auswirkungen auf sie, ihr Leben und ihre Welt haben werden.
+
+<a id="p30"></a>Die Vorbereitung muss euch dieses umfassendere Bewusstsein und diese Sensibilität vermitteln. Sonst gleicht ihr einer Ameisenkolonie auf einem Feld, das bald umgepflügt wird. Die arme Kolonie ahnt nicht, was ihr bevorsteht. Bis zum Augenblick ihrer Vernichtung wird das Leben so weitergehen wie immer.
+
+<a id="p31"></a>Doch ihr seid keine Ameisen, und ihr besitzt Bewusstsein. Ihr könnt die Zukunft bedenken und über Dinge nachdenken, die außerhalb eures sichtbaren Bereichs liegen. Ihr könnt euch als Bewohner einer größeren Arena des Lebens betrachten – innerhalb der Welt ebenso wie jenseits von ihr in einer Größeren Gemeinschaft.
+
+<a id="p32"></a>Wenn ihr dieses Bewusstsein der Größeren Gemeinschaft entwickelt, beginnt ihr zu erkennen, dass eure Welt ein ganz besonderer Ort mit wunderbaren Eigenschaften ist. Vielleicht denkt ihr dann: „Natürlich würden andere sich für unseren Planeten interessieren. Und für uns – nicht weil wir großartig sind, sondern weil wir die Hüter dieses Ortes sind. Wir kontrollieren diese Welt.“ So würdet ihr beginnen, eure Lage hier sehr, sehr objektiv zu betrachten.
+
+<a id="p33"></a>Doch selbst Menschen, die für sich eine objektive und wissenschaftliche Sicht beanspruchen, werden in Wirklichkeit noch von dieser grundlegenden Angst und Unruhe beherrscht. Auch sie leben unter der allgemeinen Verleugnung der Tatsache, dass die Welt besucht wird und die Intervention stattfindet. Ihre Verleugnung geht so weit, dass sie dies nicht einmal erwägen und sich dem Thema nicht nähern. Informationen und Belege finden sich überall, aber sie gehen nicht darauf ein. Sie sagen einfach: „Nein, nein. Das ist alles Unsinn. Das sind nur unsichere Menschen, die Aufmerksamkeit suchen.“
+
+<a id="p34"></a>Sie befinden sich in Verleugnung. Sie halten sich für vernünftig, verhalten sich aber tatsächlich höchst unvernünftig. Sie stützen und festigen ihre eigene Unwissenheit und die anderer. Und selbst wenn sie nicht akzeptieren können, dass die Intervention stattfindet, bleibt die Aussicht auf Leben im Universum für sie eine wundersame, romantische Reise – etwas, wovon man sich in den herrlichsten Bildern träumt. „O, wir werden diesen fortgeschrittenen Rassen begegnen, die uns so viel Technologie geben und uns zeigen werden, wie wir in Frieden leben können und so weiter.“ Das ist alles töricht. Sie haben nicht die geringste Ahnung, was dort draußen im Universum geschieht.
+
+<a id="p35"></a>Wenn diesen vermeintlich vernünftigen Menschen eine Perspektive der Größeren Gemeinschaft vermittelt wird, wie sie die Lehre der Spiritualität der Größeren Gemeinschaft bietet, berührt das den Kern ihrer Angst und Unruhe. In diesem Augenblick spüren sie, wie vollkommen verwundbar, ungeschützt und unvorbereitet sie sind. Ihr seht die Menschen an, und sie haben keine Ahnung. Und sie wollen auch keine haben. Ihr betrachtet eure Welt und sagt: „O mein Gott! Wir könnten überwältigt werden, ohne es überhaupt zu bemerken!“
+
+<a id="p36"></a>Wenn ihr nicht über die Vorbereitung in der Spiritualität der Größeren Gemeinschaft verfügen würdet, wenn dieses Bewusstsein euch keinen Weg eröffnete, könnte es euch überwältigen, weil ihr glauben würdet, keine Handlungsmöglichkeit zu besitzen. Es wäre, als wartete die Menschheit wie ein ahnungsloser indigener Stamm nur darauf, von jemand anderem übernommen zu werden.
+
+<a id="p37"></a>Hinzu kommt natürlich die problematische Annahme, Technologie bedeute Erlösung. In vielen Kulturen der Welt entwickelt sich dies zu einer modernen Religion. Entwickelte Nationen glauben zunehmend, Technologie sei nun wirklich ihre Rettung. Gibt es ein Problem? Die Technologie wird es lösen. Gibt es etwas, das wir nicht verstehen? Die Technologie wird es überwinden. Könnte eine Lage entstehen, auf die wir nicht vorbereitet sind? Die Technologie wird der Herausforderung gewachsen sein.
+
+<a id="p38"></a>„In letzter Minute werden wir die Herausforderung mit unserer Technologie bewältigen.“ Es herrscht eine Art ungeprüfter Glaube, Technologie werde euch retten, was auch immer geschehen mag – Technologie in Verbindung mit menschlichem Erfindungsreichtum. Wie überwältigend eine Lage auch sein mag: Erfindungsreichtum und Technologie werden am Ende den Sieg davontragen.
+
+<a id="p39"></a>Seht ihr, dass all dies zur Verleugnung gehört? Es ist Wunschdenken. Im Hinblick auf die Größere Gemeinschaft ist es wirklich Wunschdenken. Glaubt ihr, die Menschheit werde eine technologische Antwort auf die Anwesenheit von Kräften der Größeren Gemeinschaft hervorbringen, die euren Planeten womöglich für sich selbst wollen?
+
+<a id="p40"></a>Wir können euch versichern, dass ihr dieser Anwesenheit und diesen Einflüssen nicht auf der Ebene der Technologie entgegenwirken könnt. Glaubt ihr, gegenüber einer Rasse, die euch technologisch vielleicht tausend Jahre voraus ist, könntet ihr in den nächsten wenigen Jahren den Abstand aufholen?
+
+<a id="p41"></a>Bedenkt dies: Die Antwort wird nicht auf der Ebene der Technologie entstehen, sondern auf der Ebene des Verstandes und des Bewusstseins. Jene, die heute in der Welt intervenieren, sind sehr darauf bedacht, die Ressourcen der Welt und die Menschen hier als Arbeitskräfte zu erhalten. Das können sie nicht allein mit Technologie erreichen.
+
+<a id="p42"></a>Ihre Technologie ist zwar nützlich, um jemanden außer Gefecht zu setzen, den sie für Untersuchungen an sich nehmen wollen. Würden sie ihre Technologie jedoch gewaltsam gegen eure Welt einsetzen, würden sie deren Ressourcen und die menschliche Präsenz hier zerstören. Das können sie nicht tun. Daher müssen sie genau jene Mittel einsetzen, denen ihr entgegenwirken könnt.
+
+<a id="p43"></a>Doch hier stoßen Wir erneut auf Angst. Denn ohne ihre Technologie, ohne Hoffnung und Glauben an deren rettenden Sieg und ohne die Aussicht, dass der menschliche Intellekt das Problem lösen kann, fühlen sich die Menschen wieder vollkommen verwundbar. Wir sprechen hier jedoch nicht vom Intellekt.
+
+<a id="p44"></a>Nicht auf seiner Ebene wird die Menschheit dieser Präsenz entgegenwirken und sich in der Größeren Gemeinschaft stärken können. Für Technologie und bestimmte Arten der Problemlösung spielt der Intellekt eine sehr wichtige Rolle. Doch in dieser Lage ist ein tieferes Bewusstsein erforderlich.
+
+<a id="p45"></a>Schließlich verleugnen einige eurer intellektuell brillantesten Menschen die Intervention vollständig und halten Leben im Universum für eine weit entfernte Möglichkeit. Ihr fragt euch: „Wenn sie so brillant und so gut informiert sind, warum können sie diese Präsenz heute in der Welt nicht spüren? Warum können sie der Möglichkeit nicht einmal ins Auge sehen und die Belege untersuchen, statt sie kurzerhand abzutun? Wenn Menschen so klug sind, wie können sie dann so dumm sein?“
+
+<a id="p46"></a>Unwissenheit ist eine Sache. Sie kann durch Informationen und eine neue Perspektive ausgeglichen werden. Doch dies ist nicht bloß Unwissenheit, sondern Arroganz: die Annahme, ihr wüsstet, wie das Leben im Universum beschaffen ist. O mein Gott! Die Menschheit weiß, wie das Leben im Universum beschaffen ist? O mein Gott! Die Menschheit ist davon so weit entfernt, dass es erbärmlich ist.
+
+<a id="p47"></a>Aufgrund des unbegründeten Glaubens an Technologie als Quelle menschlicher Erlösung meinen viele Menschen, mehr Technologie bedeute mehr Erlösung. Sie glauben, technologisch fortgeschrittene Rassen hätten Eigennutz, Streitlust und Hinterlist hinter sich gelassen. Sie glauben, solche Rassen hätten keine Konflikte mehr und die chronischen Probleme überwunden, mit denen die Menschheit noch immer ringt. Was für eine lächerliche Annahme. Ihr besitzt heute Technologie, die sich eure Vorfahren vor hundert Jahren nicht einmal vorstellen konnten. Habt ihr selbst diese Probleme etwa überwunden?
+
+<a id="p48"></a>Erwartet daher nicht, dass die Experten euch die Antwort geben. Ihr müsst sie selbst finden, denn die Experten wissen sie vielleicht nicht und wollen sie womöglich auch nicht wissen. Denkt daran: Sie sind Menschen wie ihr und haben ihre eigenen Grenzen dessen, wie viel Angst und Unruhe sie zu ertragen bereit sind.
+
+<a id="p49"></a>In gewisser Hinsicht ist die Intervention das Herausforderndste, was der Menschheit geschehen könnte. Ein Teil ihrer Anfälligkeit und Schwäche liegt in der Annahme, sie verstehe das Leben wirklich, wisse, was im Universum geschieht, und begreife, wer reisen kann, wer nicht und wie lange die Reise zu Planeten dauert. Sie nimmt an, menschliches Verständnis setze den Maßstab für alles Verständnis im Universum. Das ist menschliche Arroganz, die menschliche Unwissenheit stützt und festigt.
+
+<a id="p50"></a>Die Lehre der Spiritualität der Größeren Gemeinschaft und die Botschaft der Verbündeten der Menschheit erklären sehr deutlich, dass das Leben im Universum anspruchsvoll, schwierig und von Wettbewerb geprägt ist. Wenn ihr euch ihm mit romantischen Vorstellungen nähert oder es vollständig verleugnet, geht ihr damit ein großes Risiko ein.
+
+<a id="p51"></a>Was hier wirklich geschehen muss, ist ein grundlegender Wandel des menschlichen Bewusstseins und Lernens. Es ist, als hättet ihr diese große Schwelle erreicht, an der ein völlig neues Verständnisparadigma erforderlich wird. Ihr baut nicht einfach auf früherem Verständnis auf und fügt dem menschlichen Bewusstsein ein weiteres Merkmal oder eine weitere Dimension hinzu. Ihr müsst hier vielmehr eine Art Sprung vollziehen. Denn das menschliche Verständnis wurzelt noch immer tief in einer anthropozentrischen Sicht des Universums, mit der Menschheit im Mittelpunkt von allem und dem ungeprüften Glauben, das Leben im Universum folge menschlichen Werten und Idealen.
+
+<a id="p52"></a>Viele Menschen hegen noch immer die Vorstellung, Gott befasse sich vor allem mit der Menschheit als Mittelpunkt der Schöpfung und alles andere sei lediglich die Kulisse für dieses große menschliche Drama. Betrachtet eure Religionen. Sind sie wirklich dafür gerüstet, mit den Wirklichkeiten der Größeren Gemeinschaft umzugehen?
+
+<a id="p53"></a>Lasst Mich euch einen Vergleich geben: In den vergangenen fünfhundert Jahren wurden an zahllosen Orten eurer Welt indigene Stämme überwältigt und Kulturen assimiliert und zerstört. Das geschieht noch heute. Sie besitzen ihre Religionen, die sehr umfassend sein können. Doch gewöhnlich schließen diese Religionen die Wirklichkeit menschlichen Lebens jenseits ihrer Grenzen nicht ein. Das versetzt sie in eine äußerst verwundbare Lage, weil sie angesichts einer Intervention nicht wirklich wissen, wie sie reagieren sollen.
+
+<a id="p54"></a>Im Vergleich zur Größeren Gemeinschaft gleicht der Außenposten der Menschheit in dieser Welt einem kleinen Dorf im Dschungel. Was kann dieses Dorf tun, wenn es mit Kräften konfrontiert wird, die kommen, um sich Vorteile zu verschaffen? Interessanterweise kann es tatsächlich sehr viel tun.
+
+<a id="p55"></a>Als Erstes muss es sich der Intervention bewusst werden und sich der eigenen Angst und Unruhe stellen. Hier müsst ihr erkennen, wie schlecht vorbereitet und verwundbar ihr seid und wie leicht sogar ihr dazu gebracht werden könntet, zu denken und zu glauben, die Besucher seien zu eurem Nutzen hier. Dies ist die erste Schwelle – eine Schwelle, die leider viele Menschen nicht überschreiten werden. Sie werden sich zurückziehen, in Verleugnung flüchten oder die ganze Angelegenheit durch den Filter ihrer bevorzugten Sichtweise betrachten. Die erste Schwelle besteht darin, eure Lage zu erkennen. Selbst wenn die Intervention jetzt nicht stattfände, wisst ihr, dass sie irgendwann stattfinden würde.
+
+<a id="p56"></a>Seht, es ist bemerkenswert: Menschen hegen großartige Vorstellungen von intelligentem Leben im Universum, fortgeschrittener Technologie und anderen Rassen selbstloser Wesen, die dort draußen umherschweben. Am meisten fürchten sie jedoch, anderen wie ihnen selbst zu begegnen – nur mächtiger. Was fürchten die Menschen an einer Begegnung mit intelligentem Leben von jenseits der Welt wirklich? Sie fürchten, sich selbst zu begegnen, vielleicht in anderer Gestalt.
+
+<a id="p57"></a>Vielleicht sehen die Besucher anders aus, sprechen eine andere Sprache und verwenden andere Kommunikationsmittel. Doch was die Menschen wirklich fürchten und worüber besonders in vermeintlich aufgeklärten Kreisen niemand sprechen kann, ist die Wirklichkeit, dass sie sich selbst begegnen werden.
+
+<a id="p58"></a>Damit soll nicht gesagt sein, eure Besucher seien Menschen oder intelligentes Leben funktioniere nach menschlichen Idealen und Überzeugungen. Was Wir euch hier tatsächlich sagen und womit ihr euch auseinandersetzen müsst, ist: Ihr werdet Wesen begegnen, die von denselben Bedürfnissen angetrieben werden wie ihr.
+
+<a id="p59"></a>Die Größere Gemeinschaft des Lebens, in der ihr lebt, ist ein Umfeld starken Wettbewerbs. Diesen Wettbewerb könnt ihr in eurer eigenen Welt und in der Natur beobachten, auf der Ebene der Pflanzen und Tiere.
+
+<a id="p60"></a>Doch die Größere Gemeinschaft ist in einem Ausmaß von Wettbewerb geprägt, das ihr nicht einmal begreifen könnt. Das bedeutet: Alle in diesem Umfeld – besonders jene, die aktiv an Handel und Wirtschaft teilnehmen – müssen Ressourcen finden, Bündnisse mit anderen Nationen eingehen und häufig versuchen, diese Nationen zum Eintritt in solche Bündnisse zu bewegen.
+
+<a id="p61"></a>Der Bedarf an Ressourcen endet nicht durch Technologie. Technologie beseitigt die grundlegenden Bedürfnisse des Lebens nicht. Das hat sie weder für euch noch für irgendjemanden im Universum getan. Sie befreit euch zwar von bestimmten grundlegenden Tätigkeiten, erzeugt aber mehr Komplexität. Ihr müsst vielleicht nicht hinausgehen, um eure Nahrung zu jagen, zu fischen oder anzubauen, doch ihr müsst arbeiten gehen. Um euch die benötigte Nahrung leisten zu können, müsst ihr ein sehr viel komplizierteres Leben aufrechterhalten.
+
+<a id="p62"></a>Technologie hat euch vom Jagen und Sammeln sowie von einfacher Landwirtschaft befreit, nicht aber vom Bedarf an Ressourcen. Sie hat euer Leben tatsächlich komplizierter und aufregender gemacht, in anderer Hinsicht jedoch auch schwieriger und belastender.
+
+<a id="p63"></a>Mit dem Leben im Universum verhält es sich ebenso. Alle müssen essen. Alle müssen erhalten, was sie geschaffen haben. Alle müssen mit anderen Formen intelligenten Lebens umgehen, die möglicherweise um grundlegende Ressourcen konkurrieren. Glaubt ihr, eine fortgeschrittene Nation im Universum hätte keinen großen Ressourcenbedarf?
+
+<a id="p64"></a>Je größer Nationen oder Organisationen werden, desto stärker werden sie gewöhnlich die persönliche Freiheit ihrer Angehörigen einschränken und desto größer wird ihr Bedarf an Ordnung und Konformität. Deshalb sind die wirklich freien Nationen im Universum klein und isoliert. Ihre Technologie verschafft ihnen Vorteile, doch sie müssen sie schützen und verborgen halten.
+
+<a id="p65"></a>Es wäre, als bekämet ihr eine Million Dollar und ginget damit auf den Markt. Was für ein böses Erwachen: Plötzlich sind alle eure Freunde. Alle wollen euch dazu einladen, in ihr Vorhaben oder Projekt zu investieren, oder benötigen eure finanzielle Hilfe, weil sie in Schwierigkeiten sind.
+
+<a id="p66"></a>Sollte die Menschheit jemals über ihre Grenzen hinaus reisen und ihren großen Tatendrang und Unternehmungsgeist ins Universum tragen können, wäre sie wie eine einfache Hausfrau, die mit einer Million Dollar auf den Markt geht. Ihr würdet nicht lange bestehen.
+
+<a id="p67"></a>Diese so stark verleugnete Wirklichkeit des Lebens muss angesehen werden. Wem werdet ihr im Universum begegnen? Ihr werdet anderen wie euch begegnen. Sie gleichen euch nicht genau, sehen nicht aus wie ihr, sprechen und kleiden sich nicht wie ihr. Doch in ihren Bedürfnissen gleichen sie euch. Und jene, die das Universum nach Ressourcen erkunden, gehören nicht zu den spirituell Erleuchteten.
+
+<a id="p68"></a>Daher ist es notwendig, vielen vorherrschenden Annahmen und Überzeugungen, Fantasien und Mythen entgegenzuwirken. Sonst könnt ihr euch der Lage nicht stellen, und wenn ihr das nicht könnt, wird sie euch überwältigen.
+
+<a id="p69"></a>Die Menschen beten zu Gott um Führung, Stärke, Mut und Frieden, und Gott sendet die Spiritualität der Größeren Gemeinschaft als Vorbereitung. Die Menschen sagen: „Was ist das? Darum habe ich nicht gebeten! Was soll ich damit anfangen? Das hat keine Bedeutung für mich!“ Ihr wisst nicht, was von Bedeutung ist. Was ihr für bedeutsam haltet, mag euch persönlich wichtig sein, wird aber eure Rechte und Freiheiten in Zukunft nicht schützen.
+
+<a id="p70"></a>Die Begegnung der Menschheit mit intelligentem Leben im Universum ist weder das Ergebnis menschlicher Reisen in den Weltraum noch menschlicher Wissenschaft, Philosophie oder Religion. Sie ist das Ergebnis der Intervention – anderer Rassen, die hierherkommen, um die Welt für sich zu bewahren, weil sie glauben, die Menschheit werde sie in ihren Konflikten zerstören und ihre wertvollen Ressourcen ruinieren.
+
+<a id="p71"></a>Denkt darüber nach. So würden Menschen reagieren. Nehmen wir an, entwickelte Nationen der Welt entdeckten tief im Dschungel einen kleinen Stamm, der auf Tonnen von Gold oder anderen Mineralien säße oder über gewaltige Wälder voller wertvoller Hölzer verfügte. Glaubt ihr, die fortgeschrittenen Nationen würden nicht eingreifen – besonders wenn sie meinten, diese Ressourcen würden verschwendet? Oder angenommen, die Einheimischen fällten alle Bäume, weil sie das Sonnenlicht mögen oder ihre eigene Nahrung anbauen wollen.
+
+<a id="p72"></a>Die Nationen der Welt wären zur Stelle und würden alles tun, um legal oder illegal an die Ressourcen zu gelangen. Genau das würden menschliche Nationen tun. Glaubt ihr, sie würden tatenlos zusehen, wie die Einheimischen verderben oder vernachlässigen, was sie besitzen? Natürlich nicht. Wenn das Land für die mächtigen Nationen wertlos ist, dann mögen die Einheimischen ihr Reservat behalten. Doch wenn darunter Gold im Wert von hundert Millionen Dollar liegt, wäre es kein Reservat mehr.
+
+<a id="p73"></a>So betrachten eure Besucher und andere im Universum eure Welt: als diese kostbare kleine Welt, deren natürliche Ressourcen von einer Rasse vergleichsweise zerstörerischer Wesen vernichtet und deren Naturgesetze von ihnen verletzt werden. Glaubt ihr, das würde keine Intervention hervorrufen? Manche Menschen denken: „Natürlich würden sie kommen, um Erlaubnis zu bitten, hier zu sein, und unsere Nationen und Regierungen würden eine Vereinbarung aushandeln.“
+
+<a id="p74"></a>O mein Gott! Das meint ihr nicht ernst! Stattdessen würden die intervenierenden Rassen einen Plan zur Intervention und Integration aufstellen, denn sie wollen die menschlichen Arbeitskräfte erhalten. Sie können in eurer Welt nicht leben und werden euch die ganze Arbeit verrichten lassen. Lasst die Einheimischen das Gold fördern – genau wie es in eurer Welt geschehen ist. Glaubt ihr, dazu sei ihre Erlaubnis nötig?
+
+<a id="p75"></a>Vielleicht finden sie einen Weg, euch zur Zustimmung zu bewegen, doch sie werden sich nehmen, was sie wollen. In eurer heutigen Lage werden eure Besucher bekommen, was sie wollen, sofern ihr sie nicht aufhaltet. Ihr werdet sie nicht allein durch Technologie aufhalten, sondern durch Intelligenz, Klugheit und Zusammenarbeit innerhalb der Menschheit.
+
+<a id="p76"></a>Der erste Schritt, um der Intervention entgegenzuwirken, ist Bewusstsein. Doch dieses Bewusstsein stellt wegen der Angst, der Unruhe und des gescheiterten Idealismus der Menschen eine sehr hohe Schwelle dar. Könnt ihr euch eurer eigenen Angst stellen? Könnt ihr euch eurer Verwundbarkeit stellen? Könnt ihr der Tatsache ins Auge sehen, dass ihr die Lage vielleicht vollkommen falsch eingeschätzt habt – sofern ihr überhaupt darüber nachgedacht habt? Menschen mögen sagen: „Gut, wir sind uns dessen nun bewusst. Was kommt als Nächstes?“ Ha! Sie sehen nicht, welch großer Schritt dieses Bewusstsein wirklich ist.
+
+<a id="p77"></a>Der nächste Schritt besteht darin, eine Perspektive der Größeren Gemeinschaft für eure Sicht auf euch selbst und eure Welt zu entwickeln. Glaubt ihr, die Menschheit würde die Ressourcen der Welt zerstören, wenn sie erkennen könnte, dass gerade deren Bewahrung und nachhaltige Nutzung die menschliche Freiheit in Zukunft erhalten werden? Wenn die Menschheit ihre Fähigkeit zur Selbstversorgung verliert und von fremden Mächten abhängig wird – nicht nur bei fortgeschrittener Technologie, sondern selbst bei grundlegenden Ressourcen –, werdet ihr eure Freiheit verlieren.
+
+<a id="p78"></a>Vielleicht sagt ihr: „Das glaube ich nicht. Wir würden unsere Freiheit nicht verlieren.“ Doch wenn ihr es objektiv durchdenkt, werdet ihr erkennen, dass ihr sie verlieren würdet. Offenkundig oder unmerklich würdet ihr von anderen Rassen im Universum abhängig werden, und sie würden die Bedingungen der Beziehung festlegen. Sie würden eure Welt kontrollieren.
+
+<a id="p79"></a>Weil sie jedoch keine menschliche Revolution auslösen wollen, werden sie versuchen, eure Welt so zu kontrollieren, dass die Menschen diese Kontrolle hinnehmen können. Deshalb ist die heutige Intervention so hinterlistig und wird über lange Zeit so sorgfältig durchgeführt. Kämen sie mit Gewalt, würden alle reagieren. Es käme zu gewaltigen Kriegen, und die Ressourcen der Welt würden schwer beschädigt. Es gäbe hier keine menschlichen Arbeitskräfte mehr, die bereit oder fähig wären, den intervenierenden Rassen zu helfen, und das ganze Vorhaben wäre zunichtegemacht.
+
+<a id="p80"></a>Ihr müsst eine Perspektive der Größeren Gemeinschaft gewinnen. Ihr seid Menschen, die in dieser Welt leben. Diese Welt ist ungeschützt. Sie ist wertvoll. Andere begehren sie. Die Intervention durch andere Rassen wird mit der Zeit zunehmen. Wie werdet ihr eure Grenzen verteidigen? Wie werdet ihr feststellen können, wer hier ist, warum diese Wesen hier sind und was sie tun? Dies darf kein Privileg geheimer Gruppen und geheimer Regierungen sein.
+
+<a id="p81"></a>Die Menschheit muss erwachsen werden und ihre kindliche Selbstbezogenheit hinter sich lassen. Sie muss ihre jugendlichen Fantasien über sich selbst und das Leben überwinden und realistisch werden. Sonst wird die Intervention fortgesetzt und eure Welt allmählich von fremden Mächten beherrscht werden. Wohin werdet ihr euch dann mit euren Beschwerden, eurem Protest und eurer Empörung wenden? Deshalb ist es entscheidend, dieses Bewusstsein und eine Perspektive der Größeren Gemeinschaft zu gewinnen. Ohne sie könnt ihr nicht einmal den nächsten Schritt vollziehen.
+
+<a id="p82"></a>Der dritte Schritt besteht darin, etwas über die Mentale Umgebung zu lernen. Die Mentale Umgebung ist die Arena der Einflussnahme. Die Menschen wissen sehr wenig darüber, doch bei Interaktionen in der Größeren Gemeinschaft ist sie ausgesprochen wichtig, besonders zwischen Rassen oder Organisationen, die miteinander konkurrieren. Sie müssen viel Zeit darauf verwenden, zu erkennen, was die Gegenseite tun wird, und sie auf subtile Weise zu beeinflussen. Dies geschieht weniger durch Technologie als durch Bewusstsein, Aufmerksamkeit, die Projektion von Gedanken und geschicktes Vorgehen.
+
+<a id="p83"></a>Konkurrenten verfügen im Allgemeinen über dieselbe Technologie; deshalb bietet die Technologie keinen Vorteil. Der Vorteil liegt in Klugheit und Überzeugungskraft. Ihr könnt dies noch nicht erkennen, weil ihr weiterhin so denkt, als lebtet ihr isoliert und als werde das Universum von menschlichen Prinzipien bestimmt. Ihr wollt nicht darüber nachdenken, weil euch bewusst wird, dass ihr diese Fähigkeiten nicht besitzt. Das lässt euch Angst und Verwundbarkeit empfinden. Der dritte Schritt der Vorbereitung besteht daher darin, Fähigkeiten in der Mentalen Umgebung zu entwickeln. Ihr könnt dies tatsächlich lernen, doch zu Beginn braucht ihr das Bewusstsein und eine Perspektive der Größeren Gemeinschaft.
+
+<a id="p84"></a>Das Vierte, was während des gesamten Weges entwickelt werden muss, ist das Innere Wissen. Was ist Inneres Wissen? Wenn Wir davon sprechen, meinen Wir weder eine Perspektive noch Ansammlungen von Informationen oder Daten. Wir sprechen von der Fähigkeit zu wissen – jenseits von Täuschung, äußerem Anschein, persönlichen Vorlieben, Angst und Verleugnung. Von der Fähigkeit zu wissen.
+
+<a id="p85"></a>Die Intervention ist seit fast fünfzig Jahren aktiv. Und jene, die behaupten, das UFO-Phänomen zu untersuchen – wissen sie inzwischen etwas, oder sammeln sie noch immer Daten? „Nun, wir wollen keine voreiligen Schlüsse ziehen. Das ist alles so kompliziert, und vielleicht werden wir es niemals verstehen!“
+
+<a id="p86"></a>Wovon redet ihr? Ist das Verleugnung? Ist es die Weigerung, zu einem Schluss zu kommen? Oder wissen die Menschen es schlichtweg nicht? Können sie nicht sehen und fühlen, worum es sich wirklich handelt? Können sie es nach fünfzig Jahren noch immer nicht sehen und fühlen? Brauchen sie weitere Belege? O mein Gott! Wie viele noch? Belege aus weiteren fünfzig Jahren? Aus hundert Jahren? In weiteren fünfzig Jahren wird alles vorbei sein, und der Schluss, zu dem ihr gelangt, wird vollkommen offensichtlich sein.
+
+<a id="p87"></a>Es ist wie bei jemandem, der seit dreißig Jahren verheiratet ist, obwohl er diese Ehe niemals hätte schließen sollen. Erst nach dreißig Jahren erkennt er, dass er damals einen Fehler begangen hat und seinen tieferen Gefühlen hätte folgen sollen, statt mit diesem anderen Menschen vor den Traualtar zu treten. Doch seit dreißig Jahren versucht er, alles in Ordnung zu bringen.
+
+<a id="p88"></a>Ohne Inneres Wissen werdet ihr nur wissen, was andere euch wissen lassen wollen. Ihr werdet nur denken, was andere euch denken lassen wollen – ob eure Eltern, eure Kultur, eure gesellschaftliche Gruppe, eure Regierung oder die Größere Gemeinschaft. Im Grunde werdet ihr wie Vieh sein und von einer Weide zur nächsten geführt werden.
+
+<a id="p89"></a>Ohne Inneres Wissen erfasst und überwältigt euch die Mentale Umgebung. Das Innere Wissen ist der tiefere Geistige Verstand in euch. Es ist der einzige Teil von euch, den die Mentale Umgebung nicht beeinflusst, und der einzige Teil, der frei von Täuschung und Manipulation ist.
+
+<a id="p90"></a>Wollt ihr Freiheit für euch selbst? Dann müsst ihr den Weg des Inneren Wissens erlernen. Was wäre Freiheit sonst? Mehr Geld zu haben? Weniger zu arbeiten und mehr Geld zu besitzen? Ist das Freiheit? Betrachtet die Wohlhabenden, die keine Freiheit besitzen. Gewiss, sie haben viel Geld und können überallhin reisen. Einige müssen nicht einmal arbeiten. Sind sie frei? Oder sind sie Sklaven ihres Geldes und ihrer Lebensumstände, ihrer Privilegien, Begierden und Ängste?
+
+<a id="p91"></a>In der Botschaft der Briefings der Verbündeten der Menschheit geht es um Freiheit. Um Freiheit zu besitzen, müsst ihr euch der Intervention bewusst werden. Ihr müsst eine Perspektive der Größeren Gemeinschaft gewinnen, etwas über die Mentale Umgebung und ihre Wirkung auf euch lernen und eure Erfahrung des Inneren Wissens entwickeln. Viel Technologie kommt darin nicht vor, auch wenn sie bei all dem eine kleine Rolle spielen mag.
+
+<a id="p92"></a>Wenn Wir davon sprechen, den Weg des Inneren Wissens zu erlernen, meinen Wir nicht, lediglich eure Intuition zu entwickeln. Das genügt nicht. Ihr müsst euch tatsächlich mit dem Wissenden Verstand in euch verbinden, und das ist keine leichte Aufgabe. Viele werden dazu nicht bereit oder nicht fähig sein. Doch nicht alle müssen dies tun, damit die Menschheit das Blatt wenden, ein Bewusstsein der Größeren Gemeinschaft entwickeln und beginnen kann, Grenzen um eure Welt zu errichten.
+
+<a id="p93"></a>Ein Planet wie der eure kann nicht mit Gewalt übernommen werden. Daher muss die Intervention subtil, täuschend und invasiv vorgehen. Sie kann keine rohe Gewalt einsetzen. Das ist gut für euch, denn ihr könntet roher Gewalt nicht standhalten. Zugleich würde rohe Gewalt das angestrebte Ergebnis für die Besucher – sofern man sie Besucher nennen kann – zerstören. Es gibt viele Gründe, weshalb sie darauf verzichten werden.
+
+<a id="p94"></a>Der Schöpfer hat auf dieses große Bedürfnis der Menschheit, das kaum als solches erkannt wird, mit der Lehre der Spiritualität der Größeren Gemeinschaft geantwortet. Diese Lehre umfasst die Wirklichkeit des Lebens in der Größeren Gemeinschaft. Noch nie zuvor wurde eine solche Lehre in der Welt gegeben, weil sie zuvor nicht benötigt wurde.
+
+<a id="p95"></a>Es gibt zwar viele spirituelle Lehren, die den Weg des Inneren Wissens bis zu einem gewissen Grad betonen. Doch ein Weg des Inneren Wissens für die Größere Gemeinschaft wurde der Welt noch nie gegeben. Jetzt braucht ihr ihn. Er wird die Religionen der Welt nicht ersetzen, sondern ihnen einen größeren Umfang, eine umfassendere Perspektive und einen größeren Kontext verleihen, in dem sie weiter wachsen, bestehen und sich entwickeln können.
+
+<a id="p96"></a>Bemerkenswert ist jedoch, dass die religiösen Führer der Welt sich dem Erlernen einer Spiritualität der Größeren Gemeinschaft vielleicht am stärksten widersetzen werden. Um ihre Traditionen, ihre Autorität und ihre Macht zu bewahren, werden sie womöglich genau das verleugnen, was ihrer Tradition eine Zukunft in der Größeren Gemeinschaft geben wird.
+
+<a id="p97"></a>Denn ohne menschliche Freiheit gibt es keine Zukunft. Ohne menschliche Selbstbestimmung gibt es keine Zukunft. Und ohne Verständnis der Größeren Gemeinschaft gibt es hier für niemanden eine Zukunft – jedenfalls keine, die ihr annehmen könntet.
+
+<a id="p98"></a>Ihr müsst erkennen, welche Bedeutung dies für euch hat. Alles, was ihr vom Leben wollt, alles, was ihr sein, tun und besitzen wollt – die Intervention könnte euch all das nehmen. Wollt ihr gedankenlos eure persönlichen Ziele verfolgen, auf alles andere pfeifen und sagen, es spiele keine Rolle?
+
+<a id="p99"></a>Selbst wenn die Intervention nicht stattfände, würden der Verfall eurer natürlichen Ressourcen und die wachsende Weltbevölkerung ohnehin verändern, was euch zur Verfügung steht. Manche Menschen sagen: „Ich werde mir einfach holen, was ich will, und mich um nichts anderes kümmern.“
+
+<a id="p100"></a>Wenn Menschen so denken, gleichen sie Heuschrecken. Fallen sie über ein Land her, verzehren sie alles, was ihnen begegnet. Sie hinterlassen Ödland und ziehen weiter, bis es keinen Ort mehr gibt, an den sie ziehen können; dann sterben sie alle aus. Ist dies die Verheißung menschlichen Fortschritts – Parasiten zu gleichen, die ihren Wirt zerstören und mit ihm sterben?
+
+<a id="p101"></a>Die meisten Menschen würden natürlich sagen: „Gewiss nicht! Auf keinen Fall!“ Doch wenn ihr Verhalten eigennützig ist, trifft dieser Vergleich zu. Interessanterweise betrachten die Intervenierenden in eurer Welt die Menschheit als eine Art zerstörerische Kraft, die diesen wunderbaren Ort vernichten wird. Ihre Haltung lautet: „Wir werden dort hineingehen und sie aufhalten. Wenn sie ihre Welt nicht richtig nutzen und erhalten können, werden wir sie eben für uns bewahren. Sie können für uns arbeiten.“
+
+<a id="p102"></a>Genau so denken sie. Das ist ihre Perspektive. An ihrer Stelle würdet ihr ebenso denken. Selbst bei all dem großen Idealismus der Menschheit würdet auch ihr sagen: „Wir werden nicht zulassen, dass sie diesen Ort zerstören! Wenn sie keinen Nutzen daraus ziehen können, werden wir es tun!“ Genau so würde eine menschliche Regierung reagieren. Vielleicht würdet ihr persönlich ebenso reagieren.
+
+<a id="p103"></a>Die Intervenierenden sind nicht böse. Sie betrachten die Lage lediglich aus einer bestimmten Perspektive. Sie werden weder vom Inneren Wissen noch von Spiritualität geleitet, sonst würden sie hier nicht intervenieren.
+
+<a id="p104"></a>Es gibt Menschen in der Welt, die die Intervention wünschen, weil sie glauben, die außerirdischen Rassen hier würden die Menschheit irgendwie vor sich selbst retten. Sie vertreten dieselbe Sichtweise wie die außerirdischen Rassen. Manchmal gelangen sie aus sich selbst heraus zu diesem Schluss, manchmal wird dieses Denken durch die Intervention gefördert. Das Ergebnis ist jedoch dasselbe: der Verlust menschlicher Freiheit und Selbstbestimmung, und dieser Verlust wird nahezu vollständig sein. Wenn ihr darüber nachdenkt, werdet ihr erkennen, dass dies für euch das schlimmstmögliche Szenario ist.
+
+<a id="p105"></a>Deshalb stellt der Schöpfer die Vorbereitung auf die Größere Gemeinschaft bereit. Deshalb muss sie erlernt und zu Herzen genommen und dieses Bewusstsein gewonnen werden.
+
+<a id="p106"></a>Die Menschen müssen sich ihrer Angst und Unruhe stellen und die Lage erkennen, in der sie sich befinden. Sie müssen neu verstehen, wo sie im Universum stehen und welche Rolle und Verantwortung sie als einheimische Bevölkerung und Hüter dieser Welt tragen. Sie müssen die Macht ausüben, die sie einzeln und gemeinsam besitzen, um ihr eigenes angestammtes Gebiet zu bewahren.
+
+<a id="p107"></a>Euer spirituelles Verständnis muss sich wandeln, damit ihr erkennt, was Gott der Menschheit gegeben hat, um den Fortschritt menschlicher Freiheit, menschlichen Verständnisses und menschlicher Zusammenarbeit zu bewahren. Im Universum müssen diese Dinge verteidigt werden. Ihr müsst erkennen, dass ihr über eure Fantasien und Ideale, selbst über eure Forderungen und Erwartungen hinauswachsen müsst, um die Lage klar zu sehen. Der Schöpfer hat die Verbündeten der Menschheit gebeten, als Beobachter zu dienen, Kommentare abzugeben und ihre Botschaft vorzulegen, damit die Menschheit beginnen kann, eine Perspektive der Größeren Gemeinschaft zu gewinnen.
+
+<a id="p108"></a>Gott hat eine Lehre über die Mentale Umgebung und das Innere Wissen gegeben. Den Weg des Inneren Wissens zu erlernen, ist für jeden Menschen eine individuelle spirituelle Reise. Das Innere Wissen ist die größere Intelligenz, die in euch lebt. Es weiß, wie mit der Größeren Gemeinschaft umzugehen ist. Menschliche Überzeugungen, Annahmen, Beschäftigungen, Täuschungen, Ideale oder Ambitionen beherrschen es nicht. Es ist rein. Es ist der heilige Teil von euch. Es weiß.
+
+<a id="p109"></a>Euer Verstand denkt. Das Innere Wissen weiß. Die Kluft zwischen beiden scheint groß, doch sie können vereint werden. Dies ist das höchste Ziel eurer spirituellen Entwicklung. Das Geschenk der Spiritualität der Größeren Gemeinschaft soll der menschlichen Freiheit ein wirkliches Fundament geben und den Einzelnen, die Gruppe und die Menschheit stärken – eine Menschheit, die jeden Tag Macht an jene verliert, die in der Welt intervenieren.
+
+<a id="p110"></a>Wir hoffen, diese Erörterung schafft Klarheit, doch sie ist wirklich nur der erste Schritt. Glaubt nicht, ihr könntet sie oder die Briefings der Verbündeten der Menschheit lesen und sagen: „Nun verstehe ich. Ich weiß, was zu tun ist.“ Noch wisst ihr nicht, was zu tun ist. Vielleicht beginnt ihr aber, Verständnis zu gewinnen. Wenn dies tief in euch etwas bewegt, wird das Innere Wissen in euch aktiviert. Doch vor euch liegt noch vieles, das ihr lernen müsst.
+
+<a id="p111"></a>Die Begegnung der Menschheit mit den Wirklichkeiten des Lebens jenseits dieser Welt ist eine neue Schwelle, vielleicht die größte, vor der die Menschheit je stand. Das Lernen wird rasch erfolgen müssen. Glaubt nicht, ihr wüsstet oder verstündet bereits. Das tut ihr nicht. Vielleicht habt ihr eine Vorstellung oder spürt eine Resonanz mit dieser Botschaft. Vielleicht empfindet ihr sie als wichtig, doch ihr müsst euch dennoch schulen und vorbereiten.
+
+<a id="p112"></a>Ihr besteigt den höchsten Berg der Welt nicht, nur weil ihr Berge liebt. Ihr besteigt ihn nicht, nur weil ihr Wanderschuhe besitzt. Ihr müsst trainieren und euch vorbereiten, sonst werdet ihr es nicht schaffen.
+
+<a id="p113"></a>Dies ist die Herausforderung eurer Zeit. Dies ist die Größe eurer Zeit. Hier werdet ihr eure eigene Größe finden. In euren individuellen Bestrebungen werdet ihr sie niemals finden, denn dort gibt es keine Größe. Ihr werdet eure Größe nur darin finden, auf ein wirkliches Bedürfnis in der Welt und auf die Berufung zu antworten, die selbst in diesem Augenblick in euch lebt. Diese große Situation wird eure Größe hervorbringen – wenn ihr antworten könnt.

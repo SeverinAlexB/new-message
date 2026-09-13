@@ -19,7 +19,7 @@ Markdown-Fassungen der offiziellen Briefings der *Verbündeten der Menschheit* u
 
 ## Zitierweise
 
-- Ein Kapitel wird mit seinem Pfad im Repositorium zitiert, beispielsweise `book-2-human-unity-and-freedom/03-third-briefing-the-influence-upon-humanity.md`.
+- Ein Kapitel wird mit seinem Pfad im Repositorium zitiert, beispielsweise `AOHB2_book-2-human-unity-and-freedom/03-third-briefing-the-influence-upon-humanity.md`.
 - Für einen beständigen Verweis auf eine Textstelle wird der Absatzanker angefügt, beispielsweise `#p17`.
 - Kurze Verweise auf die Verbündeten verwenden `B1` bis `B4` zusammen mit dem Kapitelpräfix: `B2/03#p17`.
 

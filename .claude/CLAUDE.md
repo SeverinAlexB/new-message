@@ -19,16 +19,16 @@ Use the lookup files before scanning raw source text.
 
 The generated New Message folders cover:
 
-- Volume 0: `volume-0-other-teachings/`
-- Volume 1: books such as `god-has-spoken-again/`, `the-new-world/`, `the-reformation/`, etc.
-- Volume 2: books such as `preparing-for-the-great-waves-of-change/`, `preparing-for-the-greater-community/`, `love-and-relationships/`, etc.
-- Volume 3: includes `steps-to-knowledge/`, `steps-to-knowledge-continuation-training/`, `living-the-way-of-knowledge/`, etc.
-- Volume 4: includes `greater-community-spirituality/`, `relationships-and-higher-purpose/`, etc.
-- Volume 5: includes `life-in-the-universe/`, `the-great-waves-of-change/`, `the-alien-intervention/`, etc.
-- Volume 6: `wisdom-from-the-greater-community-book-one/`, `wisdom-from-the-greater-community-book-two/`
-- Volume 7: `secrets-of-heaven/`
+- Volume 0: `V0B00_volume-0-other-teachings/`
+- Volume 1: books such as `V1B01_god-has-spoken-again/`, `V1B07_the-new-world/`, `V1B10_the-reformation/`, etc.
+- Volume 2: books such as `V2B03_preparing-for-the-great-waves-of-change/`, `V2B04_preparing-for-the-greater-community/`, `V2B05_love-and-relationships/`, etc.
+- Volume 3: includes `V3B01_steps-to-knowledge/`, `V3B02_steps-to-knowledge-continuation-training/`, `V3B03_living-the-way-of-knowledge/`, etc.
+- Volume 4: includes `V4B01_greater-community-spirituality/`, `V4B03_relationships-and-higher-purpose/`, etc.
+- Volume 5: includes `V5B02_life-in-the-universe/`, `V5B03_the-great-waves-of-change/`, `V5B04_the-alien-intervention/`, etc.
+- Volume 6: `V6B01_wisdom-from-the-greater-community-book-one/`, `V6B02_wisdom-from-the-greater-community-book-two/`
+- Volume 7: `V7B01_secrets-of-heaven/`
 
-The four canonical Allies web editions are in `book-1-allies-of-humanity/` through `book-4-freedom-in-the-universe/`.
+The four canonical Allies web editions are in `AOHB1_book-1-allies-of-humanity/` through `AOHB4_book-4-freedom-in-the-universe/`.
 
 ## Source Policy
 
@@ -38,7 +38,7 @@ Use sources in this order:
 - Officially linked PDF when the chapter text is not exposed on the web.
 - Omit print-only or unavailable content rather than importing unrelated local editions.
 
-`steps-to-knowledge/` is web-sourced. `steps-to-knowledge-continuation-training/` contains only its official web overview. `secrets-of-heaven/` uses its official web introduction and officially linked PDF for the 300 Secrets and related sections.
+`V3B01_steps-to-knowledge/` is web-sourced. `V3B02_steps-to-knowledge-continuation-training/` contains only its official web overview. `V7B01_secrets-of-heaven/` uses its official web introduction and officially linked PDF for the 300 Secrets and related sections.
 
 ## Generators
 
@@ -72,8 +72,8 @@ Use `grep`/`rg`-style searches over relevant folders rather than assuming the ol
 
 For broad answers, prefer explicit file references:
 
-- `the-new-world/03-the-global-emergency.md:11`
-- `steps-to-knowledge/002-step-1-i-am-without-knowledge-now.md#p1`
+- `en/V1B07_the-new-world/03-the-global-emergency.md:11`
+- `en/V3B01_steps-to-knowledge/002-step-1-i-am-without-knowledge-now.md#p1`
 
 Paragraph anchors use inline HTML:
 

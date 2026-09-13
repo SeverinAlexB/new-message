@@ -19,7 +19,7 @@ Markdown representations of the official *Allies of Humanity* Briefings and the 
 
 ## Citation Format
 
-- Cite a chapter by its repository path, such as `book-2-human-unity-and-freedom/03-third-briefing-the-influence-upon-humanity.md`.
+- Cite a chapter by its repository path, such as `en/AOHB2_book-2-human-unity-and-freedom/03-third-briefing-the-influence-upon-humanity.md`.
 - Add the paragraph anchor for a stable passage reference, such as `#p17`.
 - Compact Allies references use `B1` through `B4` plus the chapter prefix: `B2/03#p17`.
 

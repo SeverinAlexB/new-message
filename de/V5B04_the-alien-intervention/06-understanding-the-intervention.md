@@ -1,0 +1,244 @@
+---
+volume: 5
+book: "Die außerirdische Intervention"
+chapter: "06"
+title: "Die Intervention verstehen"
+type: chapter
+source_url: "https://newmessage.org/the-message/volume-5/the-alien-intervention/understanding-the-intervention/"
+received_date: "25. Februar 2000"
+received_location: "Boulder, Colorado"
+language: de
+translation_of: "../../en/V5B04_the-alien-intervention/06-understanding-the-intervention.md"
+---
+
+# Die Intervention verstehen
+
+<a id="p1"></a>Die Briefings der Verbündeten der Menschheit werden viele Fragen aufwerfen. Das ist gut, denn diese Fragen müssen gestellt und bedacht werden. Es geht nicht bloß darum, schnell Antworten zu geben. Die Fragen müssen eingehend erwogen werden, und die Fragenden müssen selbst darüber nachdenken, wie die Antworten möglicherweise lauten.
+
+<a id="p2"></a>Wenn die Menschheit in der Größeren Gemeinschaft jemals stark und selbstbestimmt werden soll, braucht sie mehr Menschen, die unabhängig und kritisch denken und Dinge gründlich bedenken können.
+
+<a id="p3"></a>Die Verbündeten selbst werden geheimnisvoll bleiben. Für manche Menschen wird dies schwierig sein, doch es muss so sein. Denn die Verbündeten beobachten die Intervention tatsächlich im Verborgenen, und zu ihrem eigenen Schutz müssen sie verborgen bleiben.
+
+<a id="p4"></a>Die Verbündeten werden nur wenige Angaben über ihre Herkunft, ihre Identität und Ähnliches preisgeben. Sie erklären, diese Informationen wären für die Menschen bedeutungslos. Der wichtigere Grund ist jedoch, dass sie ihre Anonymität bewahren wollen. Diese schützt sie und ihre Quellen.
+
+<a id="p5"></a>All dies mag zunächst schwer anzunehmen sein, weil die Menschen die Schwierigkeiten des Lebens in der Größeren Gemeinschaft nicht verstehen. Sie verstehen nicht, wie Inneres Wissen von einer Rasse an eine andere übermittelt werden muss, besonders während einer Intervention.
+
+<a id="p6"></a>In gewisser Weise steht die Menschheit unter Belagerung. Vielleicht erscheint dieses Wort zu stark, weil die Aktivitäten der „Besucher“ so subtil und schwer zu fassen sind. Angesichts der Folgen dieser Intervention ist „Belagerung“ jedoch wirklich angemessen.
+
+<a id="p7"></a>Wenn ihr einer anderen belagerten Nation helfen, dabei aber verborgen bleiben wollt, müsst ihr euch und eure Quellen schützen. Ihr müsst so kommunizieren, dass die Botschaft wirksam verbreitet werden kann und zugleich das Risiko ihrer Vernichtung oder Verfälschung möglichst gering bleibt.
+
+<a id="p8"></a>Deshalb wird die Botschaft einem einzigen Menschen gegeben. Erhielten viele sie, könnten sie sie unterschiedlich auslegen, verschiedene Fassungen des Empfangenen verbreiten und dann miteinander streiten. Die gesamte Botschaft könnte verloren gehen oder verfälscht werden.
+
+<a id="p9"></a>Solange dieser eine Mensch die Informationen weiter empfangen kann und genügend Unterstützung in seinem Umfeld besitzt, bietet dies den besten Schutz vor Missverständnissen und entstehenden Konflikten. Da die Menschheit diese Informationen nicht selbst gewinnen kann, müssen sie von jenen in der Größeren Gemeinschaft übermittelt werden, die euch helfen wollen und um eure künftige Freiheit besorgt sind.
+
+<a id="p10"></a>Wie könnte die Menschheit aus eigener Kraft die komplexen Beziehungen in der Größeren Gemeinschaft verstehen? Das ist nicht möglich. Würde man versuchen, diese Dinge zu erklären, erschienen sie fantastisch, und die Menschen könnten sie nicht selbst überprüfen – es sei denn natürlich, sie wären stark im Inneren Wissen.
+
+<a id="p11"></a>Die Verbündeten werden daher geheimnisvoll bleiben. Manche Menschen werden dies verstehen, andere nicht. Über das hinaus, was sie euch in den Briefings mitgeteilt haben, können die Verbündeten wenig von ihrer eigenen Geschichte offenbaren. Einige können dies akzeptieren, andere werden misstrauisch. Doch worüber Wir hier wirklich sprechen, ist Umsicht.
+
+<a id="p12"></a>Ihr offenbart Menschen nicht gleich zu Beginn alles, wenn sie eure ersten Mitteilungen kaum verstehen oder annehmen können. Ihre ersten Fragen müssen unbeantwortet bleiben, weil sie noch nicht genügend Vertrauen in ihren Kontakt und in ihr eigenes Inneres Wissen – die Geistige Intelligenz in ihnen – besitzen, um Wahres von Unwahrem zu unterscheiden.
+
+<a id="p13"></a>Weil es so wenig Ehrlichkeit in der Welt gibt, wird das wahrhaft Ehrliche verdächtigt und für hinterlistig gehalten werden – besonders von jenen, die selbst hinterlistig sind. Tatsächlich ist es sehr schwierig, der Welt etwas Reines zu geben, ohne dass es beschmutzt oder beeinträchtigt wird, selbst ganz am Anfang.
+
+<a id="p14"></a>Der eine Mensch, der zum Empfang dieser Botschaften erwählt wurde, wurde ausgewählt, weil er keine Stellung und kein gesellschaftliches Ansehen in der Welt besitzt und weil er gründlich darauf vorbereitet wurde. Gewiss wird er Fragen haben, und er hat sie. Gewiss wird er sich vor bestimmten Dingen fürchten, und das hat er. Doch entscheidend ist, dass er die Botschaft empfangen und in reiner Form vorlegen kann – ob er selbst sie vollständig versteht oder nicht.
+
+<a id="p15"></a>Gerade weil die Botschaft rein ist und sich nicht den Erwartungen, Vorlieben oder Überzeugungen der Menschen anpasst, werden zu Beginn nicht alle sie begreifen können. Es wird viele Diskussionen und viel Argwohn geben. Besonders Menschen, deren bisheriges Verständnis durch diese neue Offenbarung infrage gestellt wird, werden viele Ängste auf sie projizieren.
+
+<a id="p16"></a>Natürlich würden die Menschen wollen, dass die Verbündeten vieles für sie sind: Retter und Befreier. Sie würden wollen, dass die Verbündeten eingreifen und jede andere Kraft der Größeren Gemeinschaft daran hindern, Zugang zu eurer Welt zu erhalten. Vielleicht werden die Menschen sich verraten oder im Stich gelassen fühlen, weil die Verbündeten nicht hier sind, um die Menschheit zu beschützen. Doch denkt darüber nach.
+
+<a id="p17"></a>Würden die Verbündeten die Menschheit beschützen, müssten sie dies fortwährend tun und dadurch faktisch die Kontrolle über eure Welt übernehmen. Sämtliche Regierungen eurer Welt müssten dann mit den Aktivitäten der Verbündeten koordiniert werden. So würdet ihr eure Freiheit verlieren – selbst an einen Freund.
+
+<a id="p18"></a>Es ist nicht die Absicht der Verbündeten, die menschliche Autorität zu umgehen. Sie wollen weder Regierungen noch Bindungen zwischen Nationen verändern. Ihre einzige Aufgabe besteht darin, die Intervention zu beobachten und ihre Kommentare zu übermitteln.
+
+<a id="p19"></a>Wenn ihr wollt, dass jemand euch rettet, werdet ihr ihm die Macht dazu überlassen. Die Verbündeten werden diese Macht nicht annehmen. Selbst wenn sie eine Streitmacht aufstellen würden, um die Besucher, die sich in menschliche Angelegenheiten einmischen, hinauszudrängen und die Intervention zu beenden, gäbe es Krieg an euren Grenzen. Auch die Heimatwelten der Verbündeten würden bedroht, denn sie sind ohne offizielle Erlaubnis anderer Welten, Handelsverbände oder ähnlicher Organisationen hier.
+
+<a id="p20"></a>Damit meinen Wir, dass die Verbündeten eigentlich nicht hier sein und tun dürfen, was sie tun. Wenn ihr darüber nachdenkt, werdet ihr es verstehen. Selbst in eurer Welt setzen Regierungen Geheimagenten ein, um Informationen zu beschaffen und auf bestimmte Weise einzugreifen – zum Guten oder zum Schlechten.
+
+<a id="p21"></a>Nur die Menschheit selbst wird die Menschheit retten. Damit dies möglich wird, muss sie ein umfassenderes Verständnis gewinnen und dem Leben im Universum sehr nüchtern und objektiv begegnen. Gegenwärtig betrachten die meisten Menschen es im Allgemeinen sehr romantisch.
+
+<a id="p22"></a>Technologie blendet sie, und sie wollen mehr davon. Sie glauben, der „Kontakt“ werde ihnen unermessliche Vorteile bringen. Sie meinen, fortgeschrittene Nationen würden die Menschheit lehren, in Frieden zu leben, die Umwelt zu bewahren und den Lebensstandard der Menschen überall zu erhöhen.
+
+<a id="p23"></a>Denkt darüber nach. Ist das möglich? Glaubt ihr, Menschen wollten ihr Leben von unbekannten Kräften verändern und kontrollieren lassen? Die Besucher mögen solche Dinge versprechen, weil dies genau den Erwartungen und Wünschen der Menschen entspricht.
+
+<a id="p24"></a>Sie sagen: „Natürlich geben wir euch Frieden und innere Ruhe. Bei uns gibt es keinen Krieg.“ Wollt ihr die Autorität über euer Leben abgeben und es mitsamt euren Lebensumständen vollständig kontrollieren lassen – für das bloße Versprechen besserer Technologie oder von Frieden und innerer Ruhe in der Welt? Im Gefängnis herrscht Frieden, weil alle kontrolliert werden. Ist das wirklich Frieden? Oder wird der Krieg nur unterdrückt?
+
+<a id="p25"></a>Dann gibt es Menschen in der Welt, deren finanzielle Stellung durch die Intervention bedroht sein wird. Sie werden sich entweder widersetzen, um ihren Reichtum und ihre Privilegien zu schützen, oder zu ihrem eigenen Vorteil ein Bündnis mit der Intervention anstreben. Eine solche Verbindung stellt ein sehr gefährliches Szenario dar, dem man nur mit großer Nüchternheit und Objektivität wirksam begegnen kann.
+
+<a id="p26"></a>Viele Menschen werden einfach alles verleugnen und sagen: „Das kann unmöglich sein! Ich glaube das nicht. Fortgeschrittene Zivilisationen verhalten sich nicht so. Und wenn sie hier sind, könnten sie uns helfen, und wir sollten sie willkommen heißen!“
+
+<a id="p27"></a>Natürlich gibt es viele Menschen, die diese Dinge nicht einmal erwägen können, weil die Wirklichkeit der Intervention gänzlich außerhalb ihres Vorstellungsvermögens liegt. Leben im Universum? Nun gut, vielleicht an den äußersten Rändern der Galaxie, aber nicht hier!
+
+<a id="p28"></a>Andere werden sagen: „O, diese Verbündeten haben recht! Wir müssen uns verteidigen! Lasst uns Bunker bauen, unter der Erde leben, Waffen lagern und allem und jedem misstrauen.“
+
+<a id="p29"></a>Die Briefings der Verbündeten könnten daher eine gewisse Hysterie auslösen. Verleugnung wird es mit Sicherheit geben. Gewiss werden Menschen mit unterschiedlichen Standpunkten sie verurteilen und angreifen. Dieses Risiko muss jedoch eingegangen werden, wenn einer Welt – eurer oder irgendeiner anderen – eine lebenswichtige Botschaft überbracht wird.
+
+<a id="p30"></a>Kann die Wahrheit hier ohne Angst und Verurteilung empfangen werden? Betrachtet die Geschichte der großen Spirituellen Lehrer, die mit ihren Botschaften an die Öffentlichkeit getreten sind. Sie veranschaulicht dies sehr gut. Einige wenige Menschen werden erreicht, viele andere sind empört. Auch über die Briefings der Verbündeten wird es Empörung geben. Doch einige Menschen werden erreicht werden und wiederum andere erreichen können.
+
+<a id="p31"></a>Mit der Zeit wird sich langsam ein neues Verständnis und Bewusstsein im menschlichen Bewusstsein ausbreiten. Dieses Bewusstsein ist von entscheidender Bedeutung, denn die Menschheit ist auf die Größere Gemeinschaft völlig unzureichend vorbereitet – so unzureichend, dass die Lage geradezu verzweifelt geworden ist. Etwas muss geschehen, sonst wird die Menschheit die Schlüssel zum Königreich freiwillig und offen und beinahe ohne jede Frage aus der Hand geben.
+
+<a id="p32"></a>Betrachtet die Geschichte der Völker eurer Welt, der indigenen Völker, die sich einfach fügten und sagten: „O ja, gut. Willkommen. Kommt nur herein. Wir leben hier, und ihr könnt dort leben, und alles wird gut sein.“ Seht, was geschah. Unterscheidet sich das neue Szenario wirklich so sehr davon? Es ist eine sehr schwierige Lage, die entdeckte Rasse zu sein – die Einheimischen einer neuen Welt, die von anderen besucht werden, welche die Werte, den Reichtum und die Möglichkeiten dieser Welt suchen. In genau dieser Notlage befindet sich die Menschheit heute.
+
+<a id="p33"></a>Ist dies jedoch eine große Tragödie? Je nachdem, wie die Menschen antworten, könnte es dazu werden. Doch es ist auch eine große Gelegenheit, denn die Anwesenheit von Kräften der Größeren Gemeinschaft, die in menschliche Angelegenheiten eingreifen, bietet der Menschheit die eine große Chance, sich zu vereinen und zu ihrer eigenen Verteidigung stark zu werden. Es bedarf etwas von diesem Ausmaß, um die Stammesfeindschaften und die belastete Geschichte zwischen Kulturen zu überwinden. Es bedarf eines größeren Problems, um Menschen zu vereinen.
+
+<a id="p34"></a>Es ist wie in einem brennenden Haus. Wenn die Menschen in einem Zimmer nicht mit denen in einem anderen sprechen wollen und die Menschen im Obergeschoss jene im Erdgeschoss hassen, während das Haus brennt, dann helft ihr einander – oder ihr kommt um. Die Welt gleicht einem brennenden Haus. Sie brennt durch Umweltzerstörung und zunehmende Konflikte zwischen Nationen und Kulturen. Doch das größere Feuer in der Welt ist die Anwesenheit der Besucher. Das größere Feuer ist die Intervention.
+
+<a id="p35"></a>Die Menschheit kann diese anderen Probleme bewältigen, auch wenn sie dies bisher nicht ausreichend getan hat. Doch kann sie der Gegenwart jener von jenseits der Welt begegnen, die Fähigkeiten besitzen, welche die Menschheit noch nicht entwickelt hat? Ihr könnt vor eurer eigenen Tür aufräumen. Ihr könnt die Struktur von Regierungen verändern und langsam, unter großen Schwierigkeiten, mehr Gerechtigkeit in die Welt bringen – und das muss tatsächlich geschehen. Doch könnt ihr der Wirklichkeit intelligenten Lebens von jenseits eurer Welt ohne Romantik, hoffnungsvolle Erwartungen und Gier begegnen?
+
+<a id="p36"></a>Könnt ihr objektiv und ehrlich damit umgehen? Könnt ihr den Besuchern sagen: „Gut, wenn ihr hier seid, müsst ihr euch und eure Absichten offenbaren. Wir werden entscheiden, ob ihr ein Recht habt, hier zu sein oder nicht!“
+
+<a id="p37"></a>Wie die Verbündeten in ihren Briefings erklären, sollte die Menschheit keiner fremden Rasse erlauben, ohne Zustimmung der Bevölkerung ihren Boden zu betreten. Unter den gegenwärtigen Umständen wurde offensichtlich nie um diese Zustimmung gebeten, und sie wurde nie erteilt. Deshalb handelt es sich um eine Intervention und nicht um einen Besuch.
+
+<a id="p38"></a>Besucher werden willkommen geheißen. Sie haben um Erlaubnis gebeten und kommen mit Zustimmung der Besuchten. Eine Intervention besitzt diese Erlaubnis nicht. Sie wird euch aufgezwungen.
+
+<a id="p39"></a>Manche mögen sagen: „Vielleicht haben die Besucher um Erlaubnis gebeten, und die Regierungen der Welt haben sie abgelehnt.“ Selbst dann sollten die Besucher abreisen und nicht hier sein. Auch wenn die Regierungen der Welt einen Fehler begangen hätten, indem sie den Besuch nicht willkommen hießen: Wenn er nicht erwünscht war, sollten die Besucher nicht hier sein – es sei denn, sie kamen, um zu erobern und zu diesem Zweck einzugreifen.
+
+<a id="p40"></a>Warum sonst sollten sie hier sein, sich so stark in menschliche Angelegenheiten einmischen und ein so großes Interesse an menschlicher Physiologie, Psychologie und Religion zeigen? Glaubt ihr, ihnen fehlten diese Dinge, und deshalb besuchten sie euch? Glaubt ihr, sie wollten die Bücher aus euren Bibliotheken stehlen?
+
+<a id="p41"></a>All diese Informationen könnten sie gewinnen, indem sie euch lediglich beobachten und eure Daten, Informationen und Übertragungen sammeln. Um euch kennenzulernen, müssten sie sich nicht hier in menschliche Angelegenheiten einmischen. Manche glauben: „Sie brauchen unsere Fortpflanzungsfähigkeit“, „Sie brauchen unsere Spiritualität“, „Sie brauchen unsere Gefühle“ oder „Sie brauchen unsere Religion.“ Das ist alles töricht. Damit verschließt man die Augen vor dem Offensichtlichen.
+
+<a id="p42"></a>Warum greifen Nationen ineinander ein? Denkt darüber nach. In der Größeren Gemeinschaft verhält es sich nicht anders. Das Offensichtliche wird übersehen.
+
+<a id="p43"></a>Die Menschen wollen es sich anders vorstellen, weil das leichter zu ertragen ist. Um Himmels willen, ja! Manche sagen: „O, sie sind hier, weil sie unsere Hilfe brauchen! Sie benötigen unsere Blutvorräte. Oder sie brauchen unsere Religion, und wir werden ihnen helfen, uns dabei so gut fühlen, und sie werden so dankbar sein.“
+
+<a id="p44"></a>Manche Menschen glauben: „Sie sind hier, um uns neue Technologie zu bringen und uns bei der Beendigung der Umweltverschmutzung zu helfen.“ Glaubt ihr, Menschen und Regierungen würden diese neue Technologie so verwenden? Die Nationen der Welt würden einander niedertreten, um sie zu erlangen und sich Überlegenheit und Stärke zu verschaffen, denn sie konkurrieren miteinander.
+
+<a id="p45"></a>Manche sagen: „Nun, sie sind hier, weil sie uns untersuchen wollen.“ Warum sollten sie euch untersuchen wollen? Sie könnten dies tun, indem sie eure in den Weltraum ausgestrahlten Übertragungen empfangen. Eure Informationen sind sehr leicht zugänglich. Um euch zu untersuchen, müssen sie nicht hier sein. Und warum sollten sie euch überhaupt untersuchen wollen?
+
+<a id="p46"></a>Weshalb sollten sie so viel Zeit und Mühe darauf verwenden? Haltet ihr dies für ein wissenschaftliches Projekt? Für eine kulturelle Erkundung? Glauben die Menschen, die Menschheit sei so faszinierend, wunderbar und bemerkenswert, dass andere Rassen so viel Zeit auf ihre Untersuchung verwenden würden?
+
+<a id="p47"></a>In der Größeren Gemeinschaft werden Rassen nur untersucht, um wirtschaftliche oder politische Vorteile zu gewinnen – und dies geschieht ohne ihre Erlaubnis. Würdet ihr wollen, dass jemand sagt: „Wir möchten euch untersuchen. Wollt ihr für den Rest eures Lebens unser Laborexperiment sein? Wir werden versuchen, euch keinen Schaden zuzufügen“?
+
+<a id="p48"></a>Würdet ihr dem zustimmen? Besonders wenn ihr erführet, dass man euch benutzt, damit eure Untersucher aus allem, was ihr seid und besitzt, Vorteile ziehen können? Viele Menschen glauben, die Besucher seien hier, um ihnen zu helfen. In Wahrheit sind sie hier, um sich selbst zu helfen, und die Menschen machen es ihnen sehr leicht.
+
+<a id="p49"></a>Ihr mögt fragen: „Warum sind sich dessen nicht mehr Menschen bewusst?“ Die Antwort ist schwierig, weil mehrere Faktoren zusammenwirken. Der erste ist die kulturelle und religiöse Prägung der Menschen. Ungeachtet ihrer vielleicht liberalen Ansichten über das Thema lässt diese Prägung die Wirklichkeit intelligenten Lebens im Universum nicht zu.
+
+<a id="p50"></a>Letztlich gibt es im menschlichen Bewusstsein keinen Platz für Leben im Universum – außer natürlich für primitive Lebensformen. Ein Bakterium ist in Ordnung. Eine intelligente Rasse, die in menschliche Angelegenheiten interveniert, ist es nicht.
+
+<a id="p51"></a>Die Regierungen der Welt werden ihr Wissen nicht offenlegen, weil sie keine Verteidigung besitzen. Die Verteidigungsmöglichkeiten, über die sie verfügen, können sie nicht vollständig einsetzen, ohne die Öffentlichkeit zu informieren. Und sie vertrauen ihren eigenen Bevölkerungen nicht zu, ein solches Vorgehen zu unterstützen, ohne in Panik zu geraten. Würde die Regierung eures Landes öffentlich verkünden: „Rassen von jenseits der Welt führen hier eine Intervention durch. Wir verstehen ihre Technologie nicht wirklich, sind uns nicht all ihrer Aktivitäten sicher und besitzen keine Verteidigung gegen sie“?
+
+<a id="p52"></a>Die Menschen meinen, man müsse es ihnen sagen, doch die meisten könnten damit nicht umgehen. Sie könnten es nicht aufnehmen. Sie würden davonlaufen und versuchen, sich irgendwo zu verstecken. Sie würden glauben, das Ende der Welt stehe bevor.
+
+<a id="p53"></a>Es gibt Menschen, die von der Intervention wissen, aber sagen: „Wir müssen sehr vorsichtig sein und dürfen hier keine voreiligen Schlüsse ziehen. Wir müssen mehr Fakten sammeln. Wir brauchen mehr Belege.“
+
+<a id="p54"></a>Wirklich? Wofür? Könnt ihr dies nicht einfach sehen und als das erkennen, was es ist? Wollt ihr den Rest eures Lebens damit verbringen, winzige Einzelteile zusammenzusetzen? Dies ist kein wissenschaftliches Experiment. Es ist die Interaktion zwischen Lebensformen.
+
+<a id="p55"></a>Wenn bei euch eine ernste Krankheit diagnostiziert würde, wolltet ihr dann Teil eines Laborexperiments werden oder geheilt werden? Wahrscheinlich würdet ihr so schnell wie möglich einen Weg zur Heilung suchen. Wenn ihr eure Krankheit aufrichtig überwinden wolltet, würdet ihr ihr eure ganze Aufmerksamkeit widmen. Bestimmte Menschen behandeln die Intervention jedoch wie ein wissenschaftliches Experiment. Sie wollen sich sehr lange Zeit lassen, alles Stück für Stück zusammenzusetzen, und keinen Fehler begehen.
+
+<a id="p56"></a>Währenddessen wird ihre Welt direkt unter ihren Füßen untergraben. Sie wissen und sehen es nicht und wollen nicht zu diesen Schlüssen kommen, weil diese unwissenschaftlich und ungeheuerlich erscheinen. Wo ist der Beweis? Und was gilt als Beweis?
+
+<a id="p57"></a>Wie viel müsst ihr sehen, bis es eindeutig ist? Wegen des geheimen Charakters der Intervention wird den Menschen nicht viel gezeigt – jedenfalls nicht am helllichten Tag.
+
+<a id="p58"></a>In eurem Bemühen, wissenschaftlich vorzugehen, setzt ihr also Einzelteile zusammen. Ihr befindet euch auf dem Weg der Wahrheitssuche, doch ihr findet die Wahrheit nicht, habt sie nicht gefunden und werdet sie nicht finden. Ihr seid zwiespältig, ob ihr sie überhaupt finden wollt. Denn wenn ihr wirklich erkennt, worum es sich handelt, ist euer wissenschaftliches Experiment vorbei. Dann müsst ihr tatsächlich handeln und etwas tun.
+
+<a id="p59"></a>Eure Kollegen werden euch ansehen, als wäret ihr verrückt geworden, hättet Verstand und Objektivität aufgegeben und eine wilde, ungeheuerliche Position bezogen. So wird die Wahrheit, nach der zumindest theoretisch gesucht wird, verleugnet. Niemand will das Risiko eingehen, etwas zu wissen. Es ist übrigens sehr schwer, sich damit auseinanderzusetzen. Wir verstehen das. Abgesehen von eurer eigenen Sterblichkeit ist dies vielleicht das Schwerste, dem ihr euch jemals stellen musstet.
+
+<a id="p60"></a>Wir erwarten nicht, dass Menschen dies beim ersten Hinweis einfach annehmen. Wir müssen jedoch jene Neigungen, Überzeugungen und Einstellungen ansprechen, die sie davon abhalten, es jemals zu erkennen. Ihr dürft nicht auf den Beweis warten, denn dann wird es zu spät sein. Zu diesem Zeitpunkt werdet ihr kaum noch Handlungsmöglichkeiten besitzen.
+
+<a id="p61"></a>Dann werden die Menschen sagen: „Nun, die Besucher haben inzwischen wirklich alles übernommen. Ich nehme an, deshalb sind sie hier!“ Und was tut ihr dann? Protestieren? Briefe an eure Abgeordneten schreiben? Euch bei euren Freunden beklagen?
+
+<a id="p62"></a>Dies ist eine sehr ernste Lage. Die Menschen müssen hier Risiken eingehen, um zu sehen und zu wissen. Doch selbst dabei braucht ihr Hilfe, weil ihr nicht sehen könnt, was jenseits eurer Grenzen liegt.
+
+<a id="p63"></a>Konnten die indigenen Völker Amerikas die komplexen Beziehungen und den Wettbewerb zwischen europäischen Nationen verstehen? Nein, das konnten sie nicht – nicht ohne Hilfe aus einer geheimnisvolleren Quelle. Tatsächlich war die Engelgegenwart damals tätig und versuchte, die Völker Amerikas vor den bevorstehenden großen und tragischen Veränderungen zu warnen.
+
+<a id="p64"></a>Doch wie ihr konnten die Einheimischen nicht antworten, weil dies außerhalb ihrer Weltsicht lag und nicht zu ihren Überzeugungen oder ihrem Verständnis passte. Solche Offenbarungen wurden daher, soweit sie den Menschen zugänglich gemacht werden konnten, weitgehend abgelehnt oder ignoriert. Glaubt ihr, die Engelgegenwart habe einfach weggesehen und zugelassen, dass die indigenen Völker Amerikas ausgelöscht wurden?
+
+<a id="p65"></a>Die Menschen wollen, dass alles gut ausgeht. Sie wollen es bequem haben. Deshalb schauen sie nicht hin. Wenn sie hinsehen, erkennen sie nichts; und wenn sie etwas erkennen, begreifen sie es wegen ihrer Wünsche nicht. Die Menschen wollen keinen Krieg und verleugnen ihn deshalb, bis er sie überwältigt.
+
+<a id="p66"></a>Statt den Konflikt gleich zu Beginn zu beseitigen, sobald der erste Funke entzündet wird, warten sie, bis das Feuer sie erreicht. Dann sagen sie: „O, wir müssen das aufhalten!“
+
+<a id="p67"></a>Menschen fragen: „Was können wir denn wirklich tun?“ Ihr könnt sehr viel tun. Ihr müsst mit Bewusstsein beginnen und verstehen, womit ihr es zu tun habt. Ihr dürft keiner außerirdischen Kraft erlauben, den Boden dieser Welt zu betreten, ohne die ausdrückliche Zustimmung der Menschen eurer Welt. Ihr besitzt diese Rechte. Ihr müsst sie ausüben.
+
+<a id="p68"></a>Hier ist eine ganz sachliche Sicht auf das Leben im Universum erforderlich. Blickt zu den Sternen auf. Sie sind physisch. Ihr blickt nicht auf den Himmel und nicht auf euren himmlischen Zustand.
+
+<a id="p69"></a>Alle im Universum, die im physischen Leben stehen, müssen mit dessen Härten umgehen: Überleben, Wettbewerb, Mühsal und Entbehrung. Technologie beendet diese Anforderungen und Schwierigkeiten nicht. Tatsächlich kann sie alles noch komplizierter machen. Sie löst einige Probleme und schafft andere.
+
+<a id="p70"></a>Ihr müsst das Leben im Universum aus der Sicht Erwachsener betrachten. Mit einer jugendlichen Sicht werdet ihr es nicht verstehen, und euer mangelndes Verständnis könnte wahrhaft tragische Folgen haben. Das Bewusstsein muss geschaffen werden.
+
+<a id="p71"></a>Dies ist der Zweck der Briefings der Verbündeten: Bewusstsein zu schaffen – nicht jede Frage zu beantworten oder euch ein vollständiges Verständnis zu geben. Sich einer Sache bewusst zu werden bedeutet, auf sie aufmerksam gemacht zu werden. Es bedeutet nicht, dass alle eure Fragen dazu beantwortet oder auch nur angesprochen werden. Doch es bedeutet, dass ihr euch ihrer bewusst seid.
+
+<a id="p72"></a>Die Botschaft der Verbündeten ist sehr einfach, sehr kurz und in vieler Hinsicht allgemein gehalten, denn sie soll Bewusstsein wecken und Missverständnisse berichtigen. Das ist ihr Zweck. Über dieses Bewusstsein hinaus müssen sich ein spirituelles Verständnis, ein Bewusstsein der Mentalen Umgebung und die Bereitschaft zu stärkerer Zusammenarbeit zwischen Nationen und Kulturen entwickeln.
+
+<a id="p73"></a>Dies ist ein weltweites Problem. Es ist kein Problem allein der Amerikaner, Briten oder Chinesen, sondern ein weltweites Phänomen. Die Intervention zieht keine Rasse einer anderen vor – außer soweit eine von ihnen den Intervenierenden helfen kann, ihre Absichten zu verwirklichen. Deshalb liegt ein starker Schwerpunkt auf Amerika, denn es ist die mächtigste und einflussreichste Nation. Dennoch handelt es sich um ein weltweites Phänomen.
+
+<a id="p74"></a>Ihr Menschen werdet herausgefordert. Euer Recht, hier zu sein und im Universum frei und selbstbestimmt zu leben, wird infrage gestellt. Jene, die in menschliche Angelegenheiten intervenieren, glauben, ihr könntet euch nicht selbst regieren und würdet die Welt zerstören. Daher halten sie die Intervention für ihr Recht und Privileg. Ihre Haltung lautet: „Diese Menschen! Seht sie euch an! Sie gleichen Tieren! Wir werden hier Ordnung und Struktur schaffen.“ Manche Menschen werden denken: „O, wie wunderbar! Endlich werden wir Ordnung und Struktur haben.“
+
+<a id="p75"></a>Wollt ihr wirklich, dass euch Ordnung und Struktur auf diese Weise und in diesem Ausmaß auferlegt werden? So wird die Menschheit weder voranschreiten noch sich erheben. So wird sie keine Zusammenarbeit und keinen Frieden in der Welt schaffen. Wollt ihr besetzt werden? Denn genau das droht euch: eine gewaltige weltweite Besetzung.
+
+<a id="p76"></a>Viele Menschen werden sagen: „Nun, damit kann ich mich einfach nicht befassen. Ich habe andere Probleme.“ Wir sagen: „Welche anderen Probleme habt ihr, die wichtiger sind als dieses?“ Im Leben aller Menschen gibt es andere Dinge, mit denen sie sich befassen und die sie lösen müssen – aber nicht auf Kosten dieses Bewusstseins. Dies ist das wichtigste Bewusstsein, das ein Mensch in diesem Leben, in dieser Welt und zu dieser Zeit besitzen kann.
+
+<a id="p77"></a>Ihr beginnt also mit Bewusstsein und müsst dann etwas über das Leben im Universum studieren und lernen. Wo könnt ihr dies lernen? An der Universität? In der Kirche? Von euren Eltern oder Freunden? Aus der Zeitung oder einer Zeitschrift?
+
+<a id="p78"></a>Zum Teil könnt ihr aus der Menschheitsgeschichte lernen. Wenn ihr versteht, wie die Welt sich entwickelt hat, welche Kräfte sie formten und wie Nationen miteinander umgingen, lernt ihr sehr viel über das Leben im Universum, denn es unterscheidet sich nicht grundsätzlich davon. Es findet lediglich in sehr viel größerem Maßstab mit weit mehr Einflüssen und Beteiligten statt.
+
+<a id="p79"></a>Ihr braucht eine sehr nüchterne Sicht auf intelligentes Leben im Universum. Entgegen einer heute weit verbreiteten Annahme müsst ihr verstehen, dass Technologie euch nicht retten wird. Sie wird euch nur verändern. Technologie hat keine Rasse im Universum gerettet. Sie hat sie lediglich verändert.
+
+<a id="p80"></a>Gewiss können Nationen andere mithilfe von Technologie überwältigen und beherrschen. Doch diese eindringenden Nationen sind ihrerseits durch Technologie verändert worden. In der Größeren Gemeinschaft macht Technologie euch sogar verwundbar. Besitzt ihr eine Technologie, die niemand sonst hat, wollen plötzlich alle besitzen, was ihr habt.
+
+<a id="p81"></a>Wie werdet ihr euren Besitz verteidigen und schützen? Selbst sehr wohlhabende Menschen in eurer Welt stehen vor diesem Problem. Wie sollen sie ihren Reichtum und ihre Privilegien schützen? Das verändert ihr Leben, ihre Freunde und Prioritäten vollständig. Es kann ihr Leben wahrhaft elend machen und tut dies häufig.
+
+<a id="p82"></a>Die beste Stellung in der Größeren Gemeinschaft besteht darin, selbstversorgend, unabhängig und äußerst verschwiegen zu sein. Dies ist Weisheit in größerem Maßstab. Aus der menschlichen Kultur und eurer eigenen Geschichte könnt ihr jedoch verstehen, wie und warum dies wahr ist. Erzählt jemand, der gerade eine Million Dollar gewonnen hat, allen davon? Wenn er das tut, wird sich vieles verändern. Umsicht und Unterscheidungsvermögen sind sehr wichtig – heute wichtiger als je zuvor.
+
+<a id="p83"></a>Ihr könnt daher viel aus eurer eigenen Geschichte lernen. Betrachtet sie objektiv und sagt: „Das geschieht, wenn Nationen mit unterschiedlichen Fähigkeiten miteinander in Kontakt treten.“
+
+<a id="p84"></a>Doch viele Menschen denken noch immer: „Es ist ein offenkundiges Schicksal. Es muss so sein. So ist es eben. Man kann es nicht ändern. Es wäre ohnehin so gekommen.“ Das ist lächerlich! Es hätte auf viele verschiedene Arten geschehen und ganz anders verlaufen können. Die Geschichte musste nicht so ausgehen, wie sie ausging. Andere Menschen in der Welt glauben: „Was immer geschieht, ist genau das Richtige.“ Das ist noch lächerlicher.
+
+<a id="p85"></a>Durch das Studium der Menschheitsgeschichte, Kultur und Psychologie lässt sich zwar viel lernen. Doch es bedarf auch neuer Informationen und einer neuen Perspektive. Ihr braucht nicht so sehr neue Informationen wie eine umfassendere Perspektive.
+
+<a id="p86"></a>Betrachtet ihr alles weiterhin so wie immer, werdet ihr weiterhin sehen, was ihr immer gesehen habt. Nichts Neues wird offenbar werden. Ein neues Verständnis und eine neue Offenbarung erfordern daher eine andere Perspektive. Sonst schützt der Verstand lediglich, woran er bereits glaubt, und wehrt oder bekämpft alles, was dies infrage stellt.
+
+<a id="p87"></a>Durch die Lehre der Spiritualität der Größeren Gemeinschaft wird eine neue spirituelle Perspektive und ein Verständnis der Spiritualität im Universum gegeben. Statt dieses Geschenk des Schöpfers anzunehmen, mögen manche sagen: „Nun, das kommt alles durch einen einzigen Menschen. Er wird so reich und mächtig werden!“
+
+<a id="p88"></a>Ha! Wir hoffen vielmehr, dass er nicht vernichtet wird. Ist es ein Segen, wenn all dies durch euch in die Welt gegeben wird? Ist es wirklich ein Segen, von Menschen verleumdet und verurteilt oder gar vergöttlicht zu werden? Wir halten es für eine große Last und ein großes Opfer, eine solche Verantwortung anzunehmen. Das Beste, worauf ihr hoffen könnt, ist Anonymität. Doch ihr werdet sie nicht besitzen, weil die Menschen es früher oder später erfahren.
+
+<a id="p89"></a>„Nun, dieser Mensch behauptet tatsächlich, etwas zu besitzen, was sonst niemand hat“, und schon geraten alle darüber außer sich. „Wie kann jemand so etwas sagen! Für wen hält er sich! Er muss mit dem Teufel verkehren! Und wenn er mit den Engeln verkehrt, warum wurde dann er erwählt und nicht ich?“ Seht, es ist schwer, ein Bote zu sein.
+
+<a id="p90"></a>Doch jemand muss es tun. Dieser Mensch braucht große Hilfe, sonst ist es nicht möglich. Er muss großes Vertrauen in sich selbst und in den Schöpfer sowie ein ausgeprägtes Unterscheidungsvermögen besitzen, um richtige von falscher Führung zu unterscheiden. Wer sein Geld oder sein gesellschaftliches Ansehen schützen will, könnte eine solche Stellung gewiss nicht ohne großen inneren Konflikt einnehmen.
+
+<a id="p91"></a>Hier werden daher neue Informationen und eine neue Perspektive benötigt – eine Perspektive der Größeren Gemeinschaft. Ihr müsst beginnen, wie jemand zu denken, der in einer Größeren Gemeinschaft lebt, und nicht bloß wie jemand, der in einem Viertel oder einer Stadt wohnt.
+
+<a id="p92"></a>Eine Perspektive kann erlernt werden. Wenn ihr eine neue, besonders eine so umfassende Perspektive gewinnt, könnt ihr Dinge sehen und wissen, die zuvor schlicht nicht erkennbar waren. Sie werden nicht auf Spekulationen, sondern auf klarer Beobachtung beruhen.
+
+<a id="p93"></a>Irgendwann werdet ihr sagen: „Natürlich sollte uns niemand ohne unsere Erlaubnis besuchen!“ Das wird dann offensichtlich. Gegenwärtig kommen die Menschen nicht einmal auf den Gedanken, diese Frage zu stellen. „Nun, ich weiß nicht …“
+
+<a id="p94"></a>Irgendwann wird euch bewusst, dass spirituell fortgeschrittene Rassen nicht in den Welten anderer intervenieren. Sie mögen durch Beobachter wie die Verbündeten der Menschheit Botschaften senden, doch sie greifen nicht ein. Die spirituell Fortgeschrittenen im Universum tun dies nicht – unabhängig von ihren Kulturen, Welten, Wesensarten oder ihrer Natur –, denn dies ist Weisheit, und Weisheit ist universal.
+
+<a id="p95"></a>Es zeugt daher von Unwissenheit, jemanden nur deshalb für spirituell fortgeschritten zu halten, weil er mit einem Raumschiff fliegen und, relativ gesehen, schnell hierhergelangen kann. Wenn ihr eine Perspektive der Größeren Gemeinschaft gewinnt, erkennt ihr: Die Weisen intervenieren nicht. Die Weisen kommen nicht hierher und verändern alles.
+
+<a id="p96"></a>Unter bestimmten Umständen wird einer sich entwickelnden Rasse genetisches Material gegeben. Doch Wir können euch versichern, dass dies gegenwärtig nicht in der Welt geschieht. Die Menschheit besitzt alles, was sie für ihren Erfolg benötigt. Sie braucht weder fortgeschrittene Technologie noch außerirdisches genetisches Material. Wer euch etwas anderes einreden will, ist entweder Teil der Intervention oder unterstützt sie unwissentlich.
+
+<a id="p97"></a>Die Menschheit braucht eine neue Perspektive. Doch in euch und in der menschlichen Rasse liegt der Keim des Inneren Wissens, eures Geistigen Verstandes. Dieses Innere Wissen ist uralt und war die ganze Zeit bei euch. Wenn ihr es entdecken könnt, wird es euch offenbaren, was ihr wissen und tun müsst.
+
+<a id="p98"></a>Jeder Mensch, der heute in die Welt geboren wird, besitzt das Potenzial, die Größere Gemeinschaft zu verstehen. Denn dies ist die Zeit, in der die Menschheit Kontakt mit dem Leben im Universum gewinnt, das Wir die Größere Gemeinschaft nennen. Dieses Verständnis ist bereits in euch.
+
+<a id="p99"></a>Wenn eine außerirdische Rasse euch sagt: „Wir sind hier, um euren genetischen Code zu verbessern“, dürft ihr dies nicht glauben. Es ist nicht wahr. Wenn ihr wirklich Labortiere sein und einer Besetzung unterworfen werden wollt, wenn ihr glaubt, dies bedeute Kontakt mit Leben im Universum – was sollte euch dann noch umstimmen? Dass ihr die Besetzung erlebt? Dass ihr eines Tages aufwacht und sagt: „Mein Gott! Ich bin nicht länger frei und habe keine Handlungsmöglichkeit mehr“?
+
+<a id="p100"></a>Ist es zu kühn zu sagen, dies sei das wichtigste Problem der Welt, Gott habe eine Antwort gegeben und diese Antwort sei in einer Lehre gegeben worden? Ist es zu kühn zu sagen, dies sei das wichtigste Problem der Welt, Gott habe eine Antwort gegeben und sie werde durch einen einzigen Menschen übermittelt? Wie sonst sollte die Antwort gegeben werden? Sollte sie hundert Menschen gegeben werden? Dann würde die Botschaft niemals über sie hinausgelangen.
+
+<a id="p101"></a>Als Jesus kam, gab es da hundert verschiedene Jesusgestalten, die miteinander konkurrierten? „Nun, mein Jesus ist der wahre Jesus, deiner aber nicht!“ So wird Offenbarung nicht in die Welt gebracht, denn es funktioniert nicht.
+
+<a id="p102"></a>Wir befinden Uns jenseits der Welt. Wir sind die Engel. Deshalb können Wir kühne Dinge sagen und dann anderswohin gehen. Wir müssen Uns nicht mit den Folgen auseinandersetzen. Wir überbringen nur die Botschaft, und die Menschen werden dadurch entweder außer sich geraten oder erleuchtet. Wir aber sind anderswo. Uns betrifft es nicht.
+
+<a id="p103"></a>Für den Boten verhält es sich jedoch anders. Er muss sich allen Reaktionen stellen, die entstehen werden. Es ist keine leichte Aufgabe. Seid froh, dass sie euch nicht gegeben wurde. Versteht aber, dass auch ihr für dieses Bewusstsein eintreten müsst, wenn eure Erkenntnis wächst. Ihr werdet nicht vor denselben Schwierigkeiten stehen wie der Bote, doch allem begegnen, wovon Wir sprechen.
+
+<a id="p104"></a>Ihr werdet die Auswirkungen der Intervention und des Befriedungsprogramms sehen. Ihr werdet sehen, wie antriebslos und kritisch die Menschen sind und wie stark sie alles verleugnen. All ihre Empörung, ihr Argwohn, ihre Angst und Vermeidung werden euch begegnen. Es wird so klar sein wie der helle Tag. Dann werdet ihr verstehen, wie Offenbarung in der Welt geschieht. Wenn die Botschaft gegeben werden muss und die Zeit drängt, geschieht es auf diese Weise. Darin liegen die Schwierigkeit und die Herausforderung.
+
+<a id="p105"></a>Das eigentliche Problem ist letztlich nicht die Intervention, obwohl sie ein wirkliches Problem darstellt. Das größere Problem ist die menschliche Fähigkeit zu antworten: ob die Menschen antworten können; ihr Ausbleiben einer Antwort; ihre unwissende oder ablehnende Antwort. Wenn die Menschen nicht antworten können, wird die Welt fortgegeben werden.
+
+<a id="p106"></a>Es gibt nicht viele Besucher in der Welt. Ihre Zahl ist nicht groß. Doch menschliche Fügsamkeit und Unwissenheit machen ihnen ihre Aufgabe leicht. Wieder geht es um die Antwort – um die Fähigkeit zu antworten, die Antwortfähigkeit.
+
+<a id="p107"></a>Fehlt diese Antwortfähigkeit, werden die Menschen nicht antworten, und die Besetzung wird direkt unter ihren Füßen stattfinden. Die Menschen werden denken: „Nun, irgendetwas geschieht in der Welt. Die Dinge verändern sich gewiss!“ Alles wird in Ordnung scheinen, bis sie erkennen, worum es sich wirklich handelt.
+
+<a id="p108"></a>Deshalb wird in dieser Zeit eine dringende Botschaft überbracht. Das Bewusstsein steht an erster Stelle. Dann müsst ihr etwas über das Leben in der Größeren Gemeinschaft lernen; damit könnt ihr beginnen, indem ihr eure eigene Welt objektiv betrachtet. Anschließend müsst ihr eine Perspektive der Größeren Gemeinschaft gewinnen und etwas über Leben und Spiritualität im Universum lernen.
+
+<a id="p109"></a>Dies wird nun in der Lehre über die Spiritualität der Größeren Gemeinschaft dargelegt. Nicht alle werden diese Lehre erlernen können. Doch genügend Menschen an vielen Orten müssen Zugang zu ihr erhalten, damit sie begreifen können, was vor sich geht.
+
+<a id="p110"></a>Wäre die Menschheit informiert und aufmerksam, könnte sie die Intervention morgen beenden. Wäre sie informiert, aufmerksam und geeint, könnte sie eine künftige Intervention dieser Art verhindern. Die Menschen sind so sehr mit sich selbst beschäftigt, dass ihre Grenzen ungeschützt sind.
+
+<a id="p111"></a>Gewiss besitzen sie Grenzen untereinander – gewaltige Grenzen, Mauern, Widerstand und Feindseligkeit. Doch eure Grenzen zum Weltraum sind ungeschützt. Ihr besitzt keine Mauern, die das Außen daran hindern, hereinzukommen, weil ihr nicht glaubt, dass es ein Außen gibt, das hereinkommen kann oder wird.
+
+<a id="p112"></a>Dies ist daher eine Zeit für Mut, Vertrauen und Ehrlichkeit – eine Zeit wirklicher Rechenschaft in euch selbst. Lest die Briefings der Verbündeten und fragt euch: „Was weiß ich wirklich?“ Fragt nicht: „Was will ich?“, „Was ziehe ich vor?“ oder „Woran glaube ich?“, sondern: „Was weiß ich hier wirklich? Geschieht dies tatsächlich?“
+
+<a id="p113"></a>Zieht, wenn ihr könnt, das Innere Wissen in euch zurate – nicht eure Vorstellungen, Ängste oder Überzeugungen, sondern etwas Tieferes in euch. Dort wird die wirkliche Bestätigung erfolgen.
+
+<a id="p114"></a>Diese Frage zu stellen wird großen Mut erfordern, denn dieses Bewusstsein wird euer Leben verändern. Es wird euch befreien und euch eine Richtung geben. Doch ihr müsst bereit sein, diese Veränderung in euch zuzulassen. Dies ist die Offenbarung, die in jedem Menschen stattfindet. Ihr wird großer Widerstand entgegengebracht. Sie wird lange hinausgezögert. Kann sie jedoch geschehen, ist sie das Wertvollste.
+
+<a id="p115"></a>Wir senden euch Unseren Segen und bitten euch, diesen Rat anzunehmen und selbst zu bedenken, denn ihr müsst die endgültige Entscheidung treffen. Wir können euch nur informieren. Wir können euch nicht kontrollieren. Die Gegenwart der Lehrer ist bei euch.

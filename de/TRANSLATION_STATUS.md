@@ -51,12 +51,12 @@
 
 ## Pilotdateien
 
-- `greater-community-spirituality/04-what-is-knowledge.md`
-- `steps-to-knowledge/002-step-1-i-am-without-knowledge-now.md`
-- `book-1-allies-of-humanity/01-first-briefing-the-extraterrestrial-presence-in-the-world-today.md`
-- `god-has-spoken-again/02-the-recitation.md`
-- `secrets-of-heaven/003-the-engagement.md`
-- `wisdom-from-the-greater-community-book-one/01-introduction.md`
+- `V4B01_greater-community-spirituality/04-what-is-knowledge.md`
+- `V3B01_steps-to-knowledge/002-step-1-i-am-without-knowledge-now.md`
+- `AOHB1_book-1-allies-of-humanity/01-first-briefing-the-extraterrestrial-presence-in-the-world-today.md`
+- `V1B01_god-has-spoken-again/02-the-recitation.md`
+- `V7B01_secrets-of-heaven/003-the-engagement.md`
+- `V6B01_wisdom-from-the-greater-community-book-one/01-introduction.md`
 
 ## Durchgeführte Pilotprüfungen
 

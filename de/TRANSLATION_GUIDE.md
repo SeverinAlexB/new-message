@@ -198,12 +198,14 @@ blind ersetzt.
 
 ## Technische Regeln
 
-- Jeder englische Lesertext erhält denselben relativen Pfad unter `de/`.
+- Jeder englische Lesertext erhält im gleichnamigen, band- und buchnummerierten
+  Verzeichnis unter `de/` denselben Dateinamen.
 - Alle Absatzanker `<a id="pN"></a>` bleiben unverändert und in derselben
   Reihenfolge.
 - YAML-Schlüssel, Nummern und Typkennungen bleiben bestehen. Beschreibende
   Werte werden übersetzt.
-- Jede Datei erhält `language: de` und einen relativen Verweis `translation_of`.
+- Jede Datei erhält `language: de` und einen auflösbaren relativen Verweis
+  `translation_of` nach `../../en/<Buchverzeichnis>/<Dateiname>`.
 - `source_url` bleibt unverändert. Ein relatives `source_pdf` wird nur so weit
   angepasst, dass es aus dem deutschen Spiegel auf dieselbe Quelldatei zeigt.
 - Lokale Links zeigen auf den deutschen Spiegel; externe englische Quell-URLs
